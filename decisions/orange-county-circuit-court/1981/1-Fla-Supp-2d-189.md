@@ -1,0 +1,31 @@
+---
+court: "Orange County Circuit Court"
+docket: "AP81-11"
+decided: "1981-12-23"
+citations: ["1 Fla. Supp. 2d 189"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE v. ROCHE, et al"]
+source_url: "https://static.case.law/fla-supp-2d/1/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211058
+cites_cases: ["231 N. W. 2d 543", "388 U. S. 218"]
+---
+
+# State v. Roche
+
+## Majority (CECIL H. BROWN, Circuit Judge.)
+
+CECIL H. BROWN, Circuit Judge.
+THIS CAUSE came on to be heard for Final Arguments on the 4th day of September, 1981. This appeal, in these three consolidated cases comes to this Court from an Order of the Lower Court entered on the 19th day of December, 1980, in a driver’s license suspension proceeding under Section 322.261 of the Florida Statutes. The State contended that each of the Defendants had refused to take the breathalyzer test after having been arrested and charged with Driving a Motor Vehicle in this State while under the influence of an alcoholic beverage, as is required by §322.261 of the Florida Statutes. After extensive hearings in the Lower Court the learned Judge held that each of the Defendants did not refuse to take the breathalyzer test since the police did not allow them a reasonable time to contact and consult with an attorney. The individual facts in each of the cases were different. The common element to all of these cases is that in fact the Defendants refused to take the breathalyzer test for whatever reason. The Lower Court held:
+“The police should allow the accused a reasonable time to contact and consult an attorney, say 30 minutes, but the time period should be flexible to fit each particular case. The accused shall be permitted to contact his attorney by telephone and the police shall use reasonable efforts to assist him in this endeavor. The accused should be informed that if he fails to contact his attorney within a reasonable time, he will have to decide to take the test without benefit of consulting with counsel. If the accused still refuses to take the test, he shall be deemed to have refused to take the breathalyzer and his license will be suspended for 90 days.”
+In the light of the exhaustive research done by the Lower Court and Counsel for the Defendants, this Court is reluctant to disturb the ruling, but, is of the view that the law compels reversal. This Court can only conclude that if the Implied Consent Statute is to be construed, as has been done by the learned Judge below, it would amount to a judicial engrafting, within its four corners of the holdings above quoted. The amendment of legislation is a constitutional right, reposed in the Legislature, the transcending of which by Courts is constitutionally prohibited. This Statute does not provide nor require a reasonable time for contacting and consulting with counsel before the test is administered or before the test is offered in judicial proceedings.
+The Lower Court has rationalized its holdings in part upon the fine distinction betwen the Fifth Amendment “right to consult” counsel and the Sixth Amendment “absolute right” to counsel, in the following words:
+“One must understand that there is a substantial difference between the VI Amendment “absolute right” to counsel and the V Amendment “right to consult” counsel.”
+and in part upon an attempted reconciliation of the Implied Consent law with Section 901.24 Fla. Statutes (which has been the law of Florida since 1939 and provides that persons arrested shall be entitled to consult with counsel at all reasonable times). The Lower Court in this effort, however, wholly overlooked or failed to consider Section 322.261(e) (a part of the Implied Consent law) which prescribes the issues which are to be considered by the Court in a proceeding under this law. Whether or not it is or would have been reasonable to allow the accused time within which to consult with counsel is not amoung those mandated issues. The Implied Consent law as compared with Section 901.24 is a relatively recent creation and we in the Courts must assume that the Legislature in the enactment of a Statute takes into consideration those Statutes already on the books and how they interact with new legislation. The Lower Court concedes that on the limited issue of right to consult counsel in those circumstances the greater weight of authority holds that no such right exists.
+Accordingly, this Court is of the view that in the first instance, the refusal or failure to take the breathalyzer test required, under the terms of this Statute, is a simple question of fact as distinguished from a mixed question of law and fact, as it has been treated by the Lower Court. This Court joins with the Courts and cases cited by the learned Judge in his Opinion, which holds that a Defendant is not entitled to consult with counsel prior to the taking of a breathalyzer test and adopts the language of Halmberg v. 54-A Judicial District Judge, 231 N. W. 2d 543 (Mich. Ct. App. Div. 2, 1975), in the following words:
+“The Breathalyzer Test is a fast, safe way to provide at the least evidence of presumption as to whether a driver is under the influence by statutory definition. The attendant delays which may be involved by the process of seeking advice of counsel would not provide a realistic appraisal of a driver’s condition because of the relative rapidity with which the body rids itself of alcohol.”
+The Court is also buttressed in this position by the holding of the United States Supreme Court in U. S. v. Wade, 388 U. S. 218, 87 S. Ct. 1926, 18 L.Ed. 2d 1149 (1967), where in considering the right to have counsel present at a lineup proceeding, the Court said”
+“The denial of a right to have his counsel present at such analyses does not therefore violate the Sixth Amendment; they are not critical stages since there is minimal risk that his counsel’s absence at such stages might derogate from his right to a fair trial.”
+THEREFORE, the Judgment and Order of the Lower Court is accordingly reversed and remanded for the entry of a Judgment not inconsistant with this decision.

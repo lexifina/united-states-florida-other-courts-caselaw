@@ -1,0 +1,43 @@
+---
+court: "Florida County Court"
+docket: "Case No. 94908,7 IJ"
+decided: "1989-11-20"
+citations: ["37 Fla. Supp. 2d 214"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v GALLIANO"]
+source_url: "https://static.case.law/fla-supp-2d/37/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2012793
+cites_cases: ["382 So.2d 697", "523 So.2d 1180", "528 So.2d 1208", "530 So.2d 986"]
+---
+
+# State v. Galliano
+
+## Majority (JUAN RAMIREZ, JR., County Judge.)
+
+OPINION OF THE COURT
+JUAN RAMIREZ, JR., County Judge.
+ORDER ON MOTION TO SUPPRESS
+THIS MATTER came before the Court on the defendant’s Motion to Exclude the Numerical Results of the Blood Alcohol Test on a citation for driving under the influence of alcohol (DUI). After reviewing the testimony of the witnesses, argument of counsel and the law, this Court finds as follows:
+The defendant was involved in a single car accident at approximately 4:00 a.m. on March 3, 1989. Metro-Dade Officer John Maher responded to the scene, together with a Metro-Dade Fire Rescue unit. Paramedic Cynthia Vogt treated Mr. Galliano for a bloody nose. After treatment, the defendant was informed of his implied consent right as per Section 316.1932, F.S. (1988).
+Pursuant to Officer Maher’s request, Mr. Galliano consented to have a sample of his blood withdrawn. The paramedic recommended that the defendant be transported to the hospital. He was taken to Ward D —the hospital wing of the jail — for further examination and possible x-rays.
+The defendant’s blood was subsequently analyzed by Dade County toxicologist Eli Gonzalez utilizing a gas chromatograph instrument to determine the alcoholic content of the blood sample. Although the instrument used was of a kind approved by the Department of Health and Rehabilitative Services (hereafter HRS), it was not registered, inspected or maintained as required by Section 316.1932(l)(f)l, F.S. (1988).
+The defendant has raised three points on seeking to exclude the numerical result of the blood alcohol test. The first issue is whether the blood was drawn in the proper tube according to HRS Rule 10D-42.029. This rule requires that the blood be drawn in a vacutainer tube or vial containing an anticoagulant substance. Although Paramedic Vogt may have given contradictory testimony as to this issue, she testified at the hearing that the vial used contained the proper anticoagulant. Any discrepancy in her testimony ought to be evaluated and resolved by the jury as the triers of fact, rather than the judge in a pretrial motion.
+The second issue is whether the defendant appeared for treatment at a hospital, clinic or other medical facility as a result of his involvement in the accident and the administration of a breath or urine test is impractical or impossible, as set out in Section 316.1932(l)(c), F.S. (1988). It is incumbent on the police officer who has observed signs of injury to make prompt medical attention available to the defendant and to follow the medical recommendations of the paramedics on the scene. To do otherwise would subject law enforcement officers to potential negligence litigation.
+This is precisely what was done in the instant case. If the defendant had been taken to an alcohol testing center for the purpose of administering a breath or urine test, the officer would have been contravening the recommendation of the paramedic. Thus, this court finds that it was impractical or impossible to administer a breath or urine test. Furthermore, this court holds that the Fire Rescue unit and the paramedics constitute a “medical facility” as that term is used in Section 316.1932(l)(c), F.S. (1988).
+The third issue is more difficult. It involves the failure by HRS to promulgate any rules governing the proper tests to be administered in cases where blood is drawn, to insure the reliability of these tests, and to provide for the certification, maintenance and inspection of the instruments to be used. Section 316.1932(l)(f)l, F.S. (1988), provides as follows:
+The tests determining the weight of alcohol in the defendant’s blood shall be administered at the direction of the arresting officer substantially in accordance with rules and regulations which shall have been adopted by the Department of Health and Rehabilitative Services. Such rules and regulations shall be adopted after public hearing, shall specify precisely the test or tests which are approved by the Department of Health and Rehabilitative Services for reliability of result and facility of administration, and shall provide an approved method of administration which shall be followed in all such tests given under this section. . . .
+The State has admitted that HRS has failed to promulgate specific maintenance requirements analogous to those currently in force for breath testing instruments. The only regulation concerning blood samples can be found in Rule 10D-42.028 which says:
+Blood Alcohol Testing. Unclotted whole blood shall be tested for alcohol using one of the following quantitative procedures:
+(1) Alcohol Dehydrogenase
+(2) Gas Chromatography
+The legislature has expressed in plain language a requirement that HRS must approve, not only gas chromatography in general, but the methods by which these tests should be administered. In contrast, the rules governing chemical breath testing delineate the approval, criteria and certification of a testing instrument, and provides detailed operational and preventive maintenance procedures for such instruments. There is no statutory rationale for drawing a distinction between blood and breath testing.
+HRS has simply ignored this clear statutory directive. The legislative concern to safeguard the integrity of both blood and breath testing is no doubt related to the consequences attached to these test results. Whether the court applies a permissive or statutory presumption there is a degree of probative value attached to the numerical results of these tests which can have a devastating effect on an individual’s ability to defend against the charge of DUI. As the Supreme Court stated in State v Bender, 382 So.2d 697, 699 (Fla. 1980), the statutory requirement directing law enforcement “to use only approved techniques and methods is to ensure reliable scientific evidence for use in future court proceedings and to protect the health of those persons being tested.
+State v Flood, 523 So.2d 1180 (Fla. 5th DCA 1988) disallowed the chemical breath results obtained on a machine that had been modified without subsequent recertification by HRS. Here, there has been no certification at all of the particular instrument or machine used.
+Having found that the blood testing performed in this case does not meet the statutory criteria, the issue becomes whether the numerical result of the test must be suppressed. The Bender opinion, supra, indicates otherwise, for the Supreme Court stated that where the State has failed to comply with the administrative rules, the results may nevertheless be admissible “if the traditional predicate is laid which establishes the reliability of the test, the qualifications of the operator, and the meaning of the test results by expert testimony.” 382 So.2d at 700. The same traditional evidentiary standards may be applied to the failure by HRS to comply with a statutory directive.
+To minimize the danger that the jury may give the numerical test results undue weight, this court will not give the standard jury instruction regarding any permissible presumption as set forth in Section 316.1934, F.S. (1988). Instead, the court will simply instruct the jury to consider this evidence, along with all the other evidence in the case, to determine if the defendant was impaired.
+By the same token the jury may feel compelled to convict the defendant of the charge of DUI based on that portion of the statute which criminalizes driving with an unlawful blood alcohol content (DUBAL). Section 316.193, F.S. (1988). Once the numerical test result is introduced in evidence, the only defense is to attack the reliability of such a result or claim that the reading would have been different at the time the defendant was driving. It seems highly unfair to place the defendant in such a posture after finding that HRS has been derelict in its obligation to insure the reliability of blood testing. The court will therefore dismiss the DUBAL portion of the charge.
+DONE AND ORDERED, this 20th day of November, 1989, at Miami, Florida.
+See Frazier v State, 530 So.2d 986 (Fla. 1st DCA 1988) and Rolle v State, 528 So.2d 1208 (Fla. 4th DCA 1988).

@@ -1,0 +1,26 @@
+---
+court: "Dade County Circuit Court"
+decided: "1951-05-11"
+citations: ["1 Fla. Supp. 8"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KIRTLEY v. KORSHAK, et al."]
+source_url: "https://static.case.law/fla-supp/1/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1187974
+---
+
+# Kirtley v. Korshak
+
+## Majority (VINCENT C. GIBLIN, Circuit Judge.)
+
+VINCENT C. GIBLIN, Circuit Judge.
+Order, April 3: Counsel have requested the court to, and have further stipulated that the court may (under section 87.12 F.S.A.), provide in this order for a speedy hearing of the suit. The defendants are required to serve and file such defensive pleadings as they desire to interpose on or before April 6; and, if the defendants, or either of them, shall serve and file any counterclaim or cross-bill or any other pleading requiring a reply, the plaintiff is required to file such reply on or before April 9. The court will hear such motions', if any, which shall have been filed herein on or before April 9, on April 10, at noon. No notice, other than that given by this order, of such hearing shall be required. Counsel for the parties shall appear before the undersigned judge in his chambers on April 10, at noon, at which time the court will make such order or orders as may be necessary to provide for a speedy termination of the suit.
+Opinion, May 3: The plaintiff administratrix is the present holder of a leasehold interest (in a small hotel) held at the time of his death by the decedent whose estate she is administering. The principal question involved in the litigation is whether there has been a breach of the lessee’s covenant to keep in good condition the interior of the leased premises. The evidence clearly and without doubt shows that there has been a serious breach of the covenant and that, as a result of such breach, the interior of the hotel is in an extremely bad state of repair.
+The plaintiff administratrix is not chargeable with an intentional and avoidable breach of the covenant. Her inexperience in hotel management and operation, the insolvency of the estate she is administering, the operational losses sustained and the abuse to which the property has been subjected by guests (who, because of the hotel’s location and character, are of the least desirable class) are factors which have made it impossible for her to prevent or remedy the breach.
+The lease will be cancelled and terminated, not only because of the mentioned breach but also because of the failure to pay the rent due April 1, 1951; and the plaintiff administratrix will be required to surrender possession of the demised premises immediately to the defendant owners. The defendants will be allowed to retain the security deposit mentioned in the lease as liquidated damages. The costs of the suit will be assessed and taxed against the plaintiff administratrix. No other relief will be accorded the defendants.
+Because (by the final decree to be entered) the lease is to be cancelled and terminated, there is no necessity for the determination of the question of whether the cost of installing an automatic fire detection system, the installation of which (not later than November 14, 1951) is required by city ordinance, should be borne by the lessors or the lessee.
+Counsel for the defendants will please prepare for my signature a final decree in conformity to this opinion and furnish a copy to opposing counsel before submitting it so that they may, if they wish, interpose objections to the form of the proposed decree.
+Final decree, May 11: This cause was tried by the court and it has considered the pleadings, testimony and proofs submitted and the arguments of counsel. For the reasons stated in the opinion of May B, 1951, reference to which is made, it is ordered and decreed (a) that the lease agreement between Paul Korshak and Doris Korshak, as lessors, and Paul O. Hedrick, as lessee, be, and it is, cancelled and annulled; (b) that the leasehold interest created by such lease agreement (presently held by the plaintiff administratrix) be, and it is, terminated and extinguished; (c) that the plaintiff administratrix be, and she is, required and commanded to surrender possession of the demised premises immediately to the defendants; (d) that the defendants shall have, and they are accorded, the right to retain, as liquidated damages, the security deposit mentioned in the lease agreement; (e) that the plaintiff administratrix be, and she is, required and commanded to pay the costs of the suit when they shall have been determined and assessed; and (f) that the court shall, and it does, retain jurisdiction of the cause for the purpose of enforcing and effectuating the provisions of this final decree.
+The existence of another adequate remedy shall not preclude a decree, judgment or order for declaratory relief. The circuit court may order a speedy hearing of an action for a declaratory decree, judgment or order and may advance it on the calendar. When a suit for declaratory decree is filed as provided in this chapter the court shall have power to give as full and complete equitable relief as it would have had if such proceeding had been instituted as a bill in equity.

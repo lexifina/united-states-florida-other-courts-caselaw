@@ -1,0 +1,34 @@
+---
+court: "Duval County Circuit Court"
+docket: "60-3612-E"
+decided: "1961-01-09"
+citations: ["17 Fla. Supp. 88"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROCK v. CITY OF JACKSONVILLE."]
+source_url: "https://static.case.law/fla-supp/17/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990659
+cites_cases: ["121 So.2d 790"]
+---
+
+# Brock v. City of Jacksonville
+
+## Majority (ROGER J. WAYBRIGHT, Circuit Judge.)
+
+ROGER J. WAYBRIGHT, Circuit Judge.
+After due notice by or to all parties, the final hearing in this case was held before the court.
+On the basis of the pleadings and the evidence, the court finds that —
+(a) This court has jurisdiction of the parties to this cause, and of the subject-matter hereof.
+(b) The defendant City of Jacksonville imposes an annual occupational license tax on coin-operated laundryettes of $2.50 for each coin-operated washing or drying machine in the place of business; and an annual occupational license tax of $15 for each laundryette using washing and drying machines that are not coin operated, regardless of how many washing and drying machines are used in the place of business.
+(c) The washing and drying machines used in coin-operated laundryettes are identical with or substantially similar to the washing and drying machines used in laundryettes that are not coin-operated, with the single exception of the addition of the coin-receptacles on the coin-operated machines.
+(d) Coin-operated laundryettes differ from laundryettes that are not coin-operated in that coin-operated laundryettes require fewer attendants, render less services to patrons, charge less, sometimes at least are kept open more hours per day. The ultimate service sold — the washing and drying of clothing and linens — and the washing and drying machines used, are the same in both instances, but the method of performing the service differs to some degree.
+The defendant City of Jacksonville may validly impose different occupational license taxes on businesses of the same general character if, and only if, there are substantial differences between the two classifications. There must be some reasonable ground of differentiation, or one class is being preferred over the other, in violation of the constitutional requirements of fairness and equality of treatment. Segal v. Simpson, 121 So.2d 790, 792 (S.C. Fla., 1960).
+The defendant City of Jacksonville contends that the differences in the method of performing the same service that are mentioned above are substantial, and justify putting the plaintiff and other operators of coin-operated laundryettes into a separate classification of people who are required to pay an annual occupational license tax considerably greater than is required of their competitors who operate laundryettes that are not coin-operated: over five times greater in the instance of the plaintiff with his 32 machines; an even greater disproportion in the instance of an operator who has more machines.
+When a classification such as this is attacked as being arbitrary or capricious, the classifications must be compared not only in relation to each other but also in relation to the amount of license fee imposed or not imposed. Segal v. Simpson, supra. The court sees no logical relationship between the difference in the method of operation of the two laundryette businesses and the difference between the tax imposed on the two: the court cannot see a difference amounting to 500% or more in the methods of operation of the two, yet the tax is imposed at that ratio.
+The court is mindful of the fact that it is the function of the city, rather than of this court, to differentiate between businesses and tax them accordingly, and that the acts of the city in so doing are presumed to be valid. Only when the acts of the city are so clearly discriminatory, so lacking in a reasonable and logical basis for the classification that it becomes apparent that unfairness and inequality are resulting, is this court authorized to interfere. When that does become apparent, however, it is the duty of this court to intervene, in order to protect the constitutional right of the people to fair and equal treatment. That point has now been reached, in the view of this court, and the portion of the defendant city’s ordinance no. EE-88 that imposes an occupational license tax on coin-operated laundryettes is found, and hereby held, to be unconstitutional, violative of the guarantees of due process of law and equal protection of the laws the principles of which are embodied in the 14th amendment to the constitution of the United States.
+It is, therefore, decreed that —
+The defendant City of Jacksonville is hereby enjoined from collecting, or attempting to collect, from the plaintiff R. C. Brock or any other person who operates a coin-operated laundryette, an occupational license tax at the rate specified therefor in the defendant’s ordinance no. EE-88, so long as the defendant exacts from operators of laundryettes that are not coin-operated a lesser occupational license tax. The defendant City of Jacksonville is hereby mandatorily required to issue to the plaintiff R. C. Brock, and to any other person who operates a coin-operated laundryette within the territorial limits of the city of Jacksonville, an occupational license for the operation of a coin-operated laundryette, upon payment to the defendant City of Jacksonville of the same amount the defendant requires for the issuance of such a license to a person who operates a laundryette that is not coin-operated (and who complies with such other requirements of the defendant with respect thereto as apply equally to all operators of laundryettes, whether coin-operated or not).
+The defendant City of Jacksonville is hereby mandatorily required forthwith to refund to the plaintiff R. C. Brock, and to each other person to whom the defendant issued an occupational license for the fiscal year October 1, 1960 - October 1, 1961, for the operation of a coin-operated laundryette, so much of the amount paid by such person therefor as exceeds the amount that person would have paid therefor had that person been issued an occupational license for the operation of a laundryette that was not coin-operated.
+The costs of this proceeding are taxed against the defendant City of Jacksonville. The defendant shall forthwith pay to the plaintiff a sum equal to the total of the $11.50 clerk’s filing fee, the $2.90 sheriff’s cost of service of the summons, and any amounts paid by the plaintiff to court reporters for reporting and transcribing the original transcripts of the testimony taken before the court at the final hearing. Upon motion and proper notice, a supplementary post-decretal order fixing that total will be entered, if the parties disagree on the amount thereof.

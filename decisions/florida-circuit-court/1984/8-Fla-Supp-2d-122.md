@@ -1,0 +1,32 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 84-111-AP"
+decided: "1984-11-19"
+citations: ["8 Fla. Supp. 2d 122"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHARICK, et ux. v. SAGER"]
+source_url: "https://static.case.law/fla-supp-2d/8/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017050
+cites_cases: ["104 So.2d 799", "123 So.2d 277", "218 So.2d 219", "446 So.2d 1078", "80 So.2d 317", "87 Fla. 168", "99 So. 688"]
+---
+
+# Sharick v. Sager
+
+## Majority (NADLER, J.)
+
+OPINION OF THE COURT
+NADLER, J.
+The subject of this Appeal is a post-judgment award of attorney’s fees. (F.S. 83.48). The issues are: 1) Whether Appellee had a right to attorney’s fees, and 2) If so, were attorney’s fees an item of damages to be submitted to the jury or costs for the Court to determine in a post-verdict hearing.
+PlaintifF/appellee/tenant and Defendant/appellant/landlord entered into a written one year residential lease commencing July 1, 1981. After termination, Appellee continued to pay and Appellant continued to accept rent on a monthly basis until June 20, 1983, when Appellee vacated the premises claiming constructive eviction due to termite infestation. Appellee brought suit for return of her security deposit, constructive eviction based on violation of F.S. 83.41 for failure to adequately exterminate and attorney’s fees pursuant to F.S. 83.48 and 83.49. Appellant counterclaimed for damages caused by Appellee during her tenancy beyond ordinary wear and tear.
+The jury found for Appellee on both her claim in the amount of $1,250.00 and on Appellant’s counterclaim. The trial judge reserved jurisdiction in order to award costs and attorney’s fees and in a post-judgment hearing, awarded Appellee $9,000.00 in attorney’s fees. Appellant appeals this judgment.
+Attorney’s fees are only to be awarded by agreement in a contract or when authorized by statute. Guillette v. Ochoa, 104 So.2d 799 (Fla. 1958). Florida law has provided for a special section of landlord/tenant law to govern cases of residential tenancies, F.S. 83.40-83.66, including a provision for court costs and attorney’s fees, one need only bring civil action to enforce the provisions of the rental agreement or one of the statutory provisions governing residential tenancies. This court must decide if the rental agreement was in force and sued upon and/or whether Appellee sued to enforce the residential landlord/tenant statutes.
+At the time the tenant vacated the premises, the written lease had already expired. However, monthly rental payments continued to be made for eleven additional months. According to Rosamond v. Mann, 80 So.2d 317 (Fla. 1955), during a holdover period in which both parties impliedly agreed to continue as landlord and tenant by the payment and acceptance of rent, the provisions of the original written lease govern their extended continuing relationship. As that case points out, the parties would not continue their relationship without the expectation that the terms of the written lease controlled. Id. at 320. To hold otherwise would give either party the ability to accept benefits of the relationship and thereafter disclaim any of his contractual duties.
+Appellant argues that Appellee was a tenant at sufferance under F.S. 83.04; he owed no legal duty to her because the written lease had expired. Even if Appellee were to be labeled a tenant at sufferance, neither Appellant nor Appellee would thereby be excused from obligations imposed by the written lease while the relationship existed. All the cases cited by Appellant on the issue of holdover tenant deal with the right of possession of the leased premises and not whether the contractual provisions of the written lease apply during the holdover period. Appellant’s counterclaim is in fact based upon one of the rights contained in the written lease which he claims is no longer valid, (paragraph 7 of the written lease). The general rule, as stated in Wingert v. Prince, 123 So.2d 277 (Fla. 2d DCA 1960), holds that a consentual holding over creates a tenancy presumed to be based upon the same duties and rights expressed in the original written lease so far as they are applicable to the new tenancy.
+One count in Appellee’s complaint was based on the return of the security deposit, (paragraph 2 of the written lease). In filing suit, Appellee was clearly attempting to enforce the terms of the rental agreement. Appellee also sued on a count of constructive eviction based on the violation of F.S. 83.51, one of the residential tenancy statutes. Appellee being the prevailing party in the lawsuit, fulfilled all the requirements of F.S. 83.48 entitling her to attorney’s fees. Given then that attorney’s fees should have been granted pursuant to F.S. 83.48, was it improper for the judge to award them in a post-trial hearing?
+Attorney’s fees are categorized as either an item of damages or assessed as part of court costs, the latter only when provided so by statute. State Royal Insurance Co., Ltd. v. Barrs, 87 Fla. 168, 99 So. 688 (1924); Wiggins v. Wiggins, 446 So.2d 1078 (1984). If not expressly categorized as costs in the statute, the award of attorney’s fees is to be an element of damages submitted to the jury. Prudential Insurance Co. of America v. Lamm, 218 So.2d 219 (Fla. 3rd DCA 1969). F.S. 83.48 states, “. . . the party in whose favor a judgment or decree has been rendered may recover reasonable court costs INCLUDING attorney’s fees, from the non-prevailing party.” F.S. 83.48 (emphasis added) The express wording of the statute includes attorney’s fees as an item of court costs.
+When attorney’s fees are considered an item of court costs, they are governed by F.S. Chapter 57 dealing with court costs. According to F.S. 57.021, “the clerk or the judge shall tax the costs accruing in each action. . . .” Therefore, as an item of court costs to be awarded by the judge, it was not improper for attorney’s fees to be awarded in a post-trial hearing. The trial judge heard the testimony of competent witnesses in deciding the amount of attorney’s fees and thereafter made his decision. It is not the function of this court to substitute our judgment for that of the trial judge in ruling on questions of fact such as an award of reasonable attorney’s fees.
+The judgment of the trial court is thereby affirmed.
+FEDER and TENDRICH, JJ. concur.

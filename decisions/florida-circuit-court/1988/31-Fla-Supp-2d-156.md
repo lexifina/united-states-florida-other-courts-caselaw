@@ -1,0 +1,32 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 88-28-AP (County Court Case No. 88-1911-CC)"
+decided: "1988-08-19"
+citations: ["31 Fla. Supp. 2d 156"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAIN & BULTMAN, INC. v FIRST UNION NATIONAL BANK OF NORTH CAROLINA"]
+source_url: "https://static.case.law/fla-supp-2d/31/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2034336
+cites_cases: ["377 N.E. 2d 1156", "448 So.2d 1138", "488 So.2d 83", "503 So.2d 1290"]
+---
+
+# Cain & Bultman, Inc. v. First Union National Bank of North Carolina
+
+## Majority (CLIFFORD B. SHEPARD, Circuit Judge.)
+
+OPINION OF THE COURT
+CLIFFORD B. SHEPARD, Circuit Judge.
+Defendant First Union National Bank of North Carolina (FUNBNC) appeals a nonfinal order in which the trial court denied FUNBNC’s motion to dismiss, or alternative motion to quash, for lack of jurisdiction. This appeal is before the Circuit Court pursuant to Rule 9.130(a)(3)(c)(i), Florida Rules of Appellate Procedure.
+The fact in the present case are undisputed. On November 5, 1986, the Key Company issued a check on its account with FUNB-NC for the amount of $2,214.14. The check was made payable to “Classic Carpet Shoppe, Cain & Bultman, Inc., c/o Florida Office. The check was endorsed in handwriting, “Classic Cpt. Shoppe, Cain & Bultman,” and stamped “For Deposit Only, Classic Carpet Shoppe.” On November 10, 1986, the check was deposited in the Plant State Bank, Plant City, Florida, and forwarded the same day to First Florida Bank, N.A., Tampa, Florida, stampped “PEG,” meaning prior endorsements guaranteed. First Florida forwarded the check to the Federal Reserve Bank in Charlotte, North Carolina, which sent the check to FUNBNC, which paid the check.
+The Key Company issued a second check on the same FUNB-NC account for the amount of $817.33 payable to “Classic Carpet Shoppe, Cain & Bultman, Inc., c/o Florida Office.” This check was endorsed “Deposit Classic Carpet Shoppe” and deposited in the Plant State Bank on November 17, 1986. The check was forwarded to First Florida Bank, and in turn, to the Federal Reserve Bank in Charlotte, which sent the check to FUNB-NC, where the check was paid.
+Subsequently, Cain & Bultman (C&B) filed a complaint alleging that the first check was endorsed incorrectly and was not signed by an authorized person for C&B. C&B alleged that the second check was not endorsed by C&B. Plaintiff maintains that FUNB-NC was negligent in honoring the two improperly endorsed checks.
+Based on these facts, FUNB-NC filed a motion to dismiss, or alternative motion to quash, for lack of jurisdiction. The motion was denied, and the present appeal was filed.
+In order to establish personal jurisdiction over a foreign entity, two requirements must be met. First, plaintiff must allege the requirements of Florida’s Long Arm Statute. Second, plaintiff must allege that defendant has sufficient “minimum contacts” with the forum state. Aminoff & Company, Inc. v Storrington Corporation, 503 So.2d 1290 (Fla. 2d DCA 1987).
+In regard to the first requirement, plaintiff has failed to allege sufficient jurisdictional facts which would bring defendant within the reach of Florida’s Long Arm Statute. Plaintiff has the initial burden of alleging “sufficient jurisdictional facts in his complaint to bring the case within the purview of the statute.” Id. at 1292.
+In the present case, the complaint only alleges that defendant negligently honored two checks, one of which was allegedly incorrectly endorsed and signed by an unauthorized person while the other check was not endorsed by plaintiff. Plaintiff maintains that defendant’s alleged negligent honoring of the two checks brings defendant within the scope of FS § 48.193(1)(b) (“Committing tortious act within this state”) and/or § 48.193(1)(b) (“Breaching a contract in this state by failing to perform acts required by the contract to be performed in this state”). Clearly under the facts of this case, if defendant was negligent when honoring the checks in question, the tortious act occurred in North Carolina where the checks were honored and not in Florida. See Sears Bank and Trust Company v Luckman, 377 N.E. 2d 1156 (Ill. App. Ct. 1978). As for the breach of contract allegation, a check is not a contract but a payable-on-demand order by the drawer to drawee. Tepper v Citizens Federal Savings and Loan Association, 448 So.2d 1138 (Fla. 3d DCA 1987). Accordingly, since the alleged tortious act occurred in North Carolina and there has been no breach of contract, plaintiff has failed to allege any acts which would bring defendant within the reach of Florida’s Long Arm Statute.
+Concerning the requirement that plaintiff must allege sufficient “minimum contacts,” plaintiff failed to allege any facts which could be construed as “minimum contacts” with the State of Florida. Defendant, on the other hand, has submitted an uncontroverted affidavit maintaining the FUNB-NC has never maintained an office, a mailing address, or employed agents in Florida; does not maintain a telephone listing in Florida; and does not operate, conduct, engage in, or carry on a business in Florida. Further, this affidavit maintained the FUNB-NC is a separate and distinct entity from First Union National Bank of Florida. In order for the court to find sufficient “minimum contacts,” defendant must have done some act by which it purposely availed “itself of the privilege of conducting activities with the forum state, thus invoking the benefits and protection of its laws.” Aetna Life & Casualty Company v Thermo-O-Disc, Inc., 488 So.2d 83, 86 (Fla. 1st DCA 1986). In the present case, the only act committed by defendant was the honoring of two checks which occurred in North Carolina. The fact that a drawer sent the checks to a payee in Florida and that the checks were returned to a drawee in North Carolina via normal banking channels is not sufficient to bring defendant within the jurisdiction of this state.
+Accordingly, this Court holds that plaintiff has failed to allege sufficient jurisdictional facts in its complaint to bring defendant within the purview of Florida’s Long Arm Statute or the “minimum contacts” requirements of due process. The order appealed from is reversed, and the cause is remanded to the trial court with directions to dismiss the complaint for lack of jurisdiction.
+DATED the 19th day of August, 1988.

@@ -2,7 +2,7 @@
 court: "Florida Circuit Court"
 docket: "Case No. 83-17633 CA 22"
 decided: "1984-04-24"
-citations: ["5 Fla. Supp. 2d 128", "5 Fla. Supp. 2d 134", "5 Fla. Supp. 2d 123"]
+citations: ["5 Fla. Supp. 2d 128"]
 reporter: "fla-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["GUTHRIE v. FLORIDA POWER & LIGHT COMPANY"]
 source_url: "https://static.case.law/fla-supp-2d/5/cases/0128-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2007011
-cites_cases: ["100 So.2d 375", "100 So.2d 910", "101 A.2d 535", "102 Fla. 717", "108 So.2d 773", "14 N.J. 119", "183 So.2d 264", "183 So.2d 731", "191 So.2d 40", "207 So.2d 709", "214 So.2d 631", "218 P.2d 542", "335 So.2d 560", "335 So.2d 604", "341 So.2d 1034", "341 So.2d 1084", "344 So.2d 903", "355 So.2d 516", "369 So.2d 328", "379 So.2d 412", "388 So.2d 1119", "396 So.2d 1164", "406 So.2d 1257", "414 So.2d 550", "419 So.2d 717", "425 So.2d 1208", "436 So.2d 203", "436 So.2d 338", "44 So.2d 442", "440 S.W.2d 902", "442 So.2d 1014", "444 So.2d 442", "46 So. 294", "473 F. Supp. 908", "521 F. Supp. 932", "55 Fla. 436", "68 ALR2d 1164"]
+cites_cases: ["100 So.2d 375", "100 So.2d 910", "108 So.2d 773", "183 So.2d 264", "183 So.2d 731", "214 So.2d 631", "335 So.2d 560", "335 So.2d 604", "341 So.2d 1034", "344 So.2d 903", "355 So.2d 516", "369 So.2d 328", "379 So.2d 412", "388 So.2d 1119", "396 So.2d 1164", "414 So.2d 550", "419 So.2d 717", "436 So.2d 203", "44 So.2d 442", "442 So.2d 1014", "46 So. 294", "55 Fla. 436", "68 ALR2d 1164"]
 ---
 
 # Guthrie v. Florida Power & Light Co.

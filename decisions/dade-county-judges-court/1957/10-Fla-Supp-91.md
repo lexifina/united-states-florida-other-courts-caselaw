@@ -1,0 +1,32 @@
+---
+court: "Dade County Judges' Court"
+decided: "1957-01-04"
+citations: ["10 Fla. Supp. 91"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re VICK’S WILL."]
+source_url: "https://static.case.law/fla-supp/10/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977212
+cites_cases: ["29 So. 2d 21"]
+---
+
+# In re Vick's Will
+
+## Majority (FRANK B. DOWLING, County Judge.)
+
+FRANK B. DOWLING, County Judge.
+This cause came on for hearing before the court on the petition of Beverly Rose Sage Weisner for construction of the last will and testament of Cecil Bruce Vick, deceased, and answers thereto filed on behalf of the heirs at law of the said deceased.
+On October 23,1944 the decedent married Thelma Rosedith Todgham. Thelma was the mother of Beverly Rose Sage Weisner, she being a daughter by a prior marriage. On July 13,1946 the decedent executed his last will and testament, providing—
+“All the rest, residue and remainder of my estate, both real and personal property whatsoever and wheresoever situated, I give, devise and bequeath unto my wife, Thelma Rosedith Todgham Vick, now residing at 1306 Southwest 12th Street, Miami, in Dade County, Florida. If my said wife does not survive me, but shall precede me in death, I give, devise and bequeath all the rest, residue and remainder of my estate, both real and personal property whatsoever and wheresoever situated, unto Beverly Rose Sage, daughter of my wife by a former marriage and now residing at 1306 Southwest 12th Street, Miami, in Dade County, Florida. If neither my said wife nor her said daughter shall survive me, I direct that my said estate shall be distributed according to the provisions of the laws of Florida applicable in the event I had died intestate.”
+On December 1,1955 a final decree of divorce was entered, divorcing the decedent and Thelma Rosedith Todgham Vick, his wife. On February 25, 1956 the decedent was' accidentally killed, leaving his last will and testament unchanged. At the time of his death his former wife, Thelma, was alive, and her daughter, Beverly, was also alive.
+The deceased left heirs at law whose names and addresses are as follows — Ruth Vick O’Brien, a sister, 51 years of age, residing in Alexandria, Va.; William A. Vick, a half-brother, of legal age, residing in Alexandria, Va.; Mrs. David Stancell, a half-sister, of legal age, residing in Norfolk, Va.; the following children of Mrs. James L. Harris, a deceased half-sister — Reid V. Harris, Seaboard, No. Car., Mrs. Whit Griffith, Murfreesboro, No. Car., and Mrs. Randolph Harris, Norfolk, Va.; and the children of James L. Harris, Jr., deceased, son of Mrs. James L. Harris, deceased — James Randolph Harris, age 12 years, Thomas Vick Harris, age 5 years, and Jerry Woolord Harris, age 5 years, all of Williamston, No. Car.
+Garland M. Budd has been appointed by appropriate order of this court as guardian ad litem to represent the interest of the foregoing named minors in this proceeding.
+In construing a will, the primary duty of the court is to determine and carry out the intent of the testator as that testator’s intent is gathered from what was written in his will. If a will contains expressions which are difficult to reconcile, then the situation of the testator at the time he made his will, the ties that bound him to the objects of his beneficence, the motives that prompted him to make the will, and the influences that wrought on him at the time may be considered in arriving at the intention of the testator.
+It is not so much the expressions of the decedent contained in his will above quoted that are difficult to reconcile in this case as it is the legal position of the objects of his bounty at the time the will was executed by operation of law. The provisions of section 732.261, Florida Statutes 1955, bar the former wife, Thelma, from taking under his will notwithstanding that she survives him. The provision made in the will for Beverly, the daughter of Thelma, is made upon the provision “if my said wife does not survive me, but shall precede me in death,” etc. This language presents the question whether Thelma’s prior death while the wife of the decedent was a condition precedent to a taking by Beverly or whether Beverly was thereby constituted a substitutional beneficiary of the decedent in the event for any reason Thelma could not take. To determine this question, it is still necessary to seek the intention of the testator at the time of the execution of the will.
+Prior to the enactment of section 732.261, supra, the Supreme Court of Florida held, in Iles v. Iles, 29 So. 2d 21, that a testator who provided in his will — “Unto my beloved wife, Pauline lies, in case she survives me, and not otherwise, I give, devise and bequeath,” that such language left his estate to Pauline lies conditioned upon her surviving him as his wife and where she had secured a divorce prior to his death that she was not the wife of the testator, did not survive him as his wife, and took nothing under the will.
+Applying the reasoning of the lies case to the present factual situation, a careful study of the last will and testament of the decedent forces the conclusion that Cecil Bruce Vick at the time of the execution of his last will and testament intended to provide first for his wife, Thelma; but that if Thelma preceded him in death as his wife, then he wanted to provide for Thelma’s daughter, Beverly, who was at the time his step-daughter and residing in his home as a member of his family unit; that if both Thelma and Beverly preceded him in death, then to his heirs at law, according to the provisions of the laws of Florida applicable in the event that he died intestate. It is clear to the court that the testator intended to provide for Beverly only if Thelma should precede him in death as his wife and not otherwise, and the court so finds.
+It is therefore ordered and adjudged that Thelma Bosedith Todgham Vick take nothing under the last will and testament of the deceased.
+It is further ordered and adjudged that Beverly Rose Sage Weisner take nothing under the last will and testament of the deceased.
+It is further ordered and adjudged that the estate of the deceased, Cecil Bruce Vick, shall be distributed as though the decedent had died intestate.

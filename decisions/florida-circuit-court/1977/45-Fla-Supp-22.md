@@ -1,0 +1,30 @@
+---
+court: "Florida Circuit Court"
+docket: "AP 76-55"
+decided: "1977-01-24"
+citations: ["45 Fla. Supp. 22"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAWYER v. STATE."]
+source_url: "https://static.case.law/fla-supp/45/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2010975
+cites_cases: ["231 N.E. 2d 201", "249 N.E. 2d 573", "281 So. 2d 903", "281 So.2d 901", "339 So.2d 641", "353 Mass. 287", "356 F. Supp. 620", "364 U.S. 479", "393 U.S. 23", "415 U. S. 130"]
+---
+
+# Sawyer v. State
+
+## Majority (ALAN R. SCHWARTZ, Circuit Judge.)
+
+ALAN R. SCHWARTZ, Circuit Judge.
+The appellant was convicted of a violation of Section 21-31.1-(b) (2) of the Dade County Code which provides —
+“For the purpose of this section ‘loitering’ means the act of standing or remaining in or about any public street, public sidewalk, public overpass, or public bridge, or other place specifically enumerated herein . . .
+“A person commits the offense of loitering when he knowingly loiters in any place with one or more persons knowing that a narcotic or dangerous drug, as defined in Sections 893.01 and 893.15, Florida Statutes, is being unlawfully used or possessed.”
+Because the ordinance is, in the view of the court, unconstitutional and invalid as in violation of the due process clauses of the United States and Florida constitutions, the conviction cannot stand.
+Although several grounds are asserted by the appellant in support of his contention that the ordinance in question is facially unconstitutional, only one need be considered here. It is apparent that the provision is fatally (and facially) overbroad in that it proscribes innocent conduct which may not constitutionally be made the basis of a criminal penalty. There can be no doubt, of course, that both the Florida, see State v. Saunders, 339 So.2d 641 (Fla. 1976), and the United States Constitution, see e.g., Lewis v. New Orleans, 415 U. S. 130 (1974), forbid the enactment of statutes which punish conduct which is innocent or which cannot reasonably be regarded as criminal and therefore subject to punishment. See Alegata v. Commonwealth, 231 N.E. 2d 201 (Mass. 1966). This provision plainly violates this principle. Under the code, one is guilty of its violation, if, for example, he stands on a street corner speaking to a friend whom he knows has a marijuana cigarette in his pocket. This court believes that no one could fairly view such conduct as punishable by the criminal law. In essence, the court agrees with the dissenting opinion of Justice Spalding in Commonwealth v. Tirella, 249 N.E. 2d 573, 577-578 (Mass. 1969) —
+The statute, I submit, was aimed not at the possessor but at his companions. It is a dragnet statute which permits the arrest and conviction of persons (found in the company of a possessor of narcotics) who are suspected of having also illegally possessed or otherwise dealt with narcotics, but cannot be proved to have done so. Doubtless the statute brings to book many who have in fact violated the narcotic laws, but it also brings within its sweep persons who have neither committed nor intended to commit such a violation. For example, a college student could be convicted under the statute if he merely continued to reside with a roommate who he knew illegally possessed marijuana. It is difficult to see how such conduct can be classified as criminal, “There can be no doubt that a State may punish one for an attempt to commit a crime. But conduct which falls short of that * * * has never been punishable.” Alegata v. Commonwealth, 353 Mass. 287, 301, 231 N.E. 2d 201, 209. Paraphrasing what is said in the Alegata case, “It is hard to see how suspicion of [a violation of the narcotic laws] * * * can transform otherwise innocent behavior into a crime. Suspicion, which is an inadequate ground for arrest, is no more satisfactory as a basis for punishment.” P. 292, 231 N.E. 2d p. 204. In my view, the challenged portion of §213A is an invalid exercise of the police power and void on its face as repugnant to the due process clause of the Fourteenth Amendment and to art. 12 of our Declaration of Rights in that it seeks to make criminal conduct which cannot fairly be classed as such. See Alegata v. Commonwealth, 353 Mass. 287, 297, 231 N.E. 2d 201.
+The appellee relies heavily upon the First District decision in Jolley v. City of Jacksonville, 281 So.2d 901 (Fla. 1st DCA 1973). That decision does not control. It concerned a Jacksonville ordinance which forbade one’s “visiting or being present” in a place where narcotic activity was taking place with the knowledge that it was occurring. It is significant that the ordinance required knowledge of activity, rather than of mere possession, as does the one now before the court. It is much more significant that it dealt with attendance at a place rather than association with a person. As the court said in Jolley at 281 So. 2d 903 —
+“In our view, it is perfectly legitimate for a legislative body to enact statutes or ordinances which have as their purpose and goal a prevention of the practice of visiting or being in a place where narcotics are knowingly used, unlawfully.” (Emphasis supplied.)
+The Jacksonville ordinance thus, perhaps properly, forbids attendance in opium dens or even at marijuana parties; the Dade County ordinance, however, regulates the First Amendment-protected right of association with individuals. See Williams v. Rhodes, 393 U.S. 23 (1968); Mabray v. Schmidt, 356 F. Supp. 620, 630 (W.D. Wis. 1973). Since that right is the one infringed upon, it is all the more clear that the ordinance must fall for overbreadth. Lewis v. New Orleans, supra; Shelton v. Tucker, 364 U.S. 479 (1960).
+Because the provision which the appellant was convicted of violating is thus unconstitutional and invalid, the judgment below is reversed and the cause remanded with directions to discharge the defendant.

@@ -1,0 +1,33 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 90-06645 (05)"
+decided: "1990-05-01"
+citations: ["41 Fla. Supp. 2d 198"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARNETT, et al. v WYNMOOR COMMUNITY COUNCIL, INC., etc."]
+source_url: "https://static.case.law/fla-supp-2d/41/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2013814
+cites_cases: ["413 So.2d 30", "479 So.2d 112", "525 So.2d 438", "536 So.2d 244"]
+---
+
+# Barnett v. Wynmoor Community Council, Inc.
+
+## Majority (ROBERT L. ANDREWS, Circuit Judge.)
+
+OPINION OF THE COURT
+ROBERT L. ANDREWS, Circuit Judge.
+FINAL DECLARATORY JUDGMENT
+THIS CAUSE came before this Court for hearing on March 15, 1990, on Plaintiffs’ Motion for Temporary Injunctive Relief. This Court has considered the Verified Complaint, the Motion, Defendant’s Memorandum of Law in Opposition to the Motion, argument of counsel, and the following exhibits admitted in evidence without objection: Prospectus, Declaration, and all exhibits for the Andros Condominiums located within Wynmoor, and the various “COUNCIL documents” including the Agreement for Use and Conveyance, Articles of Incorporation and By-Laws of Wynmoor Community Council, Inc., and amendments thereto. The Court makes the following findings of fact and conclusions of law:
+a. Plaintiffs allege that the Defendant WYNMOOR COMMUNITY COUNCIL, INC., (THE COUNCIL), is a defacto condominium association, governed by Chapter 718 Florida Statutes.
+In Department of Business Regulation v Siegel, 479 So.2d 112 (Fla. 1985), the Supreme Court adopted a two-pronged test to determine whether or not the homeowners association was a condominium association governed by the Florida Condominium Act. The first test is the “constituency “ test, that is, the actual and potential makeup of the membership of the association. The Court concluded that the membership of the homeowners association might eventually be partially comprised of non-condominium dwellers. In accordance with its prior decision in Raines v Palm Beach Leisureville Community Association, Inc., 413 So.2d 30 (Fla. 1982), the Court concluded that the association did not meet the constituency test.
+The second prong of the test is the “function” test, that is, determination of the purpose of the homeowners association. The Court determined that the articles of incorporation and declaration creating the Towers of Quayside Homeowners Association provided the authority to assess for the expenses of certain community-wide services and property not held in condominium ownership, such as recreational facilities, and that the individual declarations of condominium created separate condominium associations whose duty it was to maintain the condominium properties at their sole cost and expense. The properties governed by the homeowners association were neither expressly considered condominium property, nor considered to be common elements.
+b. The Plaintiffs primarily rely upon a recent decision of the Fifth District Court of Appeal (an intermediate appellate court), Downey v Jungle Den Villas Recreation Association, Inc., 525 So.2d 438 (Fla. 5th DCA), rev. denied, 536 So.2d 244 (Fla. 1988). Downey extends the Siegel decision on facts not analogous to the Wynmoor situation. In Downey, a separate association was formed by the developer for the purpose of taking title to certain recreation facilities. The association acquired a separate, vacant parcel and, upon a majority vote of the unit owners, constructed a swimming pool on the vacant land.
+The Fifth District Court of Appeal determined that the recreation association was a condominium association. In so doing, the Downey Court completely misapplied the function test. The Court concluded that the association, in substance, performed the functions of a condominium association, even though the Jungle Den Villas Recreation Association’s functions were no different than those of the Towers of Quayside Homeowners Association. The Court reached this conclusion by concluding that the property owned by the recreation association was “condominium property”, applying §718.103(11), Florida Statutes (1985).
+c. In accordance with the exhibits admitted in evidence, the properties owned and operated by the COUNCIL are expressly declared neither condominium property, nor common elements. These documents provide that the COUNCIL properties are not to be considered condominium property, nor are they submitted to condominium ownership. As in Siegel, multiple condominium associations exist in Wynmoor to operate and maintain the common elements and condominium property of the respective condominiums.
+d. In conclusion, Siegel applies to Wynmoor and, in accordance with the decision of the Court in Siegel, the COUNCIL is not a condominium association. The COUNCIL documents vest in the COUNCIL, the authority to improve the Council Properties and community facilities, and to levy assessments against each of the units within Wynmoor, without a vote of the membership. The actions of the COUNCIL are subject only to the requirement that the proposals be exercised using reasonable business judgment. The COUNCIL is not a condominium association, as it does not maintain condominium property or common elements.
+e. The Court disregards and rejects the decision in Downey, finding that the Fifth District Court of Appeal misapplied and misinterpreted Siegel. As the Supreme Court said in Siegel, although Chapter 718 reveals no legislative intent to include this type of community management association within its scope, the statutory treatment of this type of association might be an appropriate subject for legislative consideration.
+Based upon the foregoing findings of fact and conclusions of law, the Court has neither received nor considered further evidence in support of Plaintiffs’ Motion for Temporary Injunctive Relief, and the motion shall be and the same is hereby denied. Final Declaratory Judgment is hereby entered in favor of WYNMOOR COMMUNITY COUNCIL, INC., and against Defendants LEO BARNETT, LEO BROWN, LEWIS CHESTER, VIRGINIA CLEM, BERNARD EISENBERG, ARTHUR GILBERT, HERBERT MAYERS, SAM MEGIBOW, RUTH RAPP, NORMAN RICHMAN, and LOUIS J. SCHNEIDER, and the Court finds, as matter of law, that WYNMOOR COMMUNITY COUNCIL, INC., is not a defacto condominium association and is not governed by Chapter 718, Fla. Stats.
+DONE AND ORDERED in chambers at Fort Lauderdale, Broward County, Florida on this 1st day of May, 1990.

@@ -1,0 +1,32 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. AP 90-17"
+decided: "1990-10-30"
+citations: ["43 Fla. Supp. 2d 141"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SENTINEL COMMUNICATIONS COMPANY v GETTINGS REALTY, INC."]
+source_url: "https://static.case.law/fla-supp-2d/43/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2019100
+cites_cases: ["134 Fla. 666", "380 So.2d 432", "453 So.2d 1121", "471 So.2d 585", "517 So.2d 773"]
+---
+
+# Sentinel Communications Co. v. Gettings Realty, Inc.
+
+## Majority (GEORGE N. DIAMANTIS, Circuit Judge.)
+
+OPINION OF THE COURT
+GEORGE N. DIAMANTIS, Circuit Judge.
+AMENDED FINAL OPINION AND ORDER
+Appellant, Sentinel Communications Company, appeals from a final summary judgment in a breach of contract case which denied it recovery.
+The appellee, Gettings Realty, Inc., entered into a classified advertising contract (hereinafter “contract”) with the Sentinel on August 30, 1984 in which Gettings agreed to purchase one thousand lines of classified advertising in a twelve month period beginning on September 1, 1984. Further, the contract provided that it would be automatically renewed for successive twelve month periods unless the lineage requirement was not fulfilled or the contract was cancelled by either party in writing within thirty days prior to any twelve month anniversary date. The contract between Gettings and the Sentinel was extended for a number of years. The contract automatically renewed, under its terms, for September 1, 1985, September 1, 1986 and for September 1, 1987 because Gettings fulfilled the lineage requirements for the respective previous twelve month periods. The contract provided that if Gettings failed to purchase the minimum number of classified lines required under the contract during any twelve month period, or if the contract was cancelled for any reason prior to the expiration of a twelve month period, Gettings would be required to pay, in addition to any account balance then owed, the difference between the discounted advertising rate that was charged during the contract period based on the volume of advertising contemplated under the contract, which was one thousand lines of advertising, and the advertising rate that the Sentinel actually charged for purchasing a lower quantity of advertising than the one thousand lineage requirement that was agreed upon.
+Pursuant to the terms of the contract, Gettings cancelled said contract prior to the end of the twelve month term beginning on September 1, 1987, by sending the Sentinel written notice of cancellation dated May 15, 1988 which was to be effective by the end of the next month. Upon cancellation of the contract by Gettings, the Sentinel did not inform Gettings of the number of . lines of classified advertising that Gettings had purchased beginning on September 1, 1987 through the effective date of Gettings’ cancellation. The Sentinel waited for a period of approximately five months from receipt of Gettings’ cancellation or a period of four months from the effective date of cancellation to bill Gettings for the charges incurred for Gettings’ failure to publish the minimum number of lines required by the contract.
+The lower court held that it was inequitable for the Sentinel not to inform Gettings of the number of lines of classified advertising it had purchased during the period beginning on September 1, 1987 to the effective date of Gettings’ notice of cancellation, upon receipt of the notice of cancellation, as Gettings was lulled into believing that if Gettings gave thirty days’ written notice of cancellation prior to the twelve month anniversary date of the contract, it would not be required to pay anything more.
+Consequently, the lower court entered a final summary judgment in favor of Gettings and denied the motion for summary judgment of the Sentinel. Both parties have stipulated that there is only an issue of law before the court and that there is no dispute of fact.
+this court finds that the lower court erred and reverses its final summary judgment in this matter.
+The contract is silent on whether the Sentinel has to notify Gettings upon cancellation of the contract that it did not use the required lineage in order to keep its discount rate. However, the contract is not unclear or ambiguous. Where the language in a contract is clear and unambiguous, a court has no power to rewrite, alter or change the terms of a contract, but has the power to interpret it according to its plain meaning. Pierce v Isaac, 134 Fla. 666, 184 So. 509, 512-15 (Fla. 1938). However, when the language is clear and unambiguous, a court cannot indulge in construction or interpretation of its plain meaning. Hurt v Leatherby Ins. Co., 380 So.2d 432, 433 (Fla. 1980). Furthermore, where a contract is silent as to a particular matter, a court should not, under the guise of construction, impose on parties contractual duties which they omitted when entering into the contract. BMW of North America, Inc. v Krathen, 471 So.2d 585, 587 (Fla. 4th DCA 1985). The role of a court is not to make an otherwise valid contract more reasonable or less unreasonable from the standpoint of one of the contracting parties. AC Associates v First Nat. Bank of Fla., 453 So.2d 1121, 1129-30, (Fla. 2d DCA 1984). In other words, it is not a function of a court to impose a condition upon the parties that they themselves did not see fit to impose in their contract. Harbour Square Development Corporation v Miller, 517 So.2d 773, 775 (Fla. 2d DCA 1988). Consequently, the lower court erred when it applied the doctrine of equitable estoppel or any analogous doctrine of equity in reaching the result that it was inequitable for the Sentinel not to have informed Gettings of the number of lines of classified advertising that it had purchased during the period in question.
+The motion of the Sentinel to assess attorney’s fees for this appeal is granted. The amount of the attorney’s fees shall be assessed by the lower court.
+Accordingly, the final judgment of the lower court is reversed and this case is remanded to the trial court to enter final summary judgment on behalf of the Sentinel, the appellant, and to determine the amount of attorney’s fees due the appellant for this appeal.
+DONE AND ORDERED in Chambers at the Orange County Courthouse, Orlando, Florida, this 30th day of October, 1990.

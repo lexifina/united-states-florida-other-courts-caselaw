@@ -1,0 +1,26 @@
+---
+court: "Broward County Circuit Court"
+docket: "69-8418"
+decided: "1971-10-08"
+citations: ["36 Fla. Supp. 21"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERB v. CITY OF FORT LAUDERDALE."]
+source_url: "https://static.case.law/fla-supp/36/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004131
+cites_cases: ["109 A.L.R. 1453", "191 Atl. 240", "191 N.Y.S. 419", "213 So.2d 422", "232 So.2d 378", "242 So.2d 494", "282 U.S. 63", "391 U.S. 145", "399 U.S. 66", "410 F. 2d 325", "64 A.2d 880"]
+---
+
+# Erb v. City of Fort Lauderdale
+
+## Majority (STEPHEN R. BOOHER, Circuit Judge.)
+
+STEPHEN R. BOOHER, Circuit Judge.
+Writ of prohibition absolute: This cause is before the court on the petition for writ of prohibition and order to show cause filed herein by the petitioner and the rule nisi and order to show cause entered thereon January 6, 1970. The case is not formally at issue because of the failure of the respondents to file a reply to the petition and rule nisi as ordered; likewise counsel for the respondents has failed to submit his memorandum of law as directed by the rule nisi. In view of the extreme delay since the entry of the rule nisi, the court hereby enters a default against the respondents, declares the matter at issue on the petition and default, and will proceed to final determination. Having considered the petition and memoranda of law supplied by petitioner, and being otherwise duly advised in the premises, the court finds as follows —
+The petitioner is charged in case no. R-03071 in the municipal court of the city of Fort Lauderdale with a violation of §28-25 of the code of ordinances of such city, in that on January 28, 1969, he “did commit an indecent act, to-wit, did fondle the penis of one Charles Pannozzo, age 17.” The petitioner at the time of the alleged offense was age 62 and a practicing attorney of the New York and New Jersey bars.
+Subsequent to his arrest, the petitioner moved for a jury trial of the charge against him. §139 of the charter of the city, chapter 67-1384, Laws of Florida, Special Acts, 1967, expressly provides that trials in the city municipal court shall be without jury. Accordingly, by order entered March 13, 1969, the motion for jury trial was denied. After an unsuccessful application to the United States District Court for the Southern District of Florida, case no. 69-557-Civ-CA, this proceeding followed.
+The sole question for determination is whether the petitioner is entitled to a jury trial of the charge against him. The answer lies in whether the charge is a “petty” offense or a “serious” offense. Duncan v. Louisiana, 391 U.S. 145 (1968). In the former case, the petitioner is not entitled to a jury trial; in the latter, he is. Gauged solely by the penalty which the municipal court can impose, the charge falls into the petty offense category, since the maximum jail sentence cannot exceed six months imprisonment. City of Fort Lauderdale v. Byrd, Fla. App. 1970, 242 So.2d 494; Baldwin v. State of New York, 399 U.S. 66 (1970). There are other considerations, however. The offense here charged is not merely malum prohibitum, but is in its very nature malum in se. Cf. Brun v. Lazzell, 191 Atl. 240, 109 A.L.R. 1453 (Md. 1937). In such circumstances, jury trials are favored. District of Columbia v. Colts, 282 U.S. 63 (1930). More importantly, this court realizes that the petitioner’s professional career may well turn on the outcome of his trial in the municipal court; if convicted, he may face disbarment. Cf. The Florida Bar v. Kay, Fla. 1970, 232 So.2d 378. See, also, The Florida Bar v. Hefty, Fla. 1968, 213 So.2d 422; In re Wesler, 64 A.2d 880 (N.J. 1949); In re Stein, 191 N.Y.S. 419 (1921). It seems clear, therefore, that when consideration is given to the total punishment, personal and professional, that may result in the event the petitioner is convicted, the offense charged must be considered “serious” by any definition. The petitioner, therefore, is entitled to a jury trial. Duncan v. Louisiana, supra; James v. Headley, 410 F. 2d 325 (5 Cir. 1969).
+During the pendency of these proceedings, the legislature has enacted ch. 70-372, Laws of Florida, 1970, §932.61, 1970 Supplement to Florida Statutes, 1969. Pursuant thereto, the petitioner has the right to have his case transferred to the appropriate court in which a jury trial is provided — in this case, the court of record in and for Broward County — since the ordinance violation with which he is charged is also a violation of a state law. In any event, therefore, the petitioner is now entitled to the jury trial which he requested. Compare: City of Fort Lauderdale v. Byrd, supra, 242 So.2d at p. 496, note 3.
+Accordingly, it is ordered and adjudged that the rule nisi entered herein on January 6, 1970 is made absolute and the respondents are hereby prohibited from further proceeding in case no. R-03071 in the municipal court of the city of Fort Lauderdale, styled City of Fort Lauderdale v. Howard Nelson Erb, unless they provide the petitioner with a jury trial in said court or, upon proper application by petitioner in conformity with §932.61, Florida Statutes, supra, transfer the case to the court of record in and for Broward County.

@@ -1,0 +1,32 @@
+---
+court: "Lake County Circuit Court"
+decided: "1954-08-25"
+citations: ["6 Fla. Supp. 169"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GILES v. GILES."]
+source_url: "https://static.case.law/fla-supp/6/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979877
+---
+
+# Giles v. Giles
+
+## Majority (T. G. FUTCH, Circuit Judge.)
+
+T. G. FUTCH, Circuit Judge.
+This case has caused me more concern than any of the many divorce cases which have come before me during my tenure of office as circuit judge. The concern arises not from the legal or judicial problems involved, but from the tragedy of mental scars inflicted upon the two fine children of the principals involved by the overflowing hatred and bitterness of the father and mother each toward the other. Their hatred and bitterness has blinded them to the effect of their conduct on the lives and future of the children, they fail to appreciate that the children will be on the stage of life long after the last curtain has been rung down on each of them and the roles they now play have become only a bitter memory to their children.
+When the divorce was granted it was plain that the father had won the affection of the son to the exclusion of the mother and that the mother was well on the way to gaining the affection of the daughter to the exclusion of the father. During the few1 short months since the divorce these affections have been sealed and fixed so far as the children are concerned, and reparation is now impossible.
+The immediate unpleasantness cast upon this court by these parties stems from a natal infirmity of the daughter which, during the few years of her life, has necessitated specialized medical attention and several delicate operations and which in all probability will require more such operations and medical care. This situation was recognized by the parties at the time of the divorce and, by agreement, provision was made in the decree as follows — “That the defendant pay all medical, surgical and dental services and incidental hospital and nursing services required by the daughter, but upon her requiring any such services the plaintiff notify the defendant within a reasonable time of the necessity therefor, by whom they are being performed and where they are being performed.”
+For some reason, and it is to be presumed the reason was sufficient, the child was taken to a specialist in St. Louis for the necessary operations and medical attention when they were begun, which would appear to necessitate her returning there from time to time as she develops physically until the maximum desirable results have been accomplished.
+During last June the mother, depending on the portion of the decree above quoted, arranged to take her to the St. Louis specialist to meet an engagement made for June 14. The father had arranged to take her on an outing at the same time. Each had acted without consultation with the other with the resulting conflict of plans. Each notified the other of the plans at about the same time by letters through the Leesburg post office.
+No protest or objection was made by the father and no suggestion was made by him as to plans or means for making the journey to St. Louis. The mother and daughter traveled to St. Louis by air. The father received no word from either of them while in St. Louis and was not notified that an operation had been decided upon or that it had been performed.
+The decree provision pertaining to the daughter’s medical and surgical requirements is based on an agreement entered into between the parties. Neither the agreement nor the decree Specifically mentions travel expenses for the daughter or anyone who might accompany her. Prior to the entry of the decree, however, it was well understood by all parties concerned, including the court, that the medical and surgical attention would necessarily be obtained in St. Louis.
+I think no one would question the necessity of a- mother accompanying her 18-year-old daughter on a mission of this character and that her expenses on such a journey are necessary and contemplated by the decree as above quoted. I am sure that the defendant in calm retrospect will eventually agree with this conclusion.
+There is no doubt the mother should have kept the father advised of the medical progress and operation, yet he had shown no interest in the matter after being notified of the trip. He wrote one letter to the mother after being advised of the contemplated journey and its purpose, but it concerned only the son’s school grades and made no mention of the daughter or the trip.
+Another bone of contention is that the defendant has deducted from his remittance all money due for the daughter’s support during June except for the last seven days of the month. In this connection the decree provides — “That the defendant pay to the plaintiff the sum of $100 per month beginning January 1, 1954 for the support and maintenance of the daughter, Catherine Lee Giles, except while she is with her father, during which times said payments will not be required from the defendant.”
+Defendant clearly owes plaintiff a balance for the month of June in the sum of $76.69.
+Each party has charged the other with contempt of this court. With this I do not agree. They have so much contempt for each other that there is none to spare for the court.
+It has been made clear that the mother can never enjoy any custody of the son and that the father cannot enjoy any custody of the daughter. Therefore, the decree as to custody will be amended giving complete custody of the daughter to the mother and of the son to the father, reserving to each reasonable visitation rights with the children at their respective homes.
+In order to avoid contention in the future with respect to the daughter’s necessary medical, surgical and hospital requirements I want it plain to both parties that I shall expect these matters to be worked out and agreed to in writing, signed by both parties in the presence of two witnesses before the daughter is taken to St. Louis or any other place outside the state for aforesaid purposes. If the parties remain too hostile toward each other to settle the questions involved then they shall do it through third parties. I shall not make a formal order to the effect, but both parties will be furnished with a copy of these findings for their guidance.

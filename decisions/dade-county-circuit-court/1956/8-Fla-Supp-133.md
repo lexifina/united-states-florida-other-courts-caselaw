@@ -1,0 +1,27 @@
+---
+court: "Dade County Circuit Court"
+decided: "1956-01-12"
+citations: ["8 Fla. Supp. 133"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COLONY HOTEL v. COLONY HOTEL OF BAL HARBOR."]
+source_url: "https://static.case.law/fla-supp/8/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978209
+---
+
+# Colony Hotel v. Colony Hotel of Bal Harbor
+
+## Majority (VINCENT C. GIBLIN, Circuit Judge.)
+
+VINCENT C. GIBLIN, Circuit Judge.
+The court has considered the pleadings, the proofs submitted at the hearing of the plaintiff’s application for interlocutory injunc-tive relief and the proofs submitted at the final hearing of the cause.
+The litigation is virtually devoid of factual dispute. For more than eighteen years a hotel known as the Colony Hotel has been operated at Miami Beach. The plaintiff, Max Bohrer, is presently the owner and operator of such hotel. Because of the long and exclusive use by the plaintiff and his predecessors of such name, and because of the other pertinent circumstances revealed by the evidence, the name has acquired a secondary, special or trade meaning indicating and identifying the plaintiff’s building and business and distinguishing the plaintiff’s hotel from all other hotels in the Greater Miami area.
+It has been decided, and with good reason, that the established name of a hotel is a trade-mark in which the proprietor has a valuable interest which a court of chancery will protect against infringement or unfair competition. While the word “Colony” is a generic or descriptive word, the plaintiff has a preferential right to the use of the word as the name of his hotel because the name has acquired a secondary, special or trade meaning.
+Shortly prior to the institution of this suit the defendant corporation, The Colony Hotel of Bal Harbor, Inc., purchased a hotel known as the Emerald Isle Hotel and changed its name to “The Colony Hotel of Bal Harbor.”
+While the plaintiff’s hotel is located in the municipality of Miami Beach and the defendant’s hotel is located in the municipality of Bal Harbour, and a distance of approximately six miles separates the two properties, the court judicially knows, and finds, that the narrow strip of land extending along the ocean from the ship channel at the south end of the city of Miami Beach to the northern boundary of Dade County is known and referred to, especially by tourists and visitors who patronize hotels, as “Miami Beach,” despite the fact that such area embraces several municipalities. The designation by the defendant corporation of its hotel as the Colony Hotel of Bal Harbor resulted in there being two “Colony” hotels at “Miami Beach.” The evidence submitted at the hearing of the plaintiff’s application for interlocutory injunctive relief disclosed the confusion produced by the defendant corporation’s appropriation and use of the word “Colony” in the name given its hotel and disclosed, to some extent at least, the damages and harm to which the plaintiff has been subjected and to which he will be subjected unless appropriate relief shall be accorded him. The court was impelled by such evidence to grant the injunctive relief sought.
+In an amendment to its answer and at the final hearing the defendant proposed and suggested that it be allowed to rename its hotel “The Bal Harbor Colony Hotel” or “The Colony Isle Hotel of Bal Harbor,” and that it not be enjoined from using such new names. The court, however, not blinded to the actualities of the situation, is of the opinion that the predominant or key word in either of such suggested names is the word “Colony” and that the adoption and use of either of such names would result inevitably in the hotel’s being known and spoken of as “the Colony Hotel,” and that consequently there would still be at “Miami Beach,” in close proximity, two “Colony” hotels, with consequent confusion and with damage to the plaintiff.
+Much evidence was adduced to establish the undeniable fact that the plaintiff’s hotel, because of its location, size and character, is a “poor man’s hotel,” while the defendant’s hotel is a “luxury” hotel which will attract patrons able and willing to pay $40 or more a day for the accommodations available. Other evidence showed that the defendant company has expended large sums of money for advertising and other purposes from which it will derive no benefit unless it shall be permitted to adopt and use a name for its hotel which shall include the word “Colony.” These facts, however, only emphasize the plaintiff’s need. for protection against confusion and against the destruction or impairment of the good will of his business.
+Accordingly, it is ordered and decreed that the defendant company be, and it is, enjoined and restrained from adopting and using, as the name of its hotel (formerly known as the Emerald Isle Hotel) located at Bal Harbour in Dade County, Florida, “The Colony Hotel of Bal Harbor,” “Bal Harbor Colony Hotel,” “The-Colony Isle Hotel of Bal Harbor,” or any other name in which the predominant or key word shall be the word “Colony.”
+It is further ordered and decreed that the defendant company be, and it is, required to pay the costs of this suit when they shall have been determined and assessed. The court retains jurisdiction of the cause, but only for the purpose of enforcing and effectuating the terms and provisions of this final decree.

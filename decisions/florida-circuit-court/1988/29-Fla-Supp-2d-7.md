@@ -1,0 +1,37 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 86-03174 CA 06"
+decided: "1988-05-12"
+citations: ["29 Fla. Supp. 2d 7"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS OF MIAMI BEACH, INC., et al. v BYSTROM, etc., et al."]
+source_url: "https://static.case.law/fla-supp-2d/29/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032967
+cites_cases: ["106 S.Ct. 2548", "110 So.2d 409", "15 Fla. Supp.2d 17", "262 So.2d 1", "286 So.2d 529", "341 So.2d 498", "403 So.2d 478", "422 So.2d 3", "434 U.S. 804"]
+---
+
+# International Society for Krishna Consciousness of Miami Beach, Inc. v. Bystrom
+
+## Majority (AMY STEELE DONNER, Circuit Judge.)
+
+OPINION OF THE COURT
+AMY STEELE DONNER, Circuit Judge.
+FINAL SUMMARY JUDGMENT
+THIS CAUSE came before the Court on April 26, 1988 pursuant to notice on Plaintiffs’ motion for partial summary judgment and ore tenus on Defendants’ related motion for final summary judgment. The Court considered the motions, heard argument of counsel and considered the applicable authorities. The Court entertained the Defendants’ ore terms motion without objection. Upon consideration, the Court determined to deny Plaintiffs’ motion for partial summary judgment and to grant Defendants’ related motion for final summary judgment. This determination is based on the following briefly stated analysis.
+1. This cause involves the question of entitlement vel non to tax exemption of certain real property located in Dade County. The tax assessment date in question is January 1, 1985. See § 192.042, Florida Statutes (1985). Therefore, qualifying ownership as of January 1, 1985 is a requisite for entitlement to the exemption sought. See Lake Worth Towers v. Gerstung, 262 So.2d 1 (Fla. 1972); International Society for Krishna Consciousness v. Bystrom, 15 Fla. Supp.2d 17 (Fla. 11th Cir. Ct. 1985). Because a tax exemption issue is involved, the strict construction and strict compliance rules governing exemptions guide this Court’s adjudication herein. See, e.g., Volusia County v. Daytona Beach Racing & Recreational Facilities District, 341 So.2d 498, 502 (Fla.), appeal dismissed, 434 U.S. 804 (1977); State ex rel. Szabo Food Service v. Dickinson, 286 So.2d 529 (Fla. 1973); U.S. Gypsum Co. v. Green, 110 So.2d 409, 413 (Fla. 1959); Housing By Vogue, Inc. v. State Department of Revenue, 403 So.2d 478 (Fla. 1st DCA 1981), approved, 422 So.2d 3 (Fla. 1982); Sutherland, Statutory Construction § 63.08; 50 Fla. Jur. 2d, Taxation § 10:15 (1983). Exemptions are specifically designated by § 196.011(1), Florida Statues (1985), as a “privilege,” which must be denied unless “expressly” authorized by law. Section 196.001, Florida Statutes (1985).
+2. As of the January 1, 1985 tax assessment date, Bhaktivedanta Title Holding Corporation of Miami Beach, Inc. (BTHC) held legal title to the subject property. Consequently, BTHC and not International Society for Krishna Consciousness of Miami Beach, Inc. (ISK-CON) is the legal titleholder of record. BTHC is thus the “applicant” for exemption as specified by § 196.011(1), Florida Statutes (1985). As the owner-applicant, BTHC must be able to show that it is a qualifying nonprofit applicant within the meaning of § 196.195, Florida Statutes (1985); The record before this Court affirmatively establishes that as a matter of law BTHC cannot make the showing necessary to qualify for the exemption sought.
+3. The taxpayer has specifically admitted in response to requests for admission that BTHC is neither a 501(c)(2) nor a 501(c)(3) organization under the Federal Internal Revenue Code. Furthermore, BTHC has specifically admitted that it could not qualify as a 501(c)(2) or 501(c)(3) (i.e., tax exempt) entity under the Internal Revenue Code as of the January 1, 1985 assessment. BTHC similarly admits that it has no documents in its possession, custody or control demonstrating exemption from Florida sales tax. Finally, since filing suit in January of 1986, the taxpayer has failed to adduce any evidence suggesting that BTHC is authorized to hold the subject property as trustee under an agreement whereby the beneficial interest in the subject property is vested in others. Consequently, BTHC is prohibited by law from acting as legal titleholder with respect to a beneficial interest in the property of another. See § 660.41(4), Florida Statutes (1985).
+4. The foregoing conclusions are based upon application to the record herein of Celotex Corporation v. Catrett, 106 S.Ct. 2548 (1986), where the United States Supreme Court held:
+In our view, the plain language of [the summary judgment rule] mandates the entry of summary judgment, after adequate time for discovery and upon motion, against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial. In such a situation, there can be “no genuine issue as to any material fact,” since a complete failure of proof concerning an essential element of the nonmoving party’s case necessarily renders all other facts immaterial.
+Id. at 2552-53 (e.s.). In the present case, the taxpayer has affirmatively demonstrated in its pleadings and papers that it recognizes that in order to establish entitlement to the tax exemption sought, it must be able to prove at trial that it is a qualifying nonprofit applicant within the meaning of § 196.195, Florida Statutes (1985). Thus, the taxpayer bears the burden of proof at trial of establishing qualifying characteristics of BTHC. See also § 194.036(3), Florida Statutes (1985). Because the record herein establishes conclusively that BTHC cannot make the required showing, all other facts are immaterial.
+5. The Plaintiff-taxpayers’ motion for summary judgment expressly placed in issue “Plaintiffs’ nonprofit status.” Consequently, it was proper for Defendants to raise and for the Court to consider the ore tenus motion for summary judgment based on that same issue. Moreover, at hearing, Plaintiffs did not object to the Defendants’ ore tenus motion being heard.
+Accordingly, it is hereby
+ORDERED AND ADJUDGED as follows:
+1. There is no genuine issue of material fact, and Defendants are entitled to judgment as a matter of law. Consequently, Plaintiffs’ motion for summary judgment is denied, and Defendants’ motion for summary judgment is granted.
+2. Plaintiffs’ Complaint and the cause are dismissed with prejudice. Plaintiffs shall take nothing by this action, and final summary judgment is entered in favor of Defendants, who shall go hence without day.
+3. The 1985 assessment of the subject property is confirmed and ratified in all respects. The Tax Collector shall forthwith issue a tax bill for deficiencies based on the preliminary assessment of the subject property, which is identified by assessment roll folio no. 02-3226-01-0641, together with interest at the rate of 12% per annum from April 1, 1986 until the date of this judgment. If unpaid after thirty (30) days from the date of this judgment, the taxes shall, without further order of court, be delinquent and subject to collection and enforcement as provided by law.
+4. The Court reserves jurisdiction to tax costs, if any, in favor of Defendants.
+DONE AND ORDERED in Chambers at Miami, Dade County, . Florida, this 12th day of May, 1988.

@@ -1,0 +1,30 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 81-5455"
+decided: "1989-04-12"
+citations: ["34 Fla. Supp. 2d 89"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v JACKSON"]
+source_url: "https://static.case.law/fla-supp-2d/34/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032142
+cites_cases: ["426 So.2d 1021", "436 So.2d 100", "466 U.S. 668", "512 So.2d 284"]
+---
+
+# State v. Jackson
+
+## Majority (FRED MORENO, Circuit Judge.)
+
+OPINION OF THE COURT
+FRED MORENO, Circuit Judge.
+THIS CAUSE came before the Court on the defendant’s Motion to Vacate Sentence due to ineffective assistance of counsel pursuant to Rule 3.850 of the Florida Rules of Criminal Procedure. The defendant filed this Motion after conviction and appeal which affirmed the conviction. No ruling on the motion has been made since 1986. Defendant was transported from State Prison and an Evidentiary Hearing was held on April 7, 989 at which time he was represented by two Assistant Public Defenders, who had been previously appointed and they filed written memoranda. The State has also filed written responses and testimony was heard from prior trial counsel, Richard Sharpstein.
+The defendant raises four grounds as to why his prior counsel was allegedly ineffective. Ground one states that the defendant wanted to testify but that trial counsel precluded him. Such allegation was not supported by any testimony from the defendant or anyone else and was further contradicted by trial counsel’s testimony. The Court makes a credibility finding in favor of trial counsel, Mr. Sharpstein, and thus denies the Motion as it relates to this ground.
+Ground Three alleges that trial counsel did not sufficiently investigate the case or interview other witnesses and precluded the defendant from representing himself. The Court finds such grounds legally insufficient since there is no specificity either in the motion or in the trial transcript which is attached to this Order and made part of the record. In addition, the Court finds trial counsel’s testimony that he had never guaranteed anything to any client in the past, credible. So even if Ground Three was legally sufficient, despite its lack of specificity, there has been no showing that the defendant was prejudiced. Thus, this ground is no basis to grant the Motion to Vacate the jury’s verdict and sentence.
+Ground Four alleges that the Motion for a New Trial was erroneously denied because trial counsel did not raise sufficient evidence attacking the composition of the jury venire. The Court finds such ground legally insufficient and not proper for post conviction motion pursuant to Rule 3.850. Defense counsel conceded to such in oral argument.
+The second issue raised regarding the jury selection occurring outside of the judge’s presence is problematic for the Court. Trial counsel, Mr. Sharpstein, testified that at the time that this case was tried in 1981 it was of no concern to him, based upon the traditional practices of the trial court presiding over this case, to require a specific waiver by the defendant of the court’s presence during jury selection. There is nothing in the record regarding an objection by either defense counsel or the defendant as to the Judge’s absence during voir dire. There has also been no showing as to any prejudice to the defendant. Therefore, the remaining issue is whether failure by trial counsel to advise the defendant that he could object to the Judge’s absence during voir dire requires a reversal of the conviction.
+Under Strickland v Washington, 466 U.S. 668 (1984), the defendant must show, both that this trial counsel’s performance was deficient and that it prejudiced his defense in a manner which deprived him of a fair trial. The defendant claims that counsel’s waiver of the judge’s presence, by simple acquiescence denied him his constitutional right to have the trial judge present during that jury selection. The 3rd District Court of Appeal has ruled that such waiver must be personally done by the defendant. Singletary v State, 13 FLW 2345 (October 1, 1988); Hernandez v State, 14 FLW 263 (DCA, January 24, 1989) and Carter v State, 512 So.2d 284 (3d DCA 1987). The question has been certified to the Florida Supreme Court and this Court is aware of the fact that Oral Argument has been had regarding this issue. Since this Court is bound by the law as it is presently pending in the 3rd District Court of Appeal, it is compelled to rule that a defendant must personally waive the right to have the trial judge present during voir dire and such right cannot be validly waived by his attorney.
+The State’s position is first that Rule 3.850 does not authorize relief based upon grounds which could have or should have been raised at trial and properly preserved, on direct appeal of the Judgment and Sentence. However, it is precisely the failure to preserve and raise the issue at trial of which the defendant is complaining. The Court is also aware of the traditional practices in many criminal divisions back in 1981, in which defense counsel routinely waived the judge’s presence. The Court finds that Mr. Sharpstein’s actions throughout the trial were in conformity with the highest standards of criminal defense litigation but nevertheless must grant the motion based upon precedent from the 3rd District Court of Appeal to which he is bound. See Brown v State, 14 FLW 53 (Fla. 2/2/89); Peri v State, 426 So.2d 1021 (3d DCA 1983) rev. denied, 436 So.2d 100 (1983).
+WHEREFORE, defendant’s Conviction and Sentence is hereby vacated and the case is set for trial. In view of the nature of the offense the defendant is held without bond unless proof of guilt is not evident and the presumption not great. The Public Defender will continue to represent the defendant for trial. The State has a right to appeal this Order and indeed is invited to do so in view of the certified questions presented to the Florida Supreme Court.
+DONE and ORDERED in Open Court this 12th day of April, 1989.

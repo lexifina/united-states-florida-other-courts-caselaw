@@ -1,0 +1,89 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 79-2072"
+decided: "1983-04-13"
+citations: ["4 Fla. Supp. 2d 28"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE: ESTATE OF RUTH M. BRAUN, Deceased"]
+source_url: "https://static.case.law/fla-supp-2d/4/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2006501
+cites_cases: ["147 So.2d 40", "191 So. 455", "212 So.2d 74", "253 So.2d 697", "279 So.2d 53", "280 A.2d 775", "305 So.2d 46", "350 F.2d 445", "389 So.2d 224", "390 So.2d 77", "466 F.Supp 689"]
+---
+
+# In re Estate of Braun
+
+## Majority (WILLIAM CLAYTON JOHNSON, Circuit Judge)
+
+WILLIAM CLAYTON JOHNSON, Circuit Judge
+THIS CAUSE came on for trial hearing before the court and involved eight trial days plus an additional day devoted to oral argument. The issues, exhibits and conflicting testimony were complex and voluminous; all parties were well-represented by able counsel.
+The events which gave rise to this litigation had their genesis in the death of Ruth Braun’s husband, Dr. Paul Braun, in May 1975. Dr. Braun was Ruth’s uncle and her senior by some thirty years. Ruth and Paul had been married for about five years when he took his life by an overdose of morphine to end a battle with terminal cancer. From all accounts,. Ruth Braun, a teacher and author in chemistry, was very happy during her marriage to Paul. A prior marriage which ended in divorce after 20 years produced two children, the petitioners Randi Stein and Richard Hereld.
+A major asset of the Ruth Braun estate is a 25% interest in German Ltd. partnership engaged in the guard and security business. This 25% interest produces an annual income of approximately $325,000. The partnership agreement provided that the Braun interest had the right to select an accountant to monitor the enterprise, said accountant to be compensated by the partnership. Dr. Paul Braun selected Sidney Rieger, a certified public accountant and a long-time friend. Mr. Rieger was also Dr. Braun’s personal accountant and received compensation from him personally as well. The evidence indicates that Rieger’s compensation during the life of Paul Braun was fair and commensurate with the services rendered. Ultimately Robert Rieger, Sidney’s son, also an accountant, joined the firm.
+Dr. Braun’s death had a profound and destructive effect upon Ruth Braun. She became seriously depressed, despondent, isolated and withdrawn. A previous attempt at suicide was unsuccessful.
+She continued to maintain close contact with her children, Randi and Richard, her two grandchildren, Randi’s children, and a long-time friend, Lorraine Eisener, a high school chemistry teacher and former teaching colleague.
+Ruth was a woman greatly dependent on her husband and after his death she seemed to transfer her dependence to Sidney Rieger, relying on him totally for business as well as personal decisions. In contrast to the fair and commensurate renumeration allotted by her husband Paul, Ruth began to give Rieger vastly increased sums of money. Among the issues in this litigation are two contingent fee personal services contracts. One allows Sidney 15% of the income of the German partnership and a subsequent contract allots to him 20% of the income. Sidney had convinced Ruth that in her tax bracket the incremental cost to her would be small.
+Additional compensation included a gift to him and his family of $85,000. This, too, is contested. Moreover, Sidney received compensation directly from Germany for his role as accountant and his own testimony reveals that Ruth, his principal, knew nothing of this additional compensation.
+In October 1978, Ruth Braun underwent major surgery for intestinal cancer and thereafter subscribed to large doses of sedatives, pain killers, tranquilizers, antidepressants and anti-psychotic drugs.
+The will at issue in this litigation was executed on February 19, 1979. While Ruth was residing in Florida, the will was drawn in Connecticut, Sidney Rieger’s home, by a Connecticut attorney who never saw Ruth, on the basis of notes made by Sidney. The attorney was selected by Sidney and paid by Sidney. Thereafter, the will was kept in Sidney’s Connecticut safety deposit box.
+The terms of the will provided that Sidney’s son, Robert, receive 25% of Ruth’s share of the German partnership, Ruth’s natural daughter Randi a token $25,000, her grandchildren were ignored and while a prior will had made generous provisions for her mother by an elaborate trust arrangement, the subject will virtually ignored her mother.
+ISSUES
+Counsel all agreed that the following four issues were to be determined by the court:
+1. The validity of the decedent’s February 19, 1979 will. Petitioner Randi Stein, daughter of the decedent, asked the court to determine a portion of this will void as tainted by undue influence.
+2. The consolidated independent action by Randi Stein against Sidney S. Rieger for tortious interference with an expected bequest, and
+(a) Claim against Robert L. Rieger and Richard C. Hereld for unjust unrichment; and
+(b) Claim against Sidney S. Rieger and Robert L. Rieger for the establishment of a constructive trust; and
+(c) Cross-claim by Richard Hereld against Robert L. Rieger for unjust enrichment.
+3. The validity of the 1976 and 1977 personal services contracts between Sidney S. Rieger and the decedent, for a 15% and later 20% portion of the proceeds from decedent’s 25% interest in the West German Limited partnership.
+4. The validity of the intervivos gifts of $85,000 allegedly made to Sidney Rieger and members of his family by the decedent on or about January 5, 1978.
+MOTION FOR INVOLUNTARY DISMISSAL
+With respect to the motion of the successor personal representative, J. Peter Freidrich (hereafter referred to as SPR) and Richard Hereld for involuntary dismissal of the June 10, 1982 complaint (docket entry #140) of Sidney S. and Robert Rieger as to which the court directed same to be filed in writing, it is the finding of the court:
+That Count III for quantum merit of said Rieger complaint is hereby dismissed for failure to offer proof of the reasonable value of the services rendered and because of Rieger’s reliance upon the express terms of a November 21,1977 written agreement, Smorgasbord management Co., v. Harnden, 1982 FLX 1290, case #81-246 June 16, 1982(5th DCA) and Poe v. Estate of Levy, 411 So.2 253 (4th DCA). As to Counts I and II of said complaint the motions for dismissal are denied; however, the relief sought therein by Rieger to retain the March 1979 through October 1980 commissions of $160,748,64 is to no avail in view of this court’s subsequent discussion that the 1977 20% commission agreement ended with the death of Ruth Braun on March 31, 1979.
+CONCLUSIONS
+ISSUE I: THE VALIDITY OF THE FEBRUARY 19, 1979 WILL
+The court determines this will to be void on the basis of undue influence.
+The following elements give rise to a presumption of undue influence— the proponent of the will:
+(a) Occupies a confidential relationship to testator
+(b) Actively participates in procuring the will
+(c) Is a substantial beneficiary under the provisions of the will
+In re: Estate of Carpenter, 253 So.2d 697(Fla.1971). Applying these criteria to the case at bar:
+(a) Confidential relationship—Sidney Rieger’s own testimony and all of the evidence leaves no doubt that Rieger was in a fiduciary relationship with the deceased.
+(b) Active procurement—the following are indicia of active procurement: presence of the beneficiary when the testator discusses the will, recommendation of an attorney to draw up the will, advance knowledge of the contents of the will (before the testator has drawn up the will), giving instruction on the preparation of the will to the attorney who is drawing up the will and safekeeping of the will by the proponent. In re: Smith’s estate, 212 So.2d 74.
+Applying said criteria to the fact pattern the court finds active procurement by Sidney Rieger.
+(c) Substantial beneficiary—Although Robert Rieger is the named beneficiary under the will, the court finds that Sidney Rieger’s interest meets the substantial beneficiary test since “the will was drawn by or under the direction of a beneficiary, or of one whose family are beneficiaries” and “of such a character as generally to excite the court to suspicious scrutiny”, Gardiner v. Goertner, 149 So.190.
+All of the foregoing circumstances give rise to an inference of undue influence. Therefore, while the proponent does not have the burden of disproving undue influence, the evidence does shift to the proponent of the will the burden of going forward with a reasonable explanation for “his role in the decedent’s will”, In re: Estate of Carpenter, 253 So.2d 697, and Clark v. Grimsley, 279 So.2d 53. Said reasonable explanation was not given by Sidney or Robert Rieger.
+Additionally, the court considered the following indicia of undue influence:
+(a) Ruth Braun’s prior suicide attempt and declarations in that regard as well as her heavy use of pain-killing drugs and her psychiatrist’s testimony that she was susceptible to undue influence.
+(b) The disposition under the will was unnatural. Ruth Baun objected to her daughter Randi’s residence in Isreal but a prior will made elaborate trust arrangements for her in the event she should return to reside in the U.S., which she has done. Moreover, Mrs. Schwab testified that Ruth Braun shortly before her death talked about dividing her estate equally between her children. The testatrix was a loving grandmother yet her only two grandchildren are ignored under the terms of the instant will.
+(c) Prior wills give thoughtful consideration to the mother of the testatrix with an elaborate trust arrangement, whereas the instant will ignores those arrangements.
+Accordingly, the natural objects of Ruth Braun’s bounty are ignored in favor of Robert Rieger. In such situations the law provides that “an entire change from former testamentary intentions is a strong circumstance to support a claim of undue influence is well supported by the authorities”, Newman v. Smith, 77 Fla.633.
+The court concludes that the subject will works an additional injustice on the beneficiaries by providing that the estate taxes will be paid out of the residuary. In this estate the taxes are substantial and, therefore, daughter Randi’s token bequest as well as the bequest to the dearest friend of the testatrix, Lorraine Eisner, would be eroded while Robert Rieger’s bequest wopld remain intact.
+Upon consideration of all the evidence herein, a finding of undue influence is well-supported. However, the parts of the Ruth Braun will dated February 19, 1979 so effected are inseparable from the whole whereby the entire will must be considered as void. (In re: Estate of Van Horne, 305 So.2d 46). Therefore, IT IS SO ORDERED. It is further
+ORDERED that Robert Rieger and Sidney Rieger within 20 days from date deliver into the custody and control of the Successor Personal Representative, J. Peter Friedrich, all past and future moneis received from the German Ltd. partnership called Niedersaechsische Wach-und Schliessgesellschaft, Eggling & Schorling, K.G., which are attributable to Robert Rieger’s interest in said partnership pursuant to the invalid will of Ruth Braun dated February 19, 1979 and all interest or other earnings on said monies will likewise be delivered to the SPR, Friedrich. Both Sidney and Robert Rieger will within 20 days from date provide a statement under oath to all counsel herein and the court file as to the exact sum of monies each so received, with dates of receipt, name of depository and a listing thereon of all interest or other earnings on said monies. It is further
+ORDERED that the SPS Friedrich transmit a copy of this order to the aforenamed German Ltd. partnership, which is hereby requested to transmit all monies earned on the Ruth Braun interest to J. Peter Friedrich as Successor Personal Representative of the Ruth M. Braun Estate.
+CONCLUSIONS
+ISSUE II:
+With respect to the action of Randi Stein for tortious interference with an expected bequest (issue 2) and issue 2(a) against Robert Rieger and Richard Hereld for unjust enrichmentand issue 2(b) for constructive trust, said issues are moot in view of this court’s ruling that the will in question is invalid. Likewise, the crossclaim of Richard Hereld for injust enrichment set forth in issue 2(c) is moot for the same reason since the court in conjunction with a finding of invalidity has ordered the return by Robert & Sidney Rieger of all will monies received.
+CONCLUSIONS
+ISSUE III: THE VALIDITY OF THE 1976 & 1977 CONTRACTS
+Upon analysis of the November 21, 1977 letter agreement from Sidney Rieger to Ruth Braun, the court finds this to be an executory agreement for personal services and not an agency agreement coupled with an interest as Sidney Rieger contends.
+Since death voids an executory personal services contract at the date of death, Bloom v. & Pipe and Supply Co., 390 So.2d 77 (Fla.4th DCB 1980), the court must bifurcate the issue of the contract into two portions:
+(a) November 21, 1977 to March 31, 1979
+(b) March 31, 1979 to December 31, 1982
+Portion (a) must stand against an attack of unconscionability.
+The leading case of Williams v. Walker Thomas Furniture Co., 121 UT App.DD 316, 350 F.2d 445(1965) established a two-pronged test for unconscionability: “Absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favorable to the other party.” Bennet v. Behring Corp., 466 F.Supp 689, 696 (USDC, SE Fla. 1979).
+Prong one, “absence of meaningful choice” is analyzed by determining the respective bargaining position of the contracting party and, in light of his or her education and intelligence or lack thereof, the ability to understand the terms of the contract, id at 696 citing Williams v. Walker Thomas Furniture, supra: Harris v. Capitol Furniture & Appliance Co., 280 A.2d 775(DD App.1971). This is called procedural unconscionability. The onerous term from which relief is sought is called substantive unconscionability.
+In this case Ruth Braun was highly intelligent and well educated and at the time of the agreement fully capable of understanding the terms of the contract. Sidney Rieger had explained that, even though 20% of her annual income of $325,000 from her German partnership interest gave him significant income, the net result to her, in view of her tax bracket, was significantly less. The court concludes that Ruth Braun knowingly and willingly agreed to the terms of the contract.
+There is no evidence of fraud or deception. “Under Florida case law, buyers and sellers may contract as they please, no matter how hard the bargain, in the absence of fraud and deception.” Bennet v. Behring Corp., supra at 695 citing Squires v. Citrus Fruit Products, Inc., 191 So. 455, 140 Fla.213(1939).
+Moreover, even though she subsequently resorted to mind altering drugs, “the test is whether the clause is unconscionable at the time the contract was entered into, not at some future point in time.” See Williams v. Walker Furniture Co., supra and Bennet v. Behring Corp., supra. Accordingly, it is further
+ORDERED AND ADJUDGED that the November 21, 1977 agreement providing for a 20% fee commission for Rieger’s services on behalf of Ruth Braun terminated upon her March 31, 1979 death. Sidney and Robert Rieger shall within 20 days from date deliver into the custody and control of the SPS Friedrich that particular sum of $160,748.64 plus all other monies representing those 20% commission fees received by Sidney Rieger for the period subsequent to Ruth Braun’s death. Additionally, all interest or other earnings on said monies will likewise be delivered to the SPS Friedrich. Both Sidney and Robert Rieger will within 20 days from date provide a statement under oath to all counsel herein and the court file as to the exact sum of monies each so received, with the date of receipt, name of depository and a listing thereon of all interest or other earnings on said monies.
+CONCLUSIONS
+ISSUE IV:
+Lastly as to the $85,000 in gifts to the Sidney S. Rieger family, the law as to undue influence with respect to wills as cited In re: Estate of Carpenter, supra, is likewise applicable to situations where a gift by a decedent is challenged on the basis of undue influence, Atlantic First National Bank of Daytona Beach v. Crupi, 389 So.2d 224. The evidence is insufficient to support an allegation of active procurement by Sidney Rieger but even assuming arguendo that the presumption of undue influence has been met, Sidney Rieger has come forward with an explanation that reasonably explains the gifts of $85,000 from Ruth Braun to the Rieger family and, accordingly, said gifts shall stand as valid.
+The court retains jurisdiction for proper enforcement of this judgment as well as all other issues remaining for determination herein.
+German authorities value Sidney’s interest at $1,000,000
+Sidney Rieger claims these agreements to be agency agreements coupled with an interest and therefore continuing after the death of the principal, as opposed to an executory personal services contract which terminates upon the principal’s death
+Even if Rieger was acting as an agent for Ruth, the law demands the highest duty and standard of loyalty on the part of an agent toward his principal. State ex rel, Harris v. Goutier, 147 So.2d 40 and as such it is the duty of an agent to make full disclosure to his principal of all material facts relevant to the agency, “any concealment . . . forfeit(s) the agents right to compensation for services.’ ’ Agency & Employment sec.61, 2 Fla.Jur.2d 213
+Date of letter of her date of death
+Date of death to expected termination date of contract

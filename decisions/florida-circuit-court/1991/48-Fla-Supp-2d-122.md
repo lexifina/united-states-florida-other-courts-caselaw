@@ -1,0 +1,49 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 88-5325 (15)"
+decided: "1991-02-15"
+citations: ["48 Fla. Supp. 2d 122"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FOX, etc. v REYNOLDS and HAMPSTEAD TRUST COMPANY"]
+source_url: "https://static.case.law/fla-supp-2d/48/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2021919
+cites_cases: ["517 So.2d 88", "525 So.2d 879", "566 So.2d 574"]
+---
+
+# Fox v. Reynolds
+
+## Majority (ARTHUR M. BIRKEN, Circuit Judge.)
+
+OPINION OF THE COURT
+ARTHUR M. BIRKEN, Circuit Judge.
+ORDER AND JUDGMENT ON CHARGING LIEN
+This Court had two hearings on attorney Mark Roth’s Motions to Enforce Charging Lien. The hearings were conducted on November 29, 1990 and on January 9th, 1991. After considering the testimony, exhibits and memoranda and being otherwise fully advised in the premises, the Court makes the following findings:
+1. Attorney Mark Roth was engaged by Mark Reynolds to represent Mr. Reynolds in a personal injury action arising out of an automobile accident. The “Authority to Represent and Contingent Fee Agreement” was signed on February 10th, 1988 by Mr. Roth and Mr. Reynolds. This contract provided a formula for compensation. The contingent fee for settlement subsequent to the institution of litigation was 40%. There was no specific written agreement placed into evidence between Mr. Roth and Dorinda Browne the wife of Mr. Reynolds at the time of the injury, although all parties acknowledged that Mr. Roth was representing both Ms. Browne and Mr. Reynolds throughout the proceedings.
+2. The case for set for the trial docket beginning on May 21st, 1990.
+3. At calendar call the case was set number one for the trial period.
+4. Shortly before trial the Court was advised by Mr. Roth’s office that the case was settled.
+5. A dispute arose between Mr. Roth and his clients concerning Mr. Roth’s purported settlement of the case without specific authority from the clients. The settlement was set aside, Mr. Roth was allowed to withdraw and the case was reset for trial.
+6. The purported settlement negotiated by Mr. Roth was Seventy Five Thousand ($75,000.00) Dollars plus certain costs.
+7. Mr. Reynolds and Ms. Browne were given approximately four months to obtain new counsel and to further prepare for trial. Mr. Reynolds and Ms. Browne were unable to obtain counsel to take the case and go to trial within the time period set by the Comí. A Motion for Continuance was filed and was denied on July 26th, 1990. The case was subsequently settled for Seventy Five Thousand ($75,000.00) Dollars net.
+8. On May 22, 1990 attorney Roth filed his charging lien.
+9. Mr. Reynolds and Ms. Browne engaged counsel to contest the charging lien and take the position that Mr. Roth is entitled to no compensation for his services.
+10. Mr. Reynolds and Ms. Browne have chosen this forum to raise issues concerning Mr. Roth’s competence and his integrity.
+11. Mr. Roth spent in excess of 200 hours on this case. He expended approximately Sixteen Thousand ($16,000.00) Dollars in costs. Based upon the testimony of Kevin O’Brien and Arthur Wolff, experts who testified on behalf of Mr. Roth and Mary Anne Philips, opposing counsel in the main action, this Court is satisfied and finds that all work was done or would have been done in order for Mr. Roth to adequately represent his client at trial.
+12. Resolution of the case for Seventy Five Thousand ($75,000.00) Dollars is found to have been more than reasonable. (This is supported by the testimony of Mr. O’Brien, Mr. Wolff, Ms. Philips and Norman Rose).
+13. Mr. Roth improperly endeavored to coerce his client into settling the case for the amount negotiated by Mr. Roth. Mr. Roth told his client just before trial that unless the client provided Mr. Roth with Five Thousand ($5,000.00) Dollars, Mr. Roth would not call any experts. At the time this statement was made by Mr. Roth to his clients, Mr. Roth knew that Mr. Reynolds did not even have enough money to purchase a suit for trial.
+14. Mr. Roth did not fraudulently induce Mr. Reynolds and Ms. Browne to engage him to represent them in this case and he did not improperly tell them an inflated value of the case. Mr. Roth is found to be an experienced trial lawyer who did not misrepresent his experience to his clients.
+In the case of Glickman v Scherer, 566 So.2d 574 (Fla. 4th DCA 1990) the Fourth District Court of Appeal stated that the requirements for the imposition of a charging lien are:
+“1. There must be a contract between the attorney and the client. 2. There must be an understanding, express or implied between the parties that the payment is either dependent on recovery or that payment will come from the recovery. 3. The remedy is available where there has been an attempt to avoid payment of fees, or dispute as to the amount involved. 4. There are no requirements for perfecting a charging lien beyond timely notice.”
+Each of these requirements have been met by Mr. Roth.
+The Court went on to cite the Third District Court in Litman v Fine, Jacobson, Schwartz, Nash, Block and England, P.A., 517 So.2d 88 (Fla. 3d DCA 1987), rev. denied, 525 So.2d 879 (1988) as follows:
+It is not enough, however, to support the imposition of a charging lien that an attorney has provided his services, the services must, in addition, produce a positive judgment or a settlement for the client since the lien will attach only to the tangible fruits of the services. And although it is said that a charging lien attaches to the judgment where there are no proceeds of the judgment, there is nothing to which a lien may, as a practical matter attach.”
+Mr. Roth’s efforts produced a basis for a positive settlement for the clients.
+Apparently, part of the argument raised by Mr. Reynolds and Ms. Browne is that the expenditure of time alone is not enough to justify compensation for Mr. Roth. There must be some tangible result of his work. This Court is satisfied that Mr. Roth adequately represented his clients in the preparation of the case and that he was ready and able to competently represent them at trial. His efforts contributed to the offer that was made.
+This Court keeps returning to the one troubling aspect of the hearings, to wit: the conduct of Mr. Roth in insisting that Mr. Reynolds and Ms. Browne pay Five Thousand ($5,000.00) Dollars for costs before he would be willing to call in any expert witnesses at trial. This Court can understand what was going through Mr. Roth’s mind, in light of his testimony that in his opinion the case was going downhill quickly and his not wanting to throw bad money after good. This Court knows that any costs expended by counsel are costs which counsel must seek to have reimbursed by the client at some point in time. This Court is also cognizant that one cannot get blood from a stone and if the case went totally downhill and Mr. Reynolds and Ms. Browne had no monies, in all likelihood Mr. Roth would not have been reimbursed for any cost monies which he laid out. It would have been better practice to insist upon costs at a much earlier date.
+Initially this Court was planning on making an adjustment to the fee awarded Mr. Roth because of his conduct. Since charging liens are equitable proceedings this Court had initially considered not awarding a fee or reducing the fee to be awarded based upon the Hornbook principle that he who seeks equitable relief must have clean hands and Mr. Roth’s hands were not perfectly clean. This Court has backed off from that position because it does not believe that insisting on payment of costs at the last minute had any bearing at all on the final disposition of the case. Mr. Roth — whether correctly or incorrectly— had already negotiated a settlement. Mr. Roth negotiated a settlement that was better than the settlement that Mr. Reynolds and Ms. Browne ultimately accepted. Mr. Roth negotiated a settlement that was within the ballpark of what Mr. Wolff, Mr. O’Brien and Ms. Philips deemed reasonable and it was at least very close to what the respondent’s expert, Mr. Rose, testified to as being the value of the case, (somewhere between One Hundred Thousand ($100,000.00) Dollars and One Hundred and Fifty Thousand ($150,000.00) Dollars. Mr. Roth testified that the case was to have been settled for Seventy Thousand ($70,000.00) Dollars plus costs of close to Twenty Five Thousand Dollars.
+The inappropriate pressure exerted by Mr. Roth did not effect the settlement or the ultimate disposition of the case one iota. Therefore, it is the opinion of this Court that he is entitled to be compensated. The next question is what is a proper amount of compensation. This Court, computing two hundred hours either times One Hundred and Fifty ($150.00) Dollars or Two Hundred ($200.00) Dollars, both of which are reasonable in light of Mr. Roth’s experience and the complexities of the case, computed to be at least the Thirty Thousand ($30,000.00) Dollars that Mr. Roth would have been entitled to pursuant to the contract with Mr. Reynolds and this Court does not even need to determine what multiplier should be used to enhance the fee pursuant to case law. This Court is satisfied that the costs incurred by Mr. Roth of Sixteen Thousand ($16,000.00) Dollars are reasonable and accordingly,
+Based upon the foregoing, it is ORDERED AND ADJUDGED that Mark Roth’s Motion to Enforce a Charging Lien is granted and his fee is set at Thirty Thousand ($30,000.00) Dollars and costs set at Sixteen Thousand ($16,000.00) Dollars for which sums let execution issue against Mark Reynolds and Dorina Browne.
+DONE AND ORDERED in Chambers at Fort Lauderdale, Bro-ward County, Florida this 15th day of February, 1991.

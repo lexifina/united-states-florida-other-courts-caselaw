@@ -1,0 +1,38 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. CA81-588"
+decided: "1983-10-04"
+citations: ["5 Fla. Supp. 2d 57"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEAL, etc., et al. v. JACKSON MEMORIAL HOSPITAL, et al."]
+source_url: "https://static.case.law/fla-supp-2d/5/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2006996
+cites_cases: ["115 Fla. 650", "285 F.2d 152", "313 So.2d 775", "314 So.2d 765", "323 So.2d 590", "329 So.2d 472", "403 So.2d 500", "53 So. 722", "60 Fla. 164", "73 So.2d 844"]
+---
+
+# Neal v. Jackson Memorial Hospital
+
+## Majority (WAYNE L. COBB, Circuit Judge.)
+
+WAYNE L. COBB, Circuit Judge.
+This is an action against two hospitals. The plaintiffs are husband and wife and parents of a baby girl alleged to have been born alive and then died as a result of the negligence of both hospitals.
+The Third Amended Complaint is divided into two counts. The first count appears to state claims against the defendant, Orlando Regional Medical Center, and the second count appears to state claims against the defendant, Jackson Memorial Hospital. The Third Amended Complaint appears to claim damages from both hospitals for both the personal injuries to Mr. and Mrs. Neal individually (physical injuries to Mrs. Neal and loss of consortium for Mr. Neal, as well as medical expenses) and damages for wrongful death of the child.
+Both defendants have moved to strike the wrongful death claims or to require the plaintiffs to elect to proceed on either their individual claims for personal injury or the wrongful death claims. The defendants argue that a cause of action accruing to the plaintiff individually cannot be joined with one accruing to a plaintiff in a representative capacity although they arise out of the same occurrence because the respective causes of action are not “in the same right.” There is a long line of cases supporting this proposition. Pensacola Electric Co. v. Soderlind, 60 Fla. 164, 53 So. 722 (1910); Metropolitan Dade County v. Hicks, 323 So.2d 590 (Fla. 3d DCA 1975); County of Sarasota v. Wall, 403 So.2d 500 (Fla. 2d DCA 1981); Latimer v. Sears Roebuck and Company, 285 F.2d 152 (5th Cir. 1960); Miami Dairy Farms v. Tinsley, 115 Fla. 650, 155 So. 850 (Fla. 1934).
+All of the decisions cited in the preceding paragraph, except County of Sarasota v. Wall, relate to the wrongful death claims allowed by Section 768.01, .02 and .03, Fla. Stat., prior to the enactment of the Wrongful Death Act (ss 768.16-.27) in 1972. Prior to the 1972 Act, recovery for a negligently caused death of a minor could be achieved by two separate and independent causes of action:
+First, the personal representative of the deceased minor’s estate could recover on behalf of the deceased (1) for the decedent’s pain and suffering, (2) medical expenses, (3) loss of earnings between the time of the injury and his death, (4) funeral expenses, and (5) loss of future estate.
+Second, the parents of the deceased minor could recover on behalf of themselves for (1) the loss of services of their child, and (2) for their own respective pain and suffering. Martin v. United Security Services, Inc., 314 So.2d 765 (Fla. 1975).
+Those earlier cases prohibiting joinder dealt with attempted joinder of these two causes of action. This rule of law appears to have been first established in Pensacola Electric Co. v. Soderlind, supra, in which the Florida Supreme Court held:
+“Causes of action that exist in favor of a person individually and as an administrator or executor of the estate of another are not ‘in the same right,’ within the meaning of the statute. In the former, the recovery is in a personal capacity; and in the latter, the recovery is in a representative capacity — in the right of another.” (supra at 723)
+The 1972 Wrongful Death'Act now merges or consolidates the causes of action of decedent’s personal representative and his survivors. ss768.20 and .21, Fla. Stat.; Martin v. United Security Services, Inc., supra. The Act also lists the elements of recoverable damages and designates for whom the respective damages are recoverable. S768.21, Fla. Stat. However, the Act requires the action to be brought by the decedent’s personal representative for the benefit of his estate and his survivors. s768.20, Fla. Stat.
+Therefore, the 1972 Wrongful Death Act at least partially negates the prohibition contained in Pensacola Electric Co. v. Soderlind, supra of joining causes of action accruing to one personally and as a personal representative.
+However, the decision of the Second District Court of Appeals of Florida in County of Sarasota v. Wall, supra, seems to support the continuance of that joinder prohibition where not effected by the Wrongful Death Act. In that case the Court prohibited the joinder of a husband’s action for damages for the wrongful death of his wife and an action for bodily injury and property damage to himself.
+It therefore appears that the claims in this action by Mr. Neal as personal representative of the estate of Baby Girl Neal on behalf of himself and his wife as survivors and the child’s estate must be severed from the claims of Mrs. Neal for her own physical injuries and the claims of Mr. Neal for loss of consortium and medical expenses for his wife.
+The original order on this issue dated September 23, 1983, required an election by Mr. Neal and provided further that: “Upon the filing of his written election, his claim in this action in the capacity not elected shall stand dismissed without prejudice.” Counsel for plaintiffs argues that such dismissal would effectively bar the non-elected causes of action because the statute of limitations has expired. Upon reflection, this court is convinced that such a harsh remedy is not required by the current Florida Rules of Civil Procedure. Rule 1.250(a) provides that: “Misjoinder of parties is not a ground for dismissal of an action. Any claim against a party may be severed and proceeded with separately.” Rule 1.270(b) provides: “The court in furtherance of convenience or to avoid prejudice may order a separate trial of any claim, cross-claim, counter-claim or third party claim or of any separate issue or of any number of claims, cross-claims, counter-claims, third party claims or issues.” These rules give the court broad discretion in the interest of effective administration of justice to sever claims or to order separate trials. Bernstein v. Dwark, 329 So.2d 472 (Fla. App. 1975); Sall v. Luxenberg, 313 So.2d 775 (Fla. App. 1975).
+It is therefore
+ORDERED that the previous order of this court dated September 23, 1983, be and the same is hereby vacated; and it is further
+ORDERED that the claims of the plaintiffs for wrongful death of their minor child pursuant to Sections 768.16-.27, Fla. Stat., be and they are hereby severed from their claims for their claims for their own personal injuries for purposes of trial only. These issues shall be tried separately.
+The plaintiffs shall have 20 days from the date of this order to file with this court and serve a copy on counsel for the respective defendants a written election determining which of these issues they wish to proceed first to trial.
+The defendants also argue that the personal representative’s claim in this action is barred by the statute of limitations because Mr. Neal was appointed personal representative only after the expiration of the limitations period. That issue appears to have been decided adversely to the defendants by the Florida Supreme Court in Griffin v. Workman, 73 So.2d 844 (1954).

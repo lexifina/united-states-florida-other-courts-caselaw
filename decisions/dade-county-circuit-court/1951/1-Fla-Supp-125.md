@@ -1,0 +1,31 @@
+---
+court: "Dade County Circuit Court"
+decided: "1951-08-07"
+citations: ["1 Fla. Supp. 125"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GARDNER v. SOUTHERN BELL TEL. CO."]
+source_url: "https://static.case.law/fla-supp/1/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1187993
+cites_cases: ["48 So. 2d 89"]
+---
+
+# Gardner v. Southern Bell Tel. Co.
+
+## Majority (VINCENT C. GIBLIN, Circuit Judge.)
+
+VINCENT C. GIBLIN, Circuit Judge.
+Much, if not most, of what is said in this opinion may be obiter dicta, but my purpose is not only to explain the action taken by the court in this ease but to express my interpretation of applicable and governing law for the guidance of litigants and counsel in future cases of a similar nature. I hope too that my fellow judges, who have not yet had the opportunity or occasion to study and decide the important questions discussed herein, will concur in my views so that there will not be conflicting decisions in future cases.
+Because of recently enacted valid legislation the use of a telephone or telephone facilities for gambling purposes or in furtherance of gambling is a criminal offense. It goes without saying that an offending criminal is not entitled to the aid of a court of equity to prevent the discontinuance or to effect a restoration of telephone service which he has employed to further his illegal activities.
+It is provided in section 8 (as amended) of chapter 25016 of the acts of 1949 that whenever a telephone company “is notified in writing by any state or federal law enforcement officer acting within his apparent jurisdiction . . . that certain telephone . . . facilities are being used or have been used in violation of any federal law or the laws of the state of Florida, then such utility shall disconnect and remove such facilities and discontinue all telephone . . . service rendered over said facilities.”
+It is further provided in such section that any person aggrieved by action of the utility shall be entitled to present the matter to the Railroad & Public Utilities Commission for its review and determination; and that “if, after consideration, the commission determines that said party is entitled to said facilities and service, and that the same will not be used in the future for unlawful purposes, then and in that event, the commission may authorize the utility to provide said facilities and service.”
+I see no constitutional impediment to the legislature’s delegating to a public commission, rather than to the courts, the jurisdiction to hear and determine the question whether or not the notification as to illegal use was baseless and untrue.
+Conditions may arise, however, in which one whose service is about to be or has been discontinued may be entitled to temporary injunctive relief pending a hearing and determination by the Railroad & Public Utilities Commission. If equities are shown to be involved a court of equity has the jurisdiction to act by appropriate injunctive order to prevent a discontinuance, or to manditorily require a restoration, of service until such time as the affected person shall have been accorded a hearing by the commission and it shall have decided the matter. See opinion and decision of the Supreme Court of Florida in Dade County News Dealers Supply Co. v. Florida Railroad & Public Utilities Commission, 48 So. 2d 89.
+When an appeal is made to this court for such relief it should be by bill in equity. I do not think that mandamus on the law side is the proper remedy.
+When such a bill is presented the chancellor should act cautiously and with the utmost discretion. It should be presumed that the law enforcement officer by whom the telephone company has been notified of illegal use has not violated his oath of office and abused the drastic power vested in him by acting without factual support for his accusation of illegal use. On the other hand, the court should be appreciative of the fallibility of law enforcement officers and their understandable tendency to rely on circumstances as supporting their theory or suspicion of guilt even though the circumstances may be entirely consistent with innocence.
+The bill, of course, should be verified. The plaintiff, as a prerequisite to his application to a court of equity for injunctive relief in such a case should be required to assert on oath that the telephone in question has not been and is not being used for gambling purposes or in furtherance of gambling. A repetition of the oath before the chancellor should be required, I think, because if perjury should be detected and exposed it should prompt the chancellor (and will certainly impel me if I should be sitting) to summarily and severely punish the perjurer for contempt of court. If it be established beyond doubt that the application for the court’s aid is based on perjury, I shall not hesitate to inflict adequate punishment on the offender.
+Both the telephone company and the law enforcement officer by whom the notification has been given should be made parties defendant; and each should be given notice of the time and place at which, and the name of the judge before whom, the application for injunctive relief is to be made.
+The injunctive relief, in the exceptional case where it shall be granted because of the peculiar and impelling equities involved, should be such as the exigencies of the matter require to afford a temporary safeguard only until such time as the commission shall have heard and determined the matter. This court should not undertake to exercise the jurisdiction vested in the commission. The relief should not be granted unless the plaintiff shall have applied to the commission for a hearing or unless he shows a valid excuse for not having done so and alleges under oath his intention to do so without delay.
+Because of the views expressed herein the temporary injunctive order entered herein on July 27, 1951, is dissolved, the alternative writ issued herein on July 26,1951, is quashed, and the action is dismissed at the cost of the petitioner, without prejudice, however, to his right, if any exists, to seek relief in equity.

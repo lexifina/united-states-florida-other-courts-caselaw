@@ -1,0 +1,33 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 85-11620-CA"
+decided: "1986-02-12"
+citations: ["24 Fla. Supp. 2d 15"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KRAYENBORG, et ux. v FLORIDA ROCK & TANK LINES, INC., etc., et al."]
+source_url: "https://static.case.law/fla-supp-2d/24/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2037489
+cites_cases: ["217 So.2d 900", "360 So.2d 1140", "407 So.2d 910", "418 So.2d 281", "442 So.2d 952", "466 So.2d 281"]
+---
+
+# Krayenborg v. Florida Rock & Tank Lines, Inc.
+
+## Majority (AJ. SOUD, JR., Circuit Judge.)
+
+OPINION OF THE COURT
+AJ. SOUD, JR., Circuit Judge.
+This cause came on for hearing upon Motion for Summary Judgment filed by the Defendant, FLORIDA ROCK AND TANK LINES, INC., a Florida corporation, as to Counts I, II, and III of the Amended Complaint. The remaining counts are inapplicable to said Defendant.
+Arguments of counsel were fully heard.
+Succinctly stated, the essential and material facts are as follows: FLORIDA ROCK, a carrier, owned a tank trailer which was used to transport hot asphalt to Orlando for Trumbell Asphalt, a customer. FLORIDA ROCK entered into an Equipment Lease Agreement with Albert E. Powe, Jr., whereby it would lease from Powe a tractor and driver for the purpose of hauling the trailer to asphalt to Orlando. While unloading the hot asphalt in Orlando, the driver and Plaintiff, ROGER KRAYENBORG, an employee of Powe, was seriously burned from the hot asphalt due to an alleged defective pump. FLORIDA ROCK was engaged in the business of hauling cargo of various kinds for different customers. FLORIDA ROCK solicited and secured the business and contractually obligated itself to provide delivery for Trumbell. It was responsible for dispatching KRAYENBORG for the pickup and delivery. FLORIDA ROCK billed Trumbell for the transportation and agreed to pay Powe 60% of the gross revenue. In the Lease Agreement between FLORIDA ROCK and Powe pertaining to the tractor and driver, Powe was considered an independent contractor with sole and exclusive supervision of his employee-driver, including, but not limited to, the payment of all compensation, insurance, and taxes related thereto.
+The said Equipment Lease Agreement stated that Powe would be bound by the provisions of the Florida Workers’ Compensation Law; and further, that FLORIDA ROCK would carry workers’ compensation insurance covering Powe and all of his employees, but that FLORIDA ROCK would carry workers’ compensation insurance covering Powe and all of his employees, but that FLORIDA ROCK would be paid for said insurance by deducting 4.03% from the gross revenue payable to Powe for the shipment. KRAYENBORG received workers’ compensation benefits after the accident. Now, KRAYENBORG, the employee, has filed a damage suit against FLORIDA ROCK for injuries sustained. FLORIDA ROCK claims to be a “statutory employer” and therefore immune from liability on the basis of Section 440.10 and 440.11, Florida Statutes, asserting that the workers’ compensation benefits owed to the employee by the contractor and subcontractor was that employee’s exclusive remedy as regards any alleged liability against FLORIDA ROCK.
+From the arguments of counsel, depositions, affidavits in support of and opposition to the Motions, answers to interrogatories, and memorandum of law furnished by each party, the Court finds that there is no genuine issue of fact or reasonable inference therefrom which remains to be litigated on the issue of FLORIDA ROCK’S liability alleged in the Complaint.
+The Court concludes as a matter of law that FLORIDA ROCK had an oral, contractual obligation with Trumbell which obligation it subcontracted in whole or in part to Powe, its subcontractor. Barrow v. Shel Products, Inc., 466 So.2d 281 (Fla. 1st DCA 1985) To invoke the immunity provisions provided in Section 440.11, Florida Statutes, there must be a contractual obligation on the part of the contractor, a portion of which he sublets to another. Bryant v. Refrigerated Transport Company, Inc., 418 So.2d 281 (Fla. 2d DCA 1982)
+Because of the contractor-subcontractor relationship between FLORIDA ROCK and Powe, FLORIDA ROCK enjoys the status of “statutory employer” and therefore is entitled to the immunity as established and provided in Sections 440.10 and 440.11, Florida Statutes. It is the duty of the contractor to secure workers’ compensation benefits which gives rise to the immunity even though the subcontractor also provides for them or fails to provide for them. Considerations of primary and secondary liability are immaterial. Hart v. National Airlines, Inc., 217 So.2d 900 (Fla. 3d DCA 1969); Belford Trucking, Inc. v. Pinson, 360 So.2d 1140 (Fla. 1st DCA 1978); Motchkavitz v. L.C. Boggs Industries, Inc., 407 So.2d 910 (Fla. 1981) Under the circumstances of this case, FLORIDA ROCK had that duty.
+The Plaintiffs, ROGER KRAYENBORG and MARY LOU KRAYENBORG, his wife, misplace reliance upon the case of Employers Insurance of Wausau v. Abern, 442 So.2d 952 (Fla. 1983), in which the Supreme Court receded from its prior ruling in Motchkavitz, supra. Motchkavitz denied the right of an employee of a contractor which has received workers’ compensation benefits to sue his employer’s subcontractor in negligence where the subcontractor’s employee negligently inflicted injury. The Court therein stated that the rights of such employee were reciprocal, that is, if the employee of a subcontractor could not sue the contractor neither could the employee of the contractor sue the subcontractor. Employers Insurance of Wausau, supra, allowed such suit. Neither of those cases, however, has changed the traditional view and current state of the law which precludes the employee of a subcontractor from suing the contractor. Further, Plaintiffs rely on Bryant v. Refrigerated Transport Company, Inc., supra, as being a case most closely on point; however, in that case the subcontractor’s employee was given the ability to sue the contractor because it was found that the contractor, in fact, had no contractual obligation to sublet. The ad hoc arrangement therein distinguished Refrigerated Transport Company, Inc., as a broker, not a contractor, thereby denying its entitlement to immunity.
+Upon consideration of the foregoing, it is, thereupon,
+ORDERED AND ADJUDGED:
+That the Motion for Summary Judgment filed by the Defendant, FLORIDA ROCK AND TANK LINES, INC., as to Counts I, II, and III of the Amended Complaint be and the same is hereby granted.
+DONE AND ORDERED, in Chambers, at Jacksonville, Duval County, Florida, this 12th day of February, 1986.

@@ -1,0 +1,37 @@
+---
+court: "Santa Rosa County Circuit Court"
+docket: "65-C-40"
+decided: "1966-01-07"
+citations: ["26 Fla. Supp. 94"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARLANN SHORES, Inc. v. CITY OF GULF BREEZE, et al."]
+source_url: "https://static.case.law/fla-supp/26/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997947
+cites_cases: ["11 A.L.R.2d 503", "176 N.E.2d 799", "207 Pac. 2d 1", "209 N.Y.S.2d 729", "225 N.Y.S.2d 538", "258 N.Y.S.2d 777"]
+---
+
+# Carlann Shores, Inc. v. City of Gulf Breeze
+
+## Majority (WOODROW M. MELVIN, Circuit Judge.)
+
+WOODROW M. MELVIN, Circuit Judge.
+This is a suit for declaratory decree and related relief, brought by Carlann Shores, Inc., a Florida corporation, against the city of Gulf Breeze, a municipal corporation, and the various members of the city council of said city, seeking a decree of the court as to the validity of section 13 of ordinance no. 42-62 of said city, wherein it is provided —
+DEDICATION OF CERTAIN AREA FOR PARK AND RECREATION, REQUIRED:
+determination of value: The subdividers or owners shall make outright dedication to the City for park and recreation purposes at least five percent (5%) of the gross area of such subdivision. In the event the subdivision is too small or does not include a park area as shown on the comprehensive plan, the owner shall pay to the City such sum of money equal in value to five percent (5%) of the gross area of the subdivision thereof, which sum shall be held in escrow and used by the City for the purpose of acquiring parks and playgrounds or improving existing park and playground areas and shall be used for this purpose and no other.
+The aforementioned value shall be the value of the land subdivided without improvements and shall be determined jointly by the City Council and the subdivider. If the City Council and subdivider cannot agree on a land value, then the land value shall be established by arbitration. The City Council shall appoint a professional land appraiser, the subdivider shall appoint a professional land appraiser and these two shall appoint a third.
+The city of Gulf Breeze has also adopted ordinance no. 47-62, providing for a “Planning Advisory Board” and providing for the duties and powers of said board. Among other duties, the board was empowered to prepare a comprehensive plan, subject to council approval. Section 5 of said ordinance provides that such comprehensive plan may show, among other matters, existing and proposed streets, parks and playgrounds. The record reveals that such plan has never been prepared. Section 7 of said ordinance charges the planning board with the duty to prepare and recommend to the city council for adoption rules and regulations governing the approval of maps and plats of the subdivision of land within the city, in accord with the requirements of Maps and Plats, Florida Statutes, chapter 177.
+Plaintiffs preliminary plat of its proposed subdivision, Carlann Shores Second Section, contains 9.16 acres, and complies with all requirements except that the same does not contain a dedication of a park area as required by section 13 of ordinance 42-62.
+It affirmatively appears in this record without dispute that a park area equal in size to 5% of the gross area of the subdivision would be entirely too small to serve any useful purpose as a park. Such park area would be less than half an acre.
+Under the provisions of section 13 of ordinance 42-62, where 5% of the gross area of a proposed subdivision would be too small to serve as a park area, the subdivider is required to pay to the city a sum of money equal in value to 5% of the gross area of the subdivision, which money the city shall use only for the purpose of acquiring parks and playgrounds or improving existing parks and playground areas.
+The minutes of the city council, of date January 18, 1965, reveal that the council voted to reject the proposed subdivision plan of plaintiff for want of a dedicated park area; however, the council further determined that it would accept the plan upon payment by the developer to the city of the sum of $8,000, under section 13, and provided further that the developer would agree that said payment was for the benefit of the developer, and that the city would be relieved of any future liability regarding its decision. This the developer has declined to do. This action was instituted, and the constitutionality of section 13 is challenged.
+In disposing of this controversy, it is not necessary that the court pass judgment upon section 13 in its entirety. The action of the city must stand or fall upon the validity of the ordinance provision requiring payment of money to the city by the subdivider in those instances where, as here, 5% of the subdivision area would be too small to serve any useful purpose as a park area, the city being required to use such funds for the purpose of acquiring parks and playgronds, or improving such existing facilities.
+This appears to be a case of first impression in Florida.
+In Ayres v. City Council of City of Los Angeles, 207 Pac. 2d 1, 11 A.L.R.2d 503, it is pointed out that while a municipality may require the developer to provide the streets which are required by the activity within the subdivision, it cannot require him to provide a major thoroughfare, the need for which stems from the total activity of the community.
+If the city’s requirement of the subdivider casts upon him burdens that are specifically and uniquely attributable to his activity, such requirements are permissible; if not, they are forbidden and amount to a confiscation of private property in contravention of constitutional prohibitions, rather than reasonable regulations under the police power. Pioneer Trust and Savings Bank, Trustee, v. Village of Mount Prospect (Illinois), 176 N.E.2d 799.
+We turn now to the payment requirements of section 13, and it is readily apparent that the ordinance is silent as to any guide lines that would require of the city use of the funds for recreational purposes that would be of direct benefit to the particular subdivision. In effect, the ordinance compels the landowner who proposes to subdivide to pay to the city more than his proportionate share of the total cost of acquiring and maintaining the city’s parks. Such an ordinance provision has been twice considered — and twice rejected — by the supreme court of New York. See Jenad, Inc. v. Village of Scarsdale, 258 N.Y.S.2d 777 (April 19, 1965), and also, Gulest Associates, Inc. v. Town of Newburgh, 209 N.Y.S.2d 729, aff’d 225 N.Y.S.2d 538.
+It is the opinion of this court that, under the facts in this case, the defendants are without authority to require of the plaintiff the dedication of 5% of the area of the proposed subdivision as a park, and further, the provision of the ordinance requiring payment to the city of a sum of money equal to the value of 5% of the area of the subdivision is void, for that the said requirements violate the provisions of section 1 of the Declaration of Rights, and section 29, article 16, of the Florida constitution.
+Since plaintiff’s proposed subdivision plat complies with all lawful requirements, it follows that plaintiff has a lawful right to have its plat approved by defendant city.
+A final decree will be entered in accord with the views herein expressed.

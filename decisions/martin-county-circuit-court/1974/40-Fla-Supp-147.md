@@ -1,0 +1,30 @@
+---
+court: "Martin County Circuit Court"
+docket: "74-36-CA"
+decided: "1974-05-03"
+citations: ["40 Fla. Supp. 147"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NORMAN, et ux v. HIDDEN HARBOUR ESTATES, Inc."]
+source_url: "https://static.case.law/fla-supp/40/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001735
+---
+
+# Norman v. Hidden Harbour Estates, Inc.
+
+## Majority (D. C. SMITH, Circuit Judge.)
+
+D. C. SMITH, Circuit Judge.
+Final judgment: This action was tried before the court.
+The plaintiffs, Bradford E. Norman and Evelyn E. Norman, through their complaint seek to enjoin and restrain the defendant, Hidden Harbour Estates, Inc., from enforcing a general rule prohibiting the use of alcoholic beverages in the club house of the condominium or on any adjacent areas.
+From the evidence the court finds that the plaintiffs are the owners of Lot 174 of Hidden Harbour Condominium. The defendant is a Florida corporation which established Hidden Harbour Condominium pursuant to Chapter 711, F. S. 1971. The defendant, Hidden Harbour Estates, Inc., will be hereinafter referred to as Hidden Harbour. In article 3.3 (f), of the articles of incorporation of Hidden Harbour, it is provided that the association shall have all the powers and duties reasonably necessary to operate such condominium, subject to the provisions of the articles of incorporation, the bylaws of the association and the declaration of condominium, including the following—“(f) To make and amend reasonable rules and regulations respecting the use of the condominium property.” Plaintiffs’ exhibit 3 in evidence.
+Some time during April, 1973, the board of directors of Hidden Harbour began enforcing a general rule prohibiting the use of alcoholic beverages in the club house of the condominium and any adjacent areas.
+The letter dated April 5, 1973, sent by the board of directors of Hidden Harbour to all voting members of Hidden Harbour with the ballot, lumped the club nouse, tire adjacent areas, including the pool, shuffle board courts and parking lot, together. Plaintiffs’ exhibit 4 in evidence.
+No evidence whatsoever showing or tending to show that the defendant or any of its residents nad experienced any unpleasant, objectionable or undesirable incident at the club house or on any adjacent areas due to anyone using any alcoholic beverage, was introduced.
+When property is owned privately by one individual, the law recognizes that such individual can do anything he desires to do in or on such property, unless sucn action is proiiibited by law, and likewise a private owner can pronibit Himself and others from doing anytning he does not want done on or in such property. As to property owned privately by one individual, no one's rights are involved or to be considered other than the owner. However, as soon as property becomes common condominium property, it acquires a group, community or collective status and when a regulation is made governing what can be done on common condominium property, the rights of everyone belonging to tne condominium association must be considered. Since all condominium owners are affected by any regulations restricting personal actions on common condominium property such regulation must have some reasonable relationship to the protection of life, property or the general welfare of the residents of the condominium in order for it to be valid and enforceable. Any resident of Hidden Harbour may engage in any lawful action in the club house or on any common condominium property unless such action is engaged in or carried on in such a manner as to constitute a nuisance. The personal actions of any resident of Hidden Harbour on common condominium property cannot be restricted or regulated unless such restriction or regulation is reasonably necessary for the protection of life, property or the general welfare of the residents of the condominium. Any other rule would be extremely dangerous. If some reasonable relationship to the protection of life, property or the general welfare of the residents of the condominium is not required, a majority of a board of directors or a majority of the residents, if perchance they were so disposed, could enact a regulation governing the color or type of clothes a resident must wear, governing the length or style of one’s hair or some other fanciful thing.
+The defendant argues that the regulation is necessary in order to protect residents using the pool and immediate adjacent areas from being injured from stepping on broken glass. The regulation complained of includes the club house, adjacent areas, including the pool, shuffle board courts and parking lot, and is not limited to the pool and its immediate adjacent areas. This is the only regulation before the court at this time. If at some future time there is a regulation applicable to the pool and its immediate adjacent areas before the court, the court will pass upon it according to the evidence presented and the applicable law at such time.
+As previously stated, the letter sent by the board of directors to all voting members lumped the club house, the adjacent areas, including the pool, shuffle board courts and parking lot, together. This question submitted to the residents with this letter for them to vote upon was too broad, too all inclusive, to support the regulation complained of.
+The plaintiffs are entitled to an injunction enjoining the defendant, its officers, agents, servants and employees from enforcing the regulation complained of.
+Upon consideration, it is ordered and adjudged that the defendant, Hidden Harbour Estates, Inc., a corporation, its officers, agents, servants or employees are hereby enjoined and restrained from enforcing its general rule prohibiting the use of alcoholic beverages in the club house of the condominium or any adjacent areas. The court reserves jurisdiction for the taxing of costs upon motion.

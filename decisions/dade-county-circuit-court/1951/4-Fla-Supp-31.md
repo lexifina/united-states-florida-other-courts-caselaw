@@ -1,0 +1,27 @@
+---
+court: "Dade County Circuit Court"
+decided: "1951-10-09"
+citations: ["4 Fla. Supp. 31"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BILYARD PLASTERING CORP. v. OCEAN PARK HOTEL."]
+source_url: "https://static.case.law/fla-supp/4/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1980851
+cites_cases: ["47 So. 2d 520"]
+---
+
+# Bilyard Plastering Corp. v. Ocean Park Hotel
+
+## Majority (CHARLES A. CARROLL, Circuit Judge.)
+
+CHARLES A. CARROLL, Circuit Judge.
+This suit to foreclose a mechanic’s lien came on to be heard on the plaintiff’s motion for leave to file an amendment to its bill alleging compliance with the statutory requirement of service by the contractor of an affidavit as to nonexistence of outstanding claims of sub-contractors, etc. under section 84.04(3), Florida Statutes 1951, and to extend the time for taking testimony to permit presentation of evidence in support of such amendment.
+It appears that this cause came at issue on July 3, 1951 and on July 19, 1951 an order was made referring the cause to a master in chancery. Over the objection of counsel for defendant, the time for taking testimony was limited to a period of approximately a month to August 26, 1951. Testimony was taken before the master. It further appears that although the time for taking the testimony expired on August 26th the master has not yet filed his report but has the cause before him under advisement and in the course of preparation of his report. The notice or affidavit required by the statute, which is the subject of the intended amendment, was given or served after the answer was filed, and, in fact, after the taking of testimony and the time for taking testimony had expired.
+It is the opinion of this court, under the authority of Hardee v. Richardson (Fla.), 47 So. 2d 520, that the plaintiff is clearly entitled to amend at this stage and to offer proofs under the amendment in the particular in question unless there are some other considerations in the status of the case or in the status or situation of the parties different from the circumstances in the decision just cited which would make it inequitable or an abuse of discretion to allow the amendment and additional proof.
+Although council for the defendant has insisted that such different and added circumstances do exist, on the basis of which he urgently urges that the amendment should not be permitted, this court does not see any sufficient distinction to deny the plaintiff the privilege of amending under circumstances which appear substantially the same as those in the cited case. This, for example, is not like permitting an amendment and testimony thereunder after the expiration of the time for taking testimony without any testimony having been adduced. In this case the merits have been litigated before the master, as intended, and within the time fixed.
+The amendment concerns something which has occurred subsequent to that period and which affects the plaintiff’s procedural right to assert and maintain its lien — rather than the merits as to whether any amounts are owed to it or due. That portion of the case having been completed within the time for which it was limited, from a practical standpoint even if there were some technical rule against opening up a case for additional testimony after first limiting the time for taking testimony it appears that no harm would be done to the parties because the master has not yet filed his report and the extension or opening of the matter for further testimony before him as requested now, for a short period, could not serve to inconvenience the parties or unduly delay the ultimate result.
+Moreover, if the plaintiff’s application should be denied and the suit dismissed for failure to show a perfected lien, the trial of the suit as it has proceeded before the master up through the time limited for taking testimony without any objection on that point having been made by defendant, at least expressly, would result in economic waste of the time of this court and the money of the litigants, in that in the event of the dismissal of the case it could be refiled, it appearing that the alleged lien came into existence on or after December 1950 — which would permit it to be refiled within the year.
+The plaintiff’s motion for leave to amend the bill of complaint is hereby granted, and the plaintiff having submitted the proposed amendment with its motion, is hereby allowed to file the same as of this date. The defendant is allowed five days within which to plead to or answer the same, and thereafter the time for taking testimony will be extended ten days. It is suggested to the master that he defer the filing of the report until the coming in of all the testimony.
+The additional master’s fees and reporting charges which shall be occasioned by the taking of testimony under the feature covered by this amendment shall be borne by the plaintiff, irrespective of such other order as may be made in this case on the other costs. This additional reference before the master is limited to the issues respecting compliance or non-compliance with the required contractor’s affidavit under section 84.04(3) under said amendment and the answer thereto, and shall not be the occasion for further testimony with reference to other issues involved.

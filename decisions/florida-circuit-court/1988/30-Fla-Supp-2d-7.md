@@ -1,0 +1,37 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 87-1830CA"
+decided: "1988-09-29"
+citations: ["30 Fla. Supp. 2d 7"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCAIN, etc., et al. v FLORIDA POWER CORPORATION"]
+source_url: "https://static.case.law/fla-supp-2d/30/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2033334
+cites_cases: ["202 So.2d 209", "327 So.2d 121", "344 So.2d 323", "401 So.2d 1115", "413 So.2d 1291", "415 So.2d 1303", "417 So.2d 764", "424 So.2d 760", "432 So.2d 748", "485 So.2d 884", "491 So.2d 1248", "492 So.2d 1333", "519 So.2d 78", "521 So.2d 258"]
+---
+
+# McCain v. Florida Power Corp.
+
+## Majority (W. LOWELL BRAY, JR., Circuit Judge.)
+
+OPINION OF THE COURT
+W. LOWELL BRAY, JR., Circuit Judge.
+ORDER ON MOTION FOR ENTRY OF JUDGMENT, MOTION FOR NEW TRIAL AND MOTION FOR REMITTITUR
+THIS MATTER came on to be heard on the 29th day of August, 1988, upon defendant’s Motion for Entry of Judgment in Accordance with Motions for Directed Verdict, or, in the Alternative, Motion for New Trial or, in the Alternative, Motion for Remittitur.
+The plaintiff herein sued the defendant, FLORIDA POWER CORPORATION, and alleged the following factual situation. Plaintiff was employed by a utility contractor to operate a mechanical ditcher and install underground telephone cable. Plaintiff requested that Florida Power locate and mark the underground electrical cables it had in the area where he was operating. The defendant located and marked underground cable but failed to properly locate one cable. Subsequently, the plaintiff’s machine struck the cable which was charged with 7,200 volts of electricity. As a result, the plaintiff received an electrical shock and sustained physical injury.
+The case was tried before a jury. At trial, the defendant presented evidence through its employees, representatives of the plaintiff’s employer, an independent utilities contractor, and an expert in underground utilities construction and safety that thousands of underground power cables have been cut by trenching machines without any electrical shock or injury being experienced. The utilities expert further testified that it was impossible for injury to happen in this manner. Plaintiff, on rebuttal, presented expert testimony that it was physically possible for such an injury to have happened. At the close of both plaintiff’s and defendant’s case, the defendant moved for a directed verdict. The motion was denied.
+The defendant’s motion advances, primarily, two arguments, first, that there was no duty owed to the plaintiff, and, second, that the injury to the plaintiff was not foreseeable. Consideration of these issues is somewhat complicated by the fact that foreseeability has been treated by some courts in determining whether a duty exists, Webb v Glades Electric Cooperative, 521 So.2d 258 (Fla. 2d DCA 1988), and by others in determining proximate causation, Lake Parker Mall v Carson, 327 So.2d 121 (Fla. 2d DCA 1976), cert. den., 344 So.2d 323 (Fla. 1977) and Simon v Tampa Electric Company, 202 So.2d 209 (Fla. 2d DCA 1967).
+Even if the defendant herein had no general duty to locate and mark its power lines for the benefit of the plaintiff, when it undertook that job, it assumed the duty to act with reasonable care, Barfield v Langley, 432 So.2d 748 (Fla. 2d DCA 1983). Therefore, the duty does exist if the injuries are foreseeable Webb v Glades Electric Cooperative, 521 So.2d 258 (Fla. 2d DCA 1988). Consequently, the real gravamen in this case is foreseeability whether discussed as a matter of duty or proximate cause. For purposes of this order, it will be treated as an element of duty.
+There appears to be no Florida decisions on point involving underground power lines. Defendant cites several decisions involving overhead power cables; however, the danger involved in making contact with these cables is such a matter of general knowledge as to make these cases clearly distinguishable.
+Plaintiff relies on Padget v West Florida Electrical Cooperative, Inc., 417 So.2d 764 (Fla. 1st DCA 1982) and Braden v Florida Power and Light Company, 413 So.2d 1291 (Fla. 5th DCA 1982). Padget involves the negligent placement of a utility pole resulting in downed power lines after a car crashed into it. Braden involves the negligent splicing of a power line bringing about a fire when a tree fell on the power line and broke the splice. Both of these cases are “chain of events” cases. The case sub judice involves foreseeability, not in the chain of events, but in the type of injury or the extent of injury involved.
+In Webb v Glades Electric Cooperative, 521 So.2d 258 (Fla. 2d DCA 1988), the court held “a foreseeable consequence is one which a prudent man would anticipate likely to result from an act. It is not necessary that the exact nature and extent of the injury, or the precise manner of its occurrence, be foreseen; rather, it is essential only that some injury occur in a generally foreseeable manner as a likely result of the negligent conduct. . .” See Webb at 259-260. See also Koprowski v Manatee County, 519 So.2d 78 (Fla. 2d DCA 1988), Budet v K Mart Corporation, 491 So.2d 1248 (Fla. 2d DCA 1986), and Crislip v Holland, 401 So.2d 1115 (Fla. 4th DCA 1981). The issues becomes at its most simple a matter of applying this general principle to the facts. The defendant argues that this is a question of law which should have been decided by the Court or, alternatively, if it was an issue of fact, that the jury verdict was contrary to the evidence.
+“Generally, foreseeability is a question of law, but when reasonable persons can differ as to whether a particular injury is foreseeable, it becomes a jury question.” City of Jacksonville v Raulerson, 415 So.2d 1303 (Fla. 1st DCA 1982), pet. for rev den., 424 So.2d 760 (Fla. 1982). This Court is not prepared to rule as a matter of law that Florida Power could not foresee that if an insulated electrical line carrying 7,200 volts of electricity were cut by a mechanical device the operator of the device might receive an electrical shock and an accompanying injury.
+As for the argument that the jury verdict was contrary to the evidence, the Court notes that the jury instruction commonly given advises the jurors that they may believe, or disbelieve, any part of the testimony of a witness (lay or expert). State v McMahon, 485 So.2d 884 (Fla 2d DCA 1986), rev den. 492 So.2d 1333 (Fla. 1986). There is no reason the jury herein could not apply their common sense and general knowledge to the portion of the testimony they chose to believe and, guided by the Court’s instruction on the law, reach a just and legal verdict. The Court notes that there is no allegation that it failed to give any requested special instruction on foreseeability. Therefore, the defendant must have felt that the instructions given were adequate on that point.
+IT IS THEREFORE,
+ORDERED AND ADJUDGED that defendant’s Motion for Entry of Judgment in Accordance with Motions for Directed Verdict or in the Alternative Motion for New Trial is denied, and it is further
+ORDERED AND ADJUDGED that defendant’s Motion for Remittitur is without basis and is likewise denied.
+DONE AND ORDERED in Chambers, at New Port Richey, Pasco County, Florida, this 29th day of September, 1988.
+EDITOR’S NOTE: A Notice of Appeal was filed on October 25, 1988.

@@ -1,0 +1,27 @@
+---
+court: "Duval County Circuit Court"
+docket: "77-31-AP"
+decided: "1978-05-26"
+citations: ["1 Fla. Supp. 2d 102"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVIS v. STATE"]
+source_url: "https://static.case.law/fla-supp-2d/1/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211070
+cites_cases: ["331 So.2d 289"]
+---
+
+# Davis v. State
+
+## Majority (JOHN S. COX, Circuit Judge.)
+
+JOHN S. COX, Circuit Judge.
+Appellant was tried in the lower Court without a jury for the criminal offense of exhibiting his sexual organs in a public place, in a vulgar and indecent manner, contrary to Section 800.03, Florida Statutes. After considering the evidence adduced at trial, the trial judge found and adjudged Appellant to be guilty of the offense, as charged, and sentenced him to serve one (1) year in the Duval County Jail, but provided that after serving 90 days of such sentence the imposition of the remainder of the sentence would be withheld until further order of Court and the Appellant would be placed on probation for six (6) months.
+Two main points are raised in this Appeal. First, Appellant urges that the trial Judge erred in denying his motion to dismiss made before the start of the trial and in denying his motions for Judgment of Acquittal made at the close of the State’s case and at the close of all the evidence. All of these motions are predicated upon the contention that there has been and can be no violation of Florida Statute 800.03 in this case since the alleged act of exhibiting sexual organs in a public place in a vulgar and indecent manner occurred in a public restroom at Friendship Park in Jacksonville, Florida and Florida Statute 800.03 contains the language:
+“***PrOVided, however, this section shall not be construed to prohibit the exposure of such organs or the person in any place provided or set apart for that purpose.***”
+This Court construes the statute as a whole to mean that vulgar or indecent exposure of sexual organs is the proscribed conduct involved. Of course, the exposure of sexual organs in a public restroom is to be expected and the mere exposure of sex organs in such a place is not proscribed by the statute. However, the exposure of such sex organs in a vulgar or indecent manner is proscribed by the statute. Appellant relies, in part, upon Campbell v. State, 331 So.2d 289 (Fla. 1976) wherein a conviction under Florida Statute 798.02 for “open and gross lewd and lascivious behavior” was reversed. In Campbell the male defendant had been tried, convicted and sentenced for fondling the groin area or the penis of another male. The time and locale involved in Campbell was two o’clock in the morning in a “gay” bar during the course of a homosexual conclave. A sign in front of the establishment clearly stated that .the bar catered to “gays” and warned anyone who might be offended to stay out. The defendant, a waiter in the bar, was convicted of fondling the groin area or the penis of a patron in the establishment. The conviction was reversed by the Supreme Court on the basis of insufficiency of the evidence and the majority opinion indicated that under the particular circumstances involved (2:00 A.M. in a dark and crowded “gay” bar, with the patrons being “delegates” to a homosexual convention) there had been insufficient showing of such “gross lewdness and lascivious behavior” as to warrant conviction.
+In the case sub judice the offense for which Appellant was convicted occurred at 8:00 P.M. in a public restroom in a city park. Children as well as adult males use this restroom and any exposure of male sexual organs in this facility in a vulgar and indecent manner is proscribed as fully as such activity would be in any other public place. The record shows competent evidence to the effect that Appellant and another adult male were standing at adjacent urinals, both with penis exposed; that Appellant watched the other male adult masturbate until Appellant, himself, achieved erection, at which time Appellant began the act of masturbation. This Court holds that such conduct is clearly violative of Florida Statute 800.03 and th^t the trial Judge was correct in denying Appellant’s Motion to Dismiss and motions for Judgment of Acquittal.
+The second point raised by Appellant is insufficiency of the evidence to sustain the conviction. The State presented only one witness, the arresting officer. However, the Florida law is clear that a conviction can be based upon the testimony of only one witness. There are definite conflicts in the testimony, with the testimony of the State’s witness and the testimony of the Appellant being diametrically opposed on the crucial question of whether or not the Appellant did expose his sexual organs in a vulgar and indecent manner. However, the decision of the trial Judge comes to this Court clothed in the presumption of correctness. He was the sole judge of the weight of the evidence and the creditability of the witnesses. Obviously, he accepted and relied upon the testimony of the State’s witness and rejected the testimony of the Appellant. This was clearly within his province and the record discloses sufficient substantial and competent evidence to support his finding of guilt on the part of Appellant.
+No error having been made to appear, the judgment and sentence of the Trial Court is hereby AFFIRMED.

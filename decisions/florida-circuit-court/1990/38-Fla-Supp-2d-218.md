@@ -1,0 +1,29 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 89-14549-02"
+decided: "1990-01-24"
+citations: ["38 Fla. Supp. 2d 218"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOODMONT COUNTRY CLUB, INC. v SCHREIBER"]
+source_url: "https://static.case.law/fla-supp-2d/38/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2013296
+cites_cases: ["522 So.2d 891"]
+---
+
+# Woodmont Country Club, Inc. v. Schreiber
+
+## Majority (BARBARA BRIDGE, Circuit Judge.)
+
+OPINION OF THE COURT
+BARBARA BRIDGE, Circuit Judge.
+THIS CAUSE came before the Court on Appellant’s, WOODMONT COUNTRY CLUB, INC., hereinafter referred to as the CLUB, appeal of a Final Judgment of the County COurt in and for Broward County, and the Court having read the briefs and heard argument of the parties and being otherwise advised in the premises hereby finds:
+In 1984, Appellee, Stanley Schreiber, had paid $5000 for a tennis membership to the CLUB. Additionally, Mr. Schreiber agreed to the By-Laws of the CLUB and he paid annual dues and other assessments imposed by the CLUB. The By-Laws contain a provision declaring that the member agrees to be bound by future amendments. Furthermore, the By-Laws governed the purchase and sale of tennis memberships and required that Mr. Schreiber would be responsible for the payment of the annual dues for the year in which he offered his membership for resale. On March 9, 1987, an amendment to the By-Laws became effective and was declared retroactive to December 1, 1984. This amendment stated that a member who submits his membership to the CLUB for resale remains responsible to pay annual dues, assessments and other charges which accrue until the membership is sold. Therefore, Mr. Schreiber presented his tennis membership to the CLUB for resale and he was required to sign a letter which restated his responsibility for dues and charges until the membership was sold. Absent Mr. Schreiber’s execution of the letter, the CLUB would not have accepted his membership for resale. Eventually, in February, 1989, the CLUB sold Mr. Schreiber’s membership for $5,000. Between May, 1987 and February 9, 1989, Mr. Schreiber failed to pay any dues or other charges. Pursuant to the above mentioned amendment, the CLUB deducted the dues and other charges which had accrued and had not been paid by Mr. Schreiber, and he received only $2588.83 from the sale.
+On or about February 23, 1989, Mr. Schreiber filed a Statement of Claim against the CLUB. Mr. Schreiber sought to recover monies due and owing to him from the sale of his tennis membership in the CLUB. The ultimate issue at the non-jury trial was whether the CLUB had the authority to retain the funds deducted from the proceeds of the sale pursuant to the By-Laws, amendment, and letter agreement. Following trial, the court below entered Final Judgment on May 15, 1989, finding that Mr. Schreiber is entitled to a judgment against the CLUB in the amount of $2,161.17 plus court costs in the amount of $75.00. The CLUB appeals the Final Judgment on the grounds that the trial court improperly found an impermissible impairment of contract existed which prevented the CLUB from holding Mr. Schreiber responsible for the dues and other charges accruing while his membership was up for sale.
+As a matter of law, the Final Judgment is affirmed inasmuch as the CLUB seeks to impair Mr. Schreiber’s contractual rights. In a similar case, First Florida Bank v Financial Trans. Sys., 522 So.2d 891 (Fla. 2d DCA 1988), a bank applied for membership in a credit card processing organization and the bank signed a statement agreeing to abide by the existing by-laws and any future amendments. An amendment providing for a termination fee was later passed and applied retroactively so that when the bank terminated its membership the organization sought to charge the bank the fee. The court held that a corporation is prohibited from amending its by-laws so as to impair a member’s contractual right, finding that the organization could not validly amend the parties original agreement in a manner which deprived the bank of its vested contractual rights, even though the bank agreed to abide by all amendments. First Florida Bank, 522 So.2d at 892, 893.
+In accord with First Florida Bank, the CLUB in this case may not validly amend the parties’ original agreement regarding the additional membership sale fees. In the present case, the amendment retroactively imposed new financial burdens on Mr. Schreiber, by requiring the payment of dues and charges beyond the year in which Mr. Schreiber offered his membership for sale. Under the original By-Laws, Mr. Schreiber was not responsible for dues and other charges accruing beyond the year in which his membership was offered for sale. That was his vested contractual right. The amendment, however, was more than a mere clarification of the By-Laws. The additional dues and assessments charged to Mr. Schreiber under the terms of the amendment deprived him of his vested contractual rights. Consequently, the CLUB may not impose the subject dues and charges on Mr. Schreiber.
+Although the Final Judgment is silent on the issue of the letter agreement, the record reflects that Mr. Schreiber signed the letter under protest so that the CLUB would accept his membership for sale. This agreement is not enforceable for the reasons set forth above, inasmuch as that the letter is just a restatement of the amendment. Furthermore, the CLUB, has not shown an abuse of the trial court’s discretion for refusing to enforce the letter agreement. Therefore,
+IT IS ORDERED AND ADJUDGED that the Final Judgment is AFFIRMED.
+DONE AND ORDERED in Chambers at Fort Lauderdale, Florida on this 24th day of January, 1990.

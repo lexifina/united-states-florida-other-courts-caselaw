@@ -1,0 +1,37 @@
+---
+court: "Florida Public Service Commission"
+docket: "74778-FB (AP); Order No. 12334"
+decided: "1975-09-30"
+citations: ["43 Fla. Supp. 6"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The following commissioners participated in the disposition of .this matter — WILLIAM T. MAYO, Chairman, Commissioners WILLIAM H. BEVIS and PAULA F. HAWKINS."]
+parties: ["Application of KEY WEST FERRY CORPORATION."]
+source_url: "https://static.case.law/fla-supp/43/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2012179
+cites_cases: ["234 U.S. 317"]
+---
+
+# In re Key West Ferry Corp.
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+Pursuant to notice, the commission by its duly designated hearing examiner, Rolland T. Carpenter, held public hearings on this matter in Miami on January 15 and 17 and February 20,1975, and in Key West on January 16, 1975.
+By this application, Key West Ferry Corporation seeks an exclusive franchise under provisions of Chapter 347, Florida Statutes, to transport general commodities, trailers, rail cars or containers and commodities in bulk in a ferry service between ports in Dade, Broward and Hillsborough counties, on the one hand, and the ports of Key West and Marathon on the other.
+The examiner states that the applicant is a “shell” corporation and presently has no substantial facilities or equipment. However, the examiner concluded that the principals have transportation experience and the company has tentative financial backing so as to initiate operation.
+Four witnesses, who make regular, large volume shipments between the Keys and the Miami area, supported the application. Their freight (groceries, seafood, petroleum products and auto parts) now moves primarily by motor carrier via the “Overseas Highway.” The evidence indicates that recently imposed load restrictions on the bridges and extensive road repair worfc have caused a substantial increase in transportation costs. The examiner found that these shippers seek an alternative transportation source to meet present requirements and as back-up for either emergency or scheduled bridge closings. The examiner further found, however, that there was no evidence that these shipping needs could best be served by “ferry service” as opposed to other types of water, air or land transportation. The executive director of the Key West and Lower Keys Development Corporation also supported the application, testifying that additional transportation facilities would be beneficial to the further economic development of the Keys.
+South Florida Freightways, Inc., Overseas Transportation Company, Inc., Commercial Carrier Corporation, Redwing Carriers, Inc., Chemical Tank Lines, Inc., and Alterman Transport Lines, Inc. presented evidence opposing the application. They contend, generally, that they are willing and able to transport the freight for which the applicant would compete, and that any diversion of traffic would adversely affect them. The examiner found that since the other protestants introduced no evidence in opposition to the service, their protests are without weight.
+It is important to note at this point that the applicant in this proceeding seeks to be designated a “ferry service” under Chapter 347, Florida Statutes, and not a common carrier under Chapter 350. Although the commission has jurisdiction over both types of carriers, the grant of Chapter 347 ferry authority carries with it an exclusive fifty year franchise as well as the power of eminent domain to acquire approaches and connections with public roads. On the other hand, a water common carrier pursuant to Chapter 350, Florida Statutes, confers no special rights or privileges, and does not necessitate certification by this commission.
+The examiner, in his well-reasoned recommendation, concluded that the service proposed by the applicant is common carriage, and not a “ferry” service. Therefore, there is no need for certification by this commission.
+The examiner points out that both state and federal law distinguish ferry service from common carriage by water. He relies on Port Richmond & B.P.F. Co. v. Board of Freeholders, 234 U.S. 317 (1914), where the U.S. Supreme Court stated that — “the term ferry necessarily implies transportation for a short distance, almost invariably between two points only, and unrelated to other transportation.” Id. at 332. The examiner further points out that the Florida Statutes contain an even more restrictive view of ferries by including them within the definitions of “road” and “railroad” where employed in connection therewith. §§334.03(9), 350.10(1), Florida Statutes. The examiner concludes by finding that this application, which proposes service to five widely separated ports, comes precisely within the Florida statutory definition of “common carrier” which includes “all persons owning and operating ... boats or vessels of ten tons net or over . . . propelling products running from a coastal port to a coastal port in this state used in the transportation of freight or passengers for hire . . §350.11(1) (c), Florida Statutes.
+Based on the foregoing, the examiner recommended that the application be denied.
+The applicant filed exceptions to the examiner’s recommendation, and replies were filed by protestants Alterman Transport Lines, Inc., Florida Convoy, Inc., Dixie Transport, Inc., Overseas Transportation Company, Inc., South Florida Freightways, Inc., Commercial Carrier Corporation, Redwing Carriers, Inc., and Chemical Tank Lines, Inc. Oral argument on this matter was held on July 14, 1975.
+Basically, the applicant contends in its exceptions that the examiner, “in his evaluation of the factual fabric of the application, has failed to perceive or appreciate the perilous economic facts which exist in the Florida Keys,” and further that he erred in finding that the proposed service is not a ferry service under provisions of Chapter 347, Florida Statutes.
+It is the opinion of the commission that the exceptions filed by the applicant missed the point in this case. We believe that there was a need demonstrated for this service, however, the statutes grant this commission the power to issue the authority sought herein only to a “ferry service.” The service proposed by applicant is not a ferry service, but is common carriage. We cannot call the service proposed by the applicant a ferry in order to grant the authority requested.
+To be sure, there is a need to change the law in this area so as to empower the commission to grant certificates to water carriers to the same extent such certificates are now granted to motor and air carriers. In fact, legislation was introduced in the last session to do just that. (Although this attempt was unsuccessful.) However, it is our opinion that until the law is changed, we cannot grant the authority requested by the applicant.
+Therefore, the commission finds that the examiner’s recommendation is based on substantial competent evidence and that the application should be denied on the grounds that the service proposed by the applicant is not a “ferry service.”
+It is therefore ordered that the application of Key West Ferry Corporation for a ferry franchise pursuant to Chapter 347 be and the same is denied.
+It is further ordered that protestants’ and intervenor’s motions to dismiss the application are hereby rendered moot.

@@ -1,0 +1,36 @@
+---
+court: "Leon County Circuit Court"
+docket: "69-96"
+decided: "1969-08-25"
+citations: ["32 Fla. Supp. 177"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GROVE VIEW ESTATES, Inc. v. COMPTROLLER."]
+source_url: "https://static.case.law/fla-supp/32/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1994301
+cites_cases: ["88 So.2d 493"]
+---
+
+# Grove View Estates, Inc. v. Comptroller
+
+## Majority (GUYTE P. McCORD, Jr., Circuit Judge.)
+
+GUYTE P. McCORD, Jr., Circuit Judge.
+Final judgment and injunction: This cause came on for final consideration on the joint motion of the parties that the court enter its judgment determining this cause based upon the pleadings, stipulation and briefs without further notice and hearing. The parties have filed a stipulation agreeing to the following facts —
+The plaintiff, Grove View Estates, Inc., is a corporation incorporated under the laws of the state of Florida.
+The defendant, Fred O. Dickinson, Jr., is the comptroller of the state of Florida and as such is charged by law with the duty of enforcing and administering the exise tax on documents imposed under chapter 201, Florida Statutes. (See §201.11, Florida Statutes.)
+Mr. William J. McConnell, 730 Northern Drive, Lake Park, is a state examiner for the documentary stamp tax department under the comptroller of the State of Florida.
+Mr. McConnell, acting in his official capacity as a representative of the comptroller, assessed a documentary stamp tax on certain instruments (warranty deeds) recorded in Indian River County. These documents showed 30 cents each for regular documentary stamp tax on deeds (§201.02, Florida Statutes) and 55 cents each for surtax (§201.021, Florida Statutes). Mr. McConnell assessed an additional $99 for documentary stamp tax under §201.02, and an additional surtax in the amount of $36.30 under §201.021.
+These additional taxes were based on information furnished to Mr. McConnell by Mr. Robert Jackson. Robert Jackson and his spouse had conveyed certain real property to Grove View Estates, Inc., a newly formed corporation, and received original stock issue of $1,000 total par value to Grove View Estates, Inc., in exchange therefor. No monetary consideration (money) changed hands. Mr. Jackson informed Mr. McConnell that the original cost of the property was $80,000, and that there were outstanding mortgages in the approximate amount of $47,000. All documentary stamps were placed in the original purchase.
+Mr. McConnell based the documentary stamp tax under §201.02 on the difference between $80,000 and $47,000 i.e., $33,000. It was calculated by multiplying 30 cents per hundred dollars times $33,000 which resulted in a tax of $99. The surtax was $36.30. The cost price of $80,000 was what Robert Jackson and his spouse had paid for the property which transaction occurred prior to conveying the property to Grove View Estates, Inc.
+The taxes in question were assessed on the basis of what the grantors, Robert Jackson and his spouse had originally paid for the land and the fact that title to the land was transferred to the corporation in exchange for an original stock issue. There was a complete transfer of real property for stock on the creation of the corporation and no monetary consideration passed between the parties.
+All other facts contained in the deposition of William J. McConnell are stipulated to be true, and said deposition is admitted in evidence in its entirety.
+Plaintiff contends there was no consideration paid by it for the conveyance to it of the property; that the conveyance was merely the transfer of title in exchange for stock in a new corporation. Plaintiff seeks an injunction restraining defendant from collecting or attempting to collect any documentary stamp tax from plaintiff on this transaction.
+The pertinent statutes are §§201.02 and 201.021, Florida Statutes. §201.02 provides as follows —
+Tax on deeds and other instruments relating to lands, etc. — On deeds, instruments, or writings, whereby any lands, tenements, or other realty, or any interest therein, shall be granted, assigned, transferred, or otherwise conveyed to or vested in the purchaser, or any other person by his direction, on each one hundred dollars of the consideration therefor the tax shall be thirty cents; provided, that when the full amount of the consideration for the execution, assignment, transfer, or conveyance, is not shown in the face of such deed, instrument, document, or writing, then in such event the tax shall be at the rate of thirty cents for each one hundred dollars, or fractional part thereof, of the consideration therefor.
+In State, ex reí. Palmer-Florida Corporation v. Green, Fla., 88 So.2d 493, the Supreme Court of Florida held no documentary stamps to be required on a deed of a corporation conveying land to its stockholders in exchange for corporate stock held by them, the interest conveyed to each stockholder being in the same ratio as the total number of shares owned by him bore to the total number of shares of common stock outstanding. There the court said —
+“. . . that the deed in question did not require documentary stamps because the grantees were not ‘purchasers’ and did not pay a ‘reasonably determinable,’ ‘consideration’ for the conveyance as contemplated by §201.02, Florida Statutes. We find no legal support for the theory that the documentary stamp tax should be measured by the market value of the land transferred. It was a mere book transaction and was in no sense a sale to a ‘purchaser’ as contemplated by §201.02, Florida Statutes.”
+In the case at bar there is no more determinable consideration for the conveyance than existed in State, ex reí. Palmer-Florida Corporation. Here the stock of this new corporation had no book value at the time of the transaction. It acquired book value only after the transaction and its book value then was the value of the land. This land value was owned by the two stockholders as owners of the land prior to their deed to the corporation and continued to be owned by them as the value of the stock thereafter. The grantors remained in the same relative position as to this value after the transaction as they did before. The stock at the time of the transaction did have a par value of $1,000. Under §608.15, Florida Statutes, corporate par value stock may be issued for a consideration having a value, in the judgment of the board of directors, at least equivalent to the full par value of the stock so to be issued. It follows that plaintiff is estopped to deny that the value of its corporate stock transferred in exchange for the land was of less value than the par value thereof. There was no reasonable determinable consideration for this transaction other than the $1,000 total par value of the stock.
+In consideration thereof, it is ordered and adjudged that defendant, Fred O. Dickinson, Jr., as comptroller of the state of Florida, be and he is hereby enjoined from collecting or attempting to collect any more documentary tax on the transaction involved in this proceeding than was represented by the par value of the corporate stock.

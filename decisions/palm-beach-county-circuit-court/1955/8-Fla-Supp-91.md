@@ -1,0 +1,30 @@
+---
+court: "Palm Beach County Circuit Court"
+decided: "1955-08-05"
+citations: ["8 Fla. Supp. 91"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DICKENS v. DICKENS."]
+source_url: "https://static.case.law/fla-supp/8/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978226
+---
+
+# Dickens v. Dickens
+
+## Majority (C. E. CHILLINGWORTH, Circuit Judge. VINCENT C. GIBLIN, Circuit Judge.)
+
+C. E. CHILLINGWORTH, Circuit Judge.
+May 17,1955: This cause was duly tried by the court upon the petition filed by the defendant March 17,1955, and the answer filed by the plaintiff March 30, 1955.
+No useful purpose would be served in reciting the evidence. The court finds that the welfare of this boy, age four, requires that the defendant be awarded custody of him.
+The mother should have the opportunity to have the child visit with her at all reasonable times, and at the expense of the defendant.
+Thereupon, it is ordered that custody of the child, Robert Noel Dickens, be awarded to the defendant; that the plaintiff be granted the right to visit the child and have the child visit her at all reasonable times and places; that the plaintiff deliver to the defendant the clothes and personal effects of the boy; that the boy shall not be removed from the state of Florida without a specific order authorizing such removal; and that the court retains jurisdiction with reference to the custody and support of the child.
+May 20,1955: This cause came on to be heard on the defendant’s sworn petition; it appears that the plaintiff has intentionally and wilfully failed and refused to comply with the court’s order of May 17, 1955.
+The court appoints the sheriff of Palm Beach County to enforce the order of May 17, 1955, and directs the sheriff to take into his custody the person of Robert Noel Dickens, now in the custody of Margaret H. Getgood, on May 21, 1955, and forthwith deliver the person of Robert Noel Dickens to the defendant William J. Dickens. After having complied with this order, the sheriff shall make proper return to this court.
+VINCENT C. GIBLIN, Circuit Judge.
+August 5,1955: By the court’s final decree of November 9, 1953 the two minor children of the parties were committed to the custody, control and care of the plaintiff mother. Since the entry of the final decree the older child has died. The surviving child, Robert Noel Dickens, who is now four or five years of age, remained with the¡ plaintiff mother until this year, when by the court’s order of May 17, 1955, he was committed to the custody, control and care of the defendant father, after the court had heard testimony in support of, and in opposition to, the defendant father’s petition (filed March 17, 1955) for a modification of the decretal provision by which the child had been committed to the custody, control and care of the plaintiff mother. The court, however, on the plaintiff mother’s motion (filed May 18, 1955), reconsidered the matter and much additional testimony was adduced before the chancellor (the Honorable C. E. Chillingworth) June 10, 1955, on the issue as to which of the parties should have the custody, control and care of the boy. Unfortunately, however, Judge Chillingworth had entered no further order or decree before his tragic disappearance; and the issue has been submitted to me for decision.
+I have reviewed carefully the entire file, including the transcript of all the testimony adduced at all the hearings in the cause; I have heard and considered the oral arguments of counsel; and I have conferred with the parties in an effort to reach an accord as to what is best for the child. No accord was reached because of the venom and bitterness which have been engendered by the strife between the parties and which militate against a reasonable and sensible consideration of the problem, the solution of which will so vitally affect the interests and welfare of the child whom they both love. It therefore becomes my duty to supply the answer to the problem; and I earnestly pray that by this order I shall effect a just and equitable solution.
+Each of the parties has remarried and each is able to provide the child a comfortable home. I.think that each is a suitable custodian. The child’s tender age, however, impels me to the conclusion that he should be recommitted to the custody, control and care of the plaintiff mother. My only misgiving is attributable to an apprehension that the habits and conduct of her present husband may create an undesirable and harmful home environment for the child; and the misgiving is expressed as a cautionary warning to the mother that her own love and devotion may not be enough to justify her continued retention of custody.
+The financial status and earnings of the defendant father are such that he should not any longer be required to support and maintain, or to contribute to the support and maintenance of, the child in view of the plaintiff mother’s financial ability to provide adequately for the boy’s support and maintenance without help from the defendant father.
+Accordingly, it is ordered and decreed that the minor son, Robert Noel Dickens, be, and he is, recommitted to the custody, control and care of the plaintiff mother; that the defendant father be, and he is, required and commanded, on the presentation to him of a certified copy of this order, to relinquish to the plaintiff mother the custody, control and care of the child; that the defendant father be, and he is, accorded the right to visit the child at reasonable intervals and at reasonable hours; that the parties be, and they are, and each of them is, enjoined and restrained, until the further order of the court, from removing, and from procuring or causing the removal of, the child from the jurisdiction of this court; and that the provision of the mentioned final decree by which the defendant father was required to phy certain sums to the plaintiff mother for the support and maintenance of the child be, and it is, annulled and shall be of no further force or effect.

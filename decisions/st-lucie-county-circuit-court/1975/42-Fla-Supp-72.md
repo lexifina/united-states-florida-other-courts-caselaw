@@ -1,0 +1,36 @@
+---
+court: "St. Lucie County Circuit Court"
+docket: "74-724"
+decided: "1975-03-11"
+citations: ["42 Fla. Supp. 72"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W.S. BADCOCK CORPORATION v. ROBERTS, et al."]
+source_url: "https://static.case.law/fla-supp/42/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000118
+cites_cases: ["151 So.2d 868", "174 So. 2d 606", "219 So. 2d 90"]
+---
+
+# W.S. Badcock Corp. v. Roberts
+
+## Majority (JAMES E. ALDERMAN, Circuit Judge.)
+
+JAMES E. ALDERMAN, Circuit Judge.
+Opinion on appeal: This case originated in the civil division of the county court for St. Lucie County upon a replevin action initiated by W. S. Badcock Corporation, a Florida corporation, against Mrs. Jerry Roberts, a/k/a Jeannie Roberts and Law’s Moving and Storage. Judgment was entered July 15, 1974, granting Badcock replevin but requiring Badcock to pay the storage expenses charged by Law’s. From this decision requiring Badcock to pay the moving and storage expenses, Badcock files this appeal.
+There are no disputes of fact, both parties having agreed to the following statement of the facts —
+During late 1972 through 1973 and into 1974, Mrs. Jerry Roberts, a/k/a Jeannie Roberts (hereinafter referred to as “Roberts”) entered into various purchase money security agreements with the appellant, W. S. Badcock Corporation (hereinafter referred to as “Badcock”), Subsequently, Roberts defaulted in her payments and Badcock prepared to file suit. However, without knowledge or consent of Badcock and in direct violation of the terms of the security agreements, Roberts contracted to have her furnishings, including the items obtained from Badcock, stored at the warehouse of the defendant appellee, Law’s Moving and Storage (hereinafter referred to as “Law’s”). Roberts concealed from Law’s and Law’s had no way of knowing and in fact did not know and had no knowledge whatsoever of the fact that Roberts was in default on payments for the goods and that Badcock held purchase money security agreements on the items.
+Subsequently, upon learning of the situation, Badcock filed a replevin claim against both Roberts and Law’s for which a show cause order was issued. At final hearing, the trial court judge ordered the goods returned to Badcock, but ordered Badcock to pay the storage bill due to Law’s.
+The question to be determined on this appeal is whether, under Florida law, a vendor’s unrecorded but perfected security interest in consumer goods has priority over a subsequent warehouseman lien for storage charges arising from a storage contract between the vendee and the warehouseman.
+The facts giving rise to this suit all occurred subsequent to January 1, 1967, and are controlled by the provisions of the Uniform Commercial Code as adopted in Florida. Section 679.9-310, Florida Statutes, provides as follows —
+“When a person in the ordinary course of his business furnishes services or materials with respect to goods subject to a security interest, a lien upon goods in the possession of such person given by statute or rule of law for such materials or services takes priority over a perfected security interest unless the lien is statutory and the statute expressly provides otherwise ” (Emphasis added.)
+From the undisputed facts of this case it is apparent that Law’s in the ordinary course of its business furnished services with respect to goods which were subject to the security interest of Badcock. As pointed out in the Uniform Commercial Code comment to §679.9-310, found at page 302, of volume 19C, Florida Statutes Annotated, pre-Code decisions as to priority between security devices and liens for services or material turned on whether the secured party did or did not have “title.” Under the Code, the rule was changed and the lien for services or material was made prior where they were furnished in the ordinary course of the lienor’s business and the goods involved are in the lienor’s possession. An exception is made if the lien is statutory and the statute expressly provides otherwise.
+We must therefore consider the statute which is the basis of Law’s claim of lien to determine whether it “expressly provides otherwise.” Law’s claim of lien is based upon §677.7-209, Florida Statutes. Subsection (3) thereof provides in part as follows —
+“A warehouseman’s lien for charges and expenses under subsection (1) ... is also effective against any person who so entrusted the bailor with possession of the goods that a pledge of them by him to a good faith purchaser for value would have been valid . . .”
+The official comment to §677.7-209, Uniform Commercial Code, found on page 580, of volume 19B, Florida Statutes Annotated, states —
+“Where the third party is the holder of a security interest, the rights of the warehouseman depend on the priority given to a hypothetical bona fide pledgee by Article 9, particularly Section 9-312. Thus the special priority granted to statutory liens by Section 9-310 does not apply to liens under subsection (1) of this subsection, since subsection (3) ‘expressly provides otherwise’ within the meaning of Section 9-310.”
+This conclusion is required when §679.9-310 and §677.7-209 are read together. It necessarily follows that Law’s statutory warehouseman’s lien under §677.7-209 is inferior to Badcock’s perfected purchase money security interest.
+It is noted that the result in this case under the Code is the same as it would have been under pre-Code law. Prior to January 1, 1967, the rule in Florida was that the holder of an unrecorded conditional sales contract had a superior right over a warehouseman who subsequently asserted a lien for storage, even though both had acted in good faith and without knowledge of the respective rights of the other. See Dade National Bank of Miami v. University Transfer & Storage, Fla., 151 So.2d 868, 3 DCA (1963); and First National Bank of Miami v. First Bonded Warehouse, Fla., 174 So. 2d 606, 3 DCA (1965). However, the pre-Code cases are not controlling, and the result in this case is based solely upon the provisions of the Code.
+A contrary result has been reached in the case of a garageman’s lien. In Gables Lincoln-Mercury, Inc. v. First Bank & Trust Co., Fla., 219 So. 2d 90, 3 DCA (1969), the court held that under the Uniform Commercial Code a garageman’s lien had priority over a bank’s prior security interest, inasmuch as the statute creating the garageman’s lien did not expressly provide otherwise. The result in that case was dictated by the difference in the statute creating the garageman’s lien. It might be argued that it is not consistent to allow the garageman a priority lien and to deny it to the warehouseman. However this is an argument that must be addressed to the legislature, not the courts.
+The effect of the county court’s order, requiring Badcock to pay the storage expenses charged by Law’s, was to deny the priority of Badcock’s security interest. This was contrary to the provisions of the Code and must be reversed. Therefore the judgment below is set aside and the case remanded with instructions that a final judgment of replevin be entered in favor of Badcock and against Roberts and Law’s.

@@ -1,0 +1,28 @@
+---
+court: "Palm Beach County Circuit Court"
+docket: "68C-861"
+decided: "1969-03-07"
+citations: ["33 Fla. Supp. 194"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CASALINO v. LANTANA GARDENS, Inc., et al."]
+source_url: "https://static.case.law/fla-supp/33/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005825
+cites_cases: ["169 So.2d 372", "194 So.2d 670", "96 ALR 2d 9", "99 ALR 2d 508"]
+---
+
+# Casalino v. Lantana Gardens, Inc.
+
+## Majority (HUGH MacMILLAN, Circuit Judge.)
+
+HUGH MacMILLAN, Circuit Judge.
+This court has heard the plaintiff’s motion for new trial, and has again reviewed the bombastic arguments heard in open court which prompted the court to comment after hearing the arguments and out of the presence of the jurors as follows —
+“Gentlemen, I heard some very disturbing comments between you attorneys with reference to your professional standing and ethics, and, frankly, I was shocked, and I’d like to try cases on the basis of facts, issues going to the jury, but when it gets into the question of personal malignment and bitter attack on a man’s professional ethics, I am somewhat chagrined. I am saying that without comment because I heard very violent statements made by both of you, that you are going to take future action possibly with the solicitor’s office, grand jury, and if you feel that is warranted that is your respective pleasure and discretion, but it certainly deters from the trial of a case for the consideration of a jury when they are confronted with the disposition of a factual problem between litigants, to have this bombastic tirade of personal acrimony, horrendous epithets, and invectives and innuendos, that goes to the very qualifications of a man who holds the rank and status of a court officer in this court.”
+The court recognizes its responsibilities to curb improper remarks. In the trial of this action the plaintiff was represented by Theodore Babbitt, Esq., and the defendants were represented by Leonard N. D’Aiuto, Esq. At the time these opprobrious remarks were made by respective counsel, it was the court’s impression that, in view of the apparent competency of each attorney, for some tactical or strategic reason neither attorney saw fit to voice an objection to the court for a ruling as to the propriety of such remarks and that thereby they were each acquiescing to the same. The defendants’ counsel contends that his remarks were invited and provoked, and thus wholly justified, by the attack and posture instigated by the plaintiff’s attorney. His position is not tenable as two wrongs do not make a “right”.
+Numerous cases in point indicate clearly that it is the duty of the judge presiding to interrupt improper arguments in the event the attorneys fail to object thereto. In this respect this court, although distressed-by the nature and extent of the arguments including the personal vilifications, was obviously derelict in not sua sponte interrupting these tirades and admonishing the respective attorneys to cease and desist such conduct or suffer the consequences of a mistrial being ordered.
+It is apparent that both attorneys in this action were guilty of making highly improper arguments far above and beyond the issues involved and which included personal verbal assaults on each other. These extraneous utterances, of course, have no place in a trial. The respective attorneys’ unprofessional conduct herein suggests or may be tantamount to a violation of the canons of professional ethics, of which section 17 is as follows —
+“Clients, not lawyers, are the litigants. Whatever may be the ill-feeling existing between clients, it should not be allowed to influence counsel in their conduct and demeanor toward each other or toward suitors in the case. All personalities between counsel should be scrupulously avoided. In the trial of a cause it is indecent to allude to the personal history or the personal peculiarities and idiosyncrasies of counsel on the other side. Personal colloquies between counsel which cause delay and promote unseemly wrangling should also be carefully avoided.”
+This court seriously doubts that the jury was impressed by the display of such improper and irrelevant oratory or swayed in any way in reaching its verdict for the defendants. It is the court’s candid opinion that the jury was not at all inflamed or mislead, let alone impressed, by the attorneys’ oratorial conduct but that they viewed the performance of each of the attorneys as did the court as a — “poor player who struts and frets his hour upon the stage and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.” However, in view of the numerous precedents established by the appellate courts of this state and other jurisdictions, it is the court’s opinion that a new trial should be granted in the interest of justice in order to afford the parties a “fair” trial. See Baggett v. Davis, 169 So.2d 372 (Sup. Ct. 1936); Carlton v. Johns, 194 So.2d 670 (4th Dist. 1967); 96 ALR 2d 9; 99 ALR 2d 508; Scene IV, Act V, Macbeth (Shakespeare 16th Century).
+Accordingly, and somewhat reluctantly in view of the judicial labor expended by the court not only in the trial but in this post trial hearing (the trial requiring three days and the jury deliberating 934 hours), the motion for new trial is granted, and this action is set for trial by jury at 9:30 A.M. on July 21, 1969, in circuit court-room B, room 403, Palm Beach County Courthouse, West Palm Beach, as the third civil action to be tried on said date subject to the trial calendar at that time.

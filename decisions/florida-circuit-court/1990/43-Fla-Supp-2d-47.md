@@ -1,0 +1,32 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 88-182 AP"
+decided: "1990-08-31"
+citations: ["43 Fla. Supp. 2d 47"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLEMING v CITY OF MIAMI BEACH, FLORIDA and DAVID PAUL"]
+source_url: "https://static.case.law/fla-supp-2d/43/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2019145
+cites_cases: ["400 So.2d 37", "419 So.2d 1041", "481 So.2d 95"]
+---
+
+# Fleming v. City of Miami Beach
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+David Paul (Paul) sought a variance from the City of Miami Beach (Miami Beach) to install piles in the bay outside of Paul’s waterfront property beyond 40 feet from his bulkhead line as limited by ordinance (Section 7-66 of the Miami Beach City Code). His request was to install two comer clusters of five piles each with ten more piles spaced between the comers. The marine authority of Miami Beach, the board charged with dealing with variances of this type, by tie vote failed to approve the initial request. At the same meeting Paul amended his request to a more moderate deviation from Miami Beach’s proscriptions by deleting the ten piles between the corners. The marine authority approved the amended application, but the Miami Beach commission considered and rejected both applications. Paul then petitioned this court for a writ of certiorari in Case No. 87-080 AP, which petition was denied. Joseph Z. Fleming (Fleming) a neighbor of Paul’s, was granted permission by this court to intervene in opposition to Paul in those proceedings.
+Paul then appealed to the Third District Court of Appeal, which dismissed the appeal because a petition for a writ of certiorari was the appropriate avenue for relief, and were the application to be considered as seeking certiorari, it was untimely. That court did certify the question to the Florida Supreme Court. While that procedural question was pending before the supreme court, Paul negotiated a settlement with Miami Beach by reducing his request even further, now to two comer clusters of three piles each. Once more Paul appeared before the marine authority which approved the application as did the Miami Beach commission — both over the strenuous objections of Fleming. Paul then suggested that the supreme court dismiss his petition for mootness. In response to Fleming’s argument that there should be no dismissal since he was not agreeing, Paul urged that a dismissal by the supreme court would not prevent Fleming’s seeking further relief in separate proceedings. Miami Beach’s adoption of the resolution permitting the variance was followed by a notice of appeal to this court by Fleming, and the dismissal of the petition by the supreme court.
+Addressing the issues raised here, we conclude that the first appearance by Paul before the marine authority and the denial by the city commission ended that application. The subsequent unsuccessful petition for writ of certiorari to this court followed by the visits to higher courts did not change that result.
+Chapter 7 of the Miami Beach City Code entitled “City of Miami Beach Marine Ordinance”, among other matters deals with mooring piles and their location (Section 7-66). Section 7-17 establishes the marine authority which has - per Section 7-21(c) - “. . .the power and authority to hear and pass upon applications for variances or waivers of the provisions of this chapter. Such applications shall be granted only in instances where the deviations from the minimum standards herein provided are of a minor character, or in case of hardship, and it appears that substantial compliance with the minimum standards has been made by the applicant, and that the granting of a variance or waiver would not be detrimental to the occupants, owner, operator, or to the public health, safety and welfare.”
+Section 7-23 provides that a person aggrieved by any final action by the marine authority may seek review by the circuit court by petition for a writ of certiorari. That procedure was followed as indicated above, thus concluding the first chapter in this sage. We therefore agree with the appellant that this court’s prior opinion is res judicata, but only as to the application that was then considered.
+We now address the next application that resulted from negotiations between Paul and Miami Beach. That was different from the prior request, and there is no prohibition in Chapter 7 of the Miami Beach City Code against a subsequent and changed variance application. See Gunn v Board of County Commissioners, Dade County, 481 So.2d 95 (Fla. 1986).
+Even though the application was preceded by negotiations (not prohibited), the requirements of Sections 7-66 and 7-66.2 for a public hearing, recommendation by the marine authority and approval by the city commission were followed. Indeed Fleming participated in those proceedings and his objections were heard and presumably considered.
+Now Fleming seeks review by this court, which we consider to be a petition for writ of certiorari. Paul objects to Fleming’s seeking appellate review since Fleming was an intervenor on the side of Miami Beach which has now become adverse to Fleming. We reject that contention, if for no other reasons because Paul represented to the supreme court that Fleming had recourse to this court and Paul cannot now maintain an inconsistent position.
+Finally we consider whether or not the marine authority and the city commission acted within their authority in granting the variance. As set forth in Nance v Town of Indialantic, 419 So.2d 1041 (Fla. 1982), the proper standard for review of a variance application result is whether the lower tribunal had before it competent substantial evidence to support its finding.
+In Town of Indialantic v Nance, 400 So.2d 37 (Fla. 5th DCA 1981), the same case which was approved by the supreme court above, the court stated (on page 40) that the task of the reviewing court is to insure that the authority’s decision is based on evidence a reasonable mind would accept to support a conclusion.
+We conclude that there was such evidence in this case. Although we might not agree with Miami Beach’s decision in granting the variance, we are not privileged to substitute our judgment for that of the marine authority and city commission where there was evidence (albeit disputed) that reasonably supported the decisions of those bodies.
+The petition is denied.

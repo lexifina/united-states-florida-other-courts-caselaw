@@ -1,0 +1,30 @@
+---
+court: "Okeechobee County Circuit Court"
+docket: "809"
+decided: "1964-02-24"
+citations: ["24 Fla. Supp. 139"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FORT PIERCE MEMORIAL HOSPITAL, Inc. v. OKEECHOBEE COUNTY."]
+source_url: "https://static.case.law/fla-supp/24/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999219
+---
+
+# Fort Pierce Memorial Hospital, Inc. v. Okeechobee County
+
+## Majority (WALLACE SAMPLE, Circuit Judge.)
+
+WALLACE SAMPLE, Circuit Judge.
+Final judgment: By this suit for a declaratory judgment plaintiff hospital seeks an answer to the following question—
+“May a board of county commissioners limit the liability of the county for hospital services rendered to an indigent resident of the county by an out-of-county hospital under chapter 401 F.S. (Hospital Service for the Indigent)?”
+The court finds and determines the answer to be in the affirmative.
+The record is short; the facts simple and undisputed; no legal precedent has been established; and the answer has a vital bearing upon the administration of an important segment of the social welfare program of the state of Florida, and of the counties thereof. The answer is also of grave importance to the hospitals which participate in the program.
+No one will dispute the right of the state to limit and regulate its participation in the program, and the state also has the power to limit the rights of those who benefit from the program so long as all recipients of benefits are treated equally. The county is an integral unit of the state, and the county government is an integral unit of the state government. Participation by the county in the program is discretionary and voluntary; and is effected through a contract, or agreement, by the county commissioners with the state board of health, and the budgeting of the necessary funds. The county, like the state, may place limitations on the rights of those who benefit under the program so long as all recipients of benefits are treated equally.
+The limitation, of 12 days of hospitalization for which Okeechobee County would pay, is a discretionary matter within the jurisdiction of the board of county commissioners, and as established applies to in-county as well as out-of-county hospitals. The 12 day limitation was known in advance to the administrative officials of the plaintiff hospital. It was known to the county health officer for Okeechobee County who serves in the same capacity for Saint Lucie County (adjoining Okeechobee County) in which plaintiff hospital is located. Other counties have similar, and varying, limitations. The state gives recognition to a 12 day limit and a 30 day maximum.
+To hold otherwise than indicated herein would divest county commissioners of control over their budget; open the door for exhaustion of the entire budget on a single, or few, indigent patients; allow uncontrollable liabilities to be created against the county; and generally create havoc in the administration of the program.
+Regrettable as it may be, the hospitals, nearly all of which throughout the state need more help, not less, are practically helpless in their position of rendering service for which there is no guarantee of full reimbursement. Seldom, if ever, are they in position to know, or ascertain, at the time an emergency patient in critical condition is admitted, just exactly how long hospitalization will be required for the patient.
+The plaintiff relies heavily on the provisions of 401.13 F.S.; but the priority therein granted to an out-of-county hospital must of necessity be confined to services rendered within the prescribed limited period. Otherwise the door would be opened for possible depletion of the budget by one or more out-of-county hospitals and contribute to the loss or damage to the in-county hospitals to which, no doubt, a large percentage of the budgeted funds are paid annually. The priority of 401.13 F.S. is a safeguard for the benefit of the out-of-county hospital against discrimination in favor of the home-town or in-county hospital. In the instant case the 12 day limitation applies to both in-county as well as out-of-county hospitals. The county boundary line has no significance here other than putting into effect the priority mentioned in 401.13 F.S. If plaintiff hospital were located in Okeechobee County the result would be the same, except it would not have any priority.
+The problem presented here is not without its humanitarian and philosophic aspects. Lizzie Mae Bailey, an indigent resident of Okeechobee County who started it all, suffering second and third degree burns was transported by her boy friend to Fort Pierce Memorial Hospital in Saint Lucie County. She would have died had she not been hospitalized and treated immediately. After 12 operations and 66 days she was cured and departed. The boy friend, who agreed to pay the bill but who was mistaken in the direction of the nearest hospital, also departed—to Raiford. Left behind are those who labor daily to reduce hospital costs and taxes knowing full well the task is endless and that tomorrow, and thereafter, there will be other Lizzie Maes who need the merciful care and attention that only the hospitals, doctors and the taxpayers’ dollars are available to provide. There is no solace for hospitals in the conclusions herein reached, and little comfort for county commissioners. The ultimate answer to the problem and the inequities disclosed by this lawsuit lies not with the court but with the legislature, the board of health, the county commissioners and the hospitals, jointly and collectively, and ultimately the taxpayers from whom all blessings, in the nature of financial assistance to the indigents, flow.
+It is ordered and adjudged that judgment be, and the same is hereby, entered in favor of the defendant, Okeechobee County; that plaintiff, Fort Pierce Memorial Hospital, take nothing hereby; and that the defendant go hence without day.

@@ -1,0 +1,35 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 89-01752 (01)"
+decided: "1989-11-08"
+citations: ["38 Fla. Supp. 2d 97"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PROCTER v LE VAL DE LOIRE, INC."]
+source_url: "https://static.case.law/fla-supp-2d/38/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2013323
+cites_cases: ["126 So.2d 595", "162 So.2d 274", "324 So.2d 676", "336 So.2d 106", "353 So.2d 840", "396 So.2d 823", "419 So.2d 678", "446 So.2d 1124", "452 So.2d 65", "462 So.2d 1151", "471 So.2d 67", "474 So.2d 239", "476 So.2d 281", "485 So.2d 426", "497 So.2d 901", "501 So.2d 101", "511 So.2d 419", "531 So.2d 84", "533 So.2d 817"]
+---
+
+# Procter v. Le Val De Loire, Inc.
+
+## Majority (JACK MUSSELMAN, Circuit Judge.)
+
+OPINION OF THE COURT
+JACK MUSSELMAN, Circuit Judge.
+ORDER ON DEFENDANT, LE VAL DE LOIRE AND PLAINTIFF; DONALD G. PROCTER, JR’S. MOTIONS FOR SUMMAR Y JUDGMENT
+This cause came to be heard on Plaintiff, DONALD G. PROCTER, JR., and Defendant, LE VAL DE LOIRE’S, Motions for Summary Judgment. Upon consideration it is
+ADJUDGED that the motion for summary judgment is GRANTED. A contract is ambiguous when its language is reasonably susceptible to more than interpretation, or is subject to conflicting inferences. Specialty Restaurants Corp. v City of Miami, 501 So.2d 101 (Fla. 3d DCA 1987). The construction of a written document, presents a question of law. Peacock Construction Co. v Modern Air Conditioning, 353 So.2d 840 (Fla. 1977); Quayside Associates v Harbour Club Villas Condominium Association, 419 So.2d 678 (Fla. 3d DCA 1982); Xepfler v Neandross, 497 So.2d 901 (Fla. 4th DCA 1986).
+The lease agreement entered into contains no glossary of terms, thus the plain and ordinary meaning of the words used therein are to be applied. State Department of Business Regulation v Salvation, Ltd., 452 So.2d 65 (Fla. 1st DCA 1984); Eastern Insurance Company v Austin, 396 So.2d 823 (Fla. 4th DCA 1981). One looks to the dictionary for the plain and ordinary meaning of words. City of Miami Beach v Royal Castle System, Inc., 126 So.2d 595 (Fla. 3d DCA 1961).
+The phrase at issue contains the words “another professional”. The term “professional” has, historically, been given a limited definition. Webster’s Dictionary: 1. engaged in, or worthy of the high standards of a profession. American Heritage Dictionary: 1. Of, related to, engaged in, or suitable for a profession. Noun. A person following a profession. Black’s Law Dictionary: 1. A vocation or occupation requiring special, usually advanced, education and skill, (e.g. law or medical professions). Also refers to whole both of such profession. The labor and skill involved in a profession is predominantly mental or intellectual, rather than physical or manual.
+The Florida Supreme Court in Pierce v AALL Insurance, Inc., 531 So.2d 84 (1988) stated that:
+“Education is the common factor among all vocations which are considered professions. A minimum of a four-year baccalaureate degree is required before any person can be called a professional in the field in which [that person] completed their college degree . . . It is this specialized education and academic preparation which we believe distinguishes a profession from other occupations. Without such education the term is rendered meaningless.” The Court continued, stating that “^professionals are usually guided by a code of ethics or standard of moral conduct. The failure of a professional to adhere to the prescribed conduct results in discipline from the profession’s governing body.” Pierce, at 88.
+The ordinary meaning accorded the term “professional” and the use of the additional modifier of “another”, in the lease at issue, serves to indicate that the Plaintiff contemplated one who was in the same professional field as himself. Every provision in an agreement should be given meaning and effect. American Employers Insurance Co. v Tay lor, 476 So.2d 281, dism. 485 So.2d 426 (Fla. 1st DCA 1985). A “professional” is one who participates in a “profession” as defined above. Words in a contract should be given their natural meaning, or meaning most commonly understood in relation to subject matter and circumstances, with a reasonable construction preferred to an unreasonable one. Royal Investment & Development Corp. v Monty’s Air Conditioning Service, Inc., 511 So.2d 419 (Fla. 4th DCA 1987). The lease indicates that the parties anticipated that the premises would be sublet to “another professional” only. The modifier “another” serves to enhance the already plain meaning of the term “professional” found in the agreement.
+The agreement should not be given a meaning other than that expressed. Royal Investment & Development Corp. v Monty’s Air Conditioning Service, Inc., 511 So.2d 419 (Fla. 4th DCA 1987); Mulhern v Mulhern, 446 So.2d 1124 (Fla. 4th DCA 1984). The existence of a clear and unambiguous contract is the best evidence of the intent of the parties, and its meaning and effect are questions of law for determination by the court. Jaar v University of Miami, 474 So.2d 239 (Fla. 3d DCA 1985); Innkeepers International v McCoy Motels, 324 So.2d 676 (Fla. 4th DCA 1975), cert. denied, 336 So.2d 106 (Fla. 1976). This Court finds that the language set out in the subject lease is clear and unambiguous so that parol evidence, to clarify the parties’ intent, shall be excluded. Specialty Restaurants Corp. v City of Miami, 501 So.2d 101 (Fla. 3d DCA 1987); Atlas Sewing Center, Inc. v Belk’s Department Stores, 162 So.2d 274 (Fla. 2d DCA 1964).
+A contract is interpreted against the person for whose benefit it was drafted where its meaning is in doubt. Finlayson v Broward County, 471 So.2d 67, appeal after remand, 533 So.2d 817 (Fla. 4th DCA 1985); Belen School, Inc. v Higgins, 462 So.2d 1151 (Fla. 4th DCA 1984). Donald G. Procter, Jr., Plaintiff, drafted and proposed the subject lease. Mr. Procter is now bound by the limitations and phraseology which he chose. Both parties endorsed the lease agreement and indicated an intention to be bound by its limitations and granting of rights and privileges.
+The Plaintiff has raised the argument that the Defendant-landlord unreasonably withheld written consent affirming rental to the new tenant. The record reflects that this argument has no merit. The Plaintiff, Mr. Procter, did not comply with the notification requirements of the lease. There was no effort to obtain written permission approving the proposed tenant chosen by the Plaintiff. Plaintiff should not reap the benefit of this argument in that he did not comply with the condition precedent present in the lease. The Plaintiff is, therefore, bound by the clear meaning of the lease agreement and the specific terms of which he was the author.
+The Motion for Summary Judgment is granted for the Defendants.
+The granting of this motion is deemed to settle all remaining issues raised by the parties.
+ORDERED at Fort Lauderdale on November 8, 1989.

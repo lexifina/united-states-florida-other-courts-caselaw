@@ -1,0 +1,32 @@
+---
+court: "Pinellas County Circuit Court"
+decided: "1953-04-10"
+citations: ["3 Fla. Supp. 153"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF ST. PETERSBURG v. ALLEN."]
+source_url: "https://static.case.law/fla-supp/3/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1981616
+cites_cases: ["198 S. E. 777", "235 Pac. 6", "41 S.E. 2d 448", "70 P. 2d 1049", "75 N. Y. Supp. 777", "77 N. Y. Supp. 145", "77 N. Y. Supp. 151"]
+---
+
+# City of St. Petersburg v. Allen
+
+## Majority (VICTOR O. WEHLE, Circuit Judge.)
+
+VICTOR O. WEHLE, Circuit Judge.
+This is an appeal from the municipal court of the city of St. Petersburg in this county, in which court the defendant was tried and convicted, after trial on an affidavit charging that—
+On the 29th day of October, A. D. 1952 in the City aforesaid, one, Charles H. Allen did unlawfully commit disorderly conduct contrary to chapter 22, section 26, revised ordinances of the City of St. Peters-burg 1946 in such case made and provided, and against the peace and dignity of the City of St. Petersburg, Florida.
+Under the procedure outlined for such appeal it was not necessary for the appellant to file any assignments of error but on the oral argument of the appeal the appellant contended, among other things, that the affidavit under which he was tried did not charge him with the commission of an offense.
+After hearing oral argument the court asked for briefs to be filed by the respective parties. This was done, together with an additional brief prepared by David Crabtree, an attorney of this circuit, acting as amicus curiae at the request of the court. The briefs from these three different sources adequately present the various views on the question involved.
+A criminal statute, to be valid, must be sufficiently definite to show with reasonable certainty what acts the legislature intended to prohibit and punish. A general description may be sufficient. It is sufficient to describe an offense by a general name known to the common law, for in such case the common law definition of the crime will be adopted, and will be considered a part of the statute itself.
+There was no such offense as “disorderly conduct” under the common law and we must therefore look to some legislative definition.
+There is no such statutory offense as “disorderly conduct” in Florida. However, the city of St. Petersburg, under its charter, has the right to ordain and enforce ordinances and presumably would have the right, by ordinance, to define “disorderly conduct” and to provide that the commission of the act so defined constituted a punishable offense.
+Section 26 of chapter 22 of the revised ordinances of the city of St. Petersburg, upon which the affidavit in this case is based, provides — “Whoever is guilty of disorderly conduct or commits a breach of the peace shall be punished — ” That is the extent of the so-called “definition” in the city ordinances. The city through its attorneys maintains that such is a sufficient statement of an offense, citing to that effect Collins v. City of Norfolk (Va.), 41 S.E. 2d 448, and City of Seattle v. Franklin (Wash.), 70 P. 2d 1049.
+Although the authorities above cited are entitled to due respect, this court believes the more persuasive weight of authority is to the effect that the ordinance or ordinances should define as well as forbid “disorderly conduct” in order for its commission to be a punishable offense. If it should be punishable without definition, there would be too wide a discretion given to the court and abuses could readily arise. As was said by Justice Gaynor of the New York supreme court in an early decision, In re Newkirk, 75 N. Y. Supp. 777—
+It [disorderly conduct] is a loose charge which standing alone, i.e. without a statement of the acts alleged to constitute it, may mean anything a policeman or magistrate may wish, and has been very generally resorted to in the city of New York (where most abuses against individual rights originate), against persons who are guilty of no criminal offense, but whom some policeman or other person wishes to annoy and oppress by arrest and imprisonment. It is unfortunate that such a loose phrase has any statutory sanction. It is dangerous, in that it affords room for false arrests and oppression, especially of those whose rights and liberties ought to be jealously guarded, namely the weak, uninfluential and friendless, whose protection should be the chief aim of government.
+The same distinguished jurist followed and emphasized the above decision in People ex rel. Frank v. State Reformatory, 77 N. Y. Supp. 145, and People ex rel. Clark v. State Reformatory, 77 N. Y. Supp. 151, where he added — “As for the phrase ‘disorderly conduct’ standing alone, there is no such offense. If under that phrase policemen and magistrates were free to cáll anything they choose disorderly conduct, and to arrest and hold therefor, no one would be safe. But policemen and magistrates cannot create or define criminal offenses. That can only be done by the legislature, and cannot under our form of government be delegated.” See also Griffin v. Smith (Ga.), 198 S. E. 777, and City of Seattle v. Jordan (Wash.), 235 Pac. 6.
+The phrase “disorderly conduct” has been defined by the legislative authorities in many states and when so defined can be the basis of a criminal prosecution. Either the Florida legislature, by statute, or the city council, by ordinance, could enact a definition of disorderly conduct and declare the commission thereof to be a crime which in turn would justify prosecution for acts constituting such disorderly conduct. For many years citizens have been arrested under such a charge by police officers of the city of St. Petersburg and have been prosecuted and sometimes convicted. No one apparently has previously challenged the right of the city to prosecute for this offense. This court now finds and decrees that in the absence of a legislative definition there is no such offense as “disorderly conduct.”
+The unpleasant and degrading nature of the acts which appellant is alleged to have committed, even if true (and the evidence thereof is by no means overwhelming) does not and cannot justify his prosecution for and conviction of a non-existent crime. The court therefore rules that the judgment of the lower court be and the same is hereby reversed and the appellant ordered discharged.

@@ -1,0 +1,31 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 86-7-AP"
+decided: "1988-09-03"
+citations: ["24 Fla. Supp. 2d 127"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. W. HUTSON CONSTRUCTION, INC. v TEBAULT, et al."]
+source_url: "https://static.case.law/fla-supp-2d/24/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2037473
+---
+
+# D. W. Hutson Construction Inc. v. Tebault
+
+## Majority (JOHN S. COX, Circuit Judge.)
+
+OPINION OF THE COURT
+JOHN S. COX, Circuit Judge.
+This is an Appeal from a Final Judgment entered by the Trial Court on February 25, 1986 adverse to Appellant. The suit was brought in the Trial Court by Appellees (hereinafter called Buyers) to recover earned money deposits totaling $2,000.00 which had been made in conjunction with a written agreement by them to purchased improved real property from Appellant (hereinafter called Seller). Said purchase was contingent upon the Buyers obtaining a mortgage loan of $60,000.00 and the responsibility for arranging such loan was assumed by the Seller with the Buyers being responsible to make application with any lender designated by Seller and to furnish all credit, employment and financial information required by the lender. The agreement also required the Buyers to take any action necessary to “comply with any of the Lender’s contingencies or conditions that concern the approval of the Buyer for purposes of obtaining financing”.
+The agreement further provided that “at the option of the Seller, the Buyer will reapply within five (5) days at an alternate Lender in the event the original loan application is declined”. Also Paragraph Numbered 28 of the agreement provided, in its pertinent parts that:
+“In the event the loan application is rejected by either* * * the mortgage company, or other institutions passing upon the credit of the Buyer, then the earnest money deposit shall be refunded to Buyer, less credit report charges, appraisal fees, plan preparation, rental charges, and damages to house, if any, and this contract shall be null and void.”
+This written Purchase and Sale Agreement was executed by Buyers on March 24, 1985 and accepted by Seller on March 25, 1985. At the direction of Seller, the Buyers promptly made application on March 26, 1985 for a $60,000.00 mortgage loan with First Federal Savings & Loan Association of Jacksonville listing their respective gross incomes, monthly expenses, assets and liabilities. Ten days later on April 6, 1985 the Buyer, Marianna D. Noda, resigned her job because she had been offered a promotion consisting of additional responsibilities but no increase in pay. She promptly notified First Federal Savings & Loan Association that she had resigned from her job, which resignation was verified with her former employer by First Federal. In addition to the fact that Ms. Noda had resigned her job, the Credit Bureau of Jacksonville submitted an adverse credit report on her to First Federal and on April 23, 1985, First Federal declined to make the mortgage loan due to “credit and insufficient income”. The Seller did not exercise its option to require Buyers to reapply within five (5) days with an alternate Lender after First Federal declined to make the mortgage loan.
+The Buyers applied to Seller for refund of their earnest money deposit after their loan application had been rejected by First Federal and Seller refused to pay. Therefore, suit was filed in the lower Court.
+Seller’s contention both in the Trial Court and on this Appeal is that Buyers breached the Purchase and Sale Agreement and made a “conscious decision to foil performance* **by disqualifying themselves from a favorable loan application” by Ms. Noda’s act of resigning her job just 10 days after the loan application had been made to First Federal. Thus Seller relies upon the well settled principles of contract law that one who prevents or makes impossible the performance or happening of a condition precedent upon which his ability, by the terms of the contract, is made to depend cannot avail himself of its nonperformance; that he cannot take advantage of responsibility to the promisee; nor can he avail himself of a nonperformance of such condition precedent, which he has himself occasioned against the consent of the promisee in order to avoid his own liability on the contract.
+Also Seller relies upon the allied principle of contract law that in situations where one party’s cooperation is an implied condition of the contract, and that cooperation is not forthcoming, the recalcitrant party is estopped by his own recalcitrance from claiming reliance on the other party’s promise.
+The Court recognizes and agrees with the principles of law relied upon by the Sellers. However, the facts of this case, as presented to the Trial Court and as set forth in the Record-On-Appeal do not warrant the imposition of those principles of law so as to defeat the Seller’s claim for refund of their earnest money deposit.
+This Court finds there is adequate substantial evidence to sustain the findings and conclusions of the Trial Court and, having so found, this Court sitting in an Appellate capacity, has no authority to disturb those findings and conclusions. The respective legal positions and contentions of the parties were clearly made known to the Trial Judge, who had the advantage of seeing and hearing the witnesses as they testified. His resolution of any conflicts in the evidence and his findings, which are implicit in the Judgment appealed from, are supported by the evidence.
+Accordingly, the Judgment entered by the learned Trial Judge on February 25, 1986, which is here on appeal, is hereby affirmed. This Court further rules that the Buyers (Appellees) are entitled to an award of attorneys’ fees for the services of their attorneys in connection with this Appeal. Accordingly, this cause is hereby remanded to the Trial Court for the purpose of awarding to Appellees such Appellate attorneys’ fees and such attorneys’ fees for services in the Trial Court as may be found to be appropriate.
+Dated at Jacksonville, Duval County, Florida, this 3rd day of September, 1986.

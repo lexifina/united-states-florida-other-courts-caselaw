@@ -1,0 +1,36 @@
+---
+court: "Palm Beach County Circuit Court"
+docket: "71-C-5369"
+decided: "1974-03-14"
+citations: ["40 Fla. Supp. 154"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARMICHAEL v. SHELLEY TRACTOR & EQUIPMENT CO."]
+source_url: "https://static.case.law/fla-supp/40/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001743
+cites_cases: ["138 So. 742", "259 So.2d 524", "266 So.2d 122", "91 So.2d 649", "92 So.2d 633"]
+---
+
+# Carmichael v. Shelley Tractor & Equipment Co.
+
+## Majority (LEWIS KAPNER, Circuit Judge.)
+
+LEWIS KAPNER, Circuit Judge.
+This case was heard on November 30, 1973 at which time the court found for defendant. A final judgment thereon was entered on December 14, 1973, and defendant's motion to tax costs and attorney’s fees was filed on that same date. On January 7, 1974 the plaintiff filed a notice of appeal and the record on appeal is docketed in the appellate court. The issue now presented is whether the filing of said notice of appeal and docketing of the record in the appellate court divests this court of jurisdiction to tax costs and attorney’s fees in the original action.
+This presents one of those issues that delight law professors, judges and moot court chairmen with its myriad of technical niceties, but are of no real concern to the litigants except that the rule be clear one way or the other. Pending appeal, there is some logic supporting the proposition that trial courts should have jurisdiction to tax costs, or that appellate courts should have such jurisdicion. There is no logic, though, in the proposition that both courts, or no court, should have such jurisdiction, or that the rule be uncertain. Yet, one has to strain one’s powers of interpretation to discover wherein such authority lies.
+It is well settled as a general rule that an appeal stays further proceedings in the trial court, at least as to the subject matter "of the appeal, until the appellate court acts thereon. Further, a supersedeas is not essential to the acquisition of or to the preservation of appellate jurisdiction. Thursby v. Stewart, 138 So. 742, 751. However, defendant urges that an order taxing costs is an exception to this rule.
+To support his position, defendant cites 2 Florida Jurisprudence, Appeals, §136, no. 20 — “The filing of notice of appeal does not divest the trial court of jurisdiction to tax costs during the appeal period.” Florida Jurisprudence based its decision on Winters v. Parks, 91 So.2d 649, 652 (Sup. Ct., 1956), which held as follows —
+“Although it might have been better procedure, to have taxed the costs in tíre original decree, we can find no objection to the procedures actually followed in this instance [viz, taxing the costs subsequent to the original decree and after the time of filing of the petition for rehearing had expired], the appeal period not having expired and the chancellor not having lost jurisdiction by the filing of notice of appeal. See Rule 1.38, 30 FSA, of FRCP.” (Emphasis added.) (Rule 1.38 is now substantially identical to Rule 1.540 (a)).
+It is not clear from the factual recitation in that case whether a notice of appeal had been filed but that the chancellor did not thereby lose jurisdiction, or whether the chancellor had not lost jurisdiction because a notice of appeal was not filed prior to the order taxing costs. However, the court refers to Rule 1.38 which at that time provided as follows —
+. . During the pendency of an appeal, such mistakes [clerical mistakes arising from oversight or omission] may be so corrected . . . with leave of the appellate courts (Emphasis added.)
+In other words, assuming the failure to tax costs to be a “clerical mistake” sub ject to correction by the trial court, it may not be so corrected, pursuant to Rule 1.38, by that court except upon leave of the appellate court. Thus, the Supreme Court apparently found that the chancellor did not lose jurisdiction because a notice of appeal had not yet been filed; therefore, the court did not hold, as reported in Fla. Jur., that the filing of a notice of appeal does not divest the trial court of jurisdiction to tax costs.
+The case of City of Miami Beach v. Cummings, 266 So.2d 122, 126 (3rd DCA, 1972) is more to the point. In that case, a condemnation proceeding pursuant to FAR 5.12, the city filed an appeal on July 1, 1971. One day later, the trial court entered an order setting costs and attorney’s fees. The appellate court reversed, citing several authorities and adding “But cf. Winters v. Parks, 91 So.2d 649 (en banc),” which would indicate that Winters means something it clearly does not.
+City of Miami Beach cited El Prado v. Weaver, 259 So.2d 524 (3rd DCA, 1972) which is squarely on point here except that El Prado involved a final judgment which had been superseded whereas in the instant case no supersedeas has been issued. However, since the record on appeal has been docketed, that distinction is meaningless.
+This brings us back to Rule 1.540 (a), FRCP, which permits the correction by the trial court of “clerical mistakes . . . arising from . . . omission . . . with leave of the appellate court.”
+While it can certainly be argued that a failure in this case to tax costs and attorney’s fees at the time of the final judgment is not, strictly speaking, a “clerical mistake arising from omission,” nevertheless, when considering the local custom of deferring such questions, for convenience sake, to a postjudgment hearing, the better interpretation is to consider a failure to include a provision for costs and attorney’s fees to be a “clerical mistake” within the meaning of Rule 1.540 (a).
+This conclusion is further bolstered by the provision of this final judgment relating to this question — “Parties have stipulated that evidence on attorney’s fees and costs may be taken in connection with the motion to tax costs.” (Emphasis added.) Inherent in the fact that the court found for the defendant is the conclusion that the plaintiff is obliged to pay costs and attorney’s fees, the exact sums being uncertain at the time of the final judgment; yet, this is not specifically noted. This clearly was a mistake or oversight, one caused by reliance upon local custom and specific stipulation of the parties. Furthermore, Winters v. Parks, supra, is clear authority for such an interpretation because it referred to this rule in deciding whether the trial court had jurisdiction to rule on these very matters.
+In conclusion, this matter is governed by Rule 1.540 (a) FRCP, which permits the trial court to enter an order taxing costs after an appeal is pending, provided that leave of the appellate court is granted.
+It is thereupon ordered that defendant’s motion to tax costs and attorney’s fees is denied without prejudice to apply to the appellate court for leave to present the matter to this court for determination.
+A supersedeas has not been filed in this case; however, the record on appeal has already been docketed in the appellate court, and the effect on the trial court’s jurisdiction is. virtually the same. See Barns, Paul and Mattis, Taylor, 17 University of Miami Law Review, 276, 289 (1963), reported at 31 FSA 231; In re Jaeckel's Estate, 92 So.2d 633 (Sup. Ct., 1957).

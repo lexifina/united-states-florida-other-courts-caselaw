@@ -1,0 +1,53 @@
+---
+court: "Dade County Circuit Court"
+docket: "61-C-12144"
+decided: "1962-06-12"
+citations: ["20 Fla. Supp. 5"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLISON v. DOWNES."]
+source_url: "https://static.case.law/fla-supp/20/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988956
+---
+
+# Allison v. Downes
+
+## Majority (ROBERT H. ANDERSON, Circuit Judge.)
+
+ROBERT H. ANDERSON, Circuit Judge.
+This cause, pursuant to order of court, came on for trial before the court on April 17, 1962, and the court having heard the testimony, having examined the documentary evidence introduced by the parties, having observed the witnesses and their demeanor, and having examined the record, and being advised in the premises, enters its —
+Findings of Fact
+1. Plaintiff is the duly appointed and qualified administrator c.t.a. of the estate of Claudia M. Goetz, deceased, and is now acting in that capacity.
+2. Defendant, Eldridge Downes, III, a single man, is a resident of Dade County, Florida, and is over the age of twenty-one years.
+3. The husband of Claudia M. Goetz, Leon E. Goetz, was killed in an accident on or about August 8, 1958. Prior to his death the relationship between the defendant and Mr. and Mrs. Goetz was one of a casual business and friendly nature. Shortly after Mr. Goetz’s death the defendant renewed his acquaintance with Mrs. Goetz and commenced to advise her as to investments. The defendant advised her as to real estate purchases, investments, and the settlement of Mr. Goetz’s estate. The defendant planned to take over all of Mrs. Goetz’s business affairs and thereafter supervised the purchase of her home and furniture, and undertook to advise her how to invest her money. The defendant secured the complete, absolute trust and confidence of Mrs. Goetz, and mutual implicit trust and confidence existed between the defendant and Mrs. Goetz.
+4. Shortly after renewing his acquaintance with Mrs. Goetz the defendant commenced to have sexual relations with her. A violent and vulgar illicit sexual relationship between the defendant and Mrs. Goetz commenced and continued until shortly before her death. The defendant and Mrs. Goetz occasionally lived together and the defendant had a key to her apartment and had access to her physical favors at any time he desired them.
+5. In the month following Mr. Goetz’s death the defendant and Mrs. Goetz announced their proposed engagement. The defendant promised to marry Mrs. Goetz, and thereafter assumed toward her the attitude, manner and status of a betrothed. The defendant repeatedly expressed his love for Mrs. Goetz and made elaborate plans for their marriage in May, 1959, including a plan to purchase his mother’s home for $35,000. The defendant’s promise to marry Mrs. Goetz was not made in good faith. The defendant carried on an intimate sexual relationship with another woman during the entire time he was ostensibly “engaged” to Mrs. Goetz and advised the other woman that he did not intend to marry Mrs. Goetz and that Mrs. Goetz was merely a social acquaintance whom he dated for parties and dances. Moreover, the defendant also placed a condition on his marrying Mrs. Goetz — that she transfer all of her property to their joint names.
+6. During the course of their mutual confidential relationship and their illicit sexual relationship the defendant obtained the following property from Mrs. Goetz —
+Nature of Property Date Amount or Value
+Check April 29, 1959 $ 2,000.00
+Check May 28, 1959 35,000.00
+Check June 24, 1959 66.80
+Check Aug. 8, 1959 21.55
+Check Sept. 8, 1959 100.00
+Mercedes Benz Nov. 4, 1959 5,158.50
+'Check Dec. 25, 1959 50.00
+Check Nov. 9, 1960 400.00
+TOTAL $42,796.85
+The defendant readily acknowledged that he received the property, and on inquiry by plaintiff stated that the money was “a gift with no strings attached.” He refused to make any other accounting or to give any credible explanation.
+7. As to certain of the property obtained by the defendant, it should be specifically pointed out that the defendant made elaborate plans to marry Mrs. Goetz in May of 1959, and although he did not marry her in May of 1959, he received a check in the amount of $2,000 from her in April, 1959, and received a check in the amount of $35,000 from her in May, 1959.
+8. During her marriage Mrs. Goetz did not drink. As a result of Mr. Goetz’s death in August, 1958, Mrs. Goetz became ill, depressed and emotionally disturbed. She commenced drinking alcoholic beverages after having had her first drink with the defendant, and her drinking continued and became progressively and continually worse. There is no question but that Mrs. Goetz was a chronic alcoholic, and her alcoholism was such that on several occasions she had to be hospitalized for acute alcoholism. Her doctor, in addition to treating her for chronic alcoholism, recommended psychiatric treatment, which she did not undergo. Mrs. Goetz died on December 15, 1960 from an overdose of Placidyl shortly after being released from Mercy Hospital on November 9, 1960, where she was being treated for acute alcoholism.
+Conclusions of Law
+1. The one alleging that property was procured by undue influence has the burden of proof; however, it has long been the recognized rule in Florida that where a confidential relationship exists between two parties, a gift made to one in whom confidence is reposed is prima facie void and the donee has the burden of proving the gift was bona fide. Facts that give rise to the application of this principle were proved beyond doubt by the plaintiff; hence, the transfer of property of a value of $42,796.85 to defendant is prima facie void and presumed to have resulted from the exercise of undue influence.
+2. Where an illicit sexual relationship exists between two parties, a gift to one of the parties is prima facie void and the donee has the burden of proving its validity. Facts that give rise to the application of this principle were proved without dispute; accordingly, the gifts of property of a value of $42,796.85 to defendant are prima facie void and presumed to have resulted from the exercise of undue influence.
+3. The defendant had the burden of coming forward with the proof that the claimed gifts of money and property of a value of $42,796.85 were valid and that the transactions between himself and Mrs. Goetz were entered into fairly, openly, voluntarily and with full understanding of the facts. The defendant failed to rebut the presumption that the gifts obtained by him were obtained by the exercise of undue influence, and that presumption prevails. Morever, that presumption is buttressed by the failure of the defendant to testify in his own behalf because it is presumed that his testimony would be adverse to his interests for it is the rule that where the burden is on a party to prove a material fact within his knowledge and he fails to testify, there is a presumption that his testimony would be adverse to his interests.
+4. Even if the property of a value of $42,796.85 was not presumed to have been obtained by undue influence, the defendant would still be held accountable to plaintiff, for where one acquires property from another by virtue of a promise to marry that person, and the promise is not made in good faith but for the purpose of acquiring an interest in property, the property is deemed to be acquired by deceit and fraud. That principle is applicable in the present cause, for the evidence conclusively shows that the promise on the part of the defendant to marry Mrs. Goetz was not made in good faith but for the purpose of acquiring property from Mrs. Goetz.
+5. In defense of this action, the defendant had a purported agreement identified and offered into evidence. The agreement, as shown on its face, was entered into between the defendant and Mrs. Goetz because the parties had agreed to void their prior agreement to marry. Accordingly, it comes within the prohibition of section 771.06, Florida Statutes, and is contrary to the public policy of this state and absolutely void. Even if the agreement was not absolutely void, it is presumed to have been obtained by the exercise of undue influence. As was conclusively proved, a confidential relationship existed between the defendant and Mrs. Goetz; hence, it is presumed that the agreement was procured through the exercise of undue influence and the defendant had the burden of proving that it was entered into fairly, openly, voluntarily and with a full understanding of the facts. That presumption prevails for the defendant failed to sustain the burden of proof that the agreement was entered into fairly, openly, voluntarily, and with full understanding of the facts. The testimony offered by defendant as to the existence and validity of the agreement buttresses the presumption that the agreement was procured through the exercise of undue influence, for the purported agreement was prepared at defendant’s request by the defendant’s attorney, who was and is also secretary of defendant’s corporation; the defendant advised the attorney as to the purpose of the agreement, and that “he would bring” Mrs. Goetz to the attorney’s office “for the purposes of signing it”; at the meeting the defendant was represented by counsel and Mrs. Goetz was not so represented; her attorney was not consulted on the matter; the meeting took place immediately after Mrs. Goetz was released from the hospital where she had been treated for acute alcoholism, and at the meeting it appeared to the defendant’s attorney as though Mrs. Goetz might have been crying.
+6. The equities are with the plaintiff and against the defendant.
+The court having herein made its findings of fact and conclusions of law, now, therefore, it is ordered, adjudged and decreed —
+1. Plaintiff has fully sustained by competent evidence all of the material allegations of his complaint.
+2. The defendant, Eldridge Downes, III, be and he hereby is held accountable to the plaintiff for the moneys and property obtained by defendant from Claudia M. Goetz, deceased.
+3. There is due and owing from the defendant, Eldridge Downes, III, to plaintiff the sum of $42,796.85, plus interest in the amount of $7,606.45, together with costs.
+4. Plaintiff do have and recover of and from the defendant, Eldridge Downes, III, the sum of $42,796.85, plus interest in the amount of $7,606.45, together with the costs of suit, for all of which sums let execution issue forthwith.
+5. The court retains jurisdiction for determining the costs to be taxed herein, and for such other and further relief as equity and conscience may require.

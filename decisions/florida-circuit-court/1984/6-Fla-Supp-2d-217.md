@@ -1,0 +1,34 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 82-142"
+decided: "1984-06-18"
+citations: ["6 Fla. Supp. 2d 217"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RIVKIND, SALMON and SCOTT, JJ."]
+parties: ["DUVAL v. STATE OF FLORIDA"]
+source_url: "https://static.case.law/fla-supp-2d/6/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2007605
+cites_cases: ["208 F. Supp. 99", "269 So.2d 669", "280 So.2d 426", "287 So.2d 313", "325 U.S. 761", "334 So.2d 661", "387 U.S. 523", "397 U.S. 137", "406 U.S. 311", "416 So.2d 882", "442 So.2d 215", "529 F. Supp. 1006", "53 U.S. 299"]
+---
+
+# Duval v. State
+
+## Majority (SCOTT, Judge.)
+
+OPINION OF THE COURT
+SCOTT, Judge.
+Appellant, Anthony Duval, is the proprietor of Tony’s Trading Post. On January 5, 1982, Ken Mahoney, a police officer with the Metro Dade Police Department, entered the premises for the purpose of examining pawnslips and jewelry. The officer’s warrantless inspection of the pawnshop records revealed that on five recent occasions Duval received property and failed to accurately describe it on the pawnslips.
+Based upon the evidence obtained during officer Mahoney’s inspection, Duval was charged with five counts of failing to keep proper records of pawnshop transactions. Defendant moved to suppress the evidence obtained by Officer Mahoney. The trial court denied the motion. Duval entered a plea of no contest preserving his right to appeal.
+The warrantless search of the pawnshop and the subsequent arrest of Duval were made pursuant to Florida Statute 812.051 and Dade County Code 21-29. 812.051 (renumbered 538.021 in Florida Statutes, 1983) requires that a pawnshop owner keep detailed records of both the pawned property and the person selling it. The statute further states that “these records shall at all times be subject to inspection by all law enforcement officers.” Similarly, section 21-29 of the Dade County Code provides that “any law enforcement officer shall upon authorization of the public safety director, or his designee, have the right to inspect during normal business hours records of a pawnshop required to be kept by this ordinance.”
+Duval raises a triology of constitutional arguments attacking the laws in question. We address the more serious contentions in order of merit.
+Initially Duval argues that warrantless, administrative searches, unsupported by probable cause, are unreasonable and prohibited by the Fourth and Fourteenth Amendments to the United States Constitution. Camara v. Municipal Court, 387 U.S. 523 (1967). At first blush, this argument appears to warrant some consideration. Cf., e.g., Mid-Fla. Coin Exchange, Inc., v. Griffin, 529 F. Supp. 1006 (M.D. Fla. 1981). However, upon further reflection, it must be rejected in light of Moore v. State, 442 So.2d 215 (Fla. 1983) and Bludworth v. Arcuri, 416 So.2d 882 (Fla. 4th DCA 1982).
+While the general rule is that warrantless inspections violate the Fourth Amendment, it is equally true that there is an exception for closely supervised heavily regulated industries. United States v. Biswell, 406 U.S. 311 (1972). In the present case, it is beyond debate that pawnbroking is such a closely supervised business function when compared with other industries which have been so construed. Moore v. State, supra (junkyards); Olson v. State, 287 So.2d 313 (Fla. 1973) (pharmacy); Jordan Chapel Freewell Baptist Church v. Dade County, 334 So.2d 661 (Fla. 3rd DCA 1976) (bingo); and, cf., United States v. Biswell, supra (firearms). We conclude that pawnbroking falls within the same category.
+It has long been recognized that pawnshops can be easily used by criminals to dispose of property. It is therefore incumbent upon the state to take appropriate steps to regulate pawnshops. Such regulations have a long history in Florida and elsewhere. F.S. 812.051; Carson v. Newman, 280 So.2d 426 (Fla. 1983); and, see, generally, C.J.S. Pawnbrokers, §§ 2 et seq., 15. Therefore, by virtue of the long history of government supervision and the very nature of the business, pawnshop owners are placed on notice of periodic, limited intrusion by government officials seeking to examine records. Moore v. State, supra at 216.
+We conclude that Florida Statute 812.051 and Dade County Code 21-29 are reasonably designed and drafted. By requiring the pawnshops to maintain records and display them to appropriate law enforcement officers upon demand, those individuals with criminal purpose will be discouraged from using this industry to further such ends. United States v. Biswell, supra. (“If inspection is to be effective and serve as a credible deterrent, unannounced even frequent inspections are essential.”)
+Appellant next argues that these enactments are unconstitutionally vague and overbroad. This question has already been addressed by the Supreme Court of Florida in Newman v. Carson, 280 So.2d 426 (Fla. 1973). In that case, the Court determined that the Florida Pawnbrokers Statute, 811.165 (subsequently renumbered 812.051) was neither vague nor indefinite under the test enunciated in Zachery v. State, 269 So.2d 669 (Fla. 1972). Similarly in the present case, we reject Appellant’s contentions as applied to 812.051 and 21-29.
+Lastly, Appellant contends that Florida Statutes 812.051 and Dade County Ordinance 21-29 are unconstitutional because the regulation of precious metals has an impact on interstate commerce and Congress has pre-empted the regulation of gold jewelry. To support the latter claim that Congress pre-empted this field, Appellant points to the Gold Reserve Act of 1934. We find no basis for such a contention. There is nothing in the statute to indicate that Congress sought to pre-empt the statutes fom locally regulating the sale of second-hand jewelry. Rather, the clear purpose of the statute “is aimed at conserving gold in monetary stocks in the United States or reserve against currency and for use in settling international balances.” United States v. One Solid Object In Form Of A Rooster, 208 F. Supp. 99 (1962). Moreover, in light of our reading of the prevailing authorities interpreting the interstate commerce clause, Pike v. Bruce Church, 397 U.S. 137 (1970); Southern Pacific Co. v. Arizona, 325 U.S. 761 (1945); and, Cooley v. Board of Warden, 53 U.S. 299 (1951), we find 812.051 and 21-29 to be not violative of the commerce clause. The matters regulated are of purely local concern and we believe that the strong state interest in their enforcement outweighs any incidental effect which they may have on interstate commerce.
+In conclusion, we find these pawnbroking laws to be constitutional and affirm the judgment. We are sure that honest pawnbrokers licensed by the state will welcome the opportunity to improve the quality and integrity of their industry.
+AFFIRMED.

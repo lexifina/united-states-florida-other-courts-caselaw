@@ -1,0 +1,28 @@
+---
+court: "Duval County Circuit Court"
+docket: "60-1119-L"
+decided: "1961-04-20"
+citations: ["17 Fla. Supp. 168"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALEY v. SEAMAN, et al."]
+source_url: "https://static.case.law/fla-supp/17/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990678
+cites_cases: ["102 So. 2d, 645", "109 Fla. 496"]
+---
+
+# Aley v. Seaman
+
+## Majority (WILLIAM H. MANESS, Circuit Judge.)
+
+WILLIAM H. MANESS, Circuit Judge.
+In his complaint, plaintiff seeks to recover damages for injuries arising out of an automobile accident. All the defendants have moved for the entry of a summary judgment in their favor on the theory that there is no genuine issue as to any material fact and that the pleadings, affidavits and depositions on file show that plaintiff was guilty of contributory negligence as a matter of law.
+The undisputed testimony, viewed in a light most favorable to plaintiff, shows that plaintiff was driving east on Fourth Street (Jacksonville Beach) at the intersection of Penman Road; that plaintiff stopped in obedience to a fixed “Stop” sign on Fourth St. which made Penman Road (north and south) the favored street; at the Stop sign plaintiff had an unobstructed view to the south of at least three blocks; while stopped, and after plaintiff had shifted into first gear, plaintiff looked to the south and saw no traffic (notwithstanding the presence of two approaching vehicles); he then looked to the north and saw nothing and “accelerated and started across”, when as he says, “all I heard was ... I didn’t see anything coming, of course I was looking right straight ahead down the street I was going into, and I heard the tires screeching ... and at that time I couldn’t see anything . . . after I heard the tires I couldn’t tell you anything that happened then.” Later by affidavit plaintiff states “ ... do not recall seeing any traffic, but if I did, it was so far away that I thought I had plenty of time to cross the intersection safely”.
+The undisputed facts further show that at the time plaintiff was stopped at the Stop sign on Fourth St. the driver of the defendants’ vehicle saw him when such driver was “at least 150 or 200 feet away from that intersection”; that at that time defendants’ driver was doing approximately 35 miles an hour, that at some point between one 150 feet and 200 feet from the intersection, plaintiff “accelerated” into the intersection and the defendants’ driver saw he was coming out and applied his brakes and laid down approximately 81 feet of skid marks; the two cars collided in the intersection at a point east of the center line of Penman Road and south of the center line of Fourth St.
+Assuming for the purpose of this motion for summary judgment, that the defendant driver was guilty of negligence under all the circumstances of the case, it affirmatively appears that the plaintiff was himself guilty of negligence in failing to see what not only was there but what the evidence shows was there and clearly visible as shown by the affidavit of the defendant driver and a taxicab driver also traveling north on Penman Road immediately prior to the collision. Therefore, defendants are entitled to prevail on this motion unless by the proper application of the doctrine of the last clear chance, plaintiff’s negligence would be considered a remote cause.
+However, this court is of the opinion that there is no factual basis for the application of the doctrine of the last clear chance. In the recent ease of Parker v. Perfection Cooperative Dairies, 1958, 102 So. 2d, 645, 647, the Second District Court of Appeal in discussing the doctrine of the last clear chance, laid down the following conditions under which the doctrine applies — “(1) That the injured party has already come into a position of peril; (2) That the injuring party then or thereafter becomes, or in the exercise of ordinary prudence ought to have become, aware not only of that fact, but also that the party in peril either reasonably cannot escape from it, or apparently will not avail himself of the opportunities open to him for doing so; (3) That the injuring party subsequently has the opportunity by the exercise of reasonable care to save the other from harm; and (4) That he fails to exercise such care.” (Italics added.)
+Furthermore, in Merchants Transportation Co. v. Daniel, 1933, 109 Fla. 496, 149 So. 401, the Supreme Court of Florida held — “Neither is the doctrine of the Last Clear Chance applicable where the negligence of each party is concurrent. . . Last Clear Chance implies thought, appreciation, mental direction, and the lapse of sufficient time to effectually act upon the impulse to save another from injury, or proof of circumstances which would put one charged to implied notice of the situation.”
+It is the opinion of this court that reasonable men could not draw from the evidence in this case any inference that would bring the facts of this case within the purview of that doctrine and that reasonable men would be forced to conclude that the negligence of each party is at best “concurrent”.
+Accordingly, it is ordered and adjudged that the motion of the several defendants herein for the entry of a summary judgment in their favor is hereby granted and defendants, George L. Seaman, trading and doing business as George L. Seaman Auto Rentals, and William S. Smith Construction Co., a corporation, shall go hence without day and shall recover of and from the plaintiff their costs to be taxed by this court after motion therefor and notice.

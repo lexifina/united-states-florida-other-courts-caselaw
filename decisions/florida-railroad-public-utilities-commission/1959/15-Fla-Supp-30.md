@@ -1,0 +1,37 @@
+---
+court: "Florida Railroad & Public Utilities Commission"
+docket: "5407, 08, 09, 10, 11, 12-CCT"
+decided: "1959-07-30"
+citations: ["15 Fla. Supp. 30"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chairman JERRY W. CARTER, Commissioners WILBUR C. KING and ALAN S. BOYD participated in the disposition of these applications.", "Commissioner BOYD dissents."]
+parties: ["Application of DANIELS, et al."]
+source_url: "https://static.case.law/fla-supp/15/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1991866
+---
+
+# In re Daniels
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+Pursuant to statutory notice the commission, by a duly designated examiner, held public hearings on the applications in the Palm Beach County Court House, West Palm Beach, on May 5, September 18 and 19, 1958, and in Miami on November 5, 1958. The applications in the various dockets were heard on a consolidated record and the examiner’s report and recommendations are contained in one proposed order denying each application.
+The applicants filed their joint exceptions to the examiner’s proposed order. The commission heard oral arguments on the issues involved in Tallahassee on April 27,1959, and based upon the arguments and a careful study of the entire record, the commission finds that the exceptions should be sustained and the applications granted.
+In docket # 5408-CCT, the application was amended so as to make it for an extension of certificate of public convenience and necessity # 513. In docket # 5409-CCT, the application was amended so as to be on behalf of Nelson L. Van Son and Jane F. Van Son, d/b/a Briggs Moving & Storage.
+The applicants are all in the local household goods hauling and storage business in West Palm Beach, and also act as agents for interstate carriers. Each applicant is qualified financially and otherwise, and has, or can acquire, the necessary equipment to render the proposed service.
+All of the applicants in these six dockets have been operating for a considerable period of time in the transportation of household goods in Palm Beach County within territory exempt from this commission’s jurisdiction under séction 323.29, Florida Statutes.
+The pertinent provisions of said section are a.s follows—
+“There shall be further exempted from the provisions of this chapter and from commission jurisdiction and control, persons operating motor vehicles within the corporate limits of any city or town or the adjoining suburban territory, or between cities and towns whose boundaries adjoin . . . where such business of carriage is regulated by the legislative body of such cities or towns.”
+The situation here is no different from a similar situation which formerly existed in Dade County. On September 17 and 18, 1957, the full commission heard, on a consolidated record, twenty different applications for authority to transport household goods from, to, and between all points and places within a specified portion of Dade County. The dockets involved in the Dade County situation were # 5104-CCT to # 5115-CCT, inclusive, and # 5117-CCT to # 5124-CCT, inclusive. The commission entered a separate order in each of said dockets granting the same authority to all twenty applicants. In the various orders entered in said dockets, after quoting the foregoing provisions of section 323.29, the commission made the following findings—
+“These carriers have all had difficulty furnishing adequate service to meet the needs of the public in this area without operating beyond such exempt territory. Also, they have had difficulty determining the bounds of the territory which is exempt due to the rapid growth of this entire Dade County area. Each of the applicants supported the application of the others and there are no protestants to the amended application. It appears that the expanded service of all of the applicants is needed in this area.
+“From the testimony and evidence adduced in this cause, the commission finds that public convenience and necessity require the transportation service proposed and that applicant has the necessary qualifications to conduct the proposed operation.”
+Based upon the foregoing findings, the commission then went on to grant to the twenty applicants the same authority to transport household goods within the same specified portion of Dade County. Obviously, the commission’s purpose in granting the same authority to the twenty different applicants, as a result of a consolidated hearing, was to remove the confusion brought about by the difficulty of determining what territory within said county was, or was not, exempt from commission jurisdiction.
+The principle involved in the present dockets involving operations in Palm Beach County is the same as that involved in the Dade County situation, and the solution should bé the samé.
+Based upon the entire record herein, the commission finds that each of the applicants in the present dockets have had difficulty furnishing adequate service to meet the needs of the public in Palm Beach County without operating beyond what is obviously exempt territory. Also, they have had difficulty determining the bounds of the territory which is exempt due to the rapid growth of Palm Beach County. While there are three protesting carriers who are domiciled in Palm Beach County with authority to serve the entire county, it appears from the record that the expanded service of all the six applicants in the dockets now under consideration is required in Palm Beach County in order that the public’s need for household goods transportation service within said county may be adequately and conveniently met by local carriers whose authority is specific and unclouded by territorial limitations which are not readily ascertainable.
+The commission finds that public convenience and necessity require the transportation service proposed by the applicants in the six dockets involved herein and that each of the applications in said dockets should be granted.
+It is therefore ordered that the joint exceptions filed herein by the applicants are sustained.
+It is further ordered that the application of A. J. Daniels, Jr., d/b/a Daniels & Son Transfer & Storage in docket # 5407-CCT; the application, as amended, of H. B. Wilkinson, E. C. Wilkinson and E. S. Wilkinson, d/b/a Wilkinson Transfer & Storage in docket # 54-08-CCT; the application, as amended, of Nelson L. Van Son and Jane F. Van Son, d/b/a Briggs Moving & Storage in docket # 5409-CCT; the application of H. A. and L. K. Spencer, d/b/a U and Me Transfer in docket # 5410-CCT; the application of Willie Uhfelder, d/b/a Willie’s Transfer & Storage Co., in docket # 5411-CCT; and the application of P. C. Painter, d/b/a Painter Moving & Storage in docket # 5412-CCT; be and each of said applications are hereby granted so as to authorize the operation of an auto transportation company in the common carriage of household goods, as defined by the rules of the commission, from, to, and between all points and places in Palm Beach County, over irregular routes, and appropriate certificates or extensions, as the case may be, shall issue to each such applicant when the commission’s rules concerning insurance and the registration of equipment have been complied with by the respective applicants.
+Commissioner BOYD dissents.

@@ -1,0 +1,49 @@
+---
+court: "Florida Railroad & Public Utilities Commission"
+docket: "6703-Rule"
+decided: "1963-04-26"
+citations: ["21 Fla. Supp. 107"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chairman EDWIN L. MASON, Commissioners JERRY W. CARTER and WILBUR C. KING each participated in the disposition of this matter.", "Commissioner JERRY W. CARTER dissents."]
+parties: ["In re RULE GOVERNING CONSUMERS' DEPOSITS WITH PUBLIC UTILITY COMPANIES."]
+source_url: "https://static.case.law/fla-supp/21/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988326
+---
+
+# In re Rule Governing Consumers' Deposits with Public Utility Companies
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+This proceeding was commenced by order no. 3463, issued in this docket, proposing the following rule to be applied to all gas, electric, telephone and telegraph public utilities —
+“Each utility which requires a cash deposit from any customer intended to guarantee payment of bills shall pay interest annually on said deposit at the rate of 6% per annum. The utility may, if it desires, pay interest by means of a credit on the customer’s account.”
+This order was served on all such utilities under the jurisdiction of the commission. Pursuant to this order, many of the utility companies filed responses to the proposed order, many of them stating why they opposed such a rule, others supporting the proposed rule in part, and still others filing a response to the effect that they did not wish to take any position as to the rule. Subsequent to the above mentioned order, the commission issued a further notice to the utilities involved directing them to file certain information with the commission to help in the final determination of this matter. Pursuant to notice, a hearing was held in this docket on December 18, 1962. The commission has given thorough and detailed consideration to the testimony adduced at the hearing, all the pleadings and exhibits, and now proceeds to adopt a rule which it deems to be fair and reasonable.
+This commission presently has two rules on the subject of interest on deposits. One is rule 310-4.15, pertaining to interest on deposits with telephone companies. It provides as follows —
+“Each utility which requires a cash deposit from any customer intended to guarantee payment of bills shall accrue interest on such customer deposits at the rate of 6% per annum during the period said deposit is retained by the utility.”
+Another rule, 310-10.63(4), (5) and (6), pertains to water and sewer utilities under the jurisdiction of the commission and it provides as follows —
+“(4) The utility shall pay interest on customers’ deposits at the rate of six (6) percent per annum, non-compounded, during the period said deposit is being retained by the utility.
+“(5) The utility may provide for the return of the deposit after a reasonable period.
+“(6) Upon termination of service, the deposit may be credited against the final account and the balance, if any, shall be returned to the customer.”
+The commission also has outstanding order no. 1474 issued in docket no. 1571, which has never been assigned a rule number. This order pertains to interest on deposits and advance payments by telegraph companies and provides as follows —
+“All deposits which a telegraph company requires its customer or subscriber to make as a guarantee of good faith on the part of such subscriber or customer shall bear interest at the rate of 6% per annum, to begin and run from date said deposit was required to be paid; provided, however, interest shall not begin to run on presently existing deposits until the effective date of this rule.
+“All advance payments required to be made for telegraph service shall bear interest at the rate of 5% per annum, which interest shall begin to run 30 days after such payments are made; provided that interest shall not begin to run on presently existing advance payments until 30 days after the effective date of this order; provided further that such advance payments when voluntarily made by the subscriber or customer and for his own convenience shall bear no interest.”
+It is the intention of the commission in this proceeding to promulgate a rule that will have uniform application on all utilities under its jurisdiction. Some utilities, even without a mandatory rule, already have their own policy as to interest on the deposits. Other utilities pay no interest at all on the customers’ deposits.
+In this proceeding the commission attempted to determine from the several participating companies the total number of customers having deposits with the utility at the end of the 12-months’ period which ended October 31, 1962, and further the total dollars involved in such deposits. For the purpose of illustration a few examples follow. Florida Power Corporation stated that for the 10 months ended October 31, 1962, the deposits totaled $1,082,410. This utility does not pay interest on the deposits. Gainesville Gas Company stated that the total number of customers having deposits with them at the end of the latest 12-months’ period was 4,571, representing a total of $43,311.50. This utility does not pay interest on the deposits. Florida Telephone Corporation, which is subject to our rule 310-4.15, had 9,759 deposits representing a total amount of $159,426. Florida Coastal Natural Gas Company, and its subsidiary Central Florida Gas Corporation, stated that it had deposits from 2,432 customers representing an amount of $37,886.82. This utility does not pay interest on such deposits.
+From the examples, it is evident that from the depositor’s point of view there is a substantial amount of his money being held by the utilities in the state of Florida. From the depositor’s viewpoint, money deposited by him with utility companies which does not pay interest, is money which he cannot use and on which he will realize no return. The depositor feels that the utility should pay some interest on this amount of money since he is being deprived of its use. On the other hand, the position of the utilities which do not pay interest is that the cost of paying interest on such deposits, that is, the cost of bookkeeping and clerical help, etc., that is necessary to see that the interest is paid, is unreasonable when consideration is given to the small amount of money that is actually realized by a single customer. They further contend that the interest that is paid and the cost of actually paying the interest should be taken into consideration by this commission as part of its cost of operation; therefore, raising the rate base and ultimately having an upward effect on the rates paid by all the consumers. This commission has considered both of these viewpoints in reaching the conclusion it has reached in adopting these rules.
+It has been determined by the commission that the interest that should be paid on these deposits should be a minimum of 4% per annum. Four percent is used because it appears that this is about the average amount of interest that a depositor could get by placing his money in a savings and loan association or any commercial bank.
+The commission notes that the water and sewer companies under its jurisdiction were not made parties to this proceeding; however, the rule adopted herein that pertains to them does not affect their substantive rights.
+Now, therefore, in consideration thereof, it is ordered as follows—
+(1) Commission rule 310-4.15, as it pertains to telephone companies, is amended to read as set forth in appendix “A” attached hereto. (This action is pursuant to the statutory authority of Florida Statute 364.20 and implements Florida Statute 360.05).
+(2) Commission rule 310-10.63(5) and (6) is repealed and commission rule 310-10.63(4), as it pertains to water and sewer companies, is amended to read as set forth in appendix “A” attached hereto. (This action is pursuant to the statutory authority of Florida Statute 367.15(8) and implements Florida Statute 367.11).
+(3) Commission rule 310-6.35, pertaining to electric utilities, is hereby adopted to read as set forth in appendix “A” attached hereto. (This action is pursuant to the statutory authority of and implements Florida Statute 365.01).
+(4) Commission rule 310-7.19, pertaining to gas utilities, is hereby adopted to read as set forth in appendix “A” attached hereto. (This action is pursuant to the statutory authority of and implements Florida Statute 365.01).
+(5) Commission rule 310-11.01, pertaining to telegraph utilities, is hereby adopted to read as set forth in appendix “A” attached hereto. (This action is pursuant to the statutory authority of Florida Statute 364.20 and implements Florida Statute 360.05).
+It is further ordered that such rules are effective as of June 1,1963.
+Commissioner JERRY W. CARTER dissents.
+APPENDIX “A”
+Rule 310-4.15 Rule 310-10.63(4)
+Rule 310-6.35 Rule 310-7.19 Rule 310-11.01
+Each public utility which requires deposits to be made by its customers shall pay a minimum interest on such deposits of 4% per annum. The deposit interest shall be simple interest in all cases where settlement is made annually, either in cash or by credit on the current bill. The interest shall be compounded in all cases where settlement is made only at the date the customer relationship is terminated. This does not prohibit any public utility paying a higher rate of interest than 4%, to settle on a cash or credit basis, and to make such settlement annually, or at the termination of the customer relationship. No customer depositor shall be entitled to receive interest on his deposit until and unless the customer relationship has been in existence for a continuous period of six months, then he shall be entitled to receive interest from the date of the commencement of the customer relationship.

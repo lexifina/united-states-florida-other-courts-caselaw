@@ -1,0 +1,37 @@
+---
+court: "Lake County Circuit Court"
+decided: "1956-10-10"
+citations: ["10 Fla. Supp. 77"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GORDON, et ux v. NORRIS, et ux."]
+source_url: "https://static.case.law/fla-supp/10/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977215
+cites_cases: ["109 So. 648", "42 So. 2d 541", "42 So. 2d 543", "54 Okl. 65", "57 So. 2d 443"]
+---
+
+# Gordon v. Norris
+
+## Majority (T. G. FUTCH, Circuit Judge.)
+
+T. G. FUTCH, Circuit Judge.
+Defendants have petitioned for a rehearing on their motion to dismiss the complaint, which motion was denied by this court by an order dated in September 1956 — with which I filed my reasons for such ruling and order in the form of “Findings.”
+Defendants’ counsel has presented to us a letter from the contents of which it is plain that he believes we have missed all the law applicable to this case.
+The complaint seeks the recognition and enforcement of a common law “way of necessity” over certain lands owned by defendants.
+Prior to the enactment of chapter 7336, Laws of Florida 1917, the statutes of this state were silent on the subject of “way of necessity.” This chapter undertook to provide a “way of necessity” under conditions not recognized by the common law — but in addition to the common law right.
+Chapter 7336 did not affect the common law right. In 1933 by the enactment of chapter 28070, Laws of Florida, the legislature expressly recognized and affirmed the common law right to a “way of necessity.” Section 704.01, Florida Statutes 1955. While this court is of the opinion that the re-enactment of sections 704.01, 704.02, 704.03 and the addition of section 704.04 does not affect the existing common law right, other courts may take a different view. (See chapter 28070, Acts of 1953.)
+Counsel for defendants insists that Burdine v. Sewell (Fla.), 109 So. 648, and Winthrop v. Wadsworth (Fla.), 42 So. 2d 541, completely shatter my ruling on his motion to dismiss — on which he now seeks a rehearing.
+The common and statutory law of England of a general nature ■ (with certain specific exceptions) down to July 4, 1776 have been in effect in Florida since November 6, 1829. See section 2.01, Florida Statutes 1955, and footnote. See also title Common and Civil Law, vol. 3, Ency. Digest of Florida Decisions, pp. 234-238, sections 3, 4 and 5, and the many Florida decisions there listed.
+I know of no higher authority on what the common law of England was in 1776 than the commentaries of Sir William Blackstone, and in those commentaries we find the following—
+“A fourth species of incorporeal hereditament is that of ways, or the right of going over another man’s ground. This may be grounded on special permission; as when the owner of the land grants to another the liberty of passing over his grounds, to go to church, to market or the like, in which case the gift or grant is particular and confined to the grantee alone; it dies with the person; and, if the grantee leaves the country, he cannot assign over his right to another; nor can he justify taking another person in his company. A way may also be by prescription; as if all the inhabitants of such a hamlet, or all the owners and occupiers of such a farm, have immemorially used to cross such a ground for such a particular purpose; for this immemorial usage supposes an original grant whereby a right of way thus appurtenant to land or houses may clearly be created. A right of way may also arise by act and operation of law; for, if a man grants me a piece of ground in the middle of his field, he at the same time tacitly and impliedly gives me a way to come to it; and I may cross his land for that purpose without trespass. For when the law doth give anything to one, it giveth impliedly whatsoever is necessary for enjoying the same......” (Emphasis supplied.) Sprague’s Blackstone, Abridged, 9th edition, par. 4, pages 113-14.
+Burdine v. Sewell (Fla.), 109 So. 648, upon which defendants' counsel places so much stress, specifically recognizes the establishment of easements by implication, as does also Winthrop v. Wadsworth (Fla.), 42 So. 2d 543, as follows — “Easements over land may be created in three ways: first, by express grant; second, by implication; and third, by prescription.” (Emphasis supplied.)
+In Burdine v. Sewell the Supreme Court quoted 9 R. C. L., page 745, with approval as follows — “ ‘An easement, being an interest in land, can be created only by grant, the existence of which may be established by the production of a deed expressly declaring it, or may be inferred by construction from the terms and effect of an existing deed, or evidence of the grant may be derived from its having been so long enjoyed as to be regarded as proof that a grant was originally made, though no deed is produced which contains it. In other words, there are three ways in which an easement may be created — first, by express grant; second, by implication; third, by prescription.’ ”
+In Guess v. Azar (Fla.), 57 So. 2d 443, in a very plain and informative opinion we find the following statements on “way of 'necessity,” which clearly recognize the common law rule, as follows—
+“To secure a way of necessity there must be unity of title from some source other than the state. Dudley v. Meggs, 54 Okl. 65,153 P. 1121. It was alleged in the bill that no unity of title appeared in the histories of the titles to the lands owned by appellants and appellees and this averment was admitted in the answer. In Jones on Easements, page 247, we find the reason for the rule that where the state is the common source of title the right to a way of necessity does not arise. It is said there that ‘By public statutes she provides for the establishment and maintenance of public roads, penetrating every neighborhood and sufficiently numerous to meet the general wants of her citizens. * * * It would be ruinous to establish the precedent contended for, since by it every grantee from the earliest history of the state, and those who succeed to his title, would have an implied right of way over all surrounding and adjacent lands held under junior grants, even to the utmost limits of the state.’
+“The right to a way of necessity is founded on an im/plied grant, but no such implication arises from conveyances by the state.” (Emphasis supplied.)
+The complaint in this case alleges a right vested in plaintiffs to a way of necessity based on the “common law” right and not on the “statutory” right (as defined by statute). It therefore follows that no constitutional right of the defendants is involved — assuming, as we must for the purpose of the motion to dismiss, defendants hold title subject to the right asserted by plaintiffs as if the way had been openly in use when they took title to the alleged servient estate.
+A reading of many of the reported cases from a majority of the states of the United States convinces us that there is little confusion on this subject — and that such confusion as exists stems from a lack of understanding of the correct meaning of the word “implication” and its application in this regard.
+It follows that the motion for re-hearing will be denied.
+After the preparation of the above findings and opinion, upon stipulation and request of the attorneys for the parties, the question involved was certified to the Supreme Court of Florida in such manner as, it is hoped complies with Supreme Court Rule 27.

@@ -1,0 +1,25 @@
+---
+court: "Duval County Circuit Court"
+docket: "62-939-L"
+decided: "1962-09-14"
+citations: ["20 Fla. Supp. 39"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANDERSON, et al v. STATE FARM MUTUAL INS. CO."]
+source_url: "https://static.case.law/fla-supp/20/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988982
+---
+
+# Anderson v. State Farm Mutual Ins.
+
+## Majority (WILLIAM H. MANESS, Circuit Judge.)
+
+WILLIAM H. MANESS, Circuit Judge.
+This court has heard the argument of counsel for plaintiffs and for the defendant on the issues made by the defendant’s Motion to Stay Proceedings filed July 6, 1962, and Motion in Support of Application to Proceed with Arbitration, and has studied the briefs of counsel. Defendant is seeking to invoke the Florida Arbitration Code (F. S. 57.10-57.31) to settle its obligation under an uninsured automobile coverage endorsement which was attached to one of its standard automobile policies and accepted by the plaintiff, E. L. Anderson, when offered pursuant to the provisions of F. S. 627.0851 by said insured’s failure to reject the same.
+The plaintiff, E. L. Anderson, as the named insured in said policy (and the other plaintiffs join with him) objects to the application to proceed with arbitration on several grounds, principally, the asserted unconstitutionality of the Florida Arbitration Code, the unconstitutionality of said code as incorporated in said endorsement by reference, the asserted ignorance of said named insured of the provisions of the endorsement requiring arbitration, the asserted waiver of defendant’s right to demand arbitration, the absence of consent of the insured to such arbitration and the deprivation of the named insured of the right to recover attorney’s fees under the provisions of section 627.0127 of the Florida Statutes.
+However, upon consideration this court is of the opinion that the legislature did not exceed its constitutional authority by the enactment of the Florida Arbitration Code; that said code in its application to the facts in the case now before the court does not violate either the constitution of the United States or the constitution of Florida; that the failure of the defendant-insurer to demand arbitration prior to the filing of this action does not constitute a waiver of its right to do so in this proceeding and that the alleged deprivation of the rights of the plaintiff to recover attorney’s fees in actions against an insurance company as provided in section 626.0127, Florida Statutes, has no effect upon the constitutionality of this Act or defendant’s right to demand arbitration and such rights, if any, as plaintiffs enjoy under the provisions of the Act are not impaired and, in fact, do not vest unless and until a judgment is entered as provided therein.
+The only point raised by the plaintiffs that gives this court any concern in the granting of the relief sought by defendant comes under the provisions of section 57.12, Florida Statutes, which provides, to-wit — “If the court shall find that a substantial 'issue is raised as to the making of the agreement or provision, it shall summarily hear and determine the issue and, according to its determination, shall grant or deny the application.”
+The said named insured asserts that he did not have any knowledge of the provisions of said endorsement requiring arbitration at any time prior to the accident or at the time of the accident and that he had not read the endorsement prior to the accident and did not know the provisions thereof. These assertions would seem to make a substantial issue on the question of the making of the agreement but no such issue is made, in the opinion of this court. To hold that the mere denial or ignorance of the named insured of the provisions of this endorsement or his failure to read the same is sufficient grounds on which to nullify the provision for arbitration would likewise be sufficient grounds to nullify the entire provision under the insuring agreements entitled “Coverage U” and release the defendant from any obligation under the provisions of said endorsement, if not the entire policy. The acceptance of the policy by the named insured and the named insured’s failure to reject the “uninsured automobile coverage endorsement” constitutes the making of the agreement referred to in section 57.12, and precludes the named insured from denying his assent to all the provisions thereof.
+Accordingly, it is ordered and adjudged that this cause be, and the same is, hereby stayed pursuant to the provisions of the Florida Arbitration Code, and the plaintiffs herein are hereby directed to proceed with arbitration, in accordance with the arbitration agreement contained in said endorsement and the Florida Arbitration Code. It is further ordered and adjudged that this court shall retain jurisdiction of this cause and the parties hereto to enter such further orders as may be necessary under provisions of the Florida Arbitration Code.

@@ -1,0 +1,56 @@
+---
+court: "State of Florida Division of Administrative Hearings"
+docket: "Case No. 84-3996"
+decided: "1985-02-20"
+citations: ["11 Fla. Supp. 2d 197"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MASTROGIOVANNI v. CITY OF CLEARWATER"]
+source_url: "https://static.case.law/fla-supp-2d/11/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030310
+cites_cases: ["32 So. 2d 425", "329 So.2d 10", "373 So.2d 710"]
+---
+
+# Mastrogiovanni v. City of Clearwater
+
+## Majority (DONALD D. CONN, Hearing Officer.)
+
+OPINION
+FINAL ORDER
+DONALD D. CONN, Hearing Officer.
+Pursuant to notice, this case came on to be heard on January 23, 1985 in Clearwater, Florida before Donald D. Conn, Hearing Officer, Division of Administrative Hearings.
+By letter dated November 6, 1984 Diane Mastrogiovanni, Appellant, has appealed the decision of the Board of Adjustment and Appeal on Zoning (Board) to deny her request for a variance of 700 feet to permit the operation of an adult family care facility 500 feet from another facility.
+At the hearing the Appellant called three witnesses and introduced three exhibits into evidence. The Respondent called one witness and the tape of the hearing before the Board on October 25, 1984 was admitted into evidence. One public witness testified and two letters received from interested members of the public were received in evidence.
+Proposed findings of fact and conclusions of law submitted by the parties have been considered and in making the following findings of fact the Hearing Officer specifically approves Appellant’s proposed findings 1, 3, 6, 14, 15 and 17, and Respondent’s proposed findings 1 through 7, 9 and 10. The remaining proposed findings submitted by the parties have been rejected as subordinate, cumulative, immaterial, unnecessary or not based upon competent, substantial evidence.
+Findings of Fact
+1. Appellant owns Block H, Lot 1, Sail’s Lake Park Subdivision which has the street address of 2878 St. John’s Drive, Clearwater, Florida. The lot is zoned RS-50 and there is a single family dwelling on the property. Appellant purchased this property in late March, 1984 and began making certain renovations in the residence located on the property for the purpose of operating an Adult Congregate Living Facility (ACLF). Appellant’s sole reason for purchasing this property was to operate an ACLF.
+2. Prior to closing on the purchase of this property Appellant contacted the Planning Department for the City of Clearwater and was advised by letter dated February 24, 1984 that the property was properly zoned for the operation of an ACLF with a capacity of up to five persons. (Appellant’s Exhibit 1-A)
+3. Appellant applied to the Department of Health and Rehabilitative Services (HRS) in May, 1984 for a license to operate an ACLF and received her license in September, 1984. Appellant has accepted residents at the facility and there are currently five persons residing in this ACLF.
+4. Respondent informed Appellant by letter dated July 11, 1984 that another facility located at 2869 Sarah Drive was ready for final license approval by HRS and that in order to operate an ACLF at 2869 Sarah Drive, Appellant would have to seek a variance to the zoning code requirement of a 1200 foot separation between facilities of this kind. (Appellant’s Exhibit 1-B) Appellant did not receive this letter until September since she had moved from her former address in May or June, had left a forwarding address but had not informed Respondent of her new address.
+5. The ACLF at 2869 Sarah Drive applied for HRS licensure before Appellant, received its license before Appellant and received a notice of zoning consistency by letter dated July 11, 1984 (Appellant’s Exhibit 2).
+6. A separation of approximately 500 feet exists between Appellant’s facility and the one at 2869 Sarah Drive. .
+Conclusions of Law
+The Division of Administrative Hearings has jurisdiction over the parties to, and the subject matter of, these proceedings.
+Section 131.016(e), City of Clearwater Code of Ordinances, relating to variances provides as follows:
+(e) Variances. The board shall have the power in specific cases, after due notice, investigation, and hearings on the aforesaid, where there are practical difficulties or unnecessary hardships in the way of carrying out the strict letter of the provisions of this chapter, to determine and vary any such provisions in harmony with the general purposes and intent of this chapter so that the public health, safety and general welfare may be secure and substantial justice done. A variance from the terms of this chapter shall not be granted by the board unless and until:
+(1) A written application for a variance is submitted stating substantially that certain of the following exist:
+a. That special conditions and circumstances exist which are peculiar to the land, structure or building involved and which are not applicable to other lands, buildings or structures in the same district.
+b. That literal interpretation of the provisions of this chapter would deprive the applicant of rights commonly enjoyed by other properties in the same district under the terms of this chapter.
+c. That the special conditions and circumstances referred to in subsection a. above, do not result from the actions of the applicant.
+d. That granting the variance requested will not confer on the applicant any special privilege that is denied by this chapter to other lands, structures or dwellings in the same district.
+No nonconforming use of neighboring lands, structures or buildings in the same district, and no permitted use of land, structures or buildings in other districts shall be considered grounds for the issuance of a variance.
+(2) Notice of public hearing;
+(3) The board shall further make a finding that the reasons set forth in the application justify the granting of the variance, and that the variance is the minimum variance that will make possible the reasonable use of the land, building or structure.
+(4) The board shall further make a finding that the granting of the variance will be in harmony with the general purpose and intent of this chapter, will not be injurious to the neighborhood, or otherwise detrimental to the public welfare.
+In granting any variance, the board may prescribe appropriate conditions and safeguards in conformity with this chapter. Violation of such conditions and safeguards, when made a part of the terms under which the variance is granted, shall be deemed a violation of this chapter and punishable as provided by this chapter. Under no circumstances shall the board grant a variance to permit a use not generally or by special exception permitted in the district involved, or any use expressly or by implication prohibited by the terms of this chapter.
+Section 131.2056(e) is also applicable to this case and provides:
+(e) Separation. No family or group care facility shall be located within a radius of one thousand two hundred (1,200) feet of another family or group care facility, as measured from property line to property line at the closest point. The purpose of this separation criterion is to further the objective of deinstitutionalization by preserving a normal residential environment and thus to avoid the undue concentration of such facilities that would adversely impact an individual neighborhood and ultimately defeat the end objective of providing for such special living facilities.
+See also Section 131.042(3) of the Code of Ordinances which deals with permitted uses in the RS-50 District. This provision of the City of Clearwater Code of Ordinances provides that a family care facility such as Appellant’s ACLF is a permitted use in a RS-50 zone.
+Applying the code provisions found at Section 131.016(e), cited above, it is clear that no special conditions or circumstances exist which are peculiar to the land in question, the appellant is not being deprived of rights commonly enjoyed by other properties in the district, and the granting of this variance would represent a special privilege not enjoyed by others in the district. Appellant’s main argument is that the circumstances requiring the variance do not result from any action of Appellant. Even if this were the case, only one criterion set forth in Section 131.016(e)(1) would be met, and Appellant would have failed in her burden to show “substantially that certain of the” four requirements set forth therein have been met.
+Appellant argues for the application of the doctrine of equitable estoppel based upon her reliance on Respondent’s letter dated February 24, 1984 in purchasing and improving the subject property. This argument is not well-founded since the letter dated February 24, 1984 is not misleading, nor is it incorrect. It simply states what was, and is, the fact that the zoning of the subject property is RS-50 and an ACLF operating in this location is consistent with the requirements of the RS-50 zoning and code provisions relating to special living facilities. There is no evidence that Appellant asked to be placed on notice of any other ACLF applications within 1200 feet of the property or that Respondent would have known about other applicants until notified of approval for licensure by the Department of Health and Rehabilitative Services. Thus, Respondent did not owe Appellant a duty to monitor her property, and properties within 1200 feet, while she applied for and obtained licensure from the state. The situation requiring the variance of the 1200 foot separation requirement arose through no fault of Respondent. Another property owner within 1200 feet of Appellant’s property simply applied for and obtained a license to operate an ACLF during the time between Appellant’s purchase of the subject property and her receipt of licensure from the state.
+Although the doctrine of equitable estoppel may be invoked against a municipality for “unfair dealing”, there must be evidence that the property owner acted (1) in good faith, (2) upon some act or omission, and (3) has made such a substantial change in position that it would be highly inequitable and unjust to destroy the property owner’s right. Hollywood Beach Hotel Co. v. City of Hollywood, 329 So.2d 10, 15 (Fla. 1976). There is no evidence that Respondent breached a duty to act, or by omission has inequitably and unjustly destroyed any right of Appellant.
+This case is distinguishable from Project Home, Inc. v. Town of Astatula, 373 So.2d 710 (Fla. 2d DCA 1979) in which the municipality itself sought to impose a moratorium on all development after previously indicating that property could be used for locating ten mobile homes, and a purchaser relied on that indication in acquiring certain properties. In this case Respondent has not acted in any way to change any zoning requirements, or withdraw a previously given approval, and the statements contained in its letter of February 24, 1984 remain correct. Distinguish Frink v. Orleans Corporation, 32 So. 2d 425 (Fla. 1947).
+Based on the foregoing, it is
+ORDERED that the variance requested by Appellant be DENIED.

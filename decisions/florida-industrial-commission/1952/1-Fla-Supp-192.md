@@ -1,0 +1,30 @@
+---
+court: "Florida Industrial Commission"
+decided: "1952-02-19"
+citations: ["1 Fla. Supp. 192"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MADDOX, et al v. TWIN CITY WASTE PAPER CO., et al."]
+source_url: "https://static.case.law/fla-supp/1/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1187989
+cites_cases: ["176 So. 172", "21 So. 2d 712", "23 So. 2d 525", "44 So. 2d 423", "44 So. 2d 650", "53 So. 2d 113", "53 So. 2d 868", "7 So. 2d 790"]
+---
+
+# Maddox v. Twin City Waste Paper Co.
+
+## Majority (JAMES R. KNOTT, Deputy Commissioner.)
+
+JAMES R. KNOTT, Deputy Commissioner.
+At about 4 P.M. on August 31, 1951 Lester Maddox suffered an attack of heat exhaustion in the course of his work as an employee of Twin City Waste Paper Company in West Palm Beach, which resulted in his death a few hours later.
+The claims of Rosa Lee Maddox and Annie E. Hammock, as widow and mother, respectively, of the deceased employee for the benefits of the Act are controverted by the insurance carrier for the employer of the deceased on the principal ground that his death was not due to injury by accident, as required by the Act.
+The evidence shows that the deceased customarily performed hard manual labor in connection with the operation of a tin press, a device for compressing junked metal into bales, and a paper baler, in a location exposed to sunlight, particularly to afternoon sunlight, on his employer’s premises. The weather on the day of his fatal attack of heat exhaustion was hot, although no hotter than usual for that month. The presence of quantities of metal in the junk yard in which deceased worked contributed to the heat, and a structure on the premises tended to obstruct the prevailing breeze. The deceased had been performing his customary work in the usual manner, just prior to his symptoms of heat exhaustion; no incident of an unusual nature preceded his collapse.
+It is conceded by the carrier that deceased’s heat exhaustion occurred in the course of his employment. The evidence shows that the deceased was exposed to greater hazards of heat exhaustion in the performance of the work required of him at the time and place of this employment than those experienced by other people generally in the locality, and thus establishes that his heat exhaustion also arose out of the employment, i.e:, resulted from a risk incident to the employment.
+The question for decision relates to whether deceased’s heat exhaustion was due to “injury by accident,” within the intendment of section 440.02(19) F.S.A., which defines the term “accident” as “only an unexpected or unusual event, happening suddenly.”
+Under the principles followed by the Supreme Court of Florida in the case of Alexander Orr, Jr., Inc. v. Industrial Commission, 176 So. 172, and in Duff Hotel Company v. Ficara, 7 So. 2d 790, the deceased’s heat exhaustion would appear to constitute an injury by accident, as well as an injury arising out of and in the course of the employment. Under the liberal doctrine of those cases, the term “accident,” as expressed in the Ficara case, could be applied to “that which happens by chance or casually, that which proceeds from an unknown cause or the unusual which sometimes results from known causes” (italics supplied) ; the sudden “unexpected or unusual event” required to constitute the “accident” could be the unusual result of any ordinary act performed in the course of an employee’s usual work. In other words, the unexpected injury or the unexpected development of a disabling condition could in itself be said to constitute the “accident,” and it was not necessary that the “accident” precede the injury and be separate and distinct from the injury.
+Our Supreme Court, however, has had further occasion in several more recent cases to construe the term “accident,” as used in the Act, and has plainly now adopted a different and more strict interpretation of that term. Under the principles now laid down by the court, the event constituting the accident is required to be separate and distinct from the injury itself, and to precede the injury. The occurrence of the injury alone, or the appearance of disabling symptoms, cannot in itself be said to constitute the required accident. See McNeill v. Thompson (Fla.), 53 So. 2d 868; Brooks-Scanlon, Inc. v. Lee (Fla.), 44 So. 2d 650; Cleary Bros. Construction Co. v. Nobles (Fla.), 23 So. 2d 525; Peterson v. City Commission of Jacksonville (Fla.), 44 So. 2d 423; City of Tallahassee v. Roberts (Fla.), 21 So. 2d 712; LeViness v. Mauer (Fla.), 53 So. 2d 113. In the case last cited, the claimant suffered a heart attack while at work. The court said:
+“Obviously there was no accident preceding the heart attack and we have unequivocally held that the injury itself will not suffice to constitute the accident.”
+The evidence in the present case, as noted above, does not show the occurrence of an unexpected or unusual event preceding the onset of deceased’s symptoms, or separate and distinct therefrom. He was not subjected to any unusual strain or exertion uncommon to the type of work he was accustomed to doing (it might be noted that under the rule applied by the court in LeViness v. Mauer, supra, even an injury due to unusual exertion cannot be considered an “injury by accident”); nor were any of the various physical positions required by his work unusual. The evidence fails to show any sudden occurrence of an unusual nature which contributed to or brought about his symptoms.
+Claimants apparently base their claim squarely upon the doctrine of the Orr case, supra, in which, as in the present instance, there was no occurrence of an accident within the rule now followed by our Supreme Court.
+The rule presently followed by the court will be adopted in the consideration of the instant claim. Accordingly, it must be held that the deceased’s fatal heat exhaustion was not the result of injury by accident, and the claims are denied.

@@ -1,0 +1,31 @@
+---
+court: "Dade County Court"
+docket: "Case No. 87-3876CC20"
+decided: "1988-04-22"
+citations: ["28 Fla. Supp. 2d 69"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TIERNEY v COTO"]
+source_url: "https://static.case.law/fla-supp-2d/28/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036200
+---
+
+# Tierney v. Coto
+
+## Majority (STEVE LEVINE, County Judge.)
+
+OPINION OF THE COURT
+STEVE LEVINE, County Judge.
+This Cause came before the Court for Trial on March 30, 1988. The evidence established that Mr Coto, the Defendant, lives in a mobile home park owned by the Plaintiff. Mr. Coto owns the mobile home itself and rents the lot. On September 15, 1987, Mr. Coto was involved in a confrontation with other residents of the trailer park. Believing that his wife was having an affair with Jose San Marty, Jr., Mr. Coto went to speak with the father, Jose San Marty, Sr. Mr. Coto was irate, and told San Marty Sr. that he would kill San Marty Jr. No weapon was displayed by Mr. Coto, and the threat appeared to be directed towards the indefinite future. Mr. Coto also threatened San Marty Jr. directly. It was clear to the Court from the testimony that neither San Marty believed they were in real danger, although they felt that the Defendant was not acting “normally.” Someone called the police after this confrontation, and when Mr. Coto was questioned by the officers, they discovered he was in possession of a concealed hunting knife and suspected cocaine. Mr. Coto denied to police that he had threatened anyone. The police did observe that Mr. Coto was experiencing mood swings, alternating between crying and loud behavior. Mr. Coto was arrested for the knife and cocaine, but not for threats or disorderly conduct. There was no evidence that he was ever convicted for these offenses. Subsequently, the Plaintiff brought this action to evict Mr. Coto and his mobile home.
+According to Florida Statutes, Section 723.032, a mobile home lot tenant may only be evicted pursuant to the procedures set forth in Florida Statutes, Section 723.061., In this case, Plaintiff sought to evict Defendant based on Florida Statutes, Section 723.061(l)(c)(l). This Section reads as follows:
+For the first violation of any properly promulgated rule or regulation, rental agreement provision, or this chapter which is found by a court having competent jurisdiction thereof to have been an act which endangered the life, health, safety, or property of the park residents or the peaceful enjoyment of the mobile home park by its residents, the mobile home park owner may terminate the rental agreement, and the mobile home owner will have seven days from the date that notice is delivered to vacate the premises.
+Plaintiff asserts that the Defendant’s threats to the neighbors and his possession of a knife and cocaine on September 15, 1987 constitute acts which endangered the life, health, safety, or property of park residents, or the peaceful enjoyment of the park by the residents, sufficient to evict the Defendant upon seven days notice.
+The Court certainly appreciates Plaintiff’s attempts to keep drug users and aggressive or irritating people out of the mobile home park. There is clearly potential danger to others when an individual uses controlled substances and carries concealed weapons. Threats to neighbors obviously interrupt the peaceful enjoyment of the park, at least by those threatened. The Court, however, believes that the legislature, in enacting Section 723.061(l)(c)(l), intended that there be a more immediate and substantial threat or danger before eviction on seven days notice would be permitted.
+The legislature enacted the Florida Mobile Home Act in 1984 to address the problems unique to mobile home parks. When a landlord seeks to evict a mobile home owner, it is not just personal property which must be removed by the tenant; the entire home itself must be moved. Accordingly, the legislature found that special protections were necessary in mobile home eviction proceedings beyond those found in other residential tenancies.
+An examination of related statutes pertaining to mobile home evictions support the conclusion of the Court. Section 723.061(l)(b) permits eviction of a mobile home owner when the owner has been convicted of a crime, but only when that crime is detrimental to the health, safety, or welfare of other residents. Thus, conviction of a crime such as driving with a suspended license might not be cause for eviction because there is no threat to other residents. Although the commission of any crime could theoretically pose a danger to the community, since the behavior in question would probably not be a crime otherwise, it is clear that the legislature had something more in mind. The plain language of the statute must be given meaning and effect. Section 723.061(l)(c)(2) permits eviction for a second rule violation within a year regardless of the nature of the violation, but the park owner must given the . tenant notice and one opportunity to cure the objectionable condition or behavior. This statute would apply for violations of law or other behavior which does not pose an immediate and serious threat to residents.
+The actions of Mr. Coto, although clearly rule or law violations, did not pose such a danger to the park or its residents that would justify eviction on seven days notice. A mobile home owner should not be evicted summarily for one argument with a neighbor. Nor does possession of a concealed weapon or a controlled substance by itself, constitute an immediate and substantial threat. These actions could have been addressed adequately by notifying Mr. Coto of the violations and advising him that he must not repeat the behavior. If he did repeat the behavior within a year, he could then be evicted pursuant to Section 723.061(l)(c)(2),
+The Court hopes that Plaintiff will continue to try to maintain a safe and drug free mobile home park. The facts and law in this case, however, require the Court to enter
+JUDGMENT for the DEFENDANT. The Court reserves jurisdiction on the issue of costs and attorney fees.
+DONE and ORDERED in Miami, Dade County, Florida, this 22nd day of April, 1988.

@@ -1,0 +1,34 @@
+---
+court: "Dade County Circuit Court"
+decided: "1952-04-01"
+citations: ["3 Fla. Supp. 129"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCORMICK, et al v. FEINGOLD, et al."]
+source_url: "https://static.case.law/fla-supp/3/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1981633
+---
+
+# McCormick v. Feingold
+
+## Majority (CHARLES A. CARROLL, Circuit Judge.)
+
+CHARLES A. CARROLL, Circuit Judge.
+This cause came on for final hearing on the pleadings, the master’s report and supplemental report of the testimony and his findings and the exceptions of the parties to his supplemental report, and the court having heard the argument of counsel and examined the briefs, it is ordered, adjudged and decreed that:
+The court has jurisdiction of the parties and of the subject matter of this suit.
+The equities of the cause are with the plaintiffs.
+The preliminary injunction which was granted by the court on October T2, 1951, is made permanent, and the defendants and each of them, their agents, officers, servants and employees are hereby permanently enjoined in the respects set out in said preliminary injunction, to-wit:
+* * * from using the name “Deering” or the name “Vizcaya” in connection with said (defendant) corporation or its said property herein involved or the sale thereof or any name used in its proposed subdivision or platting thereof in any manner whatsoever, except that any plat of such property under any name not including the name “Deering” or the name “Vizcaya” may contain explanatory matter (not a part of the name of said proposed subdivision) to the effect that said property was formerly a part or portion of the property included in the plat recorded in Plat Book 34, at page 46, of the Public Records of Dade County, Florida, as Tract 3, Vizcaya, James Deering Estate.
+The costs in this cause previously expended are charged against the parties who have paid or disbursed the same, and the additional cost consisting of a master’s fee which is hereby allowed to the special master in the sum of $400 for his services, is charged against both parties, one-half to be paid by the parties plaintiff and one-half to be paid by the parties defendant.
+The master’s first or main report recommended that the case be dismissed, upon his determining that plaintiffs were not entitled to protection against the use of the names in question, either on the theory of unfair competition or as violation of a right of privacy or property in the name. In his second or supplemental report, after hearing some additional evidence on the latter feature, the master recommended a ruling in favor of plaintiffs based on his finding and conclusion that certain of the plaintiffs had a right of privacy or property in the names which would be interfered with and invaded by the complained of use.
+This decree confirms the final conclusion of the master’s report as amended, by granting injunctive relief to the plaintiffs, but in doing so this court sustains the plaintiffs’ exceptions which were directed to the master’s rulings that plaintiffs were not entitled to an injunction on the basis of unfair competition, and sustains the defendants’ exceptions to the master’s finding and conclusion that use of the names was a violation of a property right or right of privacy of two individual plaintiffs (Mrs. Danielson and Mrs. McCormick).
+In making these rulings this court has not found or assumed the facts to be different from those found and reported by the master. The master reached the correct conclusion, but the court disagrees with the master on the application of the controlling law to the facts.
+On the question of violation of right of privacy of the individuals, the evidence does not seem to support that ruling by the master. The two plaintiffs on whose account the master made that ruling are Mrs. Danielson and Mrs. McCormick, née Deering. They visit the area for a few months of the winter season, biennially and on alternate years, their main residence and locus operandi being another part of the country. The facts as to them do not justify relief on that ground.
+The other point furnishes a clear and positive ground entitling plaintiffs to protection by injunction. The family name of Deering as associated with Miami history, and the Deering Estate and show place, signify to the local public a certain good will and position or inference of power, prestige, and large scale operations well backed and financed, and with presumed integrity. The name Vizcaya designates the Deering Estate or show place, and necessarily suggests, through that association, elegance or class.
+The defendants propose to make prominent use of those names in promoting and furthering an extensive real estate subdivision development, on a recently acquired portion of the Deering Estate lands, across a street from the show place itself and adjoining other lands of the Estate which may subsequently be developed by plaintiffs.
+A fact to be noted here is that the defendants have no natural or logical call upon those names for themselves. Their determined effort to use the names “Deering” and “Vizcaya” in their plat and in connection with their real estate development shows that defendants attach a large value and importance to their use.
+That feature and other facts in the record clearly establish that the names have acquired an important secondary significance, such as is recognized and protected in the law of unfair competition.
+It seems obvious that if defendants use the names “Deering” and “Vizcaya” in their real estate development at that location, a considerable number of persons who deal with the defendants will be misled or confused into believing that defendant developers are the Deering people themselves, or that the Deering family or Estate is interested in or backing the development. Under the law of unfair competition, protection will be given if expected future competition is present, or even without that, if there is a reasonable danger of injury to reputation and business character and prestige.
+Under the circumstances here, if the defendants were free to use the names in question, where the public dealing with them would be misled and confused as indicated above by their use of these names, the good will and the reputation of the plaintiffs as owners of the Deering Estate and properties, and of the Deering Estate itself, would be jeopardized, with possible injury and loss, depending wholly upon the manner in which defendants conduct their operations with such public, that is, by means and under circumstances which would be completely beyond and out of the control of the plaintiffs. By the great weight of authority, that is recognized as unfair competition authorizing injunctive protection.

@@ -1,0 +1,36 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 85-6325 CF 10"
+decided: "1985-10-15"
+citations: ["15 Fla. Supp. 2d 9"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v REEVES"]
+source_url: "https://static.case.law/fla-supp-2d/15/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029056
+cites_cases: ["100 S.Ct. 2547", "102 S.Ct. 631", "290 So.2d 513"]
+---
+
+# State v. Reeves
+
+## Majority (J. LEONARD FLEET, Circuit Judge.)
+
+OPINION OF THE COURT
+J. LEONARD FLEET, Circuit Judge.
+In the evening hours of May 24, 1985, Defendant, Frank Henry Reeves, was a passenger in an automobile owned by his mother but operated by Mr. Lindsay Sims upon the Florida Turnpike. Florida Highway Patrol Sergeant James West effected a traffic stop of the motor vehicle due to a “flickering” left tail light. When the two vehicles were stopped upon the shoulder of the Turnpike, Sgt. West instructed Mr. Sims to approach the rear of the vehicle where he had stationed himself. Mr. Sims followed the directions of Sgt. West and, after being advised of the reason for the stop, opened the trunk of the automobile in order to effect a temporary repair of the faulty tail light. While the trunk of the vehicle was open, Sgt. West found his attention centered upon some luggage contained therein. Because he had earlier smelled the odor of burned marijuana emanating from the vehicle, Sgt. West felt that other drugs were present.
+When asked to produce his driver’s license and the registration for the automobile, Mr. Sims produced a temporary driver’s permit from the State of Georgia while Mr. Reeves searched the glove compartment for the registration papers. Sgt. West inquired of Mr. Sims as to the ownership of the luggage in the trunk to which inquiry Mr. Sims responded that Mr. Reeves was the owner. When Sgt. West requested permission to search the luggage, the request was referred to Mr. Reeves. Mr. Reeves denies ever giving permission for the luggage to be searched; Sgt. West, on the other hand, claims that Mr. Reeves granted permission for a search of the luggage.
+While Sgt. West was engaged in his dialogue with Mr. Sims, but before the request to search the luggage was made, Trooper Duncan arrived upon the scene to function in the nature of a “back up” to Sgt. West. It is the testimony of Trooper Duncan that Mr. Reeves gave permission for Sgt. West to inspect the contents of the luggage found within the trunk of the vehicle that had been stopped. Needless to say, from the luggage about which centers this dispute as to the existence of consent to search, there was removed a quantity of cocaine which Mr. Reeves now seeks to have suppressed from evidence.
+Based upon the unequivocal statements made by Mr. Reeves at the hearing upon his Motion to Suppress that the suitcase in question and the contents thereof were his personal property, the Court is satisfied that he is vested with the legal right to challenge the propriety of the search thereof. United States v. Salvucci, 100 S.Ct. 2547 (1980).
+The parties hereto have litigated vigorously the issue of whether the evidence is sufficient to establish that Mr. Reeves consented to the search of the luggage in question. That the automobile is entitled to the protections of the Fourth Amendment of the United States Constitution is without challenge. For the reasons expressed below, the Court is of the opinion that this issue is to be resolved upon a basis other than the question of consent.
+Sgt. West candidly testified that, even though he had initially stopped the motor vehicle because of the faulty left tail light, his suspicions as to the possibility that narcotics might be found in the vehicle were aroused by the smell of marijuana and his belief that the occupants of the vehicle met, at least in part, the “smuggler’s profile” as developed by the Florida Highway Patrol. Other than the profile, Sgt. West had no reason to suspect that the vehicle was being used to traffick in any controlled substance.
+Utilization of the “smuggler’s profile”, without more, was condemned in Royer v. Florida, 102 S.Ct. 631 (1981), when relied upon to justify a stop of a citizen not otherwise engaged in unlawful pursuits. Long before Royer was decided, however, the Second District Court of Appeal resolved Keener v. State, 290 So.2d 513 (1974) and enunciated the principal upon which this Court believes the instant case must be determined.
+The Keener court gave the following as the operative facts:
+“Keener’s 1952 Pontiac was manufactured 20 years before automobiles were required to have two tail lamps, but a policeman stopped him. Keener got out of the car and came back toward the officer. He exhibited his driver’s license, which was in order. The officer checked by radio on the license tag and determined that the automobile was not stolen. Its inspection sticker was current. The officer testified that his ‘curiosity’ was ‘kind of aroused’ and he began to interrogate Smith, who was a passenger in the car. An ordinary brown grocery bag was under the seat and the officer inquired about it. Finally Smith grabbed the bag, threw it across the car to the floor board on the driver’s side, and told the officer, T guess I don’t have a name’ and fled. The bag contained marijuana. It was not suppressed. It should have been.” (Id.)
+The Keener court wasted no time in reversing the lower court, stating succinctly:
+“There are now many circumstances in which an officer who does not have probable cause to make an arrest is justified in detaining a citizen to determine whether a crime has been committed. It may well have been proper for the officer to stop this car, equipped with one tail light when the law required two. Most citizens would appreciate knowing that one light was out. We need not determine this question. Assuming that the police officer was then acting properly, he later went too far without legal cause.”
+This Court is of the same opinion as the Keener court in reference to similar action taken by Sgt. West. He acted responsibly when he stopped the vehicle in this case in reference to the faulty tail light. When he utilized the infamous “smuggler’s profile” as the basis for making further inquiry, he “. . . went too far without legal cause.” Keener, supra.
+However frustrating it must be for Sgt. West and his fellow law enforcement officers to see apparently guilty persons walk free from charges as serious as the one now before this Court, it is the very beauty of our nation that such is the case. By protecting the rights of the guilty, we who labor in the courts ultimately protect the rights of society. A genuinely strong society can withstand any attack so long as it declines to resolve constitutional questions upon any basis other than law. Resolutions made for the sake of expediency soon become the nails and boards from which will be made the coffin for freedom’s light.
+For the reasons set forth above, Defendant’s Motion to Suppress must be, and hereby is, GRANTED.
+It is further ordered and adjudged that determination of the time within which the State may institute an appeal from this order shall be calculated from the date hereof.

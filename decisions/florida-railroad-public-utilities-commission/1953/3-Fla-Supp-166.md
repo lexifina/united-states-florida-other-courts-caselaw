@@ -1,0 +1,24 @@
+---
+court: "Florida Railroad & Public Utilities Commission"
+decided: "1953-01-22"
+citations: ["3 Fla. Supp. 166"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Application of SOUTH ATLANTIC GAS CO."]
+source_url: "https://static.case.law/fla-supp/3/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1981647
+---
+
+# In re South Atlantic Gas Co.
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+The South Atlantic Gas Co. has applied to this commission for an increase in certain of its rates and charges at Orlando, Winter Park and St. Augustine. The company is incorporated under the laws of Georgia and is qualified to do business in Florida, and is a public utility within the meaning of chapter 366, Florida Statutes 1951. It is engaged in the manufacture, sale and distribution of manufactured gas at Orlando, Winter Park and St. Augustine and at Savannah, Georgia. In addition, it conducts a merchandising and jobbing business in Savannah and Orlando.
+In its petition the utility contends that the rates now in effect fail, to yield an adequate and reasonable return on the property used and useful in furnishing service to the public. In order partially to meet this deficiency it requests an increase of 50c for the first 500 cubic feet or less per month, with an increased minimum charge of 50c per month at Orlando and Winter Park. It also proposes to increase the large commercial service rate at Orlando and Winter Park by 5c on the first 10,000 cubic feet, with a minimum charge increase of 50c per month. These rates are all subject to a fuel adjustment clause. No change is proposed in any of the special contract rates at Orlando or Winter Park, or in the remaining general service and large commercial service rates at those places.
+At St. Augustine it proposes to increase the residential service rate by 50c on the first 300 cubic feet, with a minimum charge increase of 50c per month, but no increase in the other three categories* of the residential rates. Also at St. Augustine it seeks to increase its commercial service rates on the first 300 cubic feet, as well as its minimum charge per month by 50c with no changes in the remaining commercial service rates. There are no special contract rates or fuel clause adjustment in effect in the utility’s operations at St. Augustine.
+Based on the petitioner’s separation of investment, depreciation reserve and income accounts it received a return of 3.12% at Orlando and 0.988% at St. Augustine. The commission’s separation of these items produced returns of 2.67% at Orlando and 0.70% at St. Augustine on a rate base which comprehends the depreciated original cost plus l/12th of the annual operating expenses and taxes. By increasing the rate base to allow 2% of the average original plant in service for material and supplies, the company earned a return of 2.60 % at Orlando and 0.69 % at St. Augustine. Obviously these rates are inadequate, unreasonably low, and confiscatory and the utility is entitled to an opportunity to earn additional revenue; in fact, more than it requested, because the increase proposed would, on our rate base, produce returns of only 4.48% at Orlando and 2.56 % at St. Augustine, with returns of only 4.36 % at Orlando and 2.50% at St. Augustine, if we included a 2% allowance for material and supplies.
+Our problem here, therefore, is not to determine whether the utility is entitled to increase its rates, but rather what rates shall be increased and which customers shall pay the increased costs. It is our opinion that the minimum charges when increased as proposed, will be unreasonably high, in fact, such minimum charges would 'be 35c higher than the minimum charge of any utility under the jurisdiction of this commission. It is our opinion, and we so find, that the minimum rates should not be increased in excess of 15c. We further find that the utility is entitled to an opportunity to earn the additional revenue set out in its petition and which will be produced by the increases proposed therein; however, we find that these increases should be spread over all consumer blocks and not limited to the categories set out in the petition.
+Now, therefore, in consideration thereof it is ordered that the South Atlantic Gas Co., petitioner herein, be and it is hereby authorized: (1) to increase its minimum rates by 15c; (2) to increase its rates in all of its other consumer blocks by sufficient amount to produce the overall revenue increases sought in and by said petition; and (3) said utility is directed to file herewith a schedule of rates and charges consistent with the terms of this order to become effective upon approval by this commission.

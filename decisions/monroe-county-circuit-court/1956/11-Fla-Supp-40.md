@@ -1,0 +1,41 @@
+---
+court: "Monroe County Circuit Court"
+decided: "1956-02-10"
+citations: ["11 Fla. Supp. 40"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVERTS v. EVERTS."]
+source_url: "https://static.case.law/fla-supp/11/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1993820
+---
+
+# Everts v. Everts
+
+## Majority (AQUILINO LOPEZ, Jr., Circuit Judge.)
+
+AQUILINO LOPEZ, Jr., Circuit Judge.
+Final decree, February 10,1956: This cause came on to be heard on the amended complaint, defendant’s answer and counterclaim thereto, plaintiff’s answer to the counterclaim, testimony and proofs adduced at the hearing before the court and the briefs of counsel thereon.
+The court listened very carefully to the testimony of the plaintiff and his witnesses and the defendant and her witness and observed with great care the appearance and demeanor and manner of each witness and his or her interest in this cause. The court was impressed by the testimony of the defendant as being clear, convincing, reasonable and sincere, but was not so much impressed by the testimony and demeanor of the plaintiff and his witnesses — all of whom were related to him except one who had been his secretary for many years. The court finds that the grounds for divorce alleged by the plaintiff were not sufficiently proven and corroborated by the evidence.
+The court finds that the defendant’s counterclaim has been proven and that she is entitled to separate maintenance and support. It is evident from the testimony that she is not receiving enough for her support and that the plaintiff according to his income can support her adequately — subject to further adjustments by the court as his circumstances may justify from time to time.
+The minor child of the parties, Mardee, left the defendant’s home in New Rochelle, N.Y., by prior arrangement with the plaintiff and without the defendant’s knowledge or consent and was brought to West Palm Beach, where she resides with the plaintiff. There is no one at plaintiff’s home other than the plaintiff to take care of her. The child has been entered in a Florida school. The court finds that although the mother should have custody of the child, to withdraw her from school before the end of the term would probably disrupt her education at this time. The other child of the parties, Margo, is and has been living with the defendant.
+The defendant has incurred court costs, attorney’s fees and expenses greater in magnitude than is ordinarily the case. Although he is a resident of Palm Beach County and defendant is a resident of New York and she had reason to expect that he would file suit for divorce, she expected the suit would be filed in Palm Beach County and obtained counsel there. Plaintiff, instead of filing suit in Palm Beach County, obtained counsel in Broward County and filed the suit in Monroe County — making it necessary for defendant and her attorney and witness to travel to Key West for the trial.
+It is therefore ordered, adjudged and decreed —
+That plaintiff’s prayer for an absolute decree of divorce from defendant is denied, and the amended complaint is dismissed.
+That defendant having proved her counterclaim for separate maintenance, is awarded separate maintenance and alimony, and the plaintiff is ordered to pay to the defendant as alimony and separate maintenance the sum of $500 per month, beginning on March 1, 1956 at defendant’s usual place of abode. In determining the amount of this monthly payment the court has taken into consideration the fact that plaintiff has deeded to defendant the home in New Rochelle, but that it will need extensive repairs and maintenance, and the fact that it was originally purchased with money the defendant helped to earn and accumulate.
+That the care, custody and control of the minor children, Mardee and Margo, is awarded to defendant until further order of the court with reasonable visitation privileges to plaintiff. Inasmuch as Mardee is in school in Florida, she shall remain in plaintiff’s custody until the end of the present school term, but plaintiff shall deliver her to defendant at his cost immediately upon termination of the present school term. Plaintiff shall pay to defendant $150 per month for each child while residing with the mother. Payment for the benefit of Margo shall commence on March 1, 1956, for Mardee on the day she is returned to defendant.
+That plaintiff shall pay the costs of these proceedings, including court costs, sheriff’s fees, witnesses and court reporter’s charges incurred, including charges for the depositions taken. Plaintiff shall also pay to defendant’s counsel $3,500 as attorney’s fees, as follows — $2,500 within 30 days and the $1,000 balance within 90 days. Payment of costs should be made to defendant’s attorney. Plaintiff shall pay to defendant forthwith the sum of $2,500 for the purpose of paying accumulated bills about which she has testified and for necessary repairs and furnishings in her home.
+That plaintiff shall maintain any insurance policies which he has at the present time with the same beneficiaries until further order of the court.
+That this court retains jurisdiction of this cause and the parties and subject matter for the purpose of modifying or changing the terms and conditions of this decree as the circumstances of the parties may require. Reasonable attorney’s fees may be allowed defendant in the future, as the circumstances may require.
+Order denying petition for rehearing, January 29, 1957: This cause came on to be heard on the petition for rehearing filed on February 27, 1956, and the same haying been submitted without argument and the court having again considered the pleadings and testimony, and being fully advised in the premises, it is ordered that the petition for rehearing is denied.
+Order, January 29,1957: On February 10,1956 the court entered a final decree of separate maintenance which among other things provided that the custody of the minor child, Mardee Everts, was awarded to defendant until further order of court, with reasonable visitation privileges to plaintiff.
+On February 27, 1956 a petition for rehearing was filed which has just been submitted to the court without argument of counsel. The court denied the petition by order dated today.
+On July 25, 1956 plaintiff filed a petition praying that defendant’s custody of Mardee be promptly terminated and Mardee restored to plaintiff’s custody pending disposition of the petition for rehearing.
+Thereafter plaintiff took testimony which is on file in this court and which shows among other things that the parties do not agree as to visitation privileges, or as to how the parties should get in touch with or correspond with Mardee.
+All the testimony in this cause including testimony taken after the final decree shows that neither the home of the plaintiff nor the home of the defendant is an unsuitable home for the said minor.
+Because of the disagreement as to visiting privileges, it would be better for all concerned if the court would at this time set the visitation privileges until further order of court.
+It is accordingly ordered that the final decree heretofore entered is confirmed in all respects but that the visitation privileges are hereby set out until further order of court, as follows—
+Mardee shall be allowed to visit with her father from one week after the end of the school year until one week prior to the beginning of the next school year, and during such period when she is visiting her father, her mother shall be allowed to visit her one weekend each month which weekend shall start at 5 P.M. on Friday and end at 5 P.M. on Sunday and she shall be allowed to take Mardee from the plaintiff’s home to visit her.
+Her father shall be allowed to have Mardee visit with him during the Thanksgiving holidays and during the Christmas holidays.
+During the rest of the year, that is, during the months beginning in September through May when the child is with her mother, her father shall be allowed to visit said minor one weekend each month starting at 5 P.M. on Friday and ending at 5 P.M. on Sunday and he shall be allowed to take Mardee from defendant’s home to visit with him.

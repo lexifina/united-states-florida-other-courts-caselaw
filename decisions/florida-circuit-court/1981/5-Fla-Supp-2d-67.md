@@ -1,0 +1,27 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 80-3871 CF (V)"
+decided: "1981-06-18"
+citations: ["5 Fla. Supp. 2d 67"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v. GILLION"]
+source_url: "https://static.case.law/fla-supp-2d/5/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2006991
+cites_cases: ["288 So.2d 200", "382 So.2d 673"]
+---
+
+# State v. Gillion
+
+## Majority (ROSEMARY BARKETT, Circuit Judge.)
+
+ROSEMARY BARKETT, Circuit Judge.
+This cause came on to be heard upon counsel’s request for attorney’s fees in an amount which exceeds the limit set by F.S. 925.036, alleging that the limitations of that Statute are unconstitutional. Defense counsel was appointed to represent the indigent Defendant in this cause by the Court on August 22, 1980. The Court in its Order of March 20, 1981, awarded to defense counsel, Bennett S. Cohn, the sum of $3,450.00 as attorney’s fees based upon 69 hours expended at the rate of $50.00 per hour. The Court finds that expending 69 hours in this case was reasonable. The hourly rate of $50.00 per hour has been set by Administrative Order of the Chief Judge of this Circuit.
+The Court is then faced with the question of ruling on the constitutionality of F.S. 925.036. It is most difficult, and in fact has proved impossible for the Court to reconcile the limitation of $2,500.00 placed by F.S. 925.036 upon the payments to be made by government to lawyers representing a Defendant against the possible loss of his life, and the payment of $50,000, or $100,000.00, or $150,000.00 or more, to be made by government to lawyers in eminent domain cases representing a defendant against the loss of his property.
+The case of Mackenzie v. Hillsborough County, 288 So.2d 200 (Fla. 1973), held that the predecessor Statute to F.S.925.036 was constitutional. It is true that only seven years have passed since that case was decided, and only minor differences exist in the successor Statute. However, it is the opinion of the Court that tremendous changes have occurred in the legal system in that interim. First of all, the increasingly higher fees awarded in the eminent domain cases alluded to above. Secondly, and more importantly, the extended responsibilities placed upon criminal defense lawyers by the appellate courts to assure a fair trial for the defendant. Clearly, the Public Defender’s office cannot undertake the representation of all indigent criminal defendants, specifically, for example, in conflict situations. More recently, the sheer weight of numbers has surfaced as an additional problem. The Supreme Court has recently spoken to that problem in this Circuit requiring the Public Defender to advise the Court in writing that he can meet the time limitations of the appellate rules. The Public Defender has indicated that he cannot handle them with his present staff. The Supreme Court has required the appointment of private members of the Bar to represent indigent defendants in all capital appeals. (See Opinion No. 60,515).
+The end result of both situations is the growing necessity to appoint private lawyers not only in appeals but for trials. The standard required lay the Sixth Amendment of counsel in criminal cases is whether counsel was reasonably likely to render and did render reasonably effective counsel based on the totality of the circumstances, United States v. Grey, 565 Fed.2d 881 (5th Cir. 1978) and Meeks v. State, 382 So.2d 673 (Fla. S. Ct. 1980). “Reasonably effective counsel” in many cases requires a lawyer to participate in lengthy pretrial motions and also trials which could (and have) lasted one, two, three, or maybe more weeks and, of course, the preparation thereof.
+The rationale of the courts reversing convictions wherein one lawyer represented two co-defendants was obviously to prevent the lawyer from having to weight one client’s interest against another client’s interest. The result of the $2,500 limitation in a criminal capital case is worse. It places counsel in the position of weighing his own economic self-interest against that of his client. How can he render reasonably effective representation when it means engaging in a three week trial of a capital case while the work of paying clients languishes in his office.
+This Court further agrees with the reasoning and rationale of the Honorable James T. Carlisle in the case of: IN THE INTEREST OF: TIMOTHY FANNING, Case No. C-80-2752, Circuit Court of the Fifteenth Judicial Circuit, and hereby adopts and incorporates the entire text of the Amended Order in that case. (See Editor’s Note)
+Accordingly, I, therefore, find that Section 925.036 Florida Statutes to .the extent that it purports to limit the amount of attorney’s fees is unconstitutional as a denial of equal protection, a denial of due process, and a violation of the separation of powers doctrine. The Board of County Commissioners of Palm Beach County is hereby ordered to forthwith cause the fees and expenses allowed by this Court in the amount of $3,450.00 to.be paid to Bennett S. Cohn, Esq., and the said County of Palm Beach shall have a lien enforceable anytime within twenty (20) years from the date of the filing of said Order upon the property of the Defendant, pursuant to the Rules of Criminal Procedure.

@@ -1,0 +1,46 @@
+---
+court: "Glades County Circuit Court"
+docket: "1047"
+decided: "1958-08-06"
+citations: ["13 Fla. Supp. 62"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCONNEL, et al v. WEMPNER, et al."]
+source_url: "https://static.case.law/fla-supp/13/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1992696
+cites_cases: ["17 Fla. 557", "20 So. 811", "200 S. W. 2d 427", "273 S. W. 993", "38 Fla. 53", "61 So. 940", "64 So. 2d 142"]
+---
+
+# McConnel v. Wempner
+
+## Majority (LYNN GERALD, Circuit Judge.)
+
+LYNN GERALD, Circuit Judge.
+This cause came on to be heard on motions of the plaintiffs and defendant Lykes Bros., Inc., for a summary judgment herein, and the court having considered the pleadings, affidavits, motions and written briefs presented to the court and having heard argument of counsel, finds— '
+Conclusions of Fact
+On February 20,1912, Frederick R. McConnel was the fee simple owner of the surface and minerals underlying the following described property then being in DeSoto County, but now located in Glades County, to-wit—
+[Legal descriptions of numerous tracts of land are omitted.]
+On said date Frederick R. McConnel conveyed said premises to Florida Fruit Farms Company, a Missouri corporation, and Florida Fruit Farms Company executed a purchase money mortgage, which was recorded April 4, 1912 in M/B 14, at page 248 of the DeSoto County public records, and covering all of said lands. The lands were subdivided by Florida Fruit Farms Company, the corporate name of which was subsequently changed to Palmdale Land Company, a Missouri corporation, which subsequently sold the same to the numerous defendants listed in the complaint as detailed therein.
+The purchasers did not obtain releases from the lien of the above mentioned purchase money mortgage and on October 4, 1938 Frederick R. McConnel instituted a civil suit in the circuit court of Glades County, seeking to foreclose the purchase money mortgage against Palmdale Land Company and other defendants. The defendants named in the complaint filed herein were not named or made parties to said foreclosure action and the final decree entered as to said lands was defective. However, the lands were sold pursuant to the final decree and a special master’s deed issued to Frederick R. McConnel, and color of title was vested in Frederick R. McConnel under the special master’s deed and decree confirming the sale.
+The plaintiffs are the sole and only heirs at law of Frederick R. McConnel. On November 4, 1939, by deed recorded February 12, 1949 in deed book 28, page 63 of the Glades County public records, the plaintiffs conveyed the surface of all of said lands, and other lands, to Lykes Brothers, Inc., a Florida corporation, which deed specifically excepted and reserved unto the grantors, the plaintiffs, all oil, gas-and sulphur in, on and under said lands. The deed contained a provision that if neither oil, gas nor sulphur was discovered in paying quantities in the state of Florida before November 4, 1949 the reservation would terminate.
+Oil and gas were found in paying quantities in the state of Florida in 1943.
+On November 4, 1939 Lykes Brothers, Inc. accepted the deed from the plaintiffs, knew its conditions and reservations, recorded the same and thereafter took possession of the land thereunder. Neither Lykes Brothers, Inc. nor its corporate successor, Lykes Bros., Inc., ever disputed the title of the plaintiffs to the described minerals until its answer was filed in this case. Consequently, Lykes Brothers, Inc. was not in adverse possession of said minerals as against the plaintiffs. Insofar as the plaintiffs knew, the defendant, Lykes Bros., Inc. and its corporate predecessor, were claiming title to the surface of said lands consistent with the written deed. Lykes Bros., Inc. and its corporate predecessor, have been in open, hostile, notorious and exclusive possession of the surface for almost nineteen years and the lands have been enclosed by substantial fences and cross-fences and cattle grazed thereon.
+The defendant, John Tait Wempner, did not become of legal age until April 30,1953, consequently any adverse possession as to this defendant’s interest would commence as of said date.
+The plaintiffs, and defendant Geraldine Hill Pelot, a widow, by agreement filed herein have settled their rights as to the ownership of the minerals underlying the SE% of the NW^ (Tracts 11 and 14), Section 36, Township 40 .South, Range 30 East, Glades County, and said settlement is accepted and made a part of this final decree.
+Conclusions of Law
+The defendant, Lykes Bros., Inc. is estopped in pais and in law from asserting title to the oil, gas and sulphur underlying the lands described herein in derogation of the written deed under which it acquired possession of the surface of the lands, and this is especially true since it never gave any notice to the plaintiffs, prior to the filing of its answer herein, that it claimed or intended to claim adversely to the plaintiffs. See Sanford v. Cloud (1880), 17 Fla. 557; Lake v. Hancock, 38 Fla. 53, 20 So. 811, 813 ; Clements v. Texas Company (Tex. Ct. Civ. App.), 273 S. W. 993, 1005; Moore v. Empire Land Co. (Ala.), 61 So. 940; 31 C. J. S. 395; 58 C. J. S. 223; 1 Am. Jur. 818; and 25 Texas Law Review 139, et seq.
+The adverse possession of the surface of the lands described herein by Lykes Brothers, Inc. and its corporate successor, Lykes Bros., Inc., established title to the underlying oil, gas and sulphur in the plaintiffs. See Carlisle v. Federal Land Bank of New Orleans (Miss. 1953), 64 So. 2d 142; McLendon v. Comer (Tex. Ct. Civ. App. 1947), 200 S. W. 2d 427; and Clements v. Texas Company, supra.
+As the defendant, John Tait Wempner, did not reach his majority until April 30, 1953, the adverse possession of the surface of the lands by Lykes Bros., Inc. and its corporate predecessor, could not divest this defendant of his title to an undivided one-fourth interest in the surface and to the oil, gas and sulphur underlying the — ■
+S% of the N% of the SE^ of the NW% (Tract 22), Section 2, Township 41 South, Range 80 East, Glades County, Florida,
+and the title to an undivided one-fourth interest thereof is hereby decreed to be vested in the defendant John Ta'it Wempner.
+It is therefore, ordered, adjudged and decreed that the plaintiffs’ motion be granted and that the motion of the defendant Lykes Bros., Inc., be denied, and that Moriat Gary McConnel, a widow, Moriat Gary McConnel DeMartini, a free dealer, and Mary Alice McConnel Cooper, a free dealer, have a good and indefeasible title to all of the oil, gas and sulphur underlying the following described lands, situate, lying and being in Glades County, to-wit—
+[Legal descriptions are omitted.]
+and said title is hereby and forever quieted, confirmed and established in the said plaintiffs, and all persons, firms or corporations, including the defendants, and each and every person, firm or corporation claiming any right, title or interest thereto under the defendants, be and they are hereby forever restrained an,d enjoined from asserting or attempting to assert any right, title or interest in the oil, gas and sulphur underlying said described lands.
+It is further ordered, adjudged and decreed that the defendant, John Tait Wempner, is the fee simple owner of an undivided one-fourth interest in the oil, gas and sulphur underlying the—
+S% of the Ni/2 of the SE14 of the NW% (Tract 22), Section 2, Township 41 South, Range 30 East, Glades County, Florida,
+and the plaintiffs own the remaining undivided three-fourths interest in the oil, gas and sulphur underlying said lands, and said defendant and plaintiffs have a good and indefeasible title thereto and all persons, firms or corporations, including the other defendants, and all persons, firms or corporations claiming any right, title or interest under them, be and they are hereby forever restrained and enjoined from asserting or attempting to assert any right, title or interest in the oil, gas and sulphur underlying said lands.
+It appearing to the court that the plaintiff and the defendant, Geraldine Hill Pelot, have reached an amicable adjustment of the issues raised by their respective pleadings herein, as reflected in the answer and disclaimer filed by said defendant, to which is attached the agreement between the parties, partitioning the minerals which was the subject matter of the contest between them, in consideration thereof, it is further ordered, adjudged and decreed that the rights of the parties as set forth in said agreement, as to the minerals in—
+The SE% of the NW% (Tracts 11 and 14), of Section 36, Township 40 South, Range 30 East, Glades County, Florida,
+are hereby ratified and confirmed, and that each of said parties thereto have a good and indefeasible title to the interest therein expressed, and all persons, firms or corporations, and all other defendants herein, and all persons, firms or corporations claiming any right, title or interest under them, be and they are hereby forever restrained and enjoined from asserting or attempting to assert any right, title or interest in the oil, gas and sulphur underlying the lands last described.

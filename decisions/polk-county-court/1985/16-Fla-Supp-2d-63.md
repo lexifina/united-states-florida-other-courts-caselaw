@@ -1,0 +1,30 @@
+---
+court: "Polk County Court"
+docket: "Case No. TT85-002043-XX"
+decided: "1985-09-05"
+citations: ["16 Fla. Supp. 2d 63"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v PAWINSKI"]
+source_url: "https://static.case.law/fla-supp-2d/16/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029345
+cites_cases: ["177 So.2d 765", "212 So.2d 632", "362 So.2d 999", "368 So.2d 909", "42 So.2d 361", "436 So.2d 93", "456 So.2d 1212"]
+---
+
+# State v. Pawinski
+
+## Majority (DICK PRINCE, County Judge.)
+
+OPINION OF THE COURT
+DICK PRINCE, County Judge.
+This cause coming on to be heard upon the Defendant’s Motion to Suppress Admission and the Court having heard the arguments of counsel, having read the numerous cases cited by each opposing counsel, having researched the statutory law, case law, and Rules of Criminal Procedure applicable to the case, and the Court being otherwise fully advised in the premises, it is thereupon:
+ORDERED AND ADJUDGED as follows:
+1. The Defendant’s Motion to Suppress Admission is denied insofar as that statement identifying her as the driver of a vehicle which was involved in an accident on the 3rd day of June, 1985, in Polk County, Florida.
+2. The Defendant’s Motion to Suppress Admission is granted insofar as any and all other statements made by the Defendant which were used or obtained in compilation of the Florida Traffic Accident Report required by Florida Statute 316.066.
+3. While elucidation of the rationale used by the Court in making the above rulings is not a necessity, the Court finds that such rationale should presently be included in this Order both for preservation of the record on appeal and to direct opposing Counsel to that section of the Rules of Criminal Procedure not cited by either counsel but which the Court finds instrumental as regards the present ruling.
+If a Defendant’s presumption of innocence is the bedrock foundation of our criminal law, then surely that Defendant’s absolute right to remain silent is the cornerstone upon which our system of jurisprudence has been constructed. It is therefore repugnant to our system of justice that a Defendant be compelled, through the creation of a legal duty, to incriminate himself if such duty to self-incriminate would then later be used at a later criminal proceeding in abrogation or circumvention of that Defendant’s absolute right to remain silent. On the other hand, the Defendant’s presumption of innocence mandates that the State alone have the burden of going forward with the evidence in each criminal case, attempting thereby to prove the Defendant’s guilt beyond and to the exclusion of every reasonable doubt insofar as each and every element of the crime as well as the other material allegations contained in the charging document. The procedure whereby the State is instructed in the manner in which it is to proceed in attempting to meet its burden has been codified in the Florida Rules of Criminal Procedure. In the language of Rule 3.020 “These rules are intended to provide for the just determination of every criminal proceeding. They shall be construed to secure simplicity in procedure and fairness in administration”.
+Able counsel for both the State and the Defendant have referred the Court to a number of cases, virtually all of which appear to be relevant to the pending issue on Motion in the case at bar. The State’s primary reliance appears to be on Combs v. State, 436 So.2d 93 (Fla. 1985). The Defendant has cited for controlling authority Pastori v. State, 456 So.2d 1212 (Fla. 2d DCA 1984); State v. Coffey, 212 So.2d 632 (Fla. 1968); Porter v. Pappas, 368 So.2d 909 (Fla. 3d DCA 1979); Elder v. Ackerman, 362 So.2d 999 (Fla. 4th DCA 1978). In addition thereto, the Court has read and considered Wise v. Western Union Telegraph Company, 177 So.2d 765 (Fla. 1st DCA 1965); and Stevens v. Duke, 42 So.2d 361 (Fla. 1949). Well realizing the weaknesses inherent in any such generalization, all of these cases stand for the proposition that the Florida Statutes, recognizing the sanctity of the Defendant’s right to remain silent, create a traffic accident report privilege whereby a person compelled by legal duty to report an accident which he was involved in cannot thereby be prejudiced in a later criminal proceeding regarding statements made by him in compliance with that legal duty. What distinguishes these cases, however, is the applicability of the statutory exemption to the Florida Traffic Accident Report privilege. In the current statute (Florida Statute 316.666(4), the exemption to the privilege is. worded as follows “. . . except that the Department may disclose the identity of a person involved in an accident when such, identity is not otherwise known or when such person denies his presence at such accident. . . .” Other than this specific exemption, the Statute regarding the case show that this motor vehicle was involved in an accident, the operation in denial of a tendered plea of not guilty necessarily includes “such person denying his (or her) presence at such accident”.
+The purpose of Florida Rule of Criminal Procedure 3.170(3) is perfectly clear. When any defendant maintains his innocence, he need not do so with burdensome particularity or complex procedural pleading. Pursuant to the rule, the Defendant who pleads not guilty is saying to the State” “Prove it all.” And since proving it all necessarily entails the issue of identity, the State is then entitled to rely upon all means at its disposal so to do, including, as here, the exemption to an otherwise established privilege.
+Finally, insofar as the claim of the Defendant to “stand mute as to the Information”; Rule 3.170(c) provides that “if a Defendant stands mute, or pleads evasively, a plea of not guilty shall be entered.” Therefore, in any event, the Defendant’s written plea invokes the operation of denial consequential to a plea of not guilty, upon which the present ruling is based.

@@ -1,0 +1,33 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 89-0027-CA-AP (Lower Court Case No. CTC89-22330-B)"
+decided: "1991-04-24"
+citations: ["48 Fla. Supp. 2d 93"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRENCH v STATE OF FLORIDA"]
+source_url: "https://static.case.law/fla-supp-2d/48/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2021958
+cites_cases: ["279 So.2d 92", "351 So.2d 972", "355 So.2d 166", "559 So.2d 187", "71 So.2d 899"]
+---
+
+# French v. State
+
+## Majority (DOYLE, J.)
+
+OPINION OF THE COURT
+DOYLE, J.
+This is an appeal from a judgment and sentence the county court entered after a bench trial in which the court found the appellant guilty of possession of less than 20 grams of marijuana. Appellant moved for a judgment of acquittal when the state rested and at the close of all evidence. Appellant argued that the circumstantial evidence rule applied and forbade a verdict of guilty. The trial court denied the motions.
+Police officers saw the appellant driving a pickup truck at night with the headlights off. The officers followed and stopped the appellant. They saw the appellant’s boyfriend sitting in the passenger seat. Police discovered that the vehicle was not registered to the appellant. The appellant told them that she was in the process of buying the vehicle from someone in Gainesville. Police ordered both occupants out of the truck. An officer with a dog trained to detect illegal drugs approached the truck. The dog leaped into the window of the truck and began biting and scratching at the ashtray in the center of the dashboard which alerted the officer to the presence of illegal drugs in the ashtray. A police officer opened the closed ashtray and found a “roach”. This is what remains of a marijuana cigarette or “joint” after it has been smoked. It is the equivalent of a cigarette butt except it is smaller. It is less than one-half inch in length and contains .01 grams of marijuana. Police charged the appellant with possession of marijuana. The appellant testified that the roach was not hers and that she had loaned her vehicle to her passenger’s parents and family for some time. The passenger testified that the roach was not his and that the appellant had loaned the vehicle to his family and friends for their use during the month before the seizure.
+Appellant contends that the circumstantial evidence rule bars a verdict of guilty. The circumstantial evidence rule forbids conviction if the evidence is circumstantial and fails to exclude every reasonable hypothesis of innocence. The rule does not require the state to rebut conclusively every possible variation of events which could be inferred from the evidence, but only to introduce competent evidence which is inconsistent with defendant’s theory of events. State v Law, 559 So.2d 187 (Fla. 1987); McArthur v State, 351 So.2d 972 (Fla. 1977); Mayo v State, 71 So.2d 899 (Fla. 1954). This case presents two questions. First, is any hypothesis of innocence which the defendant asserts reasonable? Second, did the state introduce competent evidence inconsistent with the defendant’s asserted reasonable hypothesis of innocence?
+Appellant cites Manning v State, 355 So.2d 166 (Fla. 4th DCA 1978), in which police arrested the defendant when he entered and sat behind the wheel of a parked automobile as police watched. The vehicle contained four other persons. A search revealed two and one-half ounces of marijuana in an unlocked center console. The defendant owned the car. The court held that the fact of ownership does not support the inference that the defendant knew the marijuana was there because of the likelihood that one of the other occupants possessed the marijuana. The court found this hypothesis of innocence to be reasonable.
+Appellee cites Russ v State, 279 So.2d 92 (Fla. 3d DCA 1973), in which police found a package of marijuana under the driver’s side dashboard of a car the defendant owned and drove alone. The defendant denied knowledge of the presence of the marijuana and offered a hypothesis of innocence that the car had been used earlier by another person. The court affirmed the conviction and held the issue of scienter to be a jury question. It is implicit in the holding that the court viewed the location of the drug, ownership of the car, or both to be evidence inconsistent with the defendant’s offered reasonable hypothesis of innocence.
+Florida courts have rendered legions of decisions dealing with the nagging problems presented under the circumstantial evidence rule when police discover contraband in a vehicle to which more than one person has access. We think this case differs from the usual and cited cases for two reasons. First, in this case, police seized a useless and valueless quantity of drugs. Second, the evidence in this case presents a clear inference that whoever had possessed the marijuana intended to discard the unused portion rather than store and possess it in the ashtray.
+The appellant asserts two hypotheses of innocence. First, the marijuana belonged to the unknown other persons who had access to the vehicle. Second, nobody took personal charge of or exercised the right of ownership, management, or control over the marijuana. The quantity was so small that it was useless and valueless. Police found it in the trash. The only inference is someone intended to throw it away rather than possess it. We find either hypothesis to be reasonable.
+The lesser the value and usefulness of the drugs the more likely a reasonable person could accept the hypothesis that an unknown third person possessed or controlled the drugs. The parties agree that the drug seized here was useless and valueless. Reasonable people do not ordinarily misplace or leave unattended useful, valuable, and illegal drugs. They do discard their trash. Police found the drug in a place and in a condition in which it ordinarily would have been discarded. The purpose of an ashtray is to provide a place in a vehicle to discard ashes, cigarette butts and small trash. These facts give rise to an inference that whoever originally possessed the marijuana intended to abandon and not possess what remained after use.
+The state presented no evidence inconsistent with either of appellant’s asserted reasonable hypotheses of innocence. There was no issue for the trier of fact. The trial court erred when it denied the appellant’s motion for judgment of acquittal.
+We reverse the judgment and sentence and remand this case to the trial court with instructions to grant the appellant’s motion for judgment of acquittal.
+REVERSED AND REMANDED.
+KENNEDY, J., concurs.

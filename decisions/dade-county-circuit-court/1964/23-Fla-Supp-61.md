@@ -1,0 +1,42 @@
+---
+court: "Dade County Circuit Court"
+docket: "63-C-13951"
+decided: "1964-06-25"
+citations: ["23 Fla. Supp. 61"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHIGAN MUTUAL LIABILITY CO., et al v. DADE COUNTY BOARD OF PUBLIC INSTRUCTION."]
+source_url: "https://static.case.law/fla-supp/23/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999378
+cites_cases: ["137 So.2d 316", "340 P.2d 200", "348 P.2d 1078", "38 P.2d 610", "48 P.2d 956", "90 S.W.2d 508"]
+---
+
+# Michigan Mutual Liability Co. v. Dade County Board of Public Instruction
+
+## Majority (GEORGE E. SCHULZ, Circuit Judge.)
+
+GEORGE E. SCHULZ, Circuit Judge.
+This cause came on to be heard on the plaintiffs’ complaint for declaratory decree and the defendant’s answer. The court heard argument of counsel and has studied documents which were admitted in evidence. The parties have stipulated as to the facts and as to the sole issue to be determined by the court, as follows —
+1. That the plaintiff Michigan Mutual Liability Company is a corporation reorganized under the provisions of Act 256 of the Public Acts of 1917 of the State of Michigan and is duly authorized to do business in the State of Florida. That the plaintiff Hartnett, Inc., and the plaintiff George Insurance Agency, Inc., are corporations organized and existing under the laws of the State of Florida and are duly licensed insurance agents authorized to engage in the sale of liability insurance in the State of Florida.
+2. That the defendant, Dade County, Florida, Board of Public Instruction, is a body corporate and politic under the laws of the State of Florida.
+3. That on or about November 23, 1963, the defendant did solicit bids for liability insurance by inserting an advertisement in The Miami News, a newspaper published in Dade County, Florida, a copy of said advertisement being attached to the plaintiffs’ complaint herein as Exhibit A, which is a true and correct copy of said advertisement for bids.
+i. That the plaintiffs Hartnett, Inc., and George Insurance Agency, Inc., acting as duly authorized and qualified agents of the plaintiff Michigan Mutual Liability Company, submitted bids in response to the solicitation of the defendant, and Exhibit B attached to the plaintiffs’ complaint herein is a true copy of all bids, including those submitted by the plaintiffs.
+5. That the defendant refused to consider the above described bids of the plaintiffs, and rejected the same, upon the sole and exclusive ground that the insurance offered by plaintiffs was that of a “mutual” company.
+6. That a copy of the Articles of Re-Incorporation and By-Laws of the plaintiff Michigan Mutual Liability Company filed in this cause, pursuant to the Court’s order entered upon the defendant’s Motion to Produce are true and correct copies of the Articles of Re-Incorporation and By-Laws of Michigan Mutual Liability Company.
+7. That Exhibit C attached to the plaintiff’s complaint herein is a true and correct copy of the proposed policy which the plaintiff Michigan Mutual Liability Company would have issued had the bids of its agents been accepted, and that said policy is a “non-assessable” policy and complies with the pertinent statutes of the State of Florida.
+8. That the sole issue to be resolved in this action is whether or not the defendant is precluded by law from accepting the insurance offered bv the plaintiffs, upon the grounds that the same is that of a “mutual” insurance company.
+Defendant school board contends that for it to insure with a mutual company would contravene provisions of article IX, section 10 of the constitution of Florida, which follows —
+Credit of state not to be pledged or loaned. — The credit of the State shall not be pledged or loaned to any individual, company, corporation or association; nor shall the State become a joint owner or stock-holder in any company, association or corporation. The Legislature shall not authorize any county, city, borough, township or incorporated district to become a stockholder in any company, association or corporation, or to obtain or appropriate money for, or to loan its credit to, any corporation, association, institution or individual.
+The question for decision is whether the school board may insure its property with a mutual company issuing a policy for a fixed premium — and under a policy that is non-assessable.
+Defendant contends that if it became a member of a company such as Michigan Mutual Liability Company it would have an interest and liability that would be tantamount to being a stockholder or part owner of a private corporation.
+Does the purchaser of an insurance policy from a mutual company become a stockholder, joint owner or subscriber to the capital stock of a corporation, company or association? As the court understands it, a mutual company such as the plaintiff company does not issue shares of stock or anything resembling stock. The purchaser, however, does become a member of the company with certain voting rights relative to the election of directors — but has no voice in the operation of the company.
+The court understands that a member of a mutual company is entitled to receive dividends based on the company’s experience of losses, but this is a rebate on the premium and not a sharing in the company’s general profits necessary to constitute being a part owner such as a stockholder in a corporation.
+The policy that would have been issued by the plaintiff company, as stipulated, is a non-assessable policy relieving the policyholder of any liability for losses of the company. This arrangement appears to be contrary to the status of a part owner or stockholder in a corporation who must share in the losses. Therefore, it appears that we have a simple purchase of insurance wherein a policy is issued at a fixed premium rate as set by an agency of the state.
+The defendant further contends that a mutual company policyholder has the status of a part owner of the company because in the event of the company’s failure prior to the time that a policy in force expires, the policyholder becomes a debtor of the company if the full premium of the policy has not been paid at the time of the company’s failure.
+For an expression of the minority view on this aspect of the question see Public Housing Admin. v. Housing Authority of City of Bogalusa (La.), 137 So.2d 316. The majority view is expressed in the following — State of Arizona v. Northwestern Mutual Ins. Co., 340 P.2d 200; Lawrence v. Schellstede (Okla.), 348 P.2d 1078; Miller v. Johnson (Cal.), 48 P.2d 956; Burton v. School District No. 19 (Wyo.), 38 P.2d 610; and Clifton v. School District No. 14 of Russellville (Ark.), 90 S.W.2d 508.
+The court agrees that a policyholder in a mutual company is responsible for the full premium on a non-assessable policy purchased prior to the company’s failure — but the court cannot reach the conclusion that for that reason the policyholder has an investment in the company.
+Merely holding a mutual company’s policy does not confer such ownership as to make the policyholder a stockholder in the company, nor does it give the policyholder an interest in the company’s assets.
+The question whether provisions of article IX, section 10 of the state constitution preclude the school board from accepting insurance offered by the Michigan Mutual Liability Company is accordingly answered in the negative.
+It is declared and decreed that there is no violation of any provision of article IX, section 10 of the constitution of the state of Florida when a governmental agency such as the defendant, Dade County, Florida, Board of Public Instruction, a body corporate and politic under the laws of the state of Florida, purchases insurance from a mutual insurance company, either domestic or foreign, provided such company complies with provisions of section 628.341, Florida Statutes, entitled “Nonassessable policies; mutual insurers”, and provided further that a foreign mutual insurance company is authorized to do business in this state, and where the articles of incorporation and the laws of the state of domicile of the foreign mutual company authorize it to issue non-assessable policies including the provision that the policyholder shall not participate in the general profits of the corporation.

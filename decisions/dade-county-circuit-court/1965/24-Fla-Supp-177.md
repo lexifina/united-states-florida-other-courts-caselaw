@@ -1,0 +1,52 @@
+---
+court: "Dade County Circuit Court"
+docket: "64-L-2272"
+decided: "1965-01-07"
+citations: ["24 Fla. Supp. 177"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRSTAMERICA DEVELOPMENT CORPORATION v. NEWS-JOURNAL CORPORATION OF VOLUSIA COUNTY."]
+source_url: "https://static.case.law/fla-supp/24/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999174
+cites_cases: ["104 Fla. 535", "107 S.W. 496", "166 F. (2d) 127", "18 N.E.2d 676", "207 Ala. 40", "209 Mo. 35", "254 App. Div. 211", "279 N.Y. 716", "29 U. Chi. L. Rev. 569", "317 F.2d 727", "4 N.Y.S. 2d 640", "62 Harv. L. Rev. 1041"]
+---
+
+# Firstamerica Development Corp. v. News-Journal Corp.
+
+## Majority (HAROLD B. SPAET, Circuit Judge.)
+
+HAROLD B. SPAET, Circuit Judge.
+The question before this court is one of venue. Plaintiff, Firstamerica Development Corporation, brought a libel action for damages in the sum of $5,000,000 in the circuit court of Dade County. Defendant is the News-Journal Corporation of Volusia County (incorrectly named as the Daytona Beach News-Journal Corporation in the complaint). Defendant, hereafter to be referred to as “the movant,” has moved to dismiss the suit for lack of venue.
+Plaintiff’s complaint alleges that the movant’s paper circulated a libel in Dade County; that the movant’s paper assisted in republication of the libel complained of in Dade County papers; and that the movant’s paper circulated leaflets containing the libel in the Dade County area. Taking these allegations to be true for the purpose of the motion, the movant claims that a change of venue is necessary because of the “single publication rule”. With this claim we do not agree.
+The inapplicability of the “single publication rule” to the facts in this case can be seen by examining the nature of the rule, the reasons for it and the procedure in which it should be applied.
+The nature of the rule is best understood by examining the concept of “publication”. To publish a libel is to make it known to any person other than the person libeled. Prosser, Law of Torts, 597 (1955). At common law a separate cause of action arises each time the alleged libel is revealed to a third party. Duke of Brunswick v. Harmer, 14 Q.B. 185, 117 Eng. Rep. 75 (1849). The “multiple publication rule”, as it was called, regarded every sale or delivery of each single publication of a newspaper or magazine as a distinct publication and a separate basis for liability. Odgers, Libel and Slander, 6th ed. 132 (1929).
+The “multiple publication rule” might have been necessary in 1849 when the process of publication was slow and many years might elapse before the publication was distributed and the damages to a plaintiff’s reputation could be ascertained. Today, with the advent of modern means of publication, estimating the extent of damages accruing from a libel may be done quickly and with reliability. 62 Harv. L. Rev. 1041 at 1046 (1949).
+The dangers of the “multiple publication rule” are obvious. A defamation in a single issue of “Life Magazine” might result in as many as 3,900,000 possible causes of action for separate torts, based on the publication to each individual reader. See Hartmann v. Time, Inc., 166 F. (2d) 127 (3rd Cir. 1947). The sum of the cause of actions arising would be more than three times the estimated number of all the reported decisions in the English language. 9C Uniform Laws Ann. at 171.
+Judicial effort has been made to reduce the multiplicity of suits possible under the “multiple publication rule.” This effort, known as the “single publication rule”, states that “the initial publication of a wide-spread libel ‘engrosses’ all subsequent publications and . . . this single publication comprises the only actionable tort”. 48 Col. L. Rev. 932, 933 (1948). The rule has been applied to newspapers, magazines and books. 29 U. Chi. L. Rev. 569 at 572 (1962).
+Initially, the “single publication rule” was “merely a convenient tool to express the rule that all causes of action for widely circulated libel must be litigated in one trial, and that each sale need not be separately pleaded and proved”. 62 Harv. L. Rev. 1041, at 1049 (1949). By gradual extension it has been applied to venue, Julian v. Kansas City Star Co., 209 Mo. 35, 35, 107 S.W. 496 (1908), and the statute of limitations, Wolfson v. Syracuse Newspapers, Inc. 254 App. Div. 211, 4 N.Y.S. 2d 640, aff’d. 279 N.Y. 716, 18 N.E.2d 676 (1938).
+The process of extension has been questioned. 62 Harv. L. Rev. 1041 at 1049 (1949). The attempts of courts to adopt the “single publication rule” have often lead to conflicting interpretations. See Zuck v. Interstate Publishing Corp., 317 F.2d 727 (1963). (Resolving the conflict in the New York courts with regard to when the statute of limitations begins under the “single publication rule”). The courts can only establish a working concept of the rule by means of litigation before them, which takes many years and causes many problems during the interim.
+In several jurisdictions the “single publication rule” has been adopted by passage of the Uniform single Publications Act. Although the uniform act does not specifically provide for the problems of the statute of limitations or venue within a state, additional sections would answer these problems.
+Research by able counsel (parenthetically, the court acknowledges its debt to counsel for both parties, for painstaking study and research and for supplying the court with study material) and this court have failed to reveal any Florida decisions or legislation concerning the “single publication rule”. The movant urges that the rule be adopted in Florida by judicial procedure. Although there is authority for such action, we feel it would be unwise. The enactment of legislation would be far superior to adopting the rule by judicial decision. It would allow a comprehensive rule to take effect immediately rather than through step-by-step decisions in the courts. As Justice Frankfurter stated —
+“For a court to hold that a decision does not belong to it, is merely to recognize that a problem calls for the exercise of initiative and experimentation possessed only by political processes, and should not be subject to the confined procedure of a law suit and the uncreative resources of judicial review.” Frankfurter, The Commerce Clause Under Marshall, Taney and Waite 96 (1937).
+This is not to say that courts do not legislate; that they do is well established. Cardoza, The Nature of the Judicial Process, 98-141 (1946). Rather, it is to prefer the legislature which is better equipped for such a process.
+Nicholas St. John Green, some ninety years ago stated that the law of slander and libel is analogous to a crooked, wrenched and distorted tree. Green, “Slander and Libel,” 6 Am. L. Rev. 593 (1872). With regard to the single publication aspects of libel, judicial pruning will not be a suitable tool. Rather than trying to set straight a distorted area of the law, a new substantive rule should be created by the process of legislation.
+For these reasons, the defendant’s motion to dismiss is denied.
+Submit order, with copy to adversary at least five days prior to submission.
+. Though, it is referred to as a common law rule it was first used in a criminal libel case. The King v. Carlisle, 1 Chitty 451, 18 Eng. Common Law Reports 248 (1819); 1 Russel, Crimes, 8th Ed. 9833 (1923). In Florida the “single publication rule” has been applied in criminal libel prosecutions. The rationale being that to try a person for each separate publication would be a breach of the double jeopardy clause of the Florida constitution. Eberhardt v. Barker, 104 Fla. 535, 140 So. 633 (1932).
+a. The following jurisdictions have adopted the Uniform Single Publications Act. 9C Uniform Laws Ann. (1963 Cum. Part p. 94).
+Arizona A.R.S. § 12-651
+California West’s Ann. Civ. Code §§ 3425.1-3425.5.
+Idaho I.C. §§ 6-702 to 6-705.
+Illinois S.H.A. ch. 126, §§ 11-15.
+New Mexico 1953 Comp. §§ 40-27-30 to 40-27-35.
+North Dakota N.D.C.C. 14-02-10.
+Panama Canal Zone 4 C.Z.C. § 4891-4895.
+Pennsylvania 12 P.S. §§ 2090.1-2090.5.
+2b. The following is the text of the Uniform Single Publications Act. 9C Uniform Laws Ann.
+§ 1 — No person shall have more than one cause of action for damages for libel or slander or invasion of privacy or any other tort founded upon any single publication or exhibition or utterance, such as any one edition of a newspaper or book or magazine or any one presentation to an audience or any one broadcast over radio or television or any one exhibition of a motion picture. Recovery in any action shall include all damages for any such tort suffered by the plaintiff in all jurisdictions.
+§ 2 — A judgment in any jurisdiction for or against the plaintiff upon the substantive merits of any action for damages founded upon a single publication or exhibition or utterance as described in Section 1 shall bar any other action for damages by the same plaintiff against the same defendant founded upon the same publication or exhibition or utterance.
+§ 3 — This act shall be so interpreted as to effectuate its purpose to make uniform the law of those states or jurisdictions which enact it.
+a. The statute of limitations could be said to run from the time at which the publication was offered to the public. See Zuck v. Interstate Publishing Corp., 317 F. 2d 727 (1963). Republication or publication of the same libel in stages so as to start the statute of limitations running before the major release to the public, could be regarded as a separate tort where necessary.
+3b. Venue might be said to lie in three places: First, the defendant’s jurisdiction; second, in the jurisdiction where the plaintiff resides; or third, in the jurisdiction where the most damage to the plaintiff’s reputation were suffered. A choice of any one jurisdiction would preclude bringing suit in any other jurisdiction. Such a procedure would obviate the dangers of unnecessary forum shopping, Age-Herald Pub. Co. v. Huddleston, 207 Ala. 40, 92 So. 193 at 198 (1921), and at the same time allow the plaintiff to bring a suit in the jurisdiction where he was injured and avoid a forum favoring a local newspaper’s viewpoints. This is especially necessary in a state like Florida where various attitudes and beliefs are found among our 67 counties.

@@ -1,0 +1,47 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 88-778-CA"
+decided: "1989-10-21"
+citations: ["39 Fla. Supp. 2d 191"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHNSON v MARTIN COUNTY"]
+source_url: "https://static.case.law/fla-supp-2d/39/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2015934
+---
+
+# Johnson v. Martin County
+
+## Majority (JOHN E. FENNELLY, Circuit Judge.)
+
+OPINION OF THE COURT
+JOHN E. FENNELLY, Circuit Judge.
+FINAL JUDGMENT
+This action was tried before the court sitting in equity without a jury on October 23rd and October 24th, 1989. The court received testimony from numerous witnesses, reviewed Plaintiff’s 18 documents in evidence, Defendant’s nine documents in evidence, and listened to the arguments of counsel. Having reviewed all the evidence, the court makes the following findings of fact:
+1. This case concerns an express Easement (“Easement”) dated January 21, 1965 between John and Vera Anderson (“Anderson”) and Martin County (“the County”). In this Easement Anderson gave the County an easement measuring 60 feet by 196 feets located between U.S. Highway One and the Intracoastal Waterway, in a subdivision known as Sandy Depths, Martin County, Florida. The Easement stated the County was to receive,
+... a permanent Easement and right-of-way to provide access to a public boat launching ramp, over the land hereinafter described . . . and . . . launching ramp located on said property, to the Intracoastal Waterway, . . .
+The Easement used a metes and bounds legal description although the property encumbered is also known as the North one-half of lot 4 and lot 5, Sandy Depths.
+2. In 1969 Plaintiff purchased the North one-half of lot 4 and all of lot 5, Sandy Depths, with no actual knowledge of the Easement. This property is also described by metes and bounds. Plaintiff is the owner of this property. Plaintiff first discovered the Easement in the summer of 1984.
+3. The legal description in the Easement was incorrect, improperly placing the Easement on lots 4 and 5, when the intent of both Anderson and Martin County was to place the Easement on lot 6. The court received evidence from numerous witnesses concerning the fact that Martin County, Anderson, and Anderson’s predecessor in title, Louis and Margaret Schneider, all intended to place the Easement on lot 6. This evidence included statements from the 1965 Chairman of the Board of County Commissioners of Martin County, statements from the attorney for Anderson, and statements from the attorney for Louis and Margaret Schneider. In addition, neighbors and others testified that the understanding and reputation in the community was that the Easement was located on lot 6. In fact, the court receive no evidence that the intention of the parties was to place an Easement on lots 4 and 5, only that the Easement should have been placed on lot 6.
+4. The court also heard unrebutted expert testimony from a real estate title attorney and also from a professional land surveyor that the Easement was intended to be placed on lot 6. They testified that the angles and distances of the legal description in the Easement matched up with lot 6 but not with lots 4 and 5, and that the Easement as placed produced a small sliver of unusable land on Plaintiff’s property and actually encroached on a third party’s property.
+5. The existence of the Easement on Plaintiff’s property renders Plaintiff’s title unmarketable.
+6. The County is in pari delicto with Anderson concerning the incorrect legal description in the Easement.
+7. The County has accepted ad valorem taxes from Plaintiff concerning the North half of lot 4 and lot 5, Sandy Depths, for 24 years.
+8. Lot 6 is the only lot where a boat ramp Easement would make sense because it is the only lot on which there is a channel or small inlet which would be appropriate for a boat ramp.
+9. Plaintiff is in privity with Anderson.
+10. On or about March 1, 1986, less than two months after the creation of the Easement, the County was placed on notice of the fact that a mistake was made in the Easement. The County took no steps to correct the problem and made no attempt to assert its interest in the Easement until November 14, 1985, almost 20 years after the Easement arose, and 16 years after Plaintiff purchased his property. By acting prudently and taking prompt steps to correct the problem which it helped to create, the County could have avoided this situation.
+11. The County’s own staff admitted that the boat ramp Easement is too small to be used by the County.
+12. The County has never used the Easement since their interest first arose in this area in 1958, since the Easement was created in 1965, or since 1984 when the County stated it would soon use its interest.
+13. The County has no fee interest in lots 4 and 5, only an Easement interest. Although the Easement gives the County the right to go to and from a boat ramp, no boat ramp is now located on this property, and no boat ramp has ever been located on this property. Therefore, the Easement has no purpose and is useless, further the Easement if continued would virtually eliminate the Plaintiff’s ability to meaningfully use the remainder and would constitute a virtual confiscation.
+Based on these findings of fact, it is
+ORDERED AND ADJUDGED:
+1. The Court finds for Plaintiff and against Defendant on Plaintiff’s actions for quiet title, reformation, and abandonment, as set forth below. At trial Plaintiff voluntarily dismissed its count for declaratory judgment.
+2. As to the quiet title count, pursuant to section 65.061(2), Florida Statutes (1987), Defendant, Martin County, is not the rightful owner of Plaintiff, Bright W. Johnson’s property. Martin County has asserted a claim through an easement which casts a cloud on the title of Bright W. Johnson, the rightful owner. Therefore, the title of Plaintiff, Bright W. Johnson, to the following described real property in Martin County, Florida:
+Commence on the south line of the North 1265.65 feet of the south 2265.65 feet of Government Lot 1, Section 19, Township 40 South, Range 43 East, where the same intersects the Easterly right of way line of U. S. Highway 1, thence run N 16 degrees, 50’ 37” W along said right of way line, a distance of 290.67 feet to the point of beginning, thence continue to run N 16 degrees 50’ 37” W along said right of way, a distance of 39.03 feet, thence run N 79 degrees 47’ 53” E a distance of 215 feet, more or less, to the water’s edge of Kobe Sound waterway, thence run southeasterly, along said water’s edge, a distance of 41 feet, more or less, to the intersection of a line extending from the point of beginning which runs N 79 degrees 45’ 53” E; thence run S 79 degrees 47’ 53” W a distance of 217 feet, more or less, to the point of beginning, including all riparian rights.
+Start at the N.W. comer of Section 19, T. 40 S, 43 E; thence run S 89 degrees 24’ 22” E, along the north line of said Section 19, a distance of 229.15 feet, thence ran S 16 degrees 50’ 37” E a distance of 515.45 feet, thence run N 73 degrees 09’ 23” E a distance of 70 feet to the easterly right of way line of U.S. Highway No. 1; thence run S 16 degrees 50’ 37” E, along said right of way line; a distance of 857.18 feet to the point of beginning; thence continue to ran S 16 degrees 50’ 37” E, along said right of way line, a distance of 80 feet; thence ran N 79 degrees 47’ 53” E a distance of 209.29 feet to line of mean high water on the westerly shore of Hobe Sound; thence meander said line of mean high water northerly and westerly to the point of intersection with a line that bears N 73 degrees 09’ 23” E from the point of beginning; thence ran S 73 degrees 09’ 23” W, along this lastly said line to point of beginning, is a good title against the claims or purported claims of Defendant, Martin County, and all other parties claiming by, through, under, or against Martin County, and these claims or purported claims are cancelled, and the title to the property is forever quieted in Plaintiff.
+3. As to the reformation count, the court finds that Plaintiff has proved its right to reformation by clear and convincing evidence. The Easement clearly failed to express the real agreement or intention of the partis that the Easement be placed on lot 6 instead of lots 4 and 5. Therefore, the court orders the Easement cancelled and extinguished as a matter of right, use, and record, and orders the clerk of the court to make such a notation on the Easement in the public records of Martin County.
+4. As to the count for abandonment, the court grants Plaintiff relief under the theory of equitable estoppel. Because of Martin County’s acts, words, and silence, Martin County lead Bright W. Johnson to take a position whereby the assertion of the County’s legal title would be contrary to equity and good conscience. Therefore, the court orders the Easement cancelled and extinguished as a matter of right, use, and record, and orders the clerk of court to make such a notation on the Easement in the public records of Martin County.
+5. Plaintiff is the prevailing party in this action and the court reserves jurisdiction to award court costs.
+DONE AND ORDERED in Chambers, Stuart, Martin County, Florida on this 21st day of October, 1989.

@@ -1,0 +1,24 @@
+---
+court: "Duval County Circuit Court"
+docket: "59-2211-L"
+decided: "1960-09-08"
+citations: ["16 Fla. Supp. 202"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NOBLES et ux v. GREENE, et al."]
+source_url: "https://static.case.law/fla-supp/16/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990999
+---
+
+# Nobles v. Greene
+
+## Majority (WILLIAM H. MANESS, Circuit Judge.)
+
+WILLIAM H. MANESS, Circuit Judge.
+This cause came on to be heard, pursuant to notice, upon defendants’ “Renewed Motion for Medical Reports”. The court has now heard the argument of counsel and finds the following facts to be undisputed — That this court, by its order dated February 16, 1960, did, pursuant to motion and notice, appoint Dr. Ashley Bird to examine plaintiffs, John R. Nobles and Elsie Nobles, his wife; that said order did not require said doctor to furnish copies of his report on such examination to counsel for plaintiffs; that counsel for plaintiffs did not request counsel for defendant to provide him with any copies of such report; that counsel for plaintiffs did, however, write a letter to Dr. Bird requesting a copy of his report on such examination and a copy of the doctor’s report on such examination and a copy of the doctor’s report was furnished to counsel for plaintiffs; that the only request made for such report from such doctor was made by plaintiffs’ attorney and not by either of the plaintiffs.
+That prior to this hearing, counsel for defendants has requested counsel for plaintiffs to furnish to defendants a like report of all examinations previously made by any doctor of the mental or physical condition of plaintiffs; upon such request, counsel for plaintiffs has furnished to counsel for defendants all reports made by Dr. A. C. Chandler, a neuro-surgeon, whose specialty is the same as that of Dr. Bird. That, in addition, counsel for plaintiffs furnished x-ray reports by Doctors Gordon E. Kibler and Dr. Ivan Isaacs; that, however, plaintiffs have also been under the care and treatment of a general practitioner, Dr. Ben Franklin, who has been plaintiffs’ main treating physician but who has made no written reports of any kind to plaintiffs or their attorney during the period from March 4, 1958, to date; that counsel for plaintiffs has conferred with Dr. Franklin on at least one occasion in his office and on several occasions by telephone; that counsel for plaintiffs has on one or more occasions requested written reports and has furnished written authorization from plaintiffs to said doctor but no written reports have been made.
+The question now confronting this court is whether or not defendants are entitled under rule 1.29, Florida rules of civil procedure, to obtain, or require plaintiffs to obtain, a written report from Dr. Franklin, in default of which plaintiffs may be required to suffer the loss of the doctor’s testimony if offered at the trial.
+Based on the foregoing facts, this court is of the opinion that the first part of rule 1.29 (b) (1) has been complied with by defendants and that the request of counsel for plaintiffs addressed to Dr. Franklin requesting his report of examination meets the requirements of said rule. That as to the latter part of said rule, the party examined has not, in fact, refused to deliver the report desired by defendants, but it may be argued that the failure of the doctor to make such a report to counsel for plaintiffs upon his request and authorization therefor is tantamount to a refusal, and authorizes and empowers this court to make an order requiring the delivery of a report of Dr. Franklin’s examination and treatment on such terms as are just; such argument is without validity in this case because there does not appear to be any evidence of bad faith or collusion between Dr. Franklin and plaintiffs; without such a refusal by “the party examined”, the authority of this court to impose the penalty of excluding Dr. Franklin’s testimony at the trial does not come into operation, and even an attempt by this court to force Dr. Franklin to make a report to the plaintiffs on their prior requests would result in an injustice if the doctor failed or refused to do so; accordingly, it appears that the efforts of the defendants to obtain information from Dr. Franklin under the provisions of rule 1.29 (b) (1) must fail and such information must be obtained by the discovery procedures provided in said rule.
+It is therefore ordered and adjudged that defendants’ Renewed Motion for Medical Reports should be, and the same is hereby, denied; provided, however, that in the event Dr. Franklin shall at any time hereafter furnish a written report to counsel for plaintiffs, counsel shall forthwith furnish a copy thereof to counsel for defendants.

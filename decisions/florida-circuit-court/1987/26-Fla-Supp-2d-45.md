@@ -1,0 +1,46 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 84-2312"
+decided: "1987-12-10"
+citations: ["26 Fla. Supp. 2d 45"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INACIO v WHALEN, et al."]
+source_url: "https://static.case.law/fla-supp-2d/26/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2035252
+cites_cases: ["107 S.Ct. 3078", "427 So.2d 1070", "472 So.2d 1145", "474 So.2d 212", "489 So.2d 1139", "494 So.2d 226", "495 So.2d 782", "498 So.2d 493", "501 So.2d 1316", "503 So.2d 1321", "507 So.2d 150", "510 So.2d 1141"]
+---
+
+# Inacio v. Whalen
+
+## Majority (NICHOLAS P. GEEKER, Circuit Judge.)
+
+OPINION OF THE COURT
+NICHOLAS P. GEEKER, Circuit Judge.
+MEMORANDUM ORDER
+This cause is before the Court upon plaintiff’s application for award of attorney’s fees consonant with the dictates of Florida Patients Compensation Fund v. Rowe, 472 So.2d 1145 (Fla. 1985). The Court has considered the testimony of expert witnesses as well as affidavits, exhibits and memoranda of law in support of and opposition to the award requested. Having resolved the credibility choices to be made, this Court enters the following findings of fact and conclusions of law as required by Rowe, supra,:
+PRELIMINARY STATEMENT OF FACTS
+This action commenced as a personal injury suit by plaintiff against defendant Whalen and defendant Metropolitan Toyota for injuries sustained by plaintiff when he was struck by an automobile driven by Whalen and recently purchased from Metropolitan Toyota. After partial summary judgment was granted in plaintiff’s favor against the tortfeasor Whalen, State Farm was joined as a party defendant wherein plaintiff sought recovery of uninsured motorist benefits and reinstatement of PIP benefits which had been terminated in September 1985. A year later plaintiff added a claim for recovery of damages due to unfair trade practices of defendant State Farm. These claims against defendant State Farm were ultimately settled for $50,000 on November 20, 1986.
+FINDINGS OF FACT
+1. Plaintiff’s attorney has maintained time records showing that he has devoted a total of 262 hours from the inception of this action until the hearing set for consideration of award of attorney’s fees.
+2. These time records further show that 231 hours of the attorney’s time were expended from inception of this action until concluding settlement in November 1986.
+3. The original contingent fee contract between plaintiff and his attorney was modified in recognition of the addition of counts for damages and other relief against defendant State Farm which provided a statutory basis for award of attorney’s fees.
+4. Of the 231 hours noted in paragraph 2 above, 32 of these were apparently expended in total pursuit of the tort claim against the original defendants and before serious consideration was given to pursuit of relief under the provisions of plaintiff’s uninsured motorist policy.
+5. The remainder of these hours (199) is not susceptible of facile segregation inasmuch as they are intertwined in the attorney’s effort to prosecute the original tort claim as well as the subsequent insurance benefits’ claims.
+6. The expenditure of these total number of attorney hours for the successful conclusion of this action is not unreasonable even though a more experienced attorney could have achieved an equally successful settlement through the consumption of less attorney time, and resources.
+CONCLUSIONS OF LAW
+1. This Court has jurisdiction over the subject matter of and the parties to this action. Florida Patients Compensation Fund v. Rowe, supra.
+2. The purpose of the procedure established by the foregoing authority is to achieve uniformity and reasonableness in the determination of attorney fee awards to prevailing litigants. Id. at 1149; Freedom Savings & Loan Assoc. v. Biltmore Const. Co., 510 So.2d 1141, 1142 (2 DCA 1987).
+3. The seminal determination is computation of the “lodestar” which is derived by multiplying the reasonable hourly rate by the number of hours reasonably expended in the representation of the prevailing party. Appalachian Inc. v. Ackmann, 507 So.2d 150, 152 (2 DCA 1987); Good Samaritan Hosp. Assn. v. Saylor, 495 So.2d 782, 784 (4 DCA 1986).
+4. The Court concludes that the figure of 199 hours represents the number of hours reasonably expended in the representation of plaintiff as previously stated. These hours are the only segment that could be easily segregated from the total hours logged in the attorney’s representation of the client and thus they may properly be included in this computation. State Farm Fire & Casualty Co. v. Becraft, 501 So.2d 1316, 1318 (4 DCA 1986). While the Court is mindful of defendant’s assertion that this matter was settled short of trial and that the number of hours expended appear excessive, see e.g., Ackmann, supra, at 152, it is also apparent that needless hours were expended by plaintiff through defendant’s unexplained intransigence in admitting coverage; thus one consideration negates the other and is of no persuasive force in this analysis. Furthermore, a review of the fee contract between plaintiff and his attorney convinces the Court that the nearly 32 hours claimed subsequent to date of settlement in preparation for and in litigation the award of attorney’s fees should be disallowed. B & L Motors, Inc. v. Bignotti, 427 So.2d 1070, 1073 (2 DCA 1983). Compare, Bill Rivers Trailers Inc. v. Miller, 489 So.2d 1139, 1143, (1 DCA 1986).
+5. Next this Court should consider assignment of a reasonable hourly rate to be charged in this case. Plaintiffs attorney has been engaged in the active practice of law for five years and before that served as a law clerk to a United States Magistrate. He has recently become a partner in the firm with whom he has been associated these past five years. Given the nature of the firm’s work and the nature of this case, the attorney’s reputation and accumulated experience, the fee customarily charged in this community for similar legal services and the nature and length of the professional relationship with the client, an hourly rate of $90 would be reasonable.
+6. Multiplying these two figures together, this Court arrives at a “lodestar” figure of $17,910.00. To this figure plaintiff asserts that a contingency risk factor of 3.0 should be assigned to enhance the “lodestar” computation. In reaching a proper analysis of this contention the Court should pause to consider the nature of the relationship between plaintiff and his attorney. At first, plaintiff retained his attorney under a contingent fee arrangement. Later when it became apparent that other claims for relief were being pursued which provide for recovery of statutorily awarded attorney’s fees, plaintiff and his attorney modified the fee contract so that these statutory fees could be sought and paid without diminution of the damages recovered. This modification to the fee contract contemplated a possible attorney’s fee award by this Court in excess of the contingent fee percentage. Moreover, recognizing the limitation or cap placed by Rowe, supra at 1151, on contingent fee awards, plaintiff argues that in this case the award of attorney’s fees may exceed one-third of $50,000 recovered in settlement because a contingent fee contract no longer existed. See e.g., Alston v. Sundeck Products, Inc., 498 So.2d 493 (4 DCA 1986). Accepting this argument as intended and other considerations implicit in it, this Court can only conclude that assignment of a contingency risk factor to enhance the lodestar fee would be inappropriate in this setting. Reliance Insurance Co. v. Harris, 503 So.2d 1321, 1323 (1 DCA 1987); Lake Tippecanoe Owners Asso. Inc. v. Hanauer, 494 So.2d 226 (2 DCA 1986). Furthermore, application of the contingency risk factor to enhance a lodestar fee has been seriously questioned and may be of doubtful validity except in special cases of which this case is not one. Pennsylvania v. Delaware Valley Citizens’ Council for Clean Air, — U.S. —, 107 S.Ct. 3078, 3090-91 (1987). If upon further review it should be found that a contingency risk factor is appropriate, then this Court would assign one of 1.5 because it determines that success was more likely than not at the outset.
+7. Likewise, the Court concludes that given the straightforward issues involved and litigated and the results achieved no further enhancement of the attorney’s fees award would be warranted.
+8. Finally, this Court concludes that plaintiff is not entitled to prejudgment interest on the attorney’s fees awarded. While entitlement to attorney’s fees was undisputed, the amount of the award was unsettled or unliquidated and had to await determination by this Court as mandated by Rowe, supra. Argonaut Ins. Co. v. May Plumbing Co., 474 So.2d 212, 215 (Fla. 1985).
+Accordingly, it is
+ORDERED:
+1. Plaintiff is entitled to recover of defendant State Farm Fire & Casualty Co. an attorney’s fee of $17,910.00.
+2. The Clerk of this Court is directed to return to plaintiff its deposit of $100 placed in the registry of this Court on September 16, 1986.
+DONE AND ORDERED at Pensacola, Escambia County, Florida, this 10th day of December, 1987.

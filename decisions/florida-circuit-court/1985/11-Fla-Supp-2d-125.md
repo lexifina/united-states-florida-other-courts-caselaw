@@ -1,0 +1,44 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 83-1211 CF"
+decided: "1985-04-17"
+citations: ["11 Fla. Supp. 2d 125"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v. BIBBY"]
+source_url: "https://static.case.law/fla-supp-2d/11/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030287
+---
+
+# State v. Bibby
+
+## Majority (J. LEONARD FLEET, Circuit Judge.)
+
+OPINION OF THE COURT
+SENTENCING ORDER IN JUSTIFICATION OF GUIDELINE DEPARTURE
+J. LEONARD FLEET, Circuit Judge.
+Defendant, William James Bibby, Jr., was arrested on January 31, 1983, for Aggravated Assault, Disorderly Conduct, Petit Theft and Resisting Arrest Without Violence. By Information filed on February 11, 1983, Mr. Bibby was accused of Battery Upon a Law Enforcement Officer, Petit Theft and Disorderly Intoxication. On April 12, 1983, because it was represented to the Court that he was afflicted with the disease of alcoholism and wanted an opportunity to commence upon the road of becoming a recovering alcoholic (and with the advice, encouragement and consent of his attorney of record), Mr. Bibby entered a plea of guilty to the charge of Petit Larceny for which he was sentenced to six months probation with the special condition that said six months be spent in the alcohol rehabilitation program through the program known as Treatment Alternatives to Street Crime (TASC); the adjudication of guilt was imposed.
+On May 12, 1983, Mr. Bibby was brought back before the Court due to his apparent inability, or unwillingness, to participate in the TASC program and his disruption of those inmates who were attempting to achieve alcohol rehabilitation. Upon the completion of the hearing, and upon receipt of the promise from the defendant that he would cooperate if given a second chance, the Court once again returned Mr. Bibby to the TASC cell in Broward County Jail. All went better for Mr. Bibby upon his return to the TASC cell and, on October 7, 1983, the Court received his plea of guilty to the accusation of Battery Upon a Law Enforcement Officer. The defendant was placed upon probation for a period of three years, adjudication withheld, with the following special conditions:
+1. Attend ninety meetings of Alcoholics Anonymous within ninety days of release from confinement.
+2. Enter into, and complete successfully, the Broward Alcohol Rehabilitation Course (BARC).
+3. Do not relocate residence without first receiving approval from the court.
+At the time of the entry of the sentence as above outlined, the Court also mitigated the remaining five days of incarceration imposed April 12, 1983. The charge of Disorderly Intoxication was nolle prossed by the State.
+When he was released from confinement, Mr. Bibby began to disregard his obligations to the Court — and to himself — almost immediately. He failed to keep appointments with Ms. Koegler, a counselor associated with BARC, on November 28, 1983 and December 6, 1983. Each appointment was missed without explanation until after the fact when he asserted that employment problems had prevented his attendance. One final appointment was scheduled for Mr. Bibby and he was informed that his failure to attend would result in the termination of BARC, thus placing him in jeopardy with the Court. Mr. Bibby did not keep the appointment scheduled for December 21, 1983, and no explanation was offered by him. BARC, as was its obligation, notified Mr. Bibby’s probation officer of the foregoing defalcations with a recommendation that Mr. Bibby be placed into a residential treatment program.
+On December 16, 1983, the Court issued a warrant for the arrest of Mr. Bibby for reason that he had relocated his place of residence without prior permission from the Court and his whereabouts were then unknown. He was arrested that same day for such violation and was kept in custody by the Broward County Sheriff until his release into custody of his mother on December 30, 1983. After a hearing on January 6, 1984, at which the defendant was in attendance, the Court declined to revoke Mr. Bibby’s probation, opting, instead, to give him one more chance to assume responsibility for his actions and thereby avoid incarceration in the Department of Corrections.
+Mr. Bibby’s probation was modified to require that he enter the residential program at Village South, located in Miami, Florida. Mr. Bibby entered the Village South facility on January 10, 1984, but he absconded on January 12, 1984. Because he absconded, the Court once again issued a warrant for the arrest of Mr. Bibby for violation of probation. On February 21, 1984, Mr. Bibby was taken into custody by the Sheriff of Broward County and, on March 8, 1984, after an evidentiary hearing during which he was represented by counsel, he was deemed to be in violation of his probation and adjudicated guilty of Battery Upon a Law Enforcement Officer.
+Because the Court was under the mistaken impression that the fact of violation of probation would, in and of itself, justify an enhancement of Mr. Bibby’s sentence — without the necessity of a written justification thereof — the Court sentenced him to thirty months in the Department of Corrections. Pursuant to a timely appeal, Mr. Bibby brought the Court’s error to the attention of the Fourth District Court of Appeal and, on March 27, 1985, the appellate court entered its order directing this Court to write an order explaining its reasons for departure from the sentencing guidelines. (Bibby v. State, 10 FLW 797 (Fla. 4th DCA 3/27/85)).
+Mr. Bibby has a significant record of contacts with the criminal justice system, i.e.:
+September, 1979 Trespass Six months probation
+October, 1979 Theft Adjudicated Guilty, Sentence Withheld
+Probation and fine July, 1980 DWI
+Adjudicated Guilty, December, 1980 Theft Three months probation
+December, 1980 Theft Six months probation
+September, 1982 Open Container of Alcohol Adjudication Withheld
+The Court originally granted the privilege of probation to Mr. Bibby because it seemed that he had, at last, realized that he must assume responsibility for himself and turn the negative orientation of his life into a positive direction. Repeatedly, the Court forgave breaches of the terms of probation. Each time Mr. Bibby was before the Court upon an allegation that he had violated probation, Mr. Bibby professed to have learned his lesson and was ready to rehabilitate himself. Each time the Court turned another cheek in the hopes that Mr. Bibby would succeed in helping himself. The act of the Court in sentencing Mr. Bibby to the custody of the Department of Corrections for thirty months was a final effort taken after the conduct of the probationer clearly demonstrated that he was not amenable to rehabilitation in the absence of restraint.
+A score sheet prepared in accordance with the sentencing guidelines applicable at the time the Court sentenced Mr. Bibby to the Department of Corrections reflects that he was within the grid that called for any non-state prison sanction. At the time of the imposition of the sentence into the Department of Corrections, the Court had already had the benefit of measuring the response of Mr. Bibby to confinement in a county jail facility; the ultimate conclusion could be only that such confinement had no long lasting deterrent effect upon Mr. Bibby. To impose once again that which had been ineffective in the past with the same defendant seemed to this Court to be an exercise in futility and, therefore, an exercise in which it should not engage.
+The defendant in this case has amply demonstrated to the Court that he is not amenable to rehabilitation in the absence of confinement in the Department of Corrections. Past confinements in county detention facilities and past releases upon probation have all been singularly impotent in the fight against Mr. Bibby’s anti-social behavior pattern. Punishment will not cure Mr. Bibby’s multi-faceted illness, but it should give him an opportunity to devise a more positive method of dealing with them.
+Mr. Bibby is not unlike the farmer’s mule that was forgiven by its master for three consecutive occasions of obstreperous conduct; after each event the farmer would say to the mule, “that’s one”, “that’s two”, and, on the third occasion, “that’s three” whereupon the farmer shot and killed the mule. Mr. Bibby was forgiven by the Court, and warned, on more than three occasions. By his actions, Mr. Bibby left the Court no alternative but to impose upon him the period of confinement now under review.
+The foregoing considered, it is
+ORDERED and ADJUDGED that the sentence imposed by this Court on March 16, 1984, to-wit: incarceration in the Department of Corrections for a period of thirty months, be, and same hereby is, ratified and readopted by this Court.

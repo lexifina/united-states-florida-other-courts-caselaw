@@ -1,0 +1,28 @@
+---
+court: "Palm Beach County Circuit Court"
+docket: "74-508-CA(D)-03"
+decided: "1975-06-05"
+citations: ["42 Fla. Supp. 201"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STEPHENSON v. STEPHENSON."]
+source_url: "https://static.case.law/fla-supp/42/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000098
+cites_cases: ["262 So.2d 269", "264 So.2d 112", "277 So.2d 583"]
+---
+
+# Stephenson v. Stephenson
+
+## Majority (LEWIS KAPNER, Circuit Judge.)
+
+LEWIS KAPNER, Circuit Judge.
+This cause is presented upon a petition for rehearing of a final judgment of dissolution. The wife is contending that the amount of $200 per month rehabilitative alimony for a period of six months is inadequate both as to amount and as to time. Upon consideration, the court is of the opinion that the award is inadequate and should be changed to $250 per month for a period of one year from the day of the final judgment. It is thereupon so ordered.
+Counsel for the wife has argued that the award should be considerably higher and should be either permanent in its nature or for a period of years sufficient to enable her to devote her full time to raising the one remaining child of the parties, a boy of ten. In light of the recent decision of Hernandez v. Hernandez, (4th DCA, 1975, 74-791), —So.2d—, a further elaboration of this case is in order.
+The husband, forty-seven, and the wife, forty-nine, were married in 1950 at the ages of 21 and 23 respectively. It is a twenty-six year marriage. The wife had done some clerical work prior to the marriage and has not worked since.
+The theory of permanent alimony is that where a husband, by the act of marrying his wife, has removed from her the opportunity to support herself and develop her earning capacity, he then assumes a responsibility to support her even after the marriage is dissolved. This responsibility is relative and depends upon the length of the marriage, the degree to which the wife has been removed from the market place, the husband’s ability to support, the wife’s needs and other equitable considerations.
+The mere fact that a woman is middle-aged and has not worked during a marriage of long duration does not give rise to a responsibility for permanent alimony on the part of the husband. As stated in Beard v. Beard, (1st DCA, 1972) 262 So.2d 269, “the fortuitous circumstance created by recitation of the marriage vows neither disminishes [the wife’s] capacity for self-support nor does it give her a vested right in her husband’s earnings for the remainder of her life.” See also Thigpen v. Thigpen, 277 So.2d 583; Lefler v. Lefler, (4th DCA) 264 So.2d 112. In the case sub judice, the wife is forty-nine years old, but she is well capable of working at any job that she is qualified for. Naturally, her years of unemployment and her lack of specific skills pose a substantial barrier to finding employment, but the evidence fails to show that she is incapable of receiving proper training or obtaining adequate employment. There are numerous jobs that require no specific training, or skills that can be learned on the job. I would also point out that the wife was a grown woman (23) when she married and, therefore, probably did not forego any long-term educational opportunities by getting married, so her employment potential must be judged by that yardstick and not that of, say, a person who dropped out of premedical school to support her husband and raise her family. In other words, we are not looking at the need for a four-year training program to restore lost employment potential, or a person incapacitated by reason of health or circumstances to find any work at all.
+Additionally, the wife is not foreclosed, prior to the twelve-month period, from petitioning this court to ask for an extension of time in the event she is unable to find employment or for other good cause. True, the husband would be entitled to ask that an award of permanent alimony cease, but in that case he would have the burden of proving that the wife has been able to find work but has refused to do so. It is much fairer to require the wife to have the burden of showing she cannot find work because she would be in the position of knowing who she spoke to, what agencies, etc. Furthermore, it has been over a year since the petition has been filed and the wife has made little or no effort to either find employment or educate herself for employment.
+Finally, I would point out that nothing herein suggests that after a long marriage where the husband has been the breadwinner and the wife has been the homemaker the husband has no more than a cursory obligation to his wife. For one thing, under such circumstances, the husband has provided support for the wife during the marriage. For another, any property that is jointly owned is presumed to be a gift to the wife to the extent of her interest therein, even though the husband may have provided all the funds therefor. Additionally, the wife may be entitled to ownership of an automobile she is using and other personal property even though it might be in his name. And, finally, with specific reference to this case, the wife may be awarded lump sum alimony or equitable distribution of property belonging to the husband. In this case, the wife has been awarded the husband’s interest in the marital home and this is a substantial award.
+For all thése reasons, the Court finds that an award of $250 pet month rehabilitative alimony for a period of. 12 months from the date of the final judgment, plus an additional fifteen months from the date of the petition, is fair and equitable.

@@ -1,0 +1,39 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 89-08507 CA 22"
+decided: "1989-09-21"
+citations: ["38 Fla. Supp. 2d 129"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BAUMANN v ROBBINS, etc., et al."]
+source_url: "https://static.case.law/fla-supp-2d/38/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2013290
+cites_cases: ["411 So.2d 887", "418 So.2d 1280", "453 So.2d 397", "453 So.2d 907", "455 So.2d 654", "479 So.2d 776", "481 So.2d 929", "488 So.2d 830", "494 So.2d 260", "514 So.2d 1072", "527 So.2d 814", "540 So.2d 141", "541 So.2d 778", "544 So.2d 1139"]
+---
+
+# Baumann v. Robbins
+
+## Majority (ROBERT P. KAYE, Circuit Judge.)
+
+OPINION OF THE COURT
+ROBERT P. KAYE, Circuit Judge.
+ORDER OF DISMISSAL
+THIS CAUSE came before the Court on September 15, 1989, pursuant to notice on the Plaintiff-taxpayers’ Motion to Strike Portions of Answer and Memorandum of Law in Support Thereof and on the Defendant Taxing Authorities’ Motion for Judgment on the Pleadings or, In The Alternative, Motion to Dismiss for Lack of Subject Matter Jurisdiction. The Court considered the written and oral arguments of counsel, as well as the court file in these proceedings, and upon consideration, the Court finds as follows:
+FINDINGS OF UNDISPUTED FACT
+1. This is an action contesting the 1988 ad valorem tax assessment on certain real property located at 3501 N.E. 163rd Street, North Miami Beach, Florida, and described by Folio No. 07-2210-002-2640.
+2. The subject tax assessment was certified for collection on October 21, 1988. These taxes became due and payable on or before November 1, 1988. Sixty days from October 21, 1988 expired on December 20, 1988. This action was filed February 27, 1989.
+CONCLUSIONS OF LAW
+3. The Plaintiff-taxpayers have failed to comply with the express statutory jurisdictional requirement for the timely filing of this action. Section 194.171(2), Florida Statutes, provides:
+(2) No action shall be brought to contest a tax assessment after 60 days from the date the assessment being contested is certified for collection under § 193.122(2), or after 60 days from the date a decision is rendered concerning such assessment by the property appraisal adjustment board if a petition contesting the assessment had not received final action by the property appraisal adjustment board prior to extension of the roll under § 197.0134.
+Subsection (6) of section 194.171, Florida Statutes, mandates that the requirements of the above-quoted subsection (2) are jurisdictional. The taxpayers maintain that they wrote to the Property Appraiser in 1986 and 1987 to request changes of address. As explained by the taxpayers’ own counsel at hearing, however, the essence of a statute of nonclaim is that it permits no exception, no matter how harsh the circumstances or consequences. Statutes of limitations are distinguished from statutes of nonclaim in that no estoppel arguments can be raised by a taxpayer in respect to a nonclaim statute. Miller v Nolte, 453 So.2d 397, 401 (Fla. 1984).
+4. The issue as framed by the taxpayers at hearing was whether section 194.171(2) and (6) is a statute of nonclaim and, if it is, whether due process requires that it be considered a statute of limitations and thereby be subject to taxpayers’ defenses such as estoppel or lack of receipt of actual notice of assessment or tax levy.
+5. The taxpayers herein contended that under Miller v Nolte, section 194.171(2), Florida Statutes (1987), like its pre-1983 predecessor, must be considered a statute of limitations. This Court concludes otherwise. Markham v Neptune Hollywood Beach Club, 527 So.2d 814, 816 (Fla. 1988), distinguishes Miller v Nolte. In Neptune, the Supreme Court ruled:
+[I]n Miller we were addressing a pre-1983 tax assessment and did not address the clear expression of legislative intent contained in subsection (6) that subsection (2) be considered a jurisdictional statute of nonclaim. By application of subsection (6), the trial court in the instant case lacked jurisdiction to consider the taxpayers’ suit. Therefore, the suit was properly dismissed. 527 So.2d at 816.
+6. In Miller v Nolte, (a) the applicable limitations statute contained no language indicating that the legislature intended the statute to be jurisdictional, and (b) the Property Appraisal Adjustment Board (P.A.A.B.) failed to perform the procedural prerequisites required for the statutory filing period to begin to run. 453 So.2d at 401. The Court held that under those circumstances, due process required that section 194.171(2) be considered a statute of limitations. In the case sub judice, no P.A.A.B. notice or proceeding was involved. Furthermore, as noted in Neptune, section 194.171(2) has been amended specifically to create a jurisdictional nonclaim statute in order to cure the due process problem present in Miller v Nolte. No constitutional impediment to enforcement of an absolute jurisdictional bar exists herein. This is especially so because the legislature and the courts have consistently and repeatedly since 1983 put Florida taxpayers on notice that failure to strictly comply with sections 194.171(2), (3) and (5) will result in dismissal for lack of jurisdiction. § 194.171(6), Fla. Stat. (1987); Bystrom v Diaz, 514 So.2d 1072 (Fla. 1987) (subsection (5)); Markham v Hinckley, 544 So.2d 1139 (Fla. 4th DCA 1989) (same); Wilkinson v Reese, 540 So.2d 141 (Fla. 2d DCA 1989) (subsection (3)); Mori v Robbins, 541 So.2d 778 (Fla. 3d DCA 1989) (same); Hirsh v Crews, 494 So.2d 260 (Fla. 1st DCA 1986) (subsections (2) & (3)); Clark v Cook, 481 So.2d 929 (Fla. 4th DCA 1985) (subsection (3)); Gulfside Interval Vacations, Inc. v Schultz, 479 So.2d 776 (Fla. 2d DCA 1985), rev. denied, 488 So.2d 830 (Fla. 1986) (subsection (2)); Markham v Corlett, 453 So.2d 907 (Fla. 4th DCA 1984) (subsections (3) & (5)); and see Cowart v Perkins, 455 So.2d 654, 656 n.4 (Fla. 2d DCA 1984) (subsection (3)).
+7. Based upon the mandate of the Supreme Court in Neptune, this Court concludes that the clear expression of legislative intent contained in subsection (6) dictates that section 194.171(2) “be considered a jurisdictional statute of nonclaim.” 527 So.2d at 816. No constitutional principle bars enactment by the legislature of a nonclaim statute. As applied to the facts of this case, the section 194.171(2) and (6) statute of nonclaim does not violate the due process rights of the Plaintiff-taxpayers. The Supreme Court has ruled that while the section 194.171 remedy of dismissal with prejudice is “harsh,” it constitutes a “clear” and absolute jurisdictional mandate. Bystrom v Diaz, 514 So.2d 1072, 1074 (Fla. 1987).
+Based upon the specific findings and conclusions set forth herein-above, it is, accordingly,
+ORDERED AND ADJUDGED that Plaintiffs’ Motion to Strike Portions of Answer is denied, and Defendants’ Motion for Judgment on the Pleadings or, In The Alternative, Motion to Dismiss for Lack of Subject Matter Jurisdiction, is granted. The cause is hereby dismissed with prejudice. Plaintiffs shall take nothing by this action, and Defendants shall go hence without day, provided that the Court retains jurisdiction to tax costs in favor of Defendants.
+DONE and ORDERED in Chambers at Miami, Dade County, Florida, this 21st day of September, 1989.
+It appears that Ch. 83-204, § 7, Laws of Fla. was te legislature’s response to a decision of the Second District Court of Appeal, Cape Cave Corp. v Lowe, 411 So.2d 887 (Fla. 2d DCA), review denied, 418 So.2d 1280 (Fla. 1982), wherein the Second District held, as we did in Miller, that § 194.171(2) was a statute of limitations, the benefit of which the tax assessor may by his actions become estopped from claiming.

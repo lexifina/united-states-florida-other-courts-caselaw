@@ -1,0 +1,31 @@
+---
+court: "Palm Beach County Circuit Court"
+docket: "39865-C"
+decided: "1961-01-05"
+citations: ["17 Fla. Supp. 91"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLEN v. ALLEN."]
+source_url: "https://static.case.law/fla-supp/17/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990660
+---
+
+# Allen v. Allen
+
+## Majority (JAMES R. KNOTT, Circuit Judge.)
+
+JAMES R. KNOTT, Circuit Judge.
+This cause is before the court upon plaintiff’s motion for entry of a final decree in conformity with the mandate of the District Court of Appeal, Second District.
+The sole function of this court is to follow the direction of the District Court of Appeal to enter a decree in accordance with its opinion. The parties are in disagreement regarding the proper interpretation of that opinion, and under these circumstances, the language of the opinion must be looked to as a guide.
+Portions of the opinion of the District Court of Appeal material to our present inquiry read as follows—
+This is an appeal from a divorce suit brought by the appellant-wife against her husband. The wife also sought restoration of a total of $25,000 which she claimed she had loaned to her husband, but which the husband claimed was a gift. The chancellor entered a decree of divorce and held the property transfers were gifts. This appeal concerns only the phase of the case dealing with the property transfers.
+The parties were married in 1958 after a very short acquaintance. The wife was approximately 56 years of age and the husband was 39. From the record it appears that the plaintiff was a woman of some means, while the defendant at the time of the marriage owed various creditors approximately $5,000. Shortly after the marriage, the wife transferred $5,000 to the husband to allow him to pick up his debts. Subsequently, she advanced another $20,000 to allow him to purchase stock in a radio station where he worked. This stock was issued in the parties’ joint names, at a cost of $18,000, and the $2,000 difference was retained by the husband. Fart of this $2,000 later went toward the purchase of a boat. (Italics added.)
+After reciting the finding of the trial court that the transfer of $5,000 was a gift to the defendant, rather than a loan, and that the parties should be considered as owners of the boat and corporate stock as tenants in common, the appellate court proceeded with a discussion of the legal principles involved, observing that “as a general rule, where a husband receives or acquires the possession of his wife’s separate property, the law will presume that the property is held for the wife’s benefit, or that a loan exists,” and continued with the following language —
+Thus the husband has the burden of proving that the interest he acquired in his wife’s separate property was a gift rather than a. loan. From the record in the instant case, we fail to see sufficient evidence to meet this burden.
+The only direct testimony in the record regarding the “loan” or “gift” aspect of these transactions is by the parties themselves. However, a neighbor did testify that she overheard an argument in which Mrs. Allen told her husband, in effect, “You already have $25,000 of my money.” Furthermore, during the examination of the husband’s witness —■ his employer at the radio station — it was brought out that Mrs. Allen’s lawyer, at her request, demanded a thorough investigation of the stock as an investment before advancing the funds. From these witnesses we infer “loan” rather than “gift”, and we note that the husband’s case is substantially weakened. While an appellate court does not lightly overturn a chancellor’s finding of fact, we feel that the circumstances surrounding these transfers necessitate the conclusion that both transactions be considered loans . . . (Italics added.)
+Plaintiff contends that she should be vested with the title to the corporate stock in question. Defendant argues that'under the language of the opinion of the District Court of Appeal he is entitled to be declared the owner of the stock, with liability on his part to repay the funds which were held by the appellate court to have constituted a “loan” to him by plaintiff. In view of the plain, express finding of the appellate court that the transactions between the parties should be considered “loans” to the defendant, it is apparent that the latter’s contention must be upheld.
+Upon consideration, it is thereupon ordered and decreed that defendant is indebted to the plaintiff in the sum of $5,000, together with interest thereon at the rate of 6% per annum from the date said debt was contracted to the date hereof,, together with the further sum of $291.05 as costs, hereby taxed against the defendant.
+It is further ordered and decreed that defendant is indebted to plaintiff in the further and additional sum of $20,000, together with interest thereon at the rate of 6% per annum from the date said debt was contracted to the date hereof. Defendant shall be allowed to credit the sum of $489.96 against such indebtedness, said sum having been heretofore deposited in the registry of this court from the sale of the boat owned by the parties, and said sum shall be paid forthwith by the clerk of this court to plaintiff’s counsel after deduction of the registry fee. As a further credit, defendant may deduct the aggregate amount of the dividends received by the plaintiff from said Ken-Sell stock during the pend-ency of this cause, the parties having been allowed by the trial court to share the dividends pending a final determination of the issues.
+It is further ordered and decreed that all right, title and interest in and to stock certificate no. 19, for 62 shares of Ken-Sell, Inc., is vested in the defendant, and that said corporation is directed to transfer title to said stock certificate to defendant; provided, however, that plaintiff shall have a lien upon the said Ken-Sell stock owned by the defendant for the payment of the sums due under this decree, which lien may be enforced by application to this court after the expiration of a period of 30 days from date hereof, in the manner provided by law for the enforcement of mortgage liens.

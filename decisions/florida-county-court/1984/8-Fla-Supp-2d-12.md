@@ -1,0 +1,31 @@
+---
+court: "Florida County Court"
+docket: "Case No. M-84-138892-TT AO2"
+decided: "1984-12-26"
+citations: ["8 Fla. Supp. 2d 12"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF FLORIDA v. KOLOCOTRONIS"]
+source_url: "https://static.case.law/fla-supp-2d/8/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017052
+cites_cases: ["16 L.Ed 2d 919", "16 L.Ed 908", "384 US 757", "445 US 573"]
+---
+
+# State v. Kolocotronis
+
+## Majority (JAMES T. CARLISLE, County Judge.)
+
+OPINION OF THE COURT
+JAMES T. CARLISLE, County Judge.
+The issue in this case is whether a warrant was needed to enter defendant’s house to arrest him for DUI.
+Defendant was seen leaving the Mambo Bar and entering a brown Chevrolet pickup truck. He backed into an Oldsmobile station wagon lawfully parked in the parking lot. He was observed by one Bissell. Bissell tried to detain defendant. Defendant cursed Bissell and drove away. Defendant ran a red light near the Mambo Bar and almost caused another accident. Bissell was able to get defendant’s license number. He reported this information to the police. The officers checked the registration and went to defendant’s residence. They were advised by another officer who had recently driven by that address that defendant’s truck had not been in front of his house at the time. When the officers arrived they found the truck parked in front of the house. The engine was still very warm. They were then advised by a neighbor that he had observed defendant get out of the truck and enter the house. The neighbor told the officers that defendant looked drunk and that he stumbled and fell while walking to the house. The officers knocked on the defendant’s door but received no answer. They looked through a window and saw defendant asleep on the couch. They knocked on the window but were unable to arouse him. Finally, one of the officers went through an open window and unlocked the front door. The officers awakened defendant and placed him under arrest. Later defendant refused to take a breathalyzer test.
+Defendant now seeks to suppress any evidence the officers might have obtained as well as the evidence of defendant’s refusal to submit to breathalyzer test.
+Section 316.645 Florida Statutes provides that a police officer who makes an investigation at the scene of a traffic accident may arrest any driver of a vehicle involved in the accident when, based upon personal investigation, the officer has reasonable and probable grounds to believe the person has committed any offense under Chapter 316 of the Florida Statutes.
+Payton v. New York, 445 US 573, 63 L.Ed 2d 639, 100 S.Ct 1371 (1980) stands for the proposition that in the absence of exigent circumstances police may not enter a residence to effect a routine felony arrest without a warrant. The officers in this case did not have a warrant. Defendant was not arrested for a felony. Therefore, unless there were exigent circumstances the motion should be granted.
+The officers were investigating an accident. The officers had more than ample probable cause to believe that the defendant caused that accident and that he was driving while impaired. In Schmerber v. California, 384 US 757, 16 L.Ed 908, 86 S.Ct 1826 (1966), the police were investigating an automobile accident. Schmerber was placed under arrest and while he was at the hospital receiving treatment for injuries suffered in the automobile accident, a blood sample was taken without a search warrant and over his objection. Schmerber claimed the withdrawal of blood was the product of an unlawful search and seizure in violation of the Fourth and Fourteenth Amendments. In denying this contention the United States Supreme Court said:
+“Although the facts which established probable cause to arrest in this case also suggested the required relevance and likely success of a test of petitioner’s blood for alcohol, the question remains whether the arresting officer was permitted to draw these inferences himself, or was required instead to procure a warrant before proceeding with the test. Search warrants are ordinarily required for searches of dwellings, and, absent an emergency, no less could be required where intrusions into the human body are concerned. The requirement that a warrant be obtained is a requirement that the inferences to support the search ‘be drawn by a neutral and detached magistrate instead of being judged by the officer engaged in the often competitive enterprise of ferreting out crime.’ (Citations omitted) The importance of informed, detached and deliberate determinations of the issue whether or not to invade another’s body in search of evidence of guilt is indisputable and great.
+“The officer in the present case, however, might reasonably have believed that he was confronted with an emergency, in which the delay necessary to obtain a warrant, under the circumstances, threatened ‘the destruction of evidence,’ (Citation omitted) We are told that the percentage of alcohol in the blood begins to diminish shortly after drinking stops, as the body functions to eliminate it from the system. Particularly in a case such as this, where time had to be taken to bring the accused to a hospital and to investigate the scene of the accident, there was no time to seek out a magistrate and secure a warrant. Given these special facts, we conclude that the attempt to secure evidence of blood-alcohol contents in this case was an appropriate incident to petitioner’s arrest.” 16 L.Ed 2d 919, 920.
+Schmerber’s right to be free from unwarranted intrusions into his body was at least as great as defendant’s right to be free from unwarranted entry of his home. If the officers in Schmerber were not required to go through the time-consuming procedure of obtaining a warrant because of the exigent circumstances that the evidence, namely the alcohol in his blood, is being metabolized with the passage of time, the same is true of defendant. Exigent circumstances did exist in this case and the officers were not required to obtain a warrant. It is, therefore:
+ORDERED AND ADJUDGED defendant’s motion to suppress be and the same is hereby denied.

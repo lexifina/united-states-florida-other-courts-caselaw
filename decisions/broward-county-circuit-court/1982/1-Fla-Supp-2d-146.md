@@ -2,7 +2,7 @@
 court: "Broward County Circuit Court"
 docket: "81-23919"
 decided: "1982-01-11"
-citations: ["1 Fla. Supp. 2d 146", "1 Fla. Supp. 2d 144"]
+citations: ["1 Fla. Supp. 2d 146"]
 reporter: "fla-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BI-PARTISAN COALITION FOR A STABLE GOVERNMENT v. GRAHAM WATT, et al"]
 source_url: "https://static.case.law/fla-supp-2d/1/cases/0146-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1211099
-cites_cases: ["116 So.2d 472", "134 So.2d 548", "143 So. 148", "147 So.2d 196", "155 So. 129", "170 So. 458", "181 So. 11", "194 So. 783", "198 So.2d 859", "213 So.2d 716", "279 So.2d 9", "326 So.2d 90", "346 So.2d 122", "368 So.2d 351", "49 So.2d 798"]
+cites_cases: ["116 So.2d 472", "134 So.2d 548", "147 So.2d 196", "155 So. 129", "181 So. 11", "198 So.2d 859", "213 So.2d 716", "279 So.2d 9", "326 So.2d 90", "368 So.2d 351", "49 So.2d 798"]
 ---
 
 # Bi-Partisan Coalition for a Stable Government v. Watt

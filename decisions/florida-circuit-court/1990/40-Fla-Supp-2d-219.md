@@ -1,0 +1,51 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 89-6752-ES-004"
+decided: "1990-04-10"
+citations: ["40 Fla. Supp. 2d 219"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE: ESTATE OF RICE v SCHEMBER, et al."]
+source_url: "https://static.case.law/fla-supp-2d/40/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2016313
+cites_cases: ["243 So.2d 239", "417 So.2d 303", "547 So.2d 199", "85 So.2d 726"]
+---
+
+# Estate of Rice v. Schember
+
+## Majority (ROBERT F. MICHAEL, Circuit Judge.)
+
+OPINION OF THE COURT
+ROBERT F. MICHAEL, Circuit Judge.
+FINAL JUDGMENT
+THIS CAUSE having been heard by the Court in a non-jury proceeding on April 3, 1990, upon Mr. John Thomas, Personal Representative of the Estate of Robert Richard Rice’s, Petition For Declaratory Judgment and Defendant, KAYLENE DIANE SCHEMBER’s (“SCHEMBER”) Counterpetition for Declaratory Judgment, and the Court having considered the evidence, testimony and arguments of counsel, the Court enters this Final Judgment setting forth its findings of fact and conclusions of law.
+FINDINGS OF FACT
+1. In 1984, the Decedent, ROBERT RICHARD RICE (“RICE”) established a Certificate of Deposit with Florida Federal Savings Bank (Account Number 221-209946) (CD). The beneficiary of said CD was a relative of RICE named JAMES LAMAR FIEDLER (“Original CD”).
+2. According to the testimony of SCHEMBER there had arisen some type of personal dispute between RICE and JAMES LAMAR FIEDLER.
+3. According to the testimony, RICE telephoned a relative by the name of Louella Trempert who lived in Ohio. The purpose of the call was to determine if Ms. Trempert knew of anyone to whom RICE could leave his assets upon his death. SCHEMBER testified that Ms. Trempert told RICE that he should contact SCHEMBER, who was a religious missionary. SCHEMBER was a distant cousin of RICE’s.
+4. Thereafter, SCHEMBER, according to her testimony, traveled from Ohio by car to St. Petersburg, Florida, to meet RICE. SCHEMBER arrived in St. Petersburg on June 14, 1985. On the same day, according to SCHEMBER’s testimony, she had lunch with RICE, then went to the Florida Federal Savings Bank to change the beneficiary of the CD previously established by RICE. The original CD was revoked by RICE on June 14, 1985. Simultaneously with the revocation of the Original CD, SCHEMBER was named as the new beneficiary. The account number remained the same.
+5. According to SCHEMBER’s testimony, other than possibly meeting RICE when she was a little girl, her half-day visit on June 14, 1985, was the only time she had met RICE. According to the testimony, between 1985, during the first visit, until October of 1989, when RICE passed away, SCHEMBER never visited or talked with RICE.
+6. In mid-October of 1989, RICE became very ill and was hospitalized at St. Anthony’s Medical Center in St. Petersburg, Florida (“St. Anthony’s”). RICE remained in St. Anthony’s for approximately one week. During his stay at St. Anthony’s a medical bill was incurred in excess of $26,000.00. As a result, representatives of St. Anthony’s requested that RICE secure the debt with his personal residence.
+7. The testimony indicated that RICE, while at St. Anthony’s, spoke to his good friend, John Thomas (“THOMAS”), about the hospital’s request. THOMAS, who had known RICE for over ten (10) years, suggested that RICE contact an attorney. RICE asked Thomas to locate an attorney for him.
+8. THOMAS provided RICE with the telephone number of a St. Petersburg attorney named Alan Marc Gross. Attorney Gross is a member of the Florida Bar.
+9. According to the testimony, RICE contacted Attorney Gross by telephone and shortly thereafter a meeting was arranged at St. Anthony’s.
+10. Attorney Gross met with RICE in private at St. Anthony’s to discuss payment of the hospital debt. The unrefuted testimony indicated that during this initial meeting RICE also requested that Attorney Gross draft a new will for him.
+11. The testimony indicated that in 1985, RICE had executed a will leaving his estate to SCHEMBER, thereby revoking a previous will which had been executed in 1966.
+12. RICE, according to the testimony, also explained to Attorney Gross that he did not want any of his assets to pass to the “missionaries in Bolivia”. The testimony showed that SCHEMBER was the missionary in Bolivia that RICE referred to during his conversation with Attorney Gross.
+13. Further, according to the testimony, RICE informed Attorney Gross about the extent and nature of his assets and liabilities. RICE told Attorney Gross that he wanted to make a specific bequest in his will of his personal residence to THOMAS. RICE also informed Attorney Gross that the CD in the approximate amount of $35,000.00 was to be used to pay for all of his medical debts incurred while at St. Anthony’s, including estate and administrative costs associated with his death, with the remainder going to the American Cancer Society. Thereafter, Attorney Gross drafted a will which, pursuant to RICE’s direction, left a specific bequest, RICE’s personal residence to THOMAS. The residuary clause of the will left all monies remaining to the American Cancer Society. The will has been admitted to probate.
+14. The testimony also indicated that at times subsequent to Attorney Gross’ drafting and having RICE execute his new will, RICE advised Attorney Gross and THOMAS, during hospital visits, that he specifically wanted the CD to be used to pay his medical debts with the remainder going to the American Cancer Society.
+15. The testimony indicated that on or about October 26, 1989, RICE was transferred to the Bay Pines Veterans’ Hospital. Prior to being discharged from St. Anthony’s, a concern was again raised by representatives of the hospital concerning payment of the medical bills incurred by RICE. The testimony indicated that the hospital was advised by Attorney Gross, at the direction of RICE, that the CD would be used to pay for medical expenses incurred by RICE. As a result, St. Anthony’s released and discharged RICE to the Bay Pines Veterans’ Hospital. (According to the testimony, RICE brought some case and RICE believed the CD to St. Anthony’s on the day he was admitted. However the CD was apparently lost. This fact precluded Attorney Gross from discovering that the CD was in Totten Trust form and also prevented the CD from being cashed in during RICE’s stay at St. Anthony’s. Subsequent to RICE’s death, THOMAS, as Personal Representative, filed an affidavit with the Florida Federal indicating that the CD had been lost or misplaced.)
+16. Further, Mr. Gross testified that without the proceeds from the CD the estate assets would be inadequate to satisfy the specific bequest made by RICE, and would be inadequate to satisfy RICE’s debts.
+17. The testimony was unrefuted that RICE was lucid, alert and competent at all times during his meetings with Attorney Gross and during visits by THOMAS.
+CONCLUSIONS OF LAW
+18. This Court holds that the account created by RICE at Florida Federal Savings Bank was a Totten Trust Seymour v Seymour, 85 So.2d 726 (Fla. 1956); § 658.58, Fla. Stat. (1989).
+19. Under Florida law, the owner of a totten trust may revoke it by any decisive act of disaffirmance. See, Turner v Rand, 417 So.2d 303 (Fla. 3d DCA 1982); and Litsey v First Federal Savings & Loan Association of Tampa, 243 So.2d 239 (Fla. 2d DCA 1971).
+20. Although a totten trust may be revoked by any decisive act of disaffirmance the burden on one seeking to prove revocation by oral statements alone is exceedingly heavy. Turner v Rand, supra. With this in mind, this Court finds that the Plaintiff has met his exceedingly heaven burden based upon the facts set forth in this Final Judgment.
+21. This Court has made a comprehensive review of all of the evidence submitted by both Plaintiff and Defendant. As a result, this Court holds that RICE revoked and disaffirmed the Toten Trust with Florida Federal Savings Bank as a result of his (a) oral declarations to Attorney Gross and THOMAS and (b) conduct and acts prior to his death. Unlike Serpa v North Ride Bank, 547 So.2d 199, 200 (Fla. 4th DCA 1989), where there was “no evidence ... of any oral declarations,” the facts herein clearly indicate the opposite. The oral declarations of conduct and acts of RICE did in fact disaffirm and revoke the CD/Totten Trust with Florida Federal Savings Bank.
+22. This Court also holds that the CD/Totten Trust was revoked as a matter of law. The unrefuted testimony of Attorney Gross indicates that testamentary gifts and specific bequests could not be satisfied as a result of the inadequacy of the estate assets. The testimony also shows that medical, administrative and funeral expenses could not be satisfied without the monies from the CD/Totten Trust. As a result, the Totten Trust was revoked as a matter of law. Serpa v North Ridge Bank, 547 So.2d 199, 200 (Fla. 4th DCA 1989) (A tentative trust may be revoked, among other means, by facts and circumstances resulting in inadequacy of the estate assets to satisfy the testamentary gifts, funeral and administrative expenses, taxes and other charges.) Litsey Savings & Loan Association of Tampa, 243 So.2d 239, 242 (Fla. 2d DCA 1971) (Unlike the present facts, the estate assets in Litsey were sufficient to satisfy specific bequests in the decedent’s will, thereby not requiring disaffirmance of the totten trust.)
+23. Florida Federal Savings Bank is hereby directed to release to MR. JOHN THOMAS, the Personal Representative of the Estate of ROBERT RICHARD RICE, the funds contained in Florida Federal Savings Bank Certificate of Deposit Account No. 221-209946. Said funds shall be deposited by THOMAS into the account of the Estate of ROBERT RICHARD RICE.
+24. A Judgment is entered in favor of MR. JOHN THOMAS, Personal Representative of the Estate of ROBERT RICHARD RICE, on his Petition for Declaratory Judgment.
+25. A Judgment is entered against KAYLENE DIANE SCHEMBER on her Counterpetition for Declaratory Judgment and the Defendant, KAYLENE DIANE SCHEMBER, shall take nothing by her action and shall go hence without day.
+DONE AND ORDERED in Chambers at St. Petersburg, Pinellas County, Florida, this 10th day of April, 1990.

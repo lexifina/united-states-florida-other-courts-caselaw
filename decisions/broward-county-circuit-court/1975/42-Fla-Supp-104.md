@@ -1,0 +1,40 @@
+---
+court: "Broward County Circuit Court"
+docket: "74-7584"
+decided: "1975-06-03"
+citations: ["42 Fla. Supp. 104"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DELGADO, et ux v. STRONG, et ux."]
+source_url: "https://static.case.law/fla-supp/42/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000092
+---
+
+# Delgado v. Strong
+
+## Majority (STEPHEN R. BOOHER, Circuit Judge.)
+
+STEPHEN R. BOOHER, Circuit Judge.
+Findings of fact and conclusions of law
+This cause came on to be heard upon final hearing for the first time on March 12, 1975, which was continued to March 17, 1975, and further continued to a conclusion on April 25, 1975, on the complaint and answer thereto. This cause raised the issue as to the rights of a mortgagee to accelerate a mortgage by reason of the failure of the mortgagor to obtain insurance, deliver the policy to the mortagee, and/or communicate to the mortgagee the status of mortgagor’s efforts in obtaining and delivery of insurance. The facts, as revealed by the testimony and exhibits introduced, show that the mortgagors purchased a parcel of industrial property from the mortgagees in August, 1973, and that thereafter said premises were not insured as required by the terms of the mortgage until March 14, 1974. The evidence discloses that the mortgagors were unaware of their duty to insure or the fact it was not insured until approximately March 8, 1974, when plaintiffs’ attorney advised the mortgagors that they were in default because they did not have insurance currently in force. At this time the mortgagors obtained the first policy of insurance, effective March 14, 1974. In the early part of May, 1974, the mortgagors and the mortgagees both received a notice of cancellation of the March 14, 1974 policy, which notice of cancellation became effective at noon on May 30, 1974. In early May, mortgagors consulted the Coral Ridge Insurance Agency and requested such agency to write a new policy on the subject property. An application and letter requesting insurance were prepared and forwarded to the insurance carrier, which application requested the insurance effective May 31, 1974. The mortgagors offered testimony that an “oral binder” was issued effective May 30, 1974.
+On June 7, 1974, the plaintiff mortgagees consulted with their attorney and as a result caused this suit to be filed on June 13, 1974, alleging that a breach of the mortgage had occurred by reason of the defendants failing to provide insurance in accordance with the mortgage agreement and accelerating the balance of the mortgage. On June 14, 1974, the plaintiffs, not being aware of the alleged “oral binder” from Coral Ridge Insurance Agency, obtained their own insurance at a net cost of $200 (after credit for return of the premium after cancellation of the foregoing policy). On July 12, 1974, the Coral Ridge Insurance Agency was advised by telephone that Aetna Insurance Company, to which the application had been made, would not write the policy because the application did not cover and the defendants did not wish to insure the personalty on the subject property. This telephone conversation was subsequently confirmed by letter from Aetna Insurance to Coral Ridge Insurance Agency dated July 15, 1974.
+Service of process on the defendants was obtained in this cause by an elisor on August 7, 1974. On August 7, 1974, the Coral Ridge Insurance Agency wrote a letter to the plaintiffs advising that they were covered by a binder and that Aetna Insurance Company would issue the policy of insurance “very shortly,” notwithstanding the fact that Aetna by its letter of July 15, 1974, had already declined to write the coverage and considered the matter a “closed issue.” On August 23, 1974, Coral Ridge Insurance Agency requested coverage by New York Central Mutual Fire Insurance Company, as a result of which an insurance policy was delivered to the plaintiffs on November 14, 1974, with coverage commencing May 31, 1974, at noon Standard Time.
+Based upon the foregoing facts, the testimony of the parties, and the exhibits introduced, the court finds as follows —
+1. A technical default occurred by the failure of the defendants to insure the subject property from noon May 30, 1974 to noon May 31, 1974.
+2. It was the duty and burden of the defendants to obtain insurance and to deliver some written evidence of such insurance, in the form of a binder or policy to the plaintiffs as of May 30, or at least within a reasonable time thereafter.
+3. The evidence is undisputed that between May 30, 1974 and June 13, 1974 (the date on which suit was filed), the defendants failed to communicate the existence of the alleged “oral binder” to the plaintiffs, nor was a copy of same ever reduced to writing by Coral Ridge Insurance Agency. Such failure constitutes a breach of the defendants’ obligation under the mortgage to furnish a policy of insurance “to be held by, and payable to, said mortgagee[s].”
+4. It is extremely doubtful from the evidence and the court, therefore, cannot find that the subject property was covered by insurance from July 15, 1974, to August 23, 1974.
+5. The plaintiffs were justified in believing that the security for their mortgage was in jeopardy, and they were justified in accelerating the balance due on the mortgage and in obtaining their own insurance. The plaintiffs were also justified in consulting their attorneys and filing suit to protect their mortgage security.
+6. The court finds that the delivery of the New York Central Mutual Fire Insurance Company policy on November 14, 1974, did not constitute delivery within a reasonable time.
+7. The court also notes that there was a total lack of communication between the parties and that the defendants individually and their agents failed to notify the plaintiffs that insurance was being sought or otherwise to keep them informed of their progress in obtaining insurance.
+8. The court further finds that it was the duty and burden of the defendants to take affirmative action to obtain insurance, to deliver the insurance policy to the plaintiffs, and to communicate their efforts and progress in accomplishing such ends.
+Accordingly, the court concludes that the plaintiffs are entitled to the relief sought.
+It is accordingly ordered and adjudged as follows —
+1. The plaintiffs’ motion to amend their complaint to conform to the evidence be and the same is hereby granted, to include the right to accelerate for subsequent breaches of the covenant to insure.
+2. The plaintiffs’ complaint to foreclose said mortgage be and the same is hereby granted, and counsel for the plaintiffs shall submit a final decree of foreclosure in accordance herewith..
+3. There is due and payable on said mortgage the principal sum of $29,072.53, together with interest from July 1, 1974, in the sum $1,744.75.
+4. The plaintiffs are also entitled to recover the sum of $200 advanced for insurance coverage.
+5. Court costs are hereby taxed in the sum of $172, pursuant to the affidavit for costs filed herein by counsel for plaintiffs and not objected to by counsel for defendants.
+6. The court finds that the sum of $3,600 requested by counsel for the plaintiffs is a reasonable fee for the work done in this cause. However, the court is also aware that one of the major reasons that the plaintiffs brought this action was their dissatisfaction with the comparatively modest interest rate they agreed to accept on the note in suit. Under these circumstances it does not seem equitable to burden the defendants with the full cost of attorney’s fees. It is enough that the plaintiffs are entitled to prevail; it would be too much to compensate them for the legal expense of increasing their rate of return. Accordingly — and without in any way deprecating the value of counsel’s services — the plaintiffs are awarded reasonable attorney’s fees in the sum of $1,500.

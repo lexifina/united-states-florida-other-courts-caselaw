@@ -1,0 +1,31 @@
+---
+court: "Florida Railroad & Public Utilities Commission"
+docket: "4870-CCB"
+decided: "1957-02-26"
+citations: ["12 Fla. Supp. 8"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chairman ALAN S. BOYD and commissioners JERRY W. CARTER and WILBUR C. KING participated in the disposition of this application."]
+parties: ["Application of AMERICAN TOURING ASSOCIATION, Inc."]
+source_url: "https://static.case.law/fla-supp/12/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1993517
+cites_cases: ["150 Fla. 1"]
+---
+
+# In re American Touring Ass'n
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+The commission held a public hearing on this application at the commission hearing room at 2605 W. Flagler St., Miami, on October 30, 1956 before its designated examiner, Alfred E. Sapp, pursuant to due notice thereof.
+After the hearing the examiner filed with the commission his recommendation in the form of a proposed order in which he recommended denial of the application. The commission forwarded the proposed order to all parties of record on December 5, 1956, and a period of 15 days was allowed for filing exceptions thereto. Thereafter, the applicant filed exceptions to the proposed order. After careful consideration of the record, the commission now modifies the examiner’s proposed order as will more fully appear below.
+The applicant seeks authority to operate an auto transportation company as a common carrier of passengers on sightseeing tours (including package “all expense tours”) between all points and places in Broward County, and from all points and places in Broward County in all points and places in Dade and Palm Beach counties and return. The transcript of testimony shows that this operation would, in essence, be a daytime sightseeing tour and a nighttime night club tour serving the aforesaid counties.
+In addition to the applicant there were five witnesses who testified in support of this application, two of whom serve in a managerial capacity for two different tourist attractions, one located in Palm Beach County and the other in Broward County. Two other supporting witnesses are connected with hotels and night clubs located in the aforesaid counties and serve with such establishments in the capacity of “service superintendents.” The remaining supporting witness is the operator of a combination restaurant and night club located in Fort Lauderdale. All five of these witnesses testified that the proposed service would benefit their businesses and that it would be of service to them and to their patrons. The two “service superintendents” further testified to the effect that they receive some inquiries or requests for this type of transportation from their patrons.
+The examiner in his proposed order, in essence, recommends the denial of the application on the basis that the evidence does not show that public convenience and necessity require the granting of this application. The commission is of the opinion it need not consider the question of public convenience and necessity in this cause because the application must be denied for other reasons set forth below.
+The record reveals, and the examiner so states in the body of his proposed order, that the applicant is a comparatively new Florida corporation, with limited finances, and no equipment or transportation experience, that the applicant specifies no routes, rates or schedules for the proposed operation, except to say that it wants to operate a daytime sightseeing tour and a night club tour from Fort Lauderdale and Broward County to places in Dade, Broward and Palm Beach counties.
+Section 323.03 (1), Florida Statutes, requires, among other things, that the applicant’s application shall specify the routes over which applicant desires to operate, the proposed time schedule of operation and a brief description of each vehicle which applicant desires to use, including the seating capacity thereof and specifically the size and weight of such vehicle. The original application filed in this cause was defective in that it did not set out the aforesaid items of information, and such information was never subsequently filed with the commission.
+Under the ruling handed down by the Florida Supreme Court in Florida Motor Lines v. Douglass, 150 Fla. 1, 7 So. 2d 843, the commission is within its jurisdiction to allow those items of information required by the statutes to be filed at the hearing in a respective cause and thereby cure defects in an application. Said items of information were not offered at the hearing in this cause. The application therefore comes before this commission for final disposition fatally defective. The president of the corporation seeking this authority did testify that Fort Lauderdale Transit Lines, Inc. had agreed to lease buses to the corporation in accordance with its needs in operating the proposed daily sightseeing and night club tours, and there is a letter in the file directed to Commissioner Wilbur. C. King from Mr. Arville R. Bladau, general manager of the Fort Lauderdale Transit Lines, Inc., acknowledging such an agreement. Such agreement, however, fails to meet the mandatory requirements of the statute as it does not provide the commission with a description of the vehicles applicant proposes to use, including the seating capacity thereof and, specifically, the size and weight of such vehicles.
+. All of the items of information required by said statute must be before the . commission so that it may properly consider the effect the granting of such certificate may have upon transportation facilities within the territory sought to be served by the applicant, and the effect upon transportation as a whole within said territory. For the commission to be warranted in granting the application it would foe necessary for it to have before it the information required by the statute.
+In consideration of the premises, the commission sustains the examiner’s recommendation that the application be denied but upon the ground that the application failed to comply with the mandatory requirements of section 323.03 (1), Florida Statutes. The application is therefore denied.

@@ -1,0 +1,81 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 82-1473-CA-09"
+decided: "1988-02-02"
+citations: ["26 Fla. Supp. 2d 56"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BALDWIN v AGNETTI, et al. v FOUTS"]
+source_url: "https://static.case.law/fla-supp-2d/26/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2035270
+cites_cases: ["160 So.2d 747", "165 So.2d 209", "227 So.2d 891", "340 So.2d 1291"]
+---
+
+# Baldwin v. Agnetti
+
+## Majority (RICHARD G. PAYNE, Circuit Judge.)
+
+OPINION OF THE COURT
+RICHARD G. PAYNE, Circuit Judge.
+THIS CAUSE came on to be heard for trial upon the amended complaint of Plaintiff seeking to foreclose upon a security interest in a Florida Liquor License. This Court has jurisdiction of the subject matter and parties. This case has had a succession of parties, attorneys and judges since its inception.
+THE FACTS
+This case involves a succession of tenants who, over the years, operated a package store and bar known as “The Barrel House” in Islamorada, Monroe County, Florida, each tenant leasing the premises from landlord, Thomas S. Fouts, through an assignment of the original lease.
+The lease was entered into in April of 1975 between Fouts, as landlord, and George and Edna Farah, as tenants. The written lease called for a tenancy for five years with an option for five additional years with the understanding that the tenants would operate a package store selling alcoholic beverages. The Farahs possessed a 6 COPY License #54-00106 issued by the Department of Business Regulation, Division of Alcoholic Beverages and Tobacco and placed this lease in operation at the demised premises.
+Subsequently, the Farahs sold their business together with their liquor license to plaintiff, Josephine I. Baldwin. Plaintiff was assigned the balance of the Farah lease to which assignment the landlord consented.
+On October 31, 1979 plaintiff sold the business to defendant, Mitchell F. Sommer, together with the liquor license and assigned the remaining portion of the lease to Sommer. The landlord approved of the assignment of the lease. At the time of the sale plaintiff filed a UCC #1 notice of security interest with the Florida Secretary of State’s office and filed a copy of same with the Monroe County Clerk’s office. The perfecting of the security interest was done in September and October of 1980, approximately one year after the transfer of the business.
+The law in effect at the time of plaintiffs filing of her UCC #1 provided that a general intangible, such as a liquor license, could be liened as a security interest by filing with the Secretary of State. Since July 1, 1981 the law requires filing of the security agreement pertaining to a liquor license with the Division of Alcoholic Beverages and Tobacco (F.S. 561.32(b))) a much more logical approach.
+On October 12, 1982 Fouts filed a lawsuit to evict Sommer for nonpayment of rent and obtained a judgment of eviction.
+By separate action Fouts sued Sommer for damages receiving a consent judgment against Sommer for $49,547 representing present and future rent due of $31,212, restoration and repair of the demised premises for $11,500, cleaning charges of $275, and attorney’s fees totalling $5,000, as well as miscellaneous expenses incurred by the landlord. Prior to service of a writ of execution upon the liquor license, Fouts entered into an agreement with Sommer on November 15, 1982 whereby in exchange for satisfaction of the $49,547 owed Fouts and with the further agreement by Fouts to pay Sommer’s outstanding indebtedness for unpaid liquor purchases amounting to $33,731.15 and Fout’s promissory note to Sommer for $10,000, Sommer would transfer the 6 COP liquor license to Fouts.
+Sommer warranted to Fouts that there were no liens or encumbrances against the license other than the unpaid liquor suppliers and Fout’s attorney was advised by the Division of Alcoholic Beverages that there were no liens of record against the subject license.
+Plaintiff Baldwin was made aware of the fact that Fouts was in the process of evicting Sommer. Fouts had a conversation with plaintiff’s husband (and business partner) wherein Fouts made known that he would not accept return of the Baldwins as tenants and that they would have to sue him if they wished to come back into the picture.
+On November 8,1982 plaintiff Baldwin instituted the within action by filing suit against Sommer to foreclose her security interest in the subject liquor license.
+On April 23, 1983 Fouts sold the subject liquor license thus obtained to Louis J. Castelli and William W. Bastiansen, d/b/a Frolic Enterprises, Inc. of Key West. The purchase price was $70,000.
+Prior to the sale the purchasers’ attorney was advised upon inquiry to the Division of Alcoholic Beverages and Tobacco that, “this license file does not reveal any liens or encumbrances recorded with the Division . . . against this license.”
+These purchasers had no knowledge of Baldwin’s claim and the Court is convinced that they had no knowledge of the litigation or claims of any person to the license until joined in this suit. The Court finds that they paid fair market value for the license.
+On May 6,1983 plaintiff filed her amended complaint adding Fouts as a defendant alleging that Fouts and Sommer had entered into an agreement whereby the liquor license had been transferred to Fouts. The amended complaint was dismissed for failure to state a cause of action.
+On September 28, 1983 plaintiff filed a second amended complaint naming Fouts as defendant and alleging that a fraudulent transfer of a license had occurred depriving plaintiff of her superior lien. Count II set forth a cause of action against Sommer for breach of the promise to pay contained in the parties’ promissory note. Fouts was later dismissed out of this action but later was permitted to intervene in this action as a Third Party Defendant and has consented and now takes the position if Castelli and Bastiansen are found liable to plaintiff, that he will hold them harmless in this case.
+On August 2, 1984 a partial summary judgment was entered in this cause against defendant Sommer in favor of Baldwin for $199,998.39. Said judgment was later amended upward to $210,207.53.
+On July 10, 1985 Sommer was discharged of all his debts in bankruptcy by order of the United States District Court for the Southern District of Florida (Case No. 85-00525 BKC TCB) under the provisions of Title 11 of the United States Code.
+In the bankruptcy action both Fouts and Baldwin were named to a committee of unsecured creditors.
+Subsequently, plaintiff joined the present license holders Castelli and Bastiansen (and Agnetti) as defendants and they, in turn, have cross-claimed against Fouts under the hold harmless provisions of their purchase agreement.
+Over the last 5 years the license has been used to operate an establishment in Key West, Monroe County, Florida owned by Castelli and Bastiansen.
+THE LAW
+Under the terms of Florida law a landlord’s lien attaches either at the time of commencement of a tenancy or when the chattel is brought on the premises and is superior to all subsequently created chattel liens. GMCA Corp. v. Noni (3DCA Fla 1969) 227 So.2d 891. A liquor license is a proper subject to a landlord’s lien for rent under Florida Statute 83.08, Yarbrough v. Villeneuve, (1DCA 1964) 160 So.2d 747.
+A liquor license is by law required to be maintained on the premises of an establishment which sells alcoholic beverages. Fout’s lien arose the first day of the Farah lease and continued through each successive tenant and is superior to all other liens.
+The proper method to perfect a landlord’s lien for rent is through statutory action for Distress as provided by F.S. 83.11-83.19.
+The landlord did not follow the statutory avenue but, instead, filed a suit for damages with intentions to execute on the monetary judgment obtained to obtain the liquor license. This, the landlord was authorized to do under the terms of its lease in effect for all tenants occupying the premises:
+“NINTH: The said lessee hereby pledges and assigns to the lessor all of the furniture, fixtures, goods, and chattels of said lessee, which shall or may be brought or put on said premises as security for the payment of the rent herein reserved, and the lessee agrees that the said lien may be enforced by distress, foreclosure or otherwise at the election of said lessor, and . . .”
+The landlord, as authorized by the lease applicable to Baldwin as well as to Sommer, elected to pursue a legal course which resulted in his obtaining the coveted license which was obviously the only item of value held by the judgment proof Sommer. However, this method of obtaining the license did not foreclose junior encumbrances and inferior liens.
+Plaintiff Baldwin is, in effect, a junior encumbrance and as such although not a necessary party to the action between Fouts and Sommer so far as that court had jurisdiction to render judgment for damages against Sommer binding on Fouts and Sommer.
+Plaintiff, Baldwin, nevertheless would have been a proper party, and in order for the prior proceeding to foreclose and bar any rights that she may have in the liquor business by virtue of her lien she must have been made a party thereto. 34 Fla.Jur.2d Mortgages, Section 298, Subsequent Lienholders, pages 266-267 — cases cited.
+It is a fundamental principle of law that no person’s rights may be determined in an action unless that party be made a party. Plaintiff was not made a party to the proceedings between Fouts and Sommer and is not bound by what occurred therein. Art Advertising Co., Inc. v. The Associated Press, (2DCA 1977) 340 So.2d 1291.
+It necessarily follows that Fouts purchased the liquor license subject to whatever interest plaintiff had to it, albeit inferior to Fout’s landlord lien. As stated previously, this Court determines from the evidence submitted that the price paid by Castelli and Bastiansen of $70,000 represented fair market value for the license at the time of sale and that it was proper for the landlord to obtain said license in the manner obtained due to the provisions of the lease. Accordingly, Castelli and Bastiansen are hereby confirmed as the legal title holders to the aforesaid 6 COP License.
+The landlord having sold same for the fair market value, plaintiff’s claim in this case as a subordinate or junior encumbrancer is necessarily determined by subtracting the landlord’s lien for rent from the fair market value of the subject liquor license at the time of the sale. The residue, if any, being the property of plaintiff.
+The landlord’s lien, under Florida Statute 83.08, is confined to rent due and payable at the time of suit and the same may include accelerated rent if called for under the terms of the lease. In the suit between Fouts and Sommer, judgment was entered against Sommer for $49,547 representing rents and various claims the landlord had against Sommer. Because plaintiff Baldwin was not a party to that suit she is not bound by the result thereof and it therefore falls upon this Court to determine here on legal and equitable principles the amount of the landlord’s lien and credit those sums against the $70,000 received by him. [The Court also notes that the judgment obtained therein was a consent Judgment.]
+At the time of the suit against Sommer, Fouts was owed $1,200 in arreared rent. From a reading of the written lease (applicable to Farah, Baldwin and Sommer), it appears that no provision of said lease called for an acceleration of the remaining rent due at the time of default. The provision closest resembling a rent acceleration clause in paragraph “EIGHTH” which provides in part:
+“The lessee agrees that he will pay all charges for rent, gas, electricity . . . and should said charges for rent, light or water herein provided for at any time remain due and unpaid for the space of five days ... the lessor may at its option consider the said lessee tenant at sufferance and immediately re-enter upon said premises and the entire rent for the rental period then next ensuing shall at once be due and payable and may forthwith be collected by distress or otherwise.” (emphasis added).
+Accordingly, at best the rent would be accelerated one additional month amounting to $600.
+Paragraph “SIXTH” contains a provision authorizing the landlord upon default in rent to re-enter the premises and re-let it and to apply the rent so received—
+“to the rent due by these presents, and if the full rental herein provided shall not be realized by lessor over and above the expenses to lessor in such re-letting, the said lessee shall pay any deficiency, and if more than the full rental is realized lessor will pay over to said lessee the excess of demand.”
+There was evidence in this case that the landlord re-leased the premises but no evidence to whom and for how much lessor received. Obviously, those sums would have to be deducted from any accelerated rent claimed against Sommer. Accordingly, the Court will not allow any sums for accelerated rent except for one month under clause “EIGHTH”. Total rent due landlord was $1,800.
+REPAIRS
+Paragraph “TWENTIETH” provides:
+“That any charges against the lessee by the lessor for services or for work done on the premises by order of the lessee or otherwise accruing and under the contract shall be considered as rent due and shall be included in any lien for rent due and unpaid.”
+The Court disallows deduction for repairs and renovation of the premises of $11,500 for the reason that there has been no showing that the repairs and renovations were made necessary for reason of damages by the tenant as opposed to the conversion of the leased premises from a bar and package store to an office and/or business premises no longer used for the sale of alcoholic beverages.
+In accordance with the aforesaid lease, the following sums totalling $51,013.65 are considered fairly and properly recovered by the landlord, Fouts:
+1. Rent Due $1,800.00
+2. Cleaning 275.00
+3. Attorney’s fees (10% of above) 207.50
+Sub-Total. . . $2,282.50
+In addition, the landlord, much like a mortgagee, is entitled to have the security of the debt preserved against loss or a diminution in value by reason of obligations owed by the tenant. (See 37 Fla.Jur.2d, Mortgages, etc., Section 179 “Against Prior Liens,” page 159.) Although the debts incurred for bad checks written by Sommer in payment of liquor delivered to the premises constitute antecedent debts, Fouts, nevertheless, found it necessary to satisfy these debts for the reason that it is the policy of the licensing authorities not to permit the processing of license transfers if the license holder has incurred obligations to liquor suppliers that remain unpaid. In this manner the agency brings about compliance with Florida law which requires that all alcohol purchases by licensees be paid for on a cash basis only.
+Sommer’s suppliers were paid $33,731.15 by Fouts. In addition, Fouts paid Sommer $10,000 in order to secure his cooperation in transferring the license. The Court allows $5,000 as attorney’s fees to effectuate the license transfer from Sommer.
+When subtracted from the $70,OCX) sale price, this leaves a resulting balance of $18,986.35 as owing plaintiff, Josephine Baldwin.
+The premises considered, it is,
+ORDERED and ADJUDGED that plaintiff, Josephine Baldwin, do have and recover of and from defendant, Thomas S. Fouts, Third Party Indemnitor, the sum of $18,986.35 damages, for all of which let execution issue.
+1. The Court reserves jurisdiction to enter such other and further relief such as taxation of costs as may be mete and proper.
+2. Plaintiff’s Complaint as against defendant, Karen B. Agnetti, Luis J. Castelli and William W. Bastiansen is denied, and Castelli and Bastiansen are hereby declared to be the owner of said license without claims from the parties hereto.
+DONE AND ORDERED in chambers at Key West, Monroe County, Florida, this 2nd day of February, A.D., 1988.
+All parties admit that Agnetti has no interest in this cause but is merely related to one of the purchasers.
+Van Hoose v. Robbins, 165 So.2d 209.

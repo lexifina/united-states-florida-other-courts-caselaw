@@ -1,0 +1,31 @@
+---
+court: "Florida Public Service Commission"
+docket: "74629-TP; Order No. 6400"
+decided: "1974-12-16"
+citations: ["42 Fla. Supp. 107"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The following commissioners participated in the disposition of this matter — WILLIAM H. BEVIS, Chairman, WILLIAM T. MAYO and PAULA F. HAWKINS."]
+parties: ["In re USAGE SENSITIVE PRICING FOR TELEPHONE COMPANIES."]
+source_url: "https://static.case.law/fla-supp/42/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000093
+---
+
+# In re Usage Sensitive Pricing for Telephone Companies
+
+## Majority (BY THE COMMISSION.)
+
+BY THE COMMISSION.
+Order instituting investigation: This investigation is initiated on the commission’s own motion for the purpose of determining whether an alternative method of pricing telephone service should be implemented in this state. It is prompted by our recognition of unprecedented growth in Florida and its concomitant effect on the telephone industry, our concern that the present pricing structure may be resulting in an inequitable distribution of charges among the subscribers, that a revised pricing structure may provide for more efficient utilization of telephone resources as well as allow the subscriber greater control over his charges, the continued demand for extended area service in various geographic areas of the state, and recent technological advances which permit the introduction of a different pricing concept at a reasonable cost.
+Presently, telephone rates are predicated (in most exchanges) upon a flat rate pricing structure which simply means that a customer is entitled to an unlimited number of outgoing messages per month at a stated charge, the level of the charge being determined by the number of main stations in the calling area in which the subscriber receives service. Historically, the use of flat rate pricing has been utilized since it is easily understood by the public, provides a degree of certainty as to the amount of the bill, encourages customer use which contributes to system growth, and until recently was far less expensive to administer in comparison to the high cost of reading and billing for service measured by message registers. There are, however, a number of criticisms to flat rate pricing which appear to have some validity, the most important of which is its insensitivity to usage. A subscriber whose calls are of long duration, large in number, or both, pays no more per month than the subscriber in the same exchange who makes only a few short calls each month. Thus, the flat rate pricing structure does not recognize the difference in individual customer usage and can conceivably encourage economic waste through either unnecessary and/or abnormally long calls for which equipment and facilities must be provided.
+The other generally recognized form of pricing telephone service is the measured or message rate service and simply means that a customer is entitled, under a specified message rate, to a certain number of outgoing messages or message units per month, with all outgoing messages or units in excess of the prescribed number billed on a per-message or message-unit basis. Many of our large U. S. cities are equipped to offer this service to business and residential subscribers. Under this method, as noted above, a monthly fixed charge is placed on the customers’ bills designed to recover a portion of the fixed costs associated with providing the service with an additional charge related to the customer’s use of the service.
+The measurement of service rendered may be limited to the number of calls only without any differentiation with respect to the call’s length, distance, or time of day in which it was made, or it may provide for measuring two or more of these parameters. The most comprehensive usage-sensitive pricing concept is that which not only measures the number of calls but also their duration, the distance for each call, and the time of day at which the call was made.
+Recent technological advances in measurement techniques can now make full usage data collection economically feasible in most areas of the state within a reasonable time period. Moreover, if such an arrangement can be implemented, we feel confident that it will price local and extended area telephone service more closely to the cost of providing such service and to the value derived by the individual customers.
+We recognize, of course, that the use of a usage sensitive pricing structure may result in a more complicated rate structure and perhaps at the beginning an irregular pattern of revenues for the companies involved, but in the end its implementation should result in greater inherent flexibility, a reduction in unnecessary calling, a solution to extended area service problems, statewide applicability, and an equitable distribution of charges among the subscribers. For these reasons, we deem it in the public interest to initiate this investigation and to make all telephone companies subject to our jurisdiction parties to this proceeding. Accordingly, all telephone companies regulated and certificated by this commission are hereinafter directed to file responses to this order showing cause why this commission should not establish a schedule for the timely and orderly conversion of present exchange flat rate tariffs. Each company is encouraged to include in their responses their views with respect to the setting of metes and bounds for such tariff offerings.
+It is therefore ordered that all telephone companies subject to our jurisdiction are made parties to this proceeding and they are hereby directed within 30 days from the date of this order to file responses showing cause why this commission should not establish a schedule for the timely and orderly conversion of present exchange flat rate tariffs.
+,It is further ordered that public hearings shall be held at a time and!place to be later announced for such purposes as. the commission, deems appropriate.
+By order of Chairman WILLIAM H. BEVIS, Commissioner. WILLIAM T. MAYO, and Commissioner PAULA F. HAWKINS, as and constituting the Florida Public Service Commission, this 16th day of December 1974.
+William B. DeMilly
+Administrative Secretary

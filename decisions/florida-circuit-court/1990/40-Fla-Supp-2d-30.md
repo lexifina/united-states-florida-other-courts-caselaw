@@ -1,0 +1,46 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 88-0084AC (County Court Case No. 88-10335MM10)"
+decided: "1990-02-13"
+citations: ["40 Fla. Supp. 2d 30"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COLON v STATE OF FLORIDA"]
+source_url: "https://static.case.law/fla-supp-2d/40/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2016217
+cites_cases: ["283 So.2d 882", "293 So.2d 44", "326 So.2d 413", "340 So.2d 969", "351 So.2d 972", "375 So.2d 840", "413 So.2d 1", "472 So.2d 1350", "491 So.2d 1129", "537 So.2d 1094", "537 So.2d 1116", "76 So.2d 147", "Fla. Stat. § 90.608"]
+---
+
+# Colon v. State
+
+## Majority (THOMAS M. COKER, JR., Circuit Judge.)
+
+OPINION OF THE COURT
+THOMAS M. COKER, JR., Circuit Judge.
+THIS CAUSE comes before the Court on appeal of a conviction entered against Appellant, Anibal Colon for driving or being in actual, physical control of a vehicle while under the influence of an alcoholic beverage to the extent his normal faculties were impaired or with a blood alcohol level of .10 or above. The appellant was arrested on April 21, 1988 after the vehicle he was driving struck another vehicle which was stopped at a traffic light. A two-day jury trial was conducted after which defendant was found guilty and subsequently sentenced to (ninety) 90 days in jail and one year probation, a fine, and suspension of his driver’s license.
+The following issues were presented on appeal by the Appellant:
+1. Whether the trial court erred in permitting an information which was fatally defective on its face to be considered by the jury.
+2. Whether the trial court erred in denying the Appellant’s motion for judgment of acquittal made at the conclusion of the State’s case and renewed at the close of all the evidence attacking the sufficiency of the evidence.
+3. Whether the trial court erred in granting the State’s motion in Limine restricting the Appellant’s closing argument.
+4. Whether the trial court erred in refusing to permit the defense to impeach a State’s witness by using unsworn prior inconsistent statements of said witness.
+This Court has reviewed the record and the briefs and makes its determination with respect to the issues presented.
+I
+This Court makes the following findings with respect to the first issue presented by the Appellant.
+The Appellant contends that the trial court erred in permitting an information which was fatally defective on its face to be considered by the jury. This Court can quickly dispose of this issue as the insufficiency of the information by which Appellant was charged is not properly before this Court. Fla. R. Crim. P., Rule 3.190(b) requires that a defendant shall make a motion to dismiss the indictment or information either before or upon arraignment or such an objection shall be waived. This objection should have been addressed at the trial level and cannot be reviewed by this Court as it was not preserved for appeal. State of Florida v Taylor, 283 So.2d 882 (Fla. 4th DCA 1973); Peters v State of Florida, 76 So.2d 147 (Fla. 1954).
+II
+The second issue this Court addresses is whether the trial court properly denied Appellant’s motion for judgment of acquittal. Fla. R. Crim. P. Rule 3.380 addresses the issue of motions for judgment of acquittal. Under Rule 3.380(a), the court shall enter a judgment of acquittal upon motion by the defendant if the court is of the opinion that there is insufficient evidence to warrant a conviction. Rule 3.390(b) requires the motion fully set forth the grounds upon which such motion is based. G.W.B. v State of Florida, 340 So.2d 969 (Fla. 1st DCA 1976).
+In the typical instance, to withstand a motion for judgment of acquittal, the State must introduce sufficient evidence as to each element of the offense charged to sustain a guilty verdict. Downer v State of Florida, 375 So.2d 840 (Fla. 1979). A not so typical instance is one in which the only evidence of guilt is circumstantial. This is viewed as requiring a special standard of review with respect to judgments of acquittal.
+The Appellant spent a great deal of time arguing that the test to be used in the instant case is the one applied in cases which involve only circumstantial evidence. The most recent case dealing with the instance where there is only circumstantial evidence upon which to base a conviction and which is consistent with and clarifies prior decisions on this issue is State of Florida v Law, 14 FLW 387 (Fla. 1989). Appellant argues that if the only proof of guilt if circumstantial evidence, a conviction can not be sustained unless the State rebuts every reasonable hypothesis of innocence with substantial competent evidence, no matter how strong the evidence was suggesting guilt.
+The Supreme Court clarified the test to be used in cases involving only circumstantial evidence. The Court noted that its decision in Law, 14 FLW 387, was in harmony with its prior decisions of Lynch v State of Florida, 293 So.2d 44 (Fla. 1974) and McArthur v State of Florida, 351 So.2d 972 (Fla. 1977). The Law court held that where there is substantial competent evidence which is inconsistent with any reasonable theory the defendant asserts, the question of guilt or innocence should go to the jury. It should be for the jury and not the judge to determine beyond a reasonable doubt whether there is enough evidence to exclude every reasonable hypothesis of innocence. It is only in those cases in which the state fails to meet this burden that a motion for judgment of acquittal should be granted. It is where the State presents no inconsistent evidence that there would be insufficient evidence to warrant a conviction as required by Fla. R. Crim. P. 3.380.
+Assuming arguendo that there was only circumstantial evidence presented in this case, the State has still met the threshold requirement of the special standard of review and presented substantial competent evidence inconsistent with Appellant’s theory and therefore the trial court’s denial of Appellant’s motion for judgment of acquittal was proper. No error exists upon which this Court could base a reversal of the trial court’s denial of Appellant’s motion for judgment of acquittal.
+Ill
+The third argument urged on appeal is that the trial court erred in granting the State’s motion in Limine restricting the Appellant’s closing argument. It is well settled that counsel is permitted a wide latitude in its arguments to the jury. Thomas v State of Florida, 326 So.2d 413 (Fla. 1975); Breedlove v State of Florida, 413 So.2d 1 (Fla. 1982). Counsel may make any legitimate argument but is limited by the evidence advanced at trial. Thomas, 326 So.2d 413. Comments made by counsel during a trial before a jury are controlled by the court pursuant to judicial discretion and an appellate court will not interfere with that discretion unless there is a clear abuse of the discretion. Breedlove, 413 So.2d 1; Thomas, 326 So.2d 413.
+In the instant case, this Court finds that the trial court gave Appellant’s counsel wide latitude in his closing argument requiring only that he keep his argument in line with evidence adduced at trial. The trial court’s ruling was consistent with the cases hereinbefore cited and there is no abuse of discretion ascertainable with respect to the trial court’s ruling.
+IV
+Appellant has advanced the argument that the trial court erred in determining that in order to use an inconsistent statement to impeach a witness, the statement would have to have been made under oath and therefore the trial court’s refusal to allow the impeachment was reversible error. His assertion is partially correct according to statutory law and case law. An inconsistent statement used to impeach a witness may be oral and may be unsworn. Williams v State, 472 So.2d 1350 (Fla. 2d DCA 1985); Kimble v State, 537 So.2d 1094 (Fla. 2d DCA 1989) Fla. Stat. § 90.608. Thus, the fact that the trial court disallowed impeachment of the witness was in error.
+However, error in legal proceedings does not automatically mean that there must be a reversal of the trial court’s findings. The Appellant’s trial counsel was cross-examining a prosecution witness with respect to whether he remembered the time of the accident. The harmless error rule is the test to be used to determine whether the error occasioned in the trial court requires a reversal. This Court has examined the entire record to determine if the error that Appellant complains of has resulted in a miscarriage of justice. State of Florida v DiGuilio, 491 So.2d 1129 (Fla. 1986). This Court finds that the error complained of would not have influenced the jury nor had an effect on their verdict as there was substantial additional evidence upon which to sustain the conviction. Johnson v State of Florida, 537 So.2d 1116 (Fla. 4th DCA 1989). A reversal of the trial court’s decision is not warranted based on this evidentiary issue.
+CONCLUSION
+Based on the foregoing, this Court affirms the conviction as determined by the trial court.
+DONE AND ORDERED in Chambers at Fort Lauderdale, Bro-ward County, Florida, this 13th day of February, 1990.

@@ -1,0 +1,36 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 90-163 AP"
+decided: "1991-05-16"
+citations: ["48 Fla. Supp. 2d 11"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STAR ENTERPRISE v RENFROW, etc."]
+source_url: "https://static.case.law/fla-supp-2d/48/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2021922
+cites_cases: ["349 So.2d 667", "422 So.2d 938", "431 So.2d 989", "556 So.2d 117", "Fla. Stat. § 376.317"]
+---
+
+# Star Enterprise v. Renfrow
+
+## Majority (NADLER, J.)
+
+OPINION OF THE COURT
+NADLER, J.
+This case involves a pollution problem created by gasoline leaking from an underground tank at a TEXACO [TEXACO REFINING AND MARKET (EAST) INC.] station. An emergency situation exists in South Florida since the Biscayne Aquifer, which is beneath all the land in this part of the state is the “sole source of virtually all drinking water of the citizenry of Dade County and must be protected from contamination”. MOVIEMATIC INDUSTRIES CORP. v BOARD OF COUNTY COMMISSIONERS OF METROPOLITAN DADE COUNTY; 349 So.2d 667 (Fla. 3d DCA 1977). It was determined by Dade County that the ground water under the site in question was polluted to the extent of 14 parts per billion of the known carcinogen, benzene. This is 14 times greater than the State maximum standard for this chemical which is known to produce both anemia and severe cases of leukemia. (T. 55, Nov. 16, 1989).
+In order to respond to the above emergency and protect our water supply, the legislature passed § 376 Florida Statutes, which did the following: began a program granting a grace period to those who voluntarily reported contamination (the County represents there are 10,000 pollution cases that need attending) and created a fund to compensate for the clean-up of contaminated sites for those who reported within a certain period of time, § 376.3071(9), Fla. Stat. The program was known as Florida’s “Early Detection Incentive Program” (EDI), and included a provision for reimbursing parties who went forward with site clean-ups at their own expense, § 376.3071(12)(b), Fla. Stat.
+TEXACO chose to remove the contamination voluntarily and to seek reimbursement thereafter. In order to commence the clean-up of the premises, permission and approval needed to be obtained from Dade’s “Department of Environmental Resources Management” (DERM) of a Contamination Assessment Report/Remedial Action Plan (CAR/RAP). This plan, prepared for TEXACO, was submitted for approval but was disapproved on three different occasions, March 9, 1988, September 15, 1988 and April 14, 1989. The disapprovals were not appealed by TEXACO. Notice of Violation dated June 2, 1989 which is the subject of this appeal was then issued by Dade County. Hearings were held before the Environmental Quality Control Board, hereinafter referred to as the EQCB pursuant to Section 24-6, of the Metropolitan Code of Dade County over a period of time from August to November, 1989.
+The EQCB voted unanimously to deny the appeal bringing this matter to this Court for review.
+On December 31, 1988 by the union of two companies, SAUDI REFINING INC. [a subsidiary of ARAMCO SERVICES CO., a subsidiary of the ARABIAN AMERICAN OIL CO. (ARAMCO)] and TEXACO REFINING AND MARKETING (EAST) INC., (a subsidiary of TEXACO REFINING AND MARKETING INC., a subsidiary of TEXACO INC.) a new and wholly owned entity was created. Its name was STAR ENTERPRISE and began operation on January 1, 1989 at which time it obtained a proprietary interest in the polluted gas station and realty therein. It should be noted that STAR was created after disapproval of the clean-up plans. This could be interpreted as an attempt to circumvent past unfavorable decisions.
+Dade County has been dealing with the subject of pollution for some time. Although Chapter 376 Fla. Statutes does preempt county ordinances regulating the prevention and removal of pollutant “discharges”, there is an exception. Fla. Stat. § 376.317(3)(a) permits a county government to adopt countywide ordinances that regulate underground storage tanks which are more stringent or extensive than state law or rule provided the original ordinance was legally adopted and in force before September 1, 1984, (emphasis added). Dade’s ordinance was adopted and became effective November 25, 1983. Therefore, this ordinance is “grandfathered” as part of our law.
+STAR makes 3 points on appeal. They are:
+1) Dade County’s strict ordinance is preempted by the less stringent State law, Chapter 376, Fla. Stat. Although STAR never raised this issue before the lower tribunal and is therefore precluded from doing so here, it is our opinion, nonetheless, that this is a baseless issue because Dade’s stricter ordinance has been “grandfathered” and is a part of this county’s law.
+2) The Notice of Violation and Order for Corrective Action didn’t sufficiently apprise STAR of the ordinances allegedly violated. The Notice was, however, specific enough to advise the accused, STAR with reasonable certainty, of the nature of the charge. SEMINOLE COUNTY BOARD OF COUNTY COMMISSIONERS v LONG, 422 So.2d 938 (Fla. 5th DCA 1982), rev. den. 431 So.2d 989 (Fla. 1983). The Appellant STAR, was cited in said Notice of Violation and in the EQCB order with public nuisance and sanitary nuisance violations. STAR certainly knew of the nature of the charge as borne out by the testimony of its geologist “Mr. Eddington” during hearings before the EQCB (T. 82, Nov. 16, 1989). We rule that “due process of law has been satisfied”.
+3) Lastly, STAR argues that it can’t be held responsible for a prior owner’s, TEXACO’s acts. STAR relies upon SUNSHINE JR. STORES v STATE OF FLORIDA, 556 So.2d 117 (Fla. 1st DCA 1990) as authority for the premise that an innocent purchaser of property cannot be held liable for pollution caused by a prior owner (emphasis added). In that case the Court found that “SUNSHINE had no knowledge that there had been a discharge of gasoline until its contractor was in the process of removing the tanks. . .” The cited case is inapplicable because we find that the relationship between TEXACO and STAR was less than an “arm’s length transaction”. STAR was legally conceived, bom, and is owned by its mother, TEXACO. This legal creation, STAR, is no “innocent successor” in the ownership of this property. As the Dade County Grand Jury Report, Spring Term A.D. 1983, so aptly stated:
+“Commerce and growth have historically been held in higher esteem in our society than have environmental considerations. . .”
+We all hold this land as guardians for future generations. That includes STAR and TEXACO. The moral obligation for righting this wrong is that of TEXACO; the legal duty to rectify the hurt done Mother Earth is that of STAR, the progeny of TEXACO.
+One has to wonder about the sincerity of that old TEXACO slogan, “You can trust the man with the Star.”
+The decision of the Pollution Board (EQCB) is therefore AFFIRMED. GREENBAUM and FIERRO, JJ concur.
+The station is located at 7850 S.W. 8th Street, Miami, Dade County, Florida; the date of the incident, September 4, 1986.

@@ -1,0 +1,32 @@
+---
+court: "Palm Beach County Circuit Court"
+decided: "1953-12-14"
+citations: ["6 Fla. Supp. 41"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FULLER v. TOD."]
+source_url: "https://static.case.law/fla-supp/6/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979883
+cites_cases: ["113 Pac. 2d 495", "123 Pac. 878", "125 N.W. 998", "129 S.W. 2d 905", "131 Pac. 975", "137 N.Y.S. 77", "146 S. E. 896", "164 So. 841", "166 S.W. 395", "178 Pac. 421", "184 S.W. 2d 579", "188 S.W. 2d 471", "218 Pac. 641", "230 Pac. 157", "254 Pac. 2d 236", "280 N.Y.S. 8", "45 Pac. 710", "63 So. 2d 316", "67 So. 2d 687", "68 So. 2d 173", "77 So. 713", "79 S.W. 2d 350"]
+---
+
+# Fuller v. Tod
+
+## Majority (JOSEPH S. WHITE, Circuit Judge.)
+
+JOSEPH S. WHITE, Circuit Judge.
+This cause was heard after due notice upon the motion of each party for a summary decree, the depositions taken and on file herein, the affidavits, and arguments of counsel.
+This case has its difficulties. The record supports the conclusion that there was an agreement between plaintiff’s mother and stepfather that plaintiff was to be sole beneficiary of the survivor’s estate. Thus, plaintiff’s claim is not without merit. Plaintiff’s stepfather, however, remarried — and it seems to be the rule that such an agreement cannot be enforced as against the rights of a second wife who had no prior knowledge, actual or constructive, of the agreement.
+In the following cases agreements of the character now in question were not enforced as against the claim of the second wife in the absence of actual or constructive knowledge thereof on her part. Owens v. McNally (Cal.), 45 Pac. 710; Bedal v. Johnson (Idaho), 218 Pac. 641; Mayfield v. Cook (Ala.), 77 So. 713; In re Arland’s Estate (Wash.), 230 Pac. 157; Near v. Shaw, 137 N.Y.S. 77; Ver Standig v. St. Louis, etc. (Mo.), 129 S.W. 2d 905.
+In the following cases knowledge of the agreement on the part of the second wife was found to exist and the agreement given priority over her claim. Sonnicksen v. Sonnicksen (Cal. Dis. Ct. of App.), 113 Pac. 2d 495; Underwood v. Myer (W. Va.), 146 S. E. 896; Ralyea v. Venners, 280 N.Y.S. 8; Lewis v. Lewis (Kans.), 178 Pac. 421; Larrabee v. Porter (Tex.), 166 S.W. 395; Price v. Aylor (Ky.), 79 S.W. 2d 350; Eikmeier v. Eikmeier (Kans.), 254 Pac. 2d 236.
+Under the facts in the Case of Dillon v. Gray (Kansas), 123 Pac. 878, the court said that notice to the second wife was immaterial to the enforcement of such an agreement.
+In Baker v. Syfritt (Iowa), 125 N.W. 998, a joint will of husband and wife was involved. The plan to benefit a third party upon the survivor’s death was expressly stated therein. It was denied that after the death of the wife, a trust obligation arose in favor of the third party, which was entitled to priority over the claim of a second wife. A different result, upon similar facts, was reached in Houck v. Anderson (Ariz.), 131 Pac. 975, where it appeared that a state statute nullified a will upon the maker’s subsequent marriage. See also Wide v. Wide’s Ex’r. (Ky.), 184 S.W. 2d 579 and 188 S.W. 2d 471.
+Agreements of the character now in question were involved in Hays v. Jones (Fla.), 164 So. 841, and Simpson v. Ivey (Fla.), 67 So. 2d 687, but the rights of a second wife had not intervened in either of those cases.
+The record now before the court in the present case shows that defendant, the second wife, had no prior knowledge of the agreement relied upon by the plaintiff. Upon further consideration of the matter, the court now holds views regarding the effect of the absence of such notice upon the rights of the second wife in her deceased husband’s estate different from those entertained when a prior order was entered in this cause which was subsequently reversed by the Supreme Court. See Fuller v. Tod (Fla.), 63 So. 2d 316.
+The effect of that order was to give the second wife the entire estate, thus depriving the plaintiff of any rights whatsoever under the contract made for her benefit. That result now seems unjust and inequitable.
+The effect of section 731.34, Florida Statutes 1953, is to give a husband freedom in the testamentary disposition of his property so long as dower rights are assured his widow. It follows that after his marriage to the defendant, plaintiff’s stepfather, either out of a feeling of duty on account of his agreement with his first wife, or merely out of the generosity of his heart, might have made the plaintiff beneficiary of his estate, and defendant’s legal rights in that case would have been confined solely to dower under section 731.34. When she took plaintiff’s stepfather as her husband, defendant was charged with knowledge that her husband had a right to so dispose of his estate, regardless of any prior commitments on his part.
+In view of the fact her rights were thus circumscribed, it seems unfair to allow the second wife a greater share in her deceased husband’s estate — in the face of his breach of contract — than she would receive had he exercised a privilege granted by law to make free and voluntary like disposition of his property. A court of equity is bound to regard and treat that as done which in good conscience ought to be done. The maxim is applied “to everywhere an equitable ought with respect to the subject-matter rests upon one person towards another.” 2 Pomeroy’s Eq. Jur., 5th ed., 12. Its application here will deprive the second wife, defendant here, of nothing which she had a legal right to expect or receive of her deceased husband’s estate. At the same time, another equitable principle is satisfied — a court of equity relieves against a fraud “by rectifying the result of the fraud; it does not punish the wrongdoer by withholding from him legal rights unrelated to the fraud.” Schwartz v. Zaconick (Fla.), 68 So. 2d 173.
+Thereupon, it is ordered that plaintiff shall be entitled to receive from defendant as executrix of the last will and testament of Andrew Kinnaird Tod, deceased, the net estate of the said deceased, less the widow’s dower as fixed by section 731.34 of the statutes.
+The court retains jurisdiction of this cause to settle all questions which the court has jurisdiction to settle under the pleadings and the proceedings in this case not settled by this decree, and to make such other and further orders and decrees herein as shall be necessary to effectuate the same.

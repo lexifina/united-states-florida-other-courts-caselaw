@@ -1,0 +1,29 @@
+---
+court: "Duval County Circuit Court"
+docket: "60-4012-E"
+decided: "1961-07-31"
+citations: ["18 Fla. Supp. 150"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BONNER v. ATLANTIC NATIONAL BANK OF JACKSONVILLE."]
+source_url: "https://static.case.law/fla-supp/18/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1989716
+cites_cases: ["117 A.L.R. 1202", "133 Fla. 730", "153 Fla. 144", "53 So. 2d 872"]
+---
+
+# Bonner v. Atlantic National Bank
+
+## Majority (JOHN M. McNATT, Circuit Judge.)
+
+JOHN M. McNATT, Circuit Judge.
+Summary decree as to cross-claim of Tommie Lee Harris: This ease originated with a complaint filed by Ruth Bonner alleging that by instrument in writing dated November 18, 1922, her parents and Theresa O. Butler and R. W. Butler, her husband, agreed that plaintiff would be legally adopted and reared by the Butlers as their daughter. At the time, plaintiff was six years of age, and she alleges that her parents fully performed their part of the agreement, that she lived with and was known as and treated as a daughter of the Butlers, and, until the last illness of Theresa O. Butler, she believed that she had been legally adopted. The plaintiff prays for enforcement of the adoption contract, and a declaration that she has the rights of an adopted daughter in the estate of Theresa O. Butler, deceased.
+The defendant Tommie Lee Harris has filed a “Cross-Claim” in which she alleges that in 1928 (when she was 12 years of age) her parents and the Butlers entered into an agreement whereby the Butlers agreed to take, raise and legally adopt her as their child. She further alleges that in the performance of the agreement, she was delivered to the Butlers, and reared as their child until she was 21 years old, and that during the entire period she performed the services of and was treated as a daughter. Tommie Lee Harris charges that the adoption agreement was fully performed, except that the Butlers neglected to legally adopt her, and she prays that she be granted specific performance of the contract of adoption and be decreed to be entitled to the rights of an adopted child in the estate of Theresa O. Butler, deceased.
+In their answers to the cross-claim of the defendant Tommie Lee Harris, the defendant administrator of the estate of Theresa O. Butler and the plaintiff allege that Tommie Lee Harris failed to make and file a claim against the estate as required by provisions of §733.16, Florida Statutes; and each of said parties has filed a motion for summary judgment on the cross-claim of Tommie Lee Harris.
+The pleadings and the evidence show that “Notice to Creditors” of the estate of Theresa O. Butler, deceased, was first published on March 23, 1960, that no claim was filed by Tommie Lee Harris within eight months from that date, and that no claim was made by her until she filed her answer in this case on January 5, 1961, more than nine months after the first publication of notice to creditors.
+The non-claim statute provides — “No claim or demand . . . shall be valid or binding upon an estate . . . unless the same shall be in writing . . . and shall be sworn to . . . and be filed in the office of the county judge granting letters. Any such claim or demand not so filed within eight months from the time of the first publication of the notice to creditors shall be void even though the personal representative has recognized such claim or demand ... ; and no cause of action, at law or in equity,... shall survive the death of the person against whom such claim may be made . . . unless such claim be filed in the manner and within the said eight months as aforesaid.” §733.16(1). The statute further provides that “Nothing herein contained shall be construed to require any legatee, devisee or heir at law to file any claim for the share or interest in estate to which he may be entitled.” §733.16(2).
+As Tommie Lee Harris did not comply with the requirements of the statute, she is barred from asserting any right in the estate unless she is an “heir at law” of Theresa O. Butler by virtue of the alleged adoption agreement and, therefore, relieved of the necessity of filing a claim by the provisions of said subsection 2.
+However, the adoption agreement does not give Tommie Lee Harris the status of an “adopted child” and (as such) an “heir at law”. If specific performance of the adoption contract should be decreed, the court would not “declare [the] adoption effectual because legal proceedings to that end should have been instituted” and completed. On the contrary, by a decree requiring specific performance of the contract the court would adjudge her “entitled to such rights in the estate ... as [she] would have had if her adoption had been legalized according to the requirements of the laws of Florida”. In other words, her right, if any, to participate in the estate has “its foundation in the contract”. Sheffield v. Barry, 153 Fla. 144, 14 So. 2d 417.
+As the right of Tommie Lee Harris to participate in the estate of Theresa O. Butler, deceased, is founded on contract (the alleged adoption agreement) and not upon the status of an “heir at law”, she was required to file her claim in the manner and within the time fixed by the statute. Having failed to make and file her claim as required, the statute of non-claim is a bar to her cross-claim to establish her asserted rights in the estate. Hofer v. Caldwell (Fla.), 53 So. 2d 872; and the court is powerless to relieve her from the consequences of her failure to file a claim. In re Woods’ Estate, 133 Fla. 730, 183 So. 10, 117 A.L.R. 1202.
+It is, therefore, ordered, adjudged and decreed that each of said motions be and the same is hereby granted, and that the “Cross-Claim of Tommie Lee Harris” be and the same is hereby dismissed at the cost of and with prejudice to said defendant.

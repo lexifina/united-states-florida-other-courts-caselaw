@@ -1,0 +1,29 @@
+---
+court: "Dade County Circuit Court"
+decided: "1955-11-30"
+citations: ["8 Fla. Supp. 107"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WAHL, et ux v. LIEBER, et ux."]
+source_url: "https://static.case.law/fla-supp/8/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978211
+---
+
+# Wahl v. Lieber
+
+## Majority (VINCENT C. GIBLIN, Circuit Judge.)
+
+VINCENT C. GIBLIN, Circuit Judge.
+The court has carefully considered the pleadings and the evidence submitted at the trial of this suit.
+There is involved no substantial factual dispute.
+Prior to April 19, 1951, Max Lieber was the owner of lots 5, 6 and 7 in block E of a resubdivision of blocks C, D and E of Fair-green, a subdivision of land located in Dade County. On April 19, 1951, Max Lieber conveyed to his nephew, Meyer Lieber, and the nephew’s wife, Rose Lieber, the south fifty feet of lot 7, retaining lots 5 and 6 and the unconveyed portion of lot 7. The conveyance was gratuitous. No consideration whatever was paid by the grantees to the grantor.
+There had been constructed on lot 6 and a part of lot 7, prior to the conveyance of the south fifty feet of lot 7, a dwelling which, at the time of such conveyance and thereafter until his death, was occupied by Max Lieber as his residence. The eaves of the building, however, protruded into the south fifty feet of lot 7 and a small flight of steps, providing an entrance to, and exit from, a south door of the dwelling, extended slightly into such south fifty feet. The use of such south door and of such steps as a way of ingress and egress necessitates the traversing of a narrow strip along and extending slightly over the north boundary line of the south fifty feet of lot 7.
+It is evident that when Max Lieber gratuitously conveyed the vacant and unimproved parcel of land to his nephew and the latter’s wife neither the grantor nor the grantees were cognizant of the mentioned encroachments. It is inconceivable, of course, that the grantor intended by his gift to produce the basis for the assertion by the donees of a cause of action against their benefactor or his successors in title.
+The protrusion of the eaves, the éncroachment of the steps and the use of a way of ingress and egress'to and from"’tKe' south'H’oor' of the dwelling provoked no complaint or protest by Meyer Lieber and his wife, Rose Lieber, until after Max Lieber had died and after his widow, Jennie Lieber, had conveyed, on June 3, 1954 (more than three years after the gratuitous conveyance of the south fifty feet of lot 7), to the plaintiffs, Michael Wahl and his wife, Faye Wahl, lots 5, 6 ■ and 7, less the south fifty feet of lot 7.
+The circumstances revealed by the evidence impel the court to the conclusion that it would be inequitable and unconscionable to subject the plaintiffs, who are the present owners of the property on'which the dwelling is located, to any penalty because of the protrusion of the eaves or the encroachment of the flight of steps, or to deny to them the use of a way of ingress and egress to and from the mentioned south door of the building which they now occupy as their residence. The circumstances clamor for the application of the doctrine of estoppel. The court finds that they are entitled to the relief accorded by this decree. ,■
+Accordingly, it is declared and decreed that the plaintiffs, Michael Wahl and Faye Wahl, his wife, and their’ successors in interest, have the right to retain and maintain the eaves of the dwelling situated on lot 6 and a part of lot 7 in block E of a re-subdivision of Fairgreen, a subdivision of land located in Dade County (according to a plat recorded in plat book 4, at page 154, of the public records thereof), as such eaves now exist, despite the protrusion of the south eaves into the south fifty feet of lot 7 in such block E, the property owned by the defendants, Meyer Lieber and Rose Lieber, his wife; that such plaintiffs have the right to retain and maintain the mentioned flight of steps (together with the flagstone at the foot of such steps) as they now exist, despite the encroachment of the steps and the flagstone on a part of such south fifty feet; and that such plaintiffs have the right to use as a way of ingress and egress to and from the doorway in the south wall of the mentioned dwelling such part of such south fifty feet, but only such part, as shall be necessary to provide a passageway for pedestrians to and from such doorway to and from the street which extends along the east line of the mentioned lots 5, 6 and 7 and a passageway for pedestrians to and from such doorway to and from the solarium and the small dwelling (which is separate and apart from the mentioned main dwelling) located on the plaintiffs’, property.
+It is further ordered and decreed that the defendants, Meyer Lieber and Rose Lieber, his wife, their agents, servants, employees, lessees and assignees, and their successors in title or interest, be, and they are, and each of them is, enjoined and restrained from denying to the plaintiffs or to their successors in title or interest, any of the rights which by this decree the plaintiffs are declared and decreed to have, and from interfering in anywise with the exercise by the plaintiffs, or by their successors in title or interest, of any,,of such rights.
+It is further ordered and decreed that the defendant Meyer Lieber be, and he is, required to pay to the plaintiff Michael Wahl the sum of $68.20, the amount of the costs (hereby assessed and taxed) incurred by such plaintiff in this suit.
+The court retains jurisdiction of the cause, but only for the purpose of enforcing and effectuating the terms and provisions of this final decree.

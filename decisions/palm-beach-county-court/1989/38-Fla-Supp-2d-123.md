@@ -1,0 +1,31 @@
+---
+court: "Palm Beach County Court"
+docket: "Case No. MS-89-4637-RB"
+decided: "1989-06-27"
+citations: ["38 Fla. Supp. 2d 123"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MASSIRMAN v BOCA RATON HOTEL AND CLUB LIMITED PARTNERSHIP"]
+source_url: "https://static.case.law/fla-supp-2d/38/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2013328
+cites_cases: ["165 So.2d 825", "208 So.2d 296", "327 So.2d 121", "344 So.2d 323"]
+---
+
+# Massirman v. Boca Raton Hotel & Club Ltd.
+
+## Majority (HOWARD C. BERMAN, County Judge.)
+
+OPINION OF THE COURT
+HOWARD C. BERMAN, County Judge.
+FINAL JUDGMENT FOR PLAINTIFF
+THIS CAUSE came before the Court for Final Hearing (non-jury trial) on June 12, 1989. Plaintiff was present and defendant was represented by counsel. The Court heard sworn testimony and reviewed documents introduced into evidence. Based on the evidence presented, the Court makes findings of fact and draws the following conclusions of law.
+On January 4, 1989, plaintiff was driving his automobile westbound on Camino Real which runs in front of the Boca Raton Hotel and Country Club. As he passed the west gate, he heard a thud on his car which startled him. He looked up and observed a golf ball roll down the front of his car. He stopped his car to examine the hood of his car and also to find the golf ball. He was unable to find the golf ball. A while later, he made a closer examination of his car and observed a dent in the hood of the car in the location where the golf ball hit. He proceeded back to the Boca Raton Hotel and Country Club and reported the incident to a security guard/investigator who took the report.
+Plaintiff introduced photographs to describe the area. Testimony by both parties confirmed that the area just north of Camino Real and in the vicinity of the incident is where the driving range as well as a putting green is located. The golfers on the driving range would hit the golf balls in the westerly direction. The golfers practicing on the putting green as well as pitching from the sandtrap and grassy area would be hitting in an easterly direction. Plaintiff testified that he has played on the golf course several times and has observed golfers practice pitching on to the putting green. Defendant’s security guard/ investigator testified that the area east of the driving range is not supposed to be used as a pitching area however, golfers have in the past used this until they are told to leave the area by security.
+Approximately one hundred and fifty (150) feet from the west gate and west drive, there is a 5 to 8 foot chainlink fence which runs in a westerly direction along Camino Real. The fence line begins at approximately the driving range. To the east of the driving range along Camino Real are trees and foliage.
+Plaintiff argues that the defendant was negligent in failing to maintain the property to prevent this type of occurrence from happening. Three (3) elements are required to prove an action in negligence: (1) existence of a duty on the part of the defendant to protect the plaintiff from the injury or damage of which he complains; (2) failure of the defendant to perform that duty; and (3) injury or damage to the plaintiff arising from such failure. Lake Parker Mall, Inc. v Carson, 327 So.2d 121 (Fla. 2d DCA 1976), cert den 344 So.2d 323 (Fla. 1977). Negligence cannot be assumed from the mere fact of an accident and an injury, but rather must be proved. While the mere fact of an accident does not give rise to an inference or presumption of negligence on the part of anyone, an argument can be made that the Doctrine of Res Ipsa Loquitur, an expression that means literally that “the thing speaks for itself’, may be applicable. Under this theory, the injured plaintiff must show: (1) that the instrumentality involved was in the exclusive control of the defendant at the time of the injury, both as to operation and inspection; (2) that the injury was not the result of any voluntary action or contribution on the part of the plaintiff; and (3) that the accident would not have occurred had the defendant used due care. See Stanek v Houston, 165 So.2d 825 (Fla. 2d DCA 1964). This doctrine applies when direct evidence of negligence is unavailable to a plaintiff due to the unusual circumstances of the injuring incident.
+The Court finds that based upon the testimony and evidence, that the golf course was in the exclusive control of the defendant, even though the defendant would not have control over the quality of the individual golfer. The Court further finds that the injury was not the result of any voluntary action or contribution on the part of the plaintiff as he was just driving down the road. Under the third element of the doctrine, the fact that the defendant had installed a fence running the length of the golf course, is one of the circumstances that the Court can consider in determining negligence. Even though golfers are not supposed to be using the area east of the driving range for any pitching practice, the defendant could have extended the fence from the west gate to the driving range without affecting aesthetically the area.
+Defendant cites Panoz v Gulf and Bay Corp. of Sarasota, 208 So.2d 296 (Fla. 2d DCA 1968). In Panoz, there was an action against a public golf course for injuries sustained by a patron when a wooden bench on which he sat while waiting for preceding golfers to clear the fairway and green toppled over to the rear. The Court held that the owner/operator was not liable for the patron’s injuries where the bench was not defective. However, as cited above, the Court finds that due to the placement of the fence, defendants impliedly had knowledge of the circumstances and situation involved in operating this golf course. Therefore, it is
+ORDERED AND ADJUDGED that Plaintiff, ARNOLD MASSIRMAN, do have and recover from Defendant, BOCA RATON HOTEL AND CLUB LIMITED PARTNERSHIP, the principal sum of $356.65 plus court costs of $38.50 for the total sum of $395.15 for all of which let execution issue. This judgment shall bear interest at the rate of 12% per annum.
+DONE AND ORDERED in West Palm Beach, Palm Beach County, Florida, this 27th day of June, 1989.

@@ -1,0 +1,35 @@
+---
+court: "Dade County Circuit Court"
+docket: "65-L-2107"
+decided: "1966-07-12"
+citations: ["27 Fla. Supp. 80"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WHIDDEN v. FRANCIS."]
+source_url: "https://static.case.law/fla-supp/27/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997384
+cites_cases: ["110 N.W.2d 442", "110 P.2d 51", "116 Cal. App.2d 187", "134 So.2d 260", "134 So.2d 911", "145 N.E.2d 802", "151 So.2d 725", "16 P.2d 284", "165 N.E. 2d 733", "165 N.E.2d 733", "174 So.2d 541", "188 F. Supp. 895", "190 N.Y.2d 290", "196 N.E.2d 380", "222 N.Y.S.2d 101", "253 P.2d 531", "28 Cal. Rptr. 307", "29 Cal. App.2d 299", "3 So.2d 335", "315 F.2d 335", "315 F.2d 818", "378 P.2d 579", "59 Cal.2d 97", "66 P.2d 746", "71 A.L.R.2d 77", "86 N.W.2d 537", "98 S.E. 2d 204"]
+---
+
+# Whidden v. Francis
+
+## Majority (HENRY L. BALABAN, Circuit Judge.)
+
+HENRY L. BALABAN, Circuit Judge.
+This matter is before the court on defendant’s motion for rehearing of this court’s order of May 23, 1966, denying a motion of the defendant for summary judgment and the court having examined and studied the cases cited by the defendant in support of his motion for a rehearing, but not having the benefit of any research done by the plaintiff, the court itself has researched the problem, and finds as follows —
+That the case at bar is a case of first impression in the state of Florida and that under Florida law it is established that a mistake of fact may provide a basis for rescission of a contract or other equitable relief. Maryland Casualty Co. v. Krasnek, 174 So.2d 541 (Fla. 1965), reh. den., wherein on page 542 the Supreme Court cited the case of Boole v. Florida Power & Light Co., 3 So.2d 335 (Fla. 1941), and said — “Although in holding for rescission [in the Boole case], the court wrote in terms of mutual mistake, it would seem that the mistake was really unilateral in the same sense as here.” (Italics by the court.)
+The case at bar is one involving a material mistake as to a past or present fact, one in which neither the plaintiff nor his doctor, nor the insurance carrier knew anything at all about a ruptured carotid artery which caused plaintiff’s loss of his eye at the time he executed a general release for the sum of $650 — which purported to release the defendant from liability for “all known and unknown injuries.”
+It is true that in Stiff v. Newman, 134 So.2d 260 (Fla. App. 1961), the court affirmed the rule that “unknown or unexpected consequences of known injuries will not invalidate a release” (Italics added.) It is, therefore, clear that it is only known injuries and the unknown or unexpected consequences thereof which will not invalidate the release — and this is as far as Florida law goes.
+Upon further examination of the cases throughout the country it appears that the majority and better opinion is that a release purporting to release “present or future claims” or “known and unknown injuries” may be set aside upon a showing of an inequitable result unless it is established that it was fairly and knowingly made, Clancy v. Pacenti, 145 N.E.2d 802 (Ill. App. 1957), reh. den., 71 A.L.R.2d 77, and that such a release may be avoided on the ground of unilateral or mutual mistake of fact.
+In Denton v. Utley, 86 N.W.2d 537 (Mich. 1957), the court held that the true test was that any release, to be sustained, must have been fairly and knowingly made, recognizing the modern trend toward liberally relieving a party who has signed a release under a mistake of fact.
+In the case at bar, and similar cases, the injured party released his claim under a false impression that he was fully informed as to the nature and extent of his injuries. Parker v. United Tank Truck Rental, Inc., 190 N.Y.2d 290 (1959); Backus v. Sessions, 110 P.2d 51 (Cal. 1941), reh. den.; Ruggles v. Selby, 165 N.E. 2d 733 (Ill. App. 1960), reh. den.; Smith v. Broscheid, 196 N.E.2d 380 (Ill. App. 1964); Central of Georgia R. Co. v. Ramsey, 151 So.2d 725 (Ala. 1963), reh. den.
+Relief against mistake because of unknown injuries cannot be cut off simply by inserting sufficiently broad language in the release; this is hardly surprising, for under the release including unknown injuries by its terms, plaintiff would prevail as a matter of interpretation and without need for resorting to equity for relief. Evans v. S. J. Groves and Sons, Co., 315 F.2d 335 (C.A. 2d 1963); Farmers Mut. Auto Ins. Co. v. Buss, 188 F. Supp. 895 (D.C. Kan. 1960); Casey v. Proctor, 59 Cal.2d 97, 28 Cal. Rptr. 307, 378 P.2d 579 (Cal. 1963), disapproving Kostick v. Swain, 116 Cal. App.2d 187, 253 P.2d 531; disapproves Berry v. Struble, 29 Cal. App.2d 299, 66 P.2d 746.
+Also recognizing that inadequate compensation for release was a factor indicating that release was not understandingly given, and so supporting claim of misrepresentation or mistake, Hutchenson v. Frito-Lay, Inc., 315 F.2d 818 (C.A. 8th 1963); Reed v. Harvey, 110 N.W.2d 442 (Iowa 1961), reh. den.; Moak v. American Auto Ins. Co., 134 So.2d 911 (La. 1961) reh. den.; Duch v. Giacquinto, 222 N.Y.S.2d 101 (1961).
+The state of California has a statute to that effect but even without a statute, the equitable principle of avoiding a release based on a mistake of fact is universally recognized. Backus v. Sessions, 110 P.2d 51 (Cal. 1941), reh. den.
+The question of a unilateral or a mutual mistake of fact for the avoidance of a release covering “all known and unknown, foreseen and unforeseen bodily and personal injuries” is for the jury. Turer v. Kraft, 98 S.E. 2d 204 (Ga. App. 1957), reh. den.; Gambral v. Duensing, 16 P.2d 284 (Cal. App. 1932), and other cases.
+This court is impressed with and follows the reasoning and formula set forth in Ruggles v. Selby, 165 N.E.2d 733 (Ill. App. 1960), reh. den., which held that evidence that at the execution of a release both parties assumed that the injured person had completely recovered, whereas subdural hematoma subsequently developed affecting the brain and causing complete disability, indicated mutual mistake, as did the fact that the consideration did not even cover out-of-pocket expenses.
+It would appear the plaintiff’s cause would be better served had an application been made for rescission in equity of the release in question, but not having done so, the matter should be inquired of by a jury as to whether or not there was a mistake of fact.
+Accordingly, the order of May 23, 1966, should be affirmed and the cause should proceed to trial, pre-trial being scheduled prior thereto.
+It is, therefore, upon consideration, ordered and adjudged that — (1) Defendant’s motion for rehearing of the court’s order of May 23, 1966, denying the motion of the defendant for summary judgment is denied. (2) Defendant’s motion to withdraw the cause from the trial calendar and to certify the cause to the appellate court is denied, and this cause shall proceed to trial on August 22, 1966. (3) The pretrial conference in this cause shall be held on July 29, 1966, at 11 A.M.

@@ -1,0 +1,37 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. CL 88-2959 AG"
+decided: "1988-04-19"
+citations: ["28 Fla. Supp. 2d 5"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARKEY PUBLISHING, INC., etc. v TREANOR"]
+source_url: "https://static.case.law/fla-supp-2d/28/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036199
+---
+
+# Markey Publishing, Inc. v. Treanor
+
+## Majority (STEPHEN A. RAPP, Circuit Judge.)
+
+OPINION OF THE COURT
+STEPHEN A. RAPP, Circuit Judge.
+ORDER
+Markey Publishing, Inc., a member of the print media, filed this suit to enforce provisions of Chapter 119 Fla. Statutes on Thursday, March 31, 1988. That afternoon, the Court, upon the ex parte application of the Plaintiff, entered its Order requiring the Defendant to show cause why the requested documents should not be made available. A hearing was held on Monday afternoon, April 4, at which time attorneys for both parties made arguments in support of their positions and submitted memoranda in support thereof. Basically the Plaintiff wants the police department of Greenacres City to reveal to it the name of a 16 year-old male who was arrested on February 17, 1988, in connection with a robbery. Apparently this juvenile has not yet been formally charged with a crime.
+The Defendant argues that such documents are exempt from Fla. Stat. 119 because of Fla. Stat. 39.12(5). This Court agrees. The fact that subsection (8) of Fla. Stat. 39.12 provides that a law enforcement agency may release for publication the name of a child 16 years old or order taken into custody under certain circumstances does not abrogate the clear status of confidentiality given to such records by the rest of the statute. To find otherwise would fly in the face of the rule of statutory construction which provides that a statute should be construed to give effect to every clause in it and to accord harmony to all its parts.
+Wherefore it is
+ADJUDGED that the Plaintiff’s application for injunctive relief is denied.
+DONE AND ORDERED at West Palm Beach, Palm Beach County, Florida, this 5th day of April, 1988.
+FINAL JUDGMENT
+THIS CAUSE came before the Court upon motion of Markey Publishing, Inc., requesting the Court to enter final judgment. There has been no trial. There have only been two brief hearings before the Court. One hearing was ex parte and took place immediately after the Plaintiff filed the law suit, at which time the Plaintiff requested the Court to issue an Order to the Defendant to show cause why they should not be required to divulge the name of a juvenile taken into custody. The second hearing was several days later, at which time the Defendant and the Plaintiff presented affidavits and arguments of counsel concerning their positions. No further testimony or proof has been presented. Both parties are content with the state of the record as it is. The Defendant has no objection to the entry of this final judgment.
+Unlike the adult criminal justice system, our legislature has designed the juvenile criminal justice system in such a way as to heavily emphasize the rehabilitative nature of the system as opposed to its retributive nature. (Fla. Stat. 39.00(2a)). The legislature has expressed the hope that the courts will interpret the act in light of that purpose. (Fla. Stat. 39.001(3)). This intent to treat juveniles differently is evidence by the language used in dealing with juvenile criminal activity. For example: a child is defined as any unmarried person under the age of eighteen; a child is not arrested, he is taken into custody, a child doesn’t commit a crime, he commits a delinquent act; a child is not tried by the court, he is provided an adjudicatory hearing; what would normally be thought of as a sentencing hearing is called a disposition hearing; etc.
+It is not surprising, then, that the law should treat juveniles differently than adults in the area of public disclosure. While practically everything having to do with the adult criminal justice system is open for viewing by the public and the press, this is not true with regard to the juvenile system of justice. Even the appellate decisions concerning judicial rulings on juvenile cases safeguard the identity of the juvenile by only using the initials in the opinion as opposed to the child’s name.
+Fla. Stat. 39.12(3) provides that the court may punish by contempt any persons who releases or uses juvenile records for any purpose other than for the purpose authorized. Fla. Stat. 39.12(5) provides in pertinent part that, ... .all information obtained pursuant to this chapter in the discharge of official duties by any judge ... or any law enforcement agency shall be confidential and shall not be disclosed to anyone other than the authorized personnel of the court. . . etc.
+Apparently fearing that courts might interpret this rather stringent language as prohibiting the press from publishing information concerning juveniles or juvenile crimes, the statute goes on to provide in subparagraph (8) that the provisions shall not be construed to prohibit the publication of the name and address of a child who is alleged to have committed a violation of law. Thus, it seems clear that it is only those persons responsible for administering the juvenile system who are subject to the “shall not disclose” language of the statute.
+For some reason not quite clear to this Court, the legislature has also exempted from the “shall not disclose” structure, law enforcement agencies when the child in question is sixteen years of age or older and taken into custody for a violation of law which would be a felony if committed by an adult.
+If the prosecutorial authority decides pursuant to other provisions of the statute to charge a sixteen year-old as an adult with a felony, all information about the defendant automatically becomes public as the charging documents, court papers, arraignment, etc., are transferred to the regular clear and circuit court. Neither party has presented the Court with any authority which suggests that the granting of this peculiar discretion to law enforcement agencies renders the provisions providing for the otherwise confidential treatment of juvenile matters any less valid.
+At the hearing on April 4, 1988, on the rule to show cause, it was represented to the Court by the attorney for the defendant that the child had not been yet charged with a crime, although obviously the child had been taken into custody. This representation was not contradicted by opposing counsel. At the hearing wherein counsel for the Plaintiff requested the Court to enter final judgment, it was represented to the Court that the Plaintiff now knows the name of the juvenile and had learned that shortly after the hearing. Perhaps this is because the prosecutor has charged this individual as an adult, or it may be that someone simply provided the Plaintiff with this information. Nevertheless, both parties seem to feel that this case presents an issue which ought to be determined by the appellate court and in order to facilitate that process, request that final judgment be entered. Therefore, it is
+ADJUDGED that: The Court’s order dated April 5, 1988, is hereby adopted and restated herein as part of this final judgment.
+DONE AND ORDERED in Chambers at West Palm Beach, Palm Beach County, Florida, this 19th day of April, 1988.

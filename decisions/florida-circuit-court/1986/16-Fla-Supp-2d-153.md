@@ -1,0 +1,31 @@
+---
+court: "Florida Circuit Court"
+docket: "Case No. 86 3447 (CL) (H)"
+decided: "1986-04-29"
+citations: ["16 Fla. Supp. 2d 153"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FOREST HILL ASSOCIATES, LTD. v DANDY DOUGHBOY DONUTS"]
+source_url: "https://static.case.law/fla-supp-2d/16/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029328
+---
+
+# Forest Hill Associates, Ltd. v. Dandy Doughboy Donuts
+
+## Majority (RICHARD I. WENNET, Circuit Judge.)
+
+OPINION OF THE COURT
+RICHARD I. WENNET, Circuit Judge.
+THIS CAUSE came before the Court on the Plaintiff’s Petition for Injunctive Relief, the Plaintiff having been represented by Steven J. Gutter, and the Defendant by Robert P. Foley, and the Court after hearing the evidence presented and argument of counsel, and being otherwise fully advised in the premises, does find as follows:
+1. This action first came before the Court on the Petition for Injunctive Relief wherein Plaintiff sought an injunction without notice on April 11, 1986. The Court having reviewed the petition determined that there was neither an affidavit nor verified petition before the Court to substantiate the relief requested pursuant to Florida Rule of Civil Procedure 1.610. Accordingly, the Court denied the petition and asked Plaintiffs counsel to prepare an appropriate order. Such order was never submitted to the Court, but rather Plaintiff went to the Clerk’s office, taking the court file, and modified the original Petition for Injunction by having it sworn to after it had been filed with the Court. Thereafter, later on the same day (April 11, 1986) Plaintiff again sought judicial relief and Defendant’s attorney, Robert P. Foley, was present on behalf of the Defendant. Plaintiff sought to take evidence while the Defendant objected arguing that it had no real notice of the hearing, and did not have an opportunity to either prepare or call any witnesses in its behalf. The Court on procedural grounds treated the action as one again without notice and denied without prejudice Plaintiffs request for relief. The Court requested Plaintiff to prepare a second order in conformity with the Court’s verbal ruling which was not done.
+2. This action then came before the Court for a preliminary injunction with notice pursuant to the amended petition filed in open Court on April 15, 1986. A review of the Court file indicated that service of process was not had upon the Defendant. However, inasmuch as the Defendant and its counsel were present, and declared that they were ready to try the action, the Court did not further question its in personam jurisdiction over the Defendant.
+3. Plaintiff seeks a preliminary injunction to force the Defendant to require its waitresses to cover their breasts. At the April 15 hearing Mr. Terry Vernor, Director of the Zoning Code Enforcement of Palm Beach County, testified that the county believed a zoning violation had occurred inasmuch as they deemed the Defendant corporation to be one of an adult entertainment establishment, necessitating a special exception. Mr. Vernor further testified that the Defendant may very well have met the technical criteria necessary for the granting of such a special exception. However, he was quick to point out that just because one complies with the technical requirements does not mean that a special exception for an adult entertainment establishment would be granted.
+4. Due to the insufficiency of amount of time allotted to the action, the case was recessed to allow for the taking of additional testimony.
+5. On Friday, April 18, 1986 and on Monday, April 21, 1986 the Court continued to hear testimony. At these subsequent hearings, the testimony demonstrated that the Defendant’s windows are whitewashed and opaque. The Plaintiff, through its witnesses, claims that the Defendant’s topless establishment is injurious to the business of the other tenants of the shopping plaza while the Defendant, through its President, testified that his customer flow has increased from 40 to 50 people per day to 400 to 500 on weekdays and approximately 600 people on weekends. The Court finds that whatever injury may be perceived by the Plaintiff is more than overcome by the flow of people and traffic through the shopping center that would not otherwise have been there. The shopping center is approximately 60 per cent occupied and six business establishments have closed their doors, having gone out of business since the creation of the shopping plaza. The Court further finds that the claimed family image of the shopping center is amply offset by the two liquor bars in the shopping center, and a third disco bar about to commence operation.
+6. The Defendant testified that as of April 17, 1986 “sheer” blouses were and have been worn by the lady waitresses. No other testimony was adduced other than the fact these blouses are transparent or translucent.
+7. In an equitable proceeding such as this, the Plaintiff is under an obligation of proving its case by a clear and convincing standard. It is not up to the Court to guess or speculate as to the amount of coverage these blouses afford the breasts of the waitresses. Accordingly, the Court cannot find that the waitresses are nuisances nor is it appropriate for the Court to surmise as to whether the County continues to believe that the Defendant is obligated to obtain a special exception to the zoning ordinances in force in that area. The fact that the Plaintiff argues that the white-washed windows are a violation of the lease is an insufficient predicate upon which to grant a preliminary injunction. So also, may it be said, that any damages flowing from any tenants terminating their lease may be compensated by legal grounds, thus not forming the basis for irreparable harm which is not compensable by legal means.
+8. The Court finds that the Plaintiff has failed to establish the essential criteria for a preliminary injunction, to-wit: irreparable harm, clear legal right, an inadequate remedy at law and a substantial likelihood of success on the merits.
+It is thereupon
+ORDERED AND ADJUDGED that Plaintiffs Petition for Preliminary Injunctive Relief pursuant to Florida Rule of Civil Procedure 1.610 is denied.

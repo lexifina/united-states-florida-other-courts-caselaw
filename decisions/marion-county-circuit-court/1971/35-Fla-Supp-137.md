@@ -1,0 +1,32 @@
+---
+court: "Marion County Circuit Court"
+docket: "14659"
+decided: "1971-05-07"
+citations: ["35 Fla. Supp. 137"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAMRON v. OCALA STAR-BANNER, et al."]
+source_url: "https://static.case.law/fla-supp/35/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004234
+cites_cases: ["172 S. E.2d 816", "173 N.W.2d 12", "178 So.2d 628", "183 So2d 215", "221 So.2d 459", "23 Fla. Supp., 169", "231 So.2d 254", "231 So.2d 822", "235 So.2d 759", "25 Fla. Supp. 7", "26 Fla. Supp. 51", "26 L.Ed.2d 6", "28 L. Ed.2d 57", "30 Fla. Supp. 1", "31 Fla. Supp. 112", "33 Fla. Supp. 102", "376 U.S. 254", "388 U.S. 130", "389 U.S. 81", "397 U.S. 1073", "86 So.2d 334", "90 Sup.Ct. 1844"]
+---
+
+# Damron v. Ocala Star-Banner
+
+## Majority (D. R. SMITH, Circuit Judge.)
+
+D. R. SMITH, Circuit Judge.
+Summary judgment for defendants: This cause came on after proper notice on defendants’ motion for summary judgment. The court has heard argument of counsel and considered the record herein.
+Plaintiff sued for libel. This court directed verdict for plaintiff, instructing the jury its function was to fix the amount of damages. The jury brought in a verdict for $22,000 compensatory damages. This court denied a motion for a new trial, holding the New York Times doctrine (1954, 376 U.S. 254) did not apply. The Florida District Court of Appeal affirmed at 221 So.2d 459. The Florida Supreme Court refused to review the judgment at 231 So.2d 822.
+The Supreme Court of the United States granted certiorari at 397 U.S. 1073, and reversed the judgment at 400 U.S.__, 28 L. Ed.2d 57, 91 S.Ct. 628 (2-24-71). The Supreme Court held that the burden was on plaintiff to prove express malice, i.e., a knowing falsehood or reckless disregard of the truth, knowing of probable falsity.
+There is no dispute but that the reporter telephoned in to the “area editor” of the defendants early in the morning a correct news story that a case charging James Damron with perjury had been passed over to the next term of the United States Court. It is equally without dispute that the area editor erroneously changed the name to Leonard Damron. Both the trial record and the affidavit of the area editor show that he did not know there were two Damrons; that he was a newcomer to the area; that he had “handled stories about Leonard Damron [mayor and municipal judge of Crystal River and candidate for Citrus County tax assessor] so many times he automatically but erroneously wrote down the name Leonard Damron assuming it was the public figure and garage owner”; that he “alone was responsible for the error”; that he did not know personally either of the Damrons and had no malice or ill will against them; that when he first met Leonard Damron shortly thereafter, he apologized for his mistake.
+There are no conflicting affidavits or testimony.
+This court is bound by the interpretation of the United States Constitution by the United States Supreme Court. That court has held that under the first and fourteenth amendments to the United States Constitution, plaintiff must prove “with convincing clarity” that defendants ran the story with express malice, i.e., “the publication was deliberately falsified, or published recklessly despite the publisher’s awareness of probable falsity”. Curtis v. Butts (1967), 388 U.S. 130, at 153, citing New York Times, supra.
+There is no evidence here that would take the case to the jury under that standard. Accordingly, this court has no alternative other than to enter summary judgment for the defendants.
+As stated in Wasserman v. Time (USCA-DC, 1970), 424 Fed.2d 920, 922, certiorari denied 6/1/70, 90 Sup.Ct. 1844 —
+“New York Times Co. v. Sullivan makes actual malice a constitutional issue to be decided in the first instance by the trial judge . . . Unless the court finds, on the basis of pretrial affidavits, depositions, or other documentary evidence, that the plaintiff can prove actual malice in the Times’ sense, it should grant summary judgment for the defendant.” (Followed in Bon Air Hotel v. Time (CA-5, 1970) 426 Fed.2d 858, 864).
+See the decision and mandate of the United States Supreme Court in this case; also Beckley v. Hanks (1967) 389 U.S. 81, where, after the United States Supreme Court reversed, the trial court on affidavit filed therein, entered summary judgment, and the Supreme Court of Appeals of West Virginia affirmed summary judgment at 172 S. E.2d 816 (1970); Greenbelt v. Bresler (1970) 26 L.Ed.2d 6, where, after the United States Supreme Court reversed, the Maryland Court of Appeals on July 7, 1970, vacated its prior mandate and reversed the judgment for plaintiff, thus ending the case under Maryland practice; Beatty v. Ellings (Minn. 1969) 173 N.W.2d 12, reversing the lower court for not awarding summary judgment for defendant; Dacey v. Florida Bar (CA, Fla., 1970) 427 Fed.2d 1292, directing that summary judgment be entered for defendant Anderson; Merritt-Chapman & Scott v. Associated Press, Florida Publishing Company, et al., (Fla. C.C., 1970) 33 Fla. Supp. 102, and the numerous Florida and Federal cases cited therein upholding entry of summary judgment for various newspaper defendants; Hill v. Lakeland Ledger (Fla. DCA-2, 1970) 231 So.2d 254; Bishop v. Wometco (Fla. DCA-3, 1970) 235 So.2d 759; Abram v. Odham and Florida Publishing Company (1956) 86 So.2d 334; Amos v. Florida Publishing Company (Fla. C.C., 1964) 23 Fla. Supp., 169; Barrow v. Florida Publishing Company (Fla. C.C., 1965), affirmed per curiam at 178 So.2d 628, certiorari dismissed at 183 So2d 215; Carroll v. Florida Publishing Company (Fla. C.C., 1965) 25 Fla. Supp. 7; Sullivan v. Florida Publishing Company (Fla. C.C., 1966) 26 Fla. Supp. 51; West v. Florida Publishing Company (Fla. C.C., 1968) 30 Fla. Supp. 1; and Cobb v. Florida Publishing Company (C.C. Duval, 1968) 31 Fla. Supp. 112.
+The court finds, therefore, based on the pleadings, trial record and affidavits, that there is no genuine issue as to any material fact, and defendants are each entitled to summary judgment as a matter of law.
+It is ordered that plaintiff take nothing by his suit; that each of the defendants go hence without day; and that defendants recover costs from plaintiff in an amount to be hereinafter taxed by the court.

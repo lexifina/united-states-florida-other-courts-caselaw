@@ -1,0 +1,40 @@
+---
+court: "Hillsborough County Circuit Court"
+decided: "1952-03-03"
+citations: ["1 Fla. Supp. 210"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE ex rel. SCOTT v. SPARKMAN"]
+source_url: "https://static.case.law/fla-supp/1/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1187972
+cites_cases: ["161 So. 378"]
+---
+
+# State ex rel. Scott v. Sparkman
+
+## Majority (HENRY C. TILLMAN, Circuit Judge.)
+
+HENRY C. TILLMAN, Circuit Judge.
+This case involves the constitutionality of an Act of the 1951 legislature found in chapter 26899, which reads as follows:
+Section 1. No person shall be entitled to an exemption from taxation on his or her homestead, as provided in Section 192.12, Florida Statutes 1949, unless such person at the time of making the application for such exemption shall have been a legal resident of the State of Florida for a period of one year prior thereto.
+Section 2. The assessor of taxes of the various counties of this State shall, as a condition precedent to granting any application for homestead exemption under Section 192.12, Florida Statutes 1949, require satisfactory evidence that such applicant has been a legal resident of this State for one year immediately prior to the date of such application.
+The contention is made by the relator here that the Act is unconstitutional. Section 7 of article 10 of the constitution, as it was amended originally in 1934 and again in 1938, reads as follows:
+Every person who has the legal title or beneficial title in equity to real property in this State and who resides thereon and in good faith makes the same his or her permanent home, or the permanent home of another or others legally or naturally dependent upon said person, shall be entitled to an exemption from all taxation, except for assessments for special benefits, up to the assessed valuation of Five Thousand Dollars on the said home and contiguous real property as defined in Article 10, Section 1, of the constitution, for the year 1939 and thereafter. Said title may be held by the entireties, jointly or in common with others, and said exemption may be apportioned among such of the owners as shall reside thereon, as their respective interests shall appear, but no such exemption of more than Five Thousand Dollars shall be allowed to any one person or any one dwelling house, nor shall the amount of the exemption allowed any person exceed the proportionate assessed valuation based on the interest owned by such person. The legislature may prescribe appropriate and reasonable laws regulating the manner of establishing the right to said exemption.
+The statutes, which I think are pertinent to this inquiry, are three sections in Florida Statutes 1941, which sections are:
+192.12. Every person who has the legal title or beneficial title in equity to real property in this state and who resides thereon and in good faith makes the same his or her permanent home, or the permanent home of another or others legally or naturally dependent upon said person, shall be entitled to an exemption from all taxation, except for assessments for special benefits, up to the assessed valuation of five thousand dollars on the said home and contiguous real property, as defined in Section 1, Article X of the constitution. Said title may be held by the entire-ties, jointly, or in common with others, and said exemption may be apportioned among such of the owners as shall reside thereon, as their respective interests shall appear, but no such exemption of more than five thousand dollars shall be allowed to any one person or any one dwelling house, nor shall the amount of the exemption allowed any person exceed the proportionate assessed valuation based on the interest owned by such person.
+192.16. Each taxpayer who claims said exemption shall file one of said forms, properly filled out and executed, with the assessor on or before April 1st of each year; and the failure to do so shall constitute a waiver of said exemption for such year.
+192.17. The assessor shall examine each claim for exemption filed with him or referred to him and shall allow the same if found to be in accordance with law, by marking the same approved and by making the proper deductions on the tax books. In every case the property shall be assessed whether of the value more or less than five thousand dollars and an appropriate deduction shall be made as the case may be.
+This bring the question down to the following:
+(a) Does the Act (sections 1 and 2 of chapter 26899) so narrow the constitutional amendment (section 7, article 10) as to render it unconstitutional?
+(b) Does the addition which the legislature seeks to make in chapter 26899 come within the last sentence of section 7, article 10 of the constitution — “The legislature may prescribe appropriate and reasonable laws regulating the manner of establishing the right to said exemption.”?
+Our Supreme Court, in the case of Steuart, Tax Assessor, vs. State ex rel. Dolcimascolo, 161 So. 378, held:
+“Therefore, a claim for exemption under section 7 of article 10 of the constitution is not allowable unless, such claim is sustainable under the precise language of that section, which language no department of the state government, whether judicial, legislative, or executive, has authority to amend, add to, detract from, or alter, in favor of or against claimants not strictly entitled, or debarred, under the words of the Constitution itself.”
+It is my opinion that chapter 26899 is not allowable under the precise language of section 7, article 10 of the constitution — I think the Act is an effort to amend and add to the constitution by rigidly defining who shall be entitled to the homestead exemption.
+I am also of the opinion that the wording of the constitution giving the legislature the power to prescribe appropriate and reasonable laws regulating the manner of establishing the right to said exemption limits the legislature to purely administrative regulations.
+The argument is made that the one year’s residence is a reasonable requirement to show that the claimant makes the property his or her permanent home. Residence is a matter of intent and in view of the history of this amendment, I cannot believe that either the legislature in submitting the amendment, or the people in approving it, had in mind anything more than th?it the claimant state in good faith an intention to make the property his or her permanent home.
+It will be recalled that one of the chief arguments used by the proponents of the constitutional amendment (both in the legislature which proposed it and before the people in the campaign for its adoption) was that the tax exemption was an inducement to persuade people to come to Florida to live. To my mind — in view of that history — it would be an act almost of bad faith on the part of the state if the benefits of the amendment were withheld for a period of a year. This amendment followed shortly after the change in our constitution with reference to inheritance taxes and one of the benefits which the state was supposed to get in securing these new residents was the inheritance tax when the new residents died.
+We have just passed two or three years of the largest sales to bona fide residents from other states in our history and I seriously doubt if five per cent of these sales were made without the argument that the purchasers would get the benefit of the homestead exemption provided by the constitution.
+I do not think it either legal or moral to induce people to become residents of the state of Florida on the promise of the exemption on the taxes and then to withdraw the benefits of the tax exemption.
+For the reasons above noted, it is my opinion that the motion to quash the alternative writ should be denied and that the peremptory writ should issue, and upon presentation of the peremptory writ I shall execute the same.

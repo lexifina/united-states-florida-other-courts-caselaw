@@ -1,0 +1,47 @@
+---
+court: "State of Florida Division of Administrative Hearings"
+docket: "Case No. 85-2289R"
+decided: "1985-09-13"
+citations: ["17 Fla. Supp. 2d 158"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RASKE v. DEPARTMENT OF CORRECTIONS"]
+source_url: "https://static.case.law/fla-supp-2d/17/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2026790
+cites_cases: ["384 U.S. 436", "450 U.S. 24"]
+---
+
+# Raske v. Department of Corrections
+
+## Majority (ARNOLD H. POLLOCK, Hearing Officer.)
+
+OPINION
+ARNOLD H. POLLOCK, Hearing Officer.
+FINAL ORDER
+On August 15, 1985, pursuant to prior arrangement agreed upon by the parties, a hearing was held in this case by telephone conference call attended by Petitioner, Jeffrey Raske; Julia P. Forrester, Counsel for the Department of Corrections; and the undersigned. The issue for consideration was whether Respondent’s Rule 33-11.065, Florida Administrative Code, is a valid rule conforming to the provisions of the statute authorizing it.
+BACKGROUND INFORMATION
+On May 29, 1985, Petitioner, Jeffrey Raske, an inmate at the Department of Corrections’ Reception and Medical Center, Lake Butler, Florida, filed a Petition to Determine the Validity of a Rule, Rule 33-11.065, Florida Administrative Code, in which he contended that the rule in question deprived inmates subject to it of the opportunity to earn extra gain time consistent with the practice followed prior to the implementation of the new rule.
+The Petition was forwarded to the Director of the Division of Administrative Hearings for the appointment of a Hearing Officer, and on June 24, 1985, the Director dismissed the Petition on the basis that it did not meet the requirements of Section 120.56, Florida Statutes. Thereafter, on June 28, 1985, Petitioner submitted an amended Petition to Determine the Validity of a Rule in which he sought to correct the deficiencies contained in his previous petition. This amended petition was forwarded to the Director of the Division of Administrative Hearings for the appointment of a Hearing Officer and on July 11, 1985, the matter was referred to the undersigned for hearing. A Notice of Hearing was furnished to the parties on July 15, 1985, setting the case for hearing at the Reception and Medical Center in Lake Butler on July 26, 1985. Before that hearing could be held, however, on July 25, 1985, Petitioner submitted a Motion for Continuance which was not resisted by Respondent. Thereafter, the motion was granted and the hearing was set for August 15, 1985, to be held by telephone conference call with concurrence of the parties.
+In the interim, however, on July 24, 1985, Respondent submitted a Motion to Dismiss the Petition. No ruling was made on the motion on the basis that the matter would be resolved and disposed of in the Final Order to be issued after hearing.
+At the hearing, Petitioner testified in his own behalf and subsequent to the hearing, on August 21, 1985, submitted several copies of executed work gain time computation forms used by the Department during the period prior to the implementation of the rule here challenged. Respondent presented no testimony, but did file, after a hearing, the affidavit of Wilson C. Bell, Adult Services Program Office Director for the Department of Corrections. Though Petitioner submitted a Memorandum subsequent to the hearing, neither party submitted proposed findings of fact.
+FINDINGS OF FACT
+Petitioner, Jeffrey Raske, is an inmate at the Lake Butler Reception and Medical Center, Lake Butler, Florida. He was incarcerated on June 23, 1983 for a crime committed prior to June 15, 1983.
+At the commission of Petitioner’s offense, the Department of Corrections awarded additional gain time to inmates under the provisions of Section 944.275(2)(b) & (c) and (3)(e) which authorized the Department to grant these gain time allowances on a monthly basis as earned up to one day for each day of productive or institutional labor performed by any prisoner. The statute also allowed the award of extra gain time to inmates whose conduct, personal adjustment, and individual effort toward rehabilitation showed a desire to be a bettér than average inmate. This attitude could be further displayed by participation in an approved course of academic or vocational study and authorized on an individual basis from one to six days per month over and above the gain time referenced previously.
+On June 15, 1983, however, the Florida Legislature amended Section 944.275 by placing a cap of twenty days per month on incentive gain time which may be granted an inmate who works diligently, participates in training, uses time constructively, or otherwise engages in positive activities.
+The terms of the new statute had the effect of reducing the maximum amount of incentive work, or extra gain time over and above basic gain time that could be earned by an inmate during each month of confinement. The legislation enacting the change stated in addition:
+On the effective date of the act, all incentive and meritorious gain time shall be granted according to the provisions of this act.
+When the new legislation was passed, the Department of Corrections repealed the two then-existing rules which provided for “work gain time” (Rule 33-11.065), and “extra gain time” (Rule 33-11.085). It then implemented a new Rule 33-11.065 which provided for “incentive gain time” up to a maximum twenty days a month. In so doing, the use of the terms “work gain time” and “extra gain time” was terminated. All gain times other than basic gain time are now included in the “incentive gain time” which is capped by a maximum of twenty days per month.
+Though the new law was to become effective on June 15, 1983, the Department made an administrative decision to continue the existing rates of additional gain time through June 30, 1983. This resulted in inmates affected earning the greater number of gain time days for one half a month longer.
+CONCLUSIONS OF LAW
+The Division of Administrative Hearings has jurisdiction over the parties and the subject matter of the proceedings.
+Petitioner claims that the action of the Legislature by statute and that of the Department by rule pursuant to the statute which resulted in a loss of potential to earn time in the same amount as previously (from up to 37 days per month reduced to no more than 20 days per month) constituted the implementation of an unconstitutional ex post facto law and action which reduces a benefit to an inmate whose crime was committed prior to the statute’s enactment. Citing Weaver v. Graham, 450 U.S. 24, 101 S. Ct. 960 (1981). Petitioner also cites Miranda v. Arizona, 384 U.S. 436 (1966) as standing for the proposition that there can be no rulemaking that would abrogate a right secured by the Federal Constitution.
+Raske contends also that the Legislature did not really do away with “work” and “extra” gain time, at least for inmates of his class of prisoner and that the Department of Corrections, in promulgating its rule on incentive gain time should have made provision for the continuation of those categories. He contends that the use of the term “other” as it appears in the statute at Section 944.275(3)(a) is the authority for continuing “work” and “extra” gain time for inmates who were earning them prior to the legislative change.
+Petitioner’s argument by his own admission is relatively simple. It is also ingenuous. He contends that the State of Florida and the Department of Corrections as a subdivision thereof, has no legal authority to reduce the amount of gain time that can be earned by an inmate who is incarcerated for an offense committed prior to the effective date of the statute which changed the method of calculation. He states that whereas under the old law an inmate was able to earn up to 37 days per month, under the new law, the same conduct can earn only 20 days and that since he was convicted prior to the effective date of the statute, he should be awarded the other than basic gain time on the basis that it was awarded at the time of his conviction.
+To so hold would result in the determination that the state has no right to change the way it manages people in its prisons. Under the legislation and the rule as they now exist, Petitioner is not deprived of any gain time earned under the old rule. To be sure, that was specifically provided for at Section 944.275(b)(c). The new rule has the effect merely of limiting the amount of extra or incentive gain time that can be earned subsequent to the effective date of the implementing statute. Nothing that the Petitioner had earned was taken away from him.
+The award of incentive gain time under both the old and the new rule is discretionary with the Respondent agency as opposed to basic gain time which is not. The method of calculation of basic gain time is not changed for inmates convicted prior to the effective date of the statute. They continue to receive basic gain time on the same basis they received it at the time of their conviction and incarceration.
+Incentive gain time, being discretionary, is not subject to an ex post facto claim and this is pointed out in the case cited by Petitioner, Weaver v. Graham.
+ORDER
+On the basis of the foregoing Findings of Fact and Conclusions of Law, it is, therefore
+ORDERED that Petitioner’s Petition to Determine the Validity of a Rule is dismissed.

@@ -1,0 +1,50 @@
+---
+court: "Hillsborough County Circuit Court"
+docket: "75-153-B"
+decided: "1981-07-28"
+citations: ["1 Fla. Supp. 2d 39"]
+reporter: "fla-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE: ESTATE OF RALPH HABER"]
+source_url: "https://static.case.law/fla-supp-2d/1/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211055
+cites_cases: ["157 So. 510", "163 N.W. 2d 289", "211 A. 2d 443", "49 So.2d 848", "499 P. 2d 808", "85 So.2d 847", "88 So.2d 153"]
+---
+
+# In re Estate of Haber
+
+## Majority (BENJAMIN C. SIDWELL, Circuit Judge.)
+
+BENJAMIN C. SIDWELL, Circuit Judge.
+Can a cold-blooded killer of her spouse, convicted of first degree murder, lay claim to a substantial portion of her husband’s estate and use the processes of the law of Florida to enforce her “rights” thereto? Maybe.
+In 1975, Betty Lou Haber hired two killers to murder her husband, Albert. She left a side door unlocked so they could enter, ambush and kill him, while she went to the beach. After learning of his death this bereft widow went to his safe deposit box and got his will. Finding it unwitnessed, she proceeded to have her sister and another sign as attesting witnesses, posthumously, and presented it for admission to probate. It was later set aside.
+She and her two co-killers were convicted of first degree murder. Appeals have affirmed the conviction. She and her son languish in prison. The actual trigger man, one Brandt, was killed in prison shortly thereafter.
+Before marriage, the parties had entered into an ante-nuptial agreement. Albert later signed a purported amendment thereto, changing some of its terms, but Betty never agreed to it or signed it, though she now asserts its unilateral validity.
+She now asserts in this Court that she is entitled to (1) dower, (2) a life estate in his home under his will admitted to probate, (3) a life estate in his home, as homestead under the probate laws, and (4) dower under an alleged amendment to the ante-nuptial agreement, (5) contract rights under the ante-nuptial agreement ($1,000.00 per year for each year of marriage if parties living together when he died).
+The personal representative and Haber’s heirs have filed separate defenses asserting (1) the Murderer’s Statute, Chapter 731.31 — now 732.802, (2) the equitable maxim allowing no one to profit by his wrong, (3) the ante-nuptial agreement wherein she waived dower, homestead and widow’s rights and inheritance, (4) invalidity of the amendment thereto for failure of Betty to agree to it, plus the invalidation of all her rights thereunder due to murdering him.
+The personal representative has filed Motion for Summary Judgment. Petitioner herself has requested the Court to take judicial notice of portions of the record of the criminal trial, under Chapter 90, the Evidence Code. The Court has obliged. Parts of those proceedings have been certified and attached as exhibits to various pleadings in these proceedings. Having been requested to take judicial notice of portions of the criminal record, the Court has taken judicial notice of additional matters therein. Sikora v. Sikora, Montana, 1972, 499 P. 2d 808. These include the Indictment and Judgment of Conviction of Murder, the affirmance thereof; the ante-nuptial agreement; the purported amendment thereto, and the decedent’s will.
+The Court grants summary judgment against all claims by Betty Haber to the property of Albert Haber because she feloniously killed him. She was convicted thereof beyond any reasonable doubt by a jury of her peers, which judgment has been reviewed and affirmed by the trial and appellate courts.
+No question in the law is in a greater state of confusion and legal disarray. This is true nationally as well as in Florida. There is no discernible weight of authority. Some states have no statute on the subject of a murderer’s rights in the property of his victim. They generally rely on the equitable maxim denying the right to profit from wrongdoing, applying it in all cases. Some, like Florida, have such a statute, and apply it only to bar the right to “inherit.” This leaves unanswered the claim for dower, homestead and other “non-inheritance” but statutory claims.
+Florida has at least three different rules, depending on the nature of the claim, or the character of the property right asserted.
+First, the Murder Statute, Chapter 731.31 (1973)
+“Murderer. — Any person convicted of the murder of a decedent shall not be entitled to inherit from the decedent or to take any portion of his estate as a legatee or devisee. The portion of the decedent’s estate to which such murderer would otherwise be entitled shall pass to the persons entitled thereto as though such murderer had died during the lifetime of the decedent.”
+This statute clearly applies to prevent a murderer from inheriting, either by the law of intestate succession, or as a legatee or devisee under a will. It is not at all clear whether it applies to bar non-inheritable rights such as dower, homestead, family allowance or other statutorily conferred claims. Our Supreme Court passed up the opportunity to apply it to these rights in Hill v. Morris, etc., Fla., 85 So.2d 847, 1956, decided on other grounds.
+It is clear that this statute, a part of the probate law, applies only in those cases in which the rights sought have their origin in the probate law (generically). It is equally clear that the equitable maxim does not apply in such cases. Carter v. Carter, 88 So.2d 153.
+Secondly, the insurance cases, and other cases founded upon contractual rights. It is clear that the murder statute does not apply in these cases. They are controlled by application of the equitable maxim, estoppel and other equitable principles. Carter v. Carter, 88 So.2d 153.
+Thirdly, Joint Ownership. Our Supreme Court has refused to apply either the murder statute or the maxim to these cases. Instead, they have fashioned the rule that a murdering spouse has, by his act,feloniously terminated the marital relationship and thereby converted the entireties estate into a tenancy in common, simultaneously denying the murdering spouse the right to inherit his dead spouse’s half interest. It passes to the decedent’s heirs as if the murderer had predeceased his victim. Ashwood v. Patterson, 49 So.2d 848.
+The instant case involves aspects of all three of these categories. The claims for dower and homestead life estate arise wholly under probate law, yet they are not inheritances per se. The claim for inheritance rights and homestead life estate rights under the ante-nuptial agreements are clearly contractual in origin. All of them arise from the husband-wife relationship, as does the estate by entireties rule.
+Procedurally, having taken judicial notice of the criminal conviction pursuant to petitioner’s request to notice other portions of that proceedings, the Court holds that this dispenses with any necessity to relitigate the question of her guilt in his murder.
+Peeples v. Corbett, Fla., 157 So. 510, Estate of Max Kravitz, Pa. (1965), 211 A. 2d 443, Travelers Ins. v. Thompson, Minn. (1968), 163 N.W. 2d 289.
+The Court further holds that petitioner’s claim to dower, homestead life estate, or alternatively, a life estate in his home under his will are barred by Chapter 731.31, 1973, the murderer’s statute.
+These are statutorily conferred rights arising wholly from the probate laws, and as such, while not strictly speaking “inheritances,” they clearly arise from the law of succession, and depend in part on a husband-wife relationship existing at death.
+The Dower Statute then in effect, Chapter 731.34, stated in part—
+“Whenever the surviving spouse — shall not be satisfied with the portion of the estate of the deceased spouse to which (she) is entitled under the law of descent and distribution or under the will, or both, (she) may elect — dower.”
+Which shall be one third of — realty & personalty, free from debts and costs of administration.
+Clearly, this contemplates a claim by a surviving spouse who is entitled to inherit from decedent. Being dissatisfied with the amount of her inheritance rights under the will or law of descent is a condition precedent to her right to elect dower. Here, the murder statute bars the first right — that to inherit — by its clear terms. Since Betty Haber had no right of inheritance under law or will, she did not have the remaining option — to elect dower.
+Additionally, the right to claim dower and homestead life estate require standing as a “surviving spouse.” Ashwood v. Patterson, supra, held that a spouse killing is a felonious termination of the marital relationship, and that the victim’s property not passing under the probate laws should descend as though the killer predeceased the victim. I see no reason why this rule should not apply with equal force to those other property rights of the victim not passing under the law of descent and distribution, e.g., dower, homestead, etc.
+The claims founded in contract — the ante-nuptial agreement providing that she should receive $1,000.00 per year for each year the marriage endured, provided they were still living together as husband and wife at his death, are barred by the equitable maxim that no wrongdoer should profit by his wrong. Carter v. Carter, supra; In Re Estate of Yanowsky, 2nd DCA, Opinion May 30, 1980.
+The same rule would apply to the purported amendment to the ante-nuptial agreement and the rights to dower asserted thereunder, if the amendment were held valid at all. It purports to amend the original bilateral agreement, changing the rights and obligations of both parties— yet only Albert signed the purported amendment. Betty never agreed to it, although now asserting its validity.
+Upon consideration of the aforegoing, it is thereupon
+ORDERED AND ADJUDGED that the Motion for Summary Judgment is granted as to each and every count of the petition of Betty Lou Haber.

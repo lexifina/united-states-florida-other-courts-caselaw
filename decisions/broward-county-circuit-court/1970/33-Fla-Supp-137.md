@@ -1,0 +1,35 @@
+---
+court: "Broward County Circuit Court"
+docket: "67-6547"
+decided: "1970-01-23"
+citations: ["33 Fla. Supp. 137"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONCRETE UNLIMITED, Inc. v. ATLANTIC COAST PRECAST."]
+source_url: "https://static.case.law/fla-supp/33/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005805
+cites_cases: ["122 So.2d 582", "68 So. 2d 577"]
+---
+
+# Concrete Unlimited, Inc. v. Atlantic Coast Precast
+
+## Majority (LAMAR WARREN, Circuit Judge.)
+
+LAMAR WARREN, Circuit Judge.
+Final judgment: This is an action for unfair competition both under the common law and pursuant to the Uniform Deceptive Trade Practices Act, §817.71, F.S., Laws, 1967.
+The court has carefully examined the voluminous record, the briefs of the parties, and conducted its own research.
+The parties to this cause manufacture and sell precast concrete railing panels for safety and decorative purposes on outside balconies, stairways and wallways, usually used on multistory buildings, and also precast concrete decor blocks for ornamentation on buildings and to form semiprivate fencing. They sell in Broward County and in the South Florida area and to the same class of customers.
+Plaintiff charges defendants under the common law with copying and appropriating certain of its designs and trade names.
+The evidence reveals that the plaintiff has created many designs and has given them names, as have other manufacturers. At least two of the ones which are the subject of this action, the Vatican and the Mt. Blanc, appear to be original designs of the plaintiff; others bear a resemblance to designs heretofore used and being used in the trade, easily contrived, or not particularly unique or remarkable.
+The two original designs above have been copied or “lifted” by other manufacturers, with either no or small changes. The practice of copying designs with no or slight alterations, and using the same or another name for the same object, appears to be prevalent in varying degrees both in and out of this community. In some instances permission to copy is given by one company to another; or designs are traded; or designs are taken from publications. On the other hand, where there is a need it is a simple expedient to purchase a block or railing, make a mold, and reproduce it. Neither plaintiff or other manufacturers appear to have patents and therefore admittedly other companies are free to copy designs, there being testimony that attempts to patent and copyright designs have been without success. Actually, plaintiff has been permitting a manufacturer in an adjoining county to duplicate two of its designs.
+Plaintiff, while admitting others have copied its designs, sued defendants because they have been more “flagrant.” Plaintiff by one of its officers stated that it did not want exclusive rights everywhere, but only prior rights in this area where they have introduced and marketed their items.
+The evidence further reflects that it was the plaintiff who originally designed and first manufactured the Vatican and the Mt. Blanc block and rail; that the defendants have been manufacturing and selling the Vatican block and rail by that name and the Mt. Blanc block by the name of Gulf and the Mt. Blanc rail under the name of Mt. Blanc; that there is no appreciable difference, if any at all, between the plaintiff’s manufactured article and the defendants’ reproduction of it; and that the defendants are sharing in a market created by the plaintiff through its sales, advertising and promotion. The facts as to these two designs clearly make applicable the holding in the case of Sentco, Inc. v. McCulloh, Fla., 68 So. 2d 577, and plaintiff is entitled to an injunction against the defendants.
+Plaintiff also alleges that it uses the trade name “Engineered” to describe its precast railing, that the defendants have appropriated the same and have used it to describe their railing, and plaintiff prays that defendants be enjoined from its use. On somewhat similar facts the court held in Cameron v. Miami Ventilated Awning Mfg. Co., Fla., 122 So.2d 582, that the lower court unduly restricted the defendant in describing its products in advertising. The reasoning in that decision will be followed here, and the prayer denied.
+Under the Uniform Deceptive Trade Practices Act plaintiff has charged defendants under subparagraphs (1) (a), (b) and (c), which deal with passing off goods or services as those of another, and with causing likelihood of confusion or of misunderstanding as to the source and affiliation of goods and services. This act has not yet been construed or interpreted; it is similar however to the Illinois act, S.H.A. ch. 121^2, §312. It is the belief of the court that the defendants, as to the Vatican and Mt. Blanc designs, have passed off goods as those of the plaintiff by producing and using these designs and trade names; and that they are causing likelihood of confusion and misunderstanding as to source and affiliation by producing and using said designs and trade names.
+Under the first count plaintiff prays for damages as the result of unfair competition, and prays for all of defendants’ profits from the sale of railing and block bearing the design or trade name of the plaintiff; under the second count it prays for reasonable attorneys’ fees pursuant to §817.72, which provides for such fees where the defendant has willfully engaged in deceptive trade practices.
+The court did not find an active campaign or action on the part of the defendants to sell any particular block or railing designs of plaintiff — rather, in most instances, it was an apartment builder or a developer having already decided on a design and soliciting bids from or engaging defendants because of various reasons to produce it. One of the defendants testified that the Mt. Blanc designs they were using came from a former employer in the Gape area and that the Vatican design was given him by a manufacturer in Dania. It was further argued that plaintiff before instituting suit did nothing to put defendants on notice, and that there did not exist anywhere a central recording system for designs by which one might discover their existence.
+The court does not find that a situation exists where compensatory damages should be awarded. Nor is there present the necessary willfulness to allow attorneys’ fees. Certainly punitive damages are not evident.
+It is therefore ordered that the defendants be and they are hereby enjoined from further manufacturing, selling, advertising, installing, or disposing of the same to some one else, plaintiff’s designs of Vatican and Mt. Blanc concrete railing panels and concrete blocks and from advertising, using, adopting or appropriating the trade names of Vatican and Mt. Blanc, this injunction to be effective in and relate to Broward and Dade counties.
+It is further ordered that the parties pay their own costs, except that the cost of reporting and transcribing the testimony be evenly divided.

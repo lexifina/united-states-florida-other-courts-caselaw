@@ -1,0 +1,30 @@
+---
+court: "Dade County Circuit Court"
+decided: "1951-02-05"
+citations: ["1 Fla. Supp. 102"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOWLING, et al v. MIAMI HERALD PUBLISHING CO."]
+source_url: "https://static.case.law/fla-supp/1/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1188010
+cites_cases: ["109 N.W. 659", "11 L.R.A. (NS) 234", "115 So. 498", "130 So. 440", "142 So. 242", "169 So. 407", "17 So. 745", "171 So. 238", "2 So. 362", "36 S.W. 782", "65 A.L.R. 1256", "87 A.L.R. 649"]
+---
+
+# Dowling v. Miami Herald Publishing Co.
+
+## Majority (GEORGE E. HOLT, Circuit Judge.)
+
+GEORGE E. HOLT, Circuit Judge.
+In an action on the common counts in the civil court of record, appellants were denied recovery. From this Judgment, they appeal.
+The pertinent facts before us may be summarized as follows: Marina, Inc., a restaurant at Dinner Key, incurred obligations to the Miami Herald Publishing Co. for advertising in the ámount of $620.47. Dowling and Roberts were appointed escrow agents or trustees to liquidate the indebtedness of Marina, Inc. Subsequently, the business was taken over by Manny Cohen, who thereafter sought to obtain advertising space in the Herald. Acting as the agent for the trustees, he went to the offices of the Herald to pay this debt and was told it amounted to $775.92, which, upon authorization by the trustees, he paid. Actually, the difference of $155.45 was a collection fee incurred by the defendant.
+It is admitted that the question presented here is whether or not a sum of money paid under the erroneous belief that it is part of a debt can be recovered back where the claim was illegal or where there was no liability to pay in the first instance. ,,
+It is an elementary principle of law that a voluntary payment made under a ¡mistake of fact may be recovered, unless the payee was entitled to receive the money in the first place. In order to settle any doubts, this was given legislative recognition some years ago:
+“(1) Whenever, in any court in this state, a suit is instituted by a party to a contract, to recover a payment made pursuant to said contract, and, by the terms of the contract, there was no enforceable obligation to make the payment, or the making of such payment was excused, the defense of voluntary payment may not be interposed by the person receiving such payment, to defeat recovery of the payment.” Fla. Stats. (1943) Sec. 52.24.
+Money voluntarily paid upon claim of right, with full knowledge of all the facts, cannot be recovered merely because the party at the time of the payment, was ignorant of, or mistook the law, as to his liability. Jefferson Co. v. Hawkins (Fla.), 2 So. 362. Where the facts are undisputed, the question whether a payment is voluntary or involuntary is one of law.
+On the other hand, though professing to apply the general law of payment, we recognize the important difference between mistake of law and mistake of fact. Heisler v. Florida Mtg. Title & Bonding Co. (Fla.), 142 So. 242; 5 Williston, Contracts Sec. 1581; annotation, 65 A.L.R. 1256. The payee of money paid out under a mistake as to the existence of a material fact holds the money for the use of the payor. First State Bank of Fort Meade v. Singletary (Fla.), 169 So. 407; Okeechobee County, Fla. v. Nuveen, 145 Fed. 2d 684; annotations, 87 A.L.R. 649, 13 Ann. Cas. 411, 11 L.R.A. (NS) 234. Were the law otherwise, it would, at best be unconscionable; at worst, oppressive.
+It is also a basic principle of law that, in the absence of an agreement to the contrary, the person who employs an agent is the person liable for his compensation. Sone v. Fox Mach. Co. (Mich), 109 N.W. 659; Sinclair v. Galland, 8 Daly (N.Y.) 508; Lawrence v. Bauerfield, 28 Ohio N.P. (N.S.) 100; Burnett v. Casteel (Tex.), 36 S.W. 782; Cash v. Kennion, 11 Ves. Jr. 314, 32 Eng. Rpr. 1109; Gunn v. Showell’s Brewery Co., 18 T.L.R. 659. It is, thus, the intention of the parties that controls. Webster Lumber Co. v. Lincoln (Fla.), 115 So. 498; 3 Williston, Contracts Sec. 824. So a contract might stipulate for another means of payment, but a third party could not be bound by it against his will. For it is thoroughly established that privity of contract is an essential element of a cause of action thereon. American Surety Co. of New York v. Smith (Fla.), 130 So. 440. Though parties may ingraft new terms unto the original agreement, Robinson v. Hyer (Fla.), 17 So. 745; Tussing v. Smith (Fla.) , 171 So. 238, the assent of both parties is necessary, Aetna Life Ins. Co. v. Dodd, 103 Fed 2d 793 (CCA 8).
+Neither Dowling, Roberts, Cohen or Marina, Inc., requested the collection agency to perform any services for them. There existed, then, no contract, express or implied, between them. Thus the Herald is responsible for the compensation of the collection agency, and unless the original contract included as one of its terms the stipulation as to the collection fee, neither the debtor, Marina, Inc., nor its trustees are liable for its payment.
+In a final analysis, it is obvious that the transaction out of which the case at bar arose was involuntary and that there was no contract or obligation on the part of the trustees to ipay such collection fee. It is clear to this court from the record that Marina, Inc. owed the defendant Miami Herald Publishing Co. $620.47; that the defendant wrongfully advised 'the plaintiffs that the bill was in the amount of $775.92, concealing from the plaintiffs the fact that the difference of $155.45 was a collection charge, which plaintiffs were under no obligation to pay; that the sum of $775.92 was paid by plaintiffs to the defendant under the mistaken belief that this sum was due it by Marina, Inc., for advertising; and that the plaintiffs should be reimbursed for this overpayment of $155.45.
+The judgment of the civil court of record is reversed, with directions to enter a judgment in favor of the plaintiffs in the sum of $155.45, with interest and all costs in this proceeding.

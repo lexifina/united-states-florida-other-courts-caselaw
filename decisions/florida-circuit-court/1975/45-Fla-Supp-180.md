@@ -1,0 +1,35 @@
+---
+court: "Florida Circuit Court"
+docket: "31,931"
+decided: "1975-12-23"
+citations: ["45 Fla. Supp. 180"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re RUTHERFURD’S ESTATE."]
+source_url: "https://static.case.law/fla-supp/45/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011000
+---
+
+# In re Rutherfurd's Estate
+
+## Majority (PAUL T. DOUGLAS, Circuit Judge.)
+
+PAUL T. DOUGLAS, Circuit Judge.
+On August 8, 1975, a hearing was held, after due notice to determine attorney’s fees for the firm of O’Connell & Cooper, attorneys for Katherine C. Rutherfurd, executrix of the estate of John M. L. Rutherfurd.
+The court, after having heard testimony of the witnesses, considered the. documentary evidence presented, and read the depositions, finds as follows —-
+The firm of O’Connell & Cooper was employed by the executrix to represent her in the probate of the estate of her late husband. She was thereafter on April 21, 1971 duly appointed as executrix by the court. The attorneys experienced difficulty almost from the beginning. First, Mrs. Rutherfurd was very inexperienced and unfamiliar with the problems normally expected in an estate of this size. Secondly, in several instances, without advice of counsel, she proceeded to dissipate and improperly dispose of estate assets. This ultimately led to litigation, requiring additional effort by her attorneys. There were also problems in determining and locating assets of the estate which were also caused by her lack of knowledge and lack of cooperation. A petition was filed for her removal as executrix, which was defended by her attorneys. She apparently also had a continuing illness which may have accounted for her inability to properly fulfill her duties and responsibilities as executrix of this estate. This illness has made it difficult to communicate with her and has continued to the present time, and is given as a reason for her failure to appear in this matter some four years later. A reading of her deposition clearly shows her lack of understanding and raises questions concerning her competency.
+Mrs. Rutherfurd did, however, have New York counsel and shortly after her appointment as executrix returned to her home in New York. Mr. Cox and Mr. San Filippo, her New York attorneys, assisted her and represented her in her individual capacity but not in her capacity as executrix since neither of them are admitted to practice in the courts of Florida. There is no doubt that her New York attorneys performed services for her in her individual capacity. They have been paid a total of $80,000 for their energetic efforts according to their own testimony, and the clock is still running at $100 per hour. Notwithstanding the assistance of New York counsel in filing the federal estate tax return, the fact is that they were not attorneys in the Florida probate proceedings, had no responsibility therefor and are not seeking any fees nor are they entitled to any from this court. It should be noted that if Mrs. Rutherfurd has paid $80,000 in fees to the New York attorneys from estate funds, she did so without any authority from this court.
+There is ample testimony in the record to show that this is not an ordinary case, a fact which was confirmed by Mr. Ted Qughterson, a witness called by Mrs. Rutherfurd, in opposition to the fees requested by O’Connell & Cooper.
+The estate consists of several million dollars. There were several litigated and hotly contested matters and an inordinate number of depositions taken. Due to the problems of communication and lack of understanding by Mrs. Rutherfurd, as executrix, the estate required an unusually large amount of correspondence by the attorneys for the executrix. The estimated 1,000-plus hours expended by these attorneys do not seem to be unrealistic or excessive. There has been one appeal to the Fourth District Court.
+Perhaps this case should be decided on the basis of an old French saying still in vogue in some quarters —
+“Une poule au pot dans toutes les marmites”,
+or, translated, “a chicken in every pot.” In the instant case, there was $100,000 allowed as fees on the federal estate tax return, ordinarily sufficient to provide enough chickens for everyone. Mrs. Rutherfurd, through her alter ego, Mr. San Filippo, her New York, attorney, unfortunately wants the Florida attorneys to have a dove and he wants a double breasted turkey for himself. Mr. San Filippo said all he wanted Mr. O’Connell to do was to “front for him” and he would do all the work. No reputable lawyer would make such an offer, particularly, if accepted, he may benefit from it. Mr. O’Connell certainly did not agree to participate in such a plan and no ethical lawyer would even consider prostituting his license to practice law under these conditions.
+To seriously consider Mr. San Filippo’s opinion as to the amount of Mr. O’ConneU’s fee would be like going to Henry VIII for marriage counseling.
+An attorney, with an infirm client, who has carte blanche authority to proceed at the rate of $100 per hour, can litigate even the most frivolous of cases, and is completely insulated from loss. He wins even if he loses in court. This used to be called “champerty” or “maintenance” or perhaps both. The appeal and the Fourth District’s mandate of January 23, 1975 overturning this court’s first attempt at determining the issues involved here only increased the cost of administration of this estate and made no contribution whatsoever to the body of case law on which we all must rely. It is clear from its mandate that the appellate court was completely obfuscated. The “findings of fact” stated in the mandate were based upon the unsworn, unverified, (emphasis supplied) comment of a New York lawyer. If that weren’t enough, the same mandate found that the lower court erred in permitting the New York attorney to participate in the hearing. The very participation and comments of this f*tfew York lawyer were the sole basis and source of information considered and used by the learned appellate court in making its findings and reversing the lower court!
+This court admits to its obdurate position and really considers “forgive and forget” the best policy — but not until the record has been set straight, which is the purpose of this obiter dicta. Even so, this case certainly tends to strain the quality of the forgiveness usually given.
+It is thereupon ordered -—
+(1) That based on the theory of quantum meruit a reasonable fee for all services rendered to the executrix and to the estate of John M. L. Rutherfurd by the firm of O’Connell & Cooper is the sum of $75,00(J).
+(2) That in addition to the above amount the sum of $10,000 is a reasonable fee for the defense of the appeal of this court’s order of December 20, 1972 and for the subsequent vigorous contest and trial on attorney’s fees.
+(3) That Katherine C. Rutherfurd, executrix, pay the above amounts to O’Connell & Cooper within fifteen days from the date of this order.

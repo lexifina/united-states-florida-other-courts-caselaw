@@ -1,0 +1,31 @@
+---
+court: "Dade County Circuit Court"
+docket: "8121"
+decided: "1974-02-13"
+citations: ["40 Fla. Supp. 83"]
+reporter: "fla-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE v. JOHNSON FORD, Inc."]
+source_url: "https://static.case.law/fla-supp/40/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001736
+cites_cases: ["101 Fla. 1051", "133 So. 847", "160 Fla. 656", "191 So.2d 33", "246 So.2d 566", "260 So.2d 878", "53 So.2d 707", "73 Fla. 609", "79 Fla. 651", "84 So. 677"]
+---
+
+# State v. Johnson Ford, Inc.
+
+## Majority (GRADY L. CRAWFORD, Circuit Judge.)
+
+GRADY L. CRAWFORD, Circuit Judge.
+This was a criminal action in the county court for an alleged violation of Florida Statute §817.44 and §21-81 (a) of the Code of Metropolitan Dade County, as amended. The defendant was found guilty as charged and fined $500. Thereafter the defendant moved for a new trial, but its motion was denied. From the decision of the court below the defendant brings this appeal.
+This court has had the benefit of briefs filed by the parties, has examined documents and exhibits constituting the record in this cause, and has heard oral argument of counsel for the appellant and the appellee, and based upon the foregoing, renders the following opinion —
+The testimony at trial revealed that on Thursday, June 29, 1972 the defendant placed an advertisement in the Miami Herald offering a 1968 Oldsmobile for sale at $1,195. The Herald was instructed to run this ad through Wednesday, July 5, 1972. On Friday, June 30, 1972 the car was sold at the advertised price. Thereafter, the ad was not cancelled due to the defendant’s inability to contact the Herald’s advertising department during the 4th of July weekend holiday. On Wednesday, July 5, 1972, a Mr. Craven, the state’s witness, saw this ad and telephoned the defendant’s place of business. He spoke with one of the defendant’s salesmen. In response to questions asked, the salesman made certain statements about the color and mileage of the car and said that it was still available. That evening Mr. Craven drove to the defendant’s place of business for the purpose of seeing and possibly purchasing this automobile. Upon arrival he found that the Olds was no longer there.
+In the latter part of August, 1972 the state filed an information charging the defendant with intentional false advertising on July 5, 1972 in violation of §817.44, Florida Statutes. The information tracked the wording of §817.44(1) verbatim et literatim. That section provides that —
+“It is unlawful to offer for sale or to issue invitations for offers for the sale of any property, real or personal, tangible or intangible, or any services, professional or otherwise, by placing or causing to be placed before the general public, by any means whatever, an advertisement describing such property or services as part of a plan or scheme with the intent not to sell such property or services so advertised, or with the intent not to sell such property or services at the price at which it was represented in the advertisement to be available for purchase by any member of the general public.” (Emphasis added.)
+“No principle of criminal law is better settled than that the state must prove the allegations set up in the information or indictment.” Lewis v. State, 53 So.2d 707, 708 (Fla. 1951). The accused is entitled to have the charge against him proved as alleged. Browning v. State, 101 Fla. 1051, 133 So. 847 (1931); Howlett v. State, 260 So.2d 878 (Fla. 4th District 1972); State v. Roby, 246 So.2d 566 (Fla. 1971); Cooper v. City of Miami, 160 Fla. 656, 36 So.2d 195 (1948). Disregarding the inapplicable portions of §817.44 we find that the crime therein defined, which the information alleges to have been committed by the defendant, consists of five elements. The statute makes it unlawful to (1) offer or issue invitations for offers, (2) for the sale of any tangible personal property, (3) by placing or causing to be placed before the general public, by any means whatever, an advertisement describing such property, (4) as part of a plan or scheme, (5) all with the intent, at the time of the placing of such advertisement, not to sell such property as advertised.
+The state failed to prove all the necessary elements of the offense defined by §817.44(1) and charged in the information. Both the rebuttable presumption provided in subsection (2) of §817.44 and the requirement that the defendant have the specific intent not to sell the property as advertised at the time of the placing of the advertisement before the general public were negated by the fact that the car had in fact been sold as advertised the day after the ad was placed in the Herald. Furthermore, there is nothing in the testimony of either witness which could sustain a finding of the existence of any “plan or scheme”.
+It is elementary that penal statutes are to be construed strictly, according to their very letter. State, ex rel. Lee v. Buchanan, 191 So.2d 33 (Fla. 1966). They are not to be extended any further than their terms reasonably justify. Atlantic Coast Line R. Co. v. State, 73 Fla. 609, 74 So.595 (1917). No act, however wrongful, can be punished unless clearly within the statute’s terms. Bradly v. State, 79 Fla. 651, 84 So. 677 (1920).
+The act of a salesman in luring a potential customer to a used car lot knowing that the car which was the subject of an advertisement had already been sold is not an offense under §817.44. Neither is the failure or inability to cancel such an ad after the subject automobile has been sold a violation of that section. Therefore, since the acts for which the defendant was prosecuted do not come within the ambit of §817.44(1) the trial court’s judgment of guilty was contrary to the law.
+Based upon the foregoing, it is ordered and adjudged that the final judgment of guilty entered by the county court is reversed and the sentence imposing a fine of $500 is set aside.
+. “The .failure to sell any article or a class of articles advertised, or the refusal to sell at the price at which it was advertised to be available for purchase, shall create a rebuttable presumption of an intent to violate this section.”
